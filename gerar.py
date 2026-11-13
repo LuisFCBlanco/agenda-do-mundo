@@ -387,9 +387,48 @@ def area_aves(reg):
     return out
 
 
+# ---------------------------------------------------------------- textos escritos pela IA (fase 2)
+SELO = {"sazonal": "Típico desta época na região.", "agenda": "Data fixa e conhecida.",
+        "confirmar": "Data provável: confira antes de contar com ela."}
+
+
+def area_textos(reg, aid):
+    """Lê textos/<regiao>.json, escrito toda semana pela tarefa agendada do Claude."""
+    arq = RAIZ / "textos" / f"{reg['id']}.json"
+    if not arq.exists():
+        raise RuntimeError("ainda sem textos da IA")
+    itens = json.loads(arq.read_text(encoding="utf-8"))
+    out = []
+    for i, x in enumerate(itens):
+        try:
+            if x.get("area") != aid or not x.get("titulo") or not x.get("descricao"):
+                continue
+            d = date.fromisoformat(str(x["data"]))
+            if not (INI <= d <= FIM):
+                continue
+            selo = SELO.get(x.get("confianca"), SELO["confirmar"])
+            desc = (f"{x['descricao'].strip()}\n\n{selo}" + (f"\nBase: {x['fonte']}" if x.get("fonte") else "") +
+                    "\n\nTexto escrito por IA (Claude) a partir de conhecimento sobre a época e a região; não é dado medido.")
+            slug = unicodedata.normalize("NFKD", x["titulo"]).encode("ascii", "ignore").decode().lower()[:40]
+            uid = f"txt-{aid}-{d:%Y%m%d}-" + "".join(c if c.isalnum() else "-" for c in slug)
+            hora = str(x.get("hora") or "")
+            if len(hora) == 5 and hora[2] == ":":
+                t = datetime(d.year, d.month, d.day, int(hora[:2]), int(hora[3:]), tzinfo=TZ)
+                out.append(ev(uid, x["titulo"][:120], t, t + timedelta(minutes=int(x.get("duracao_min") or 30)), desc))
+            else:
+                out.append(ev(uid, x["titulo"][:120], d, descricao=desc, dia_todo=True))
+        except (ValueError, KeyError, TypeError) as ex:
+            log(f"[{reg['id']}/{aid}] item {i} ignorado: {ex}")
+    if not out:
+        raise RuntimeError("nenhum texto válido para esta área")
+    return out
+
+
 AREAS = {"lua": area_lua, "ceu": area_ceu, "sol": area_sol, "feriados": area_feriados,
-         "economia": area_economia, "clima": area_clima, "aves": area_aves}
-AO_VIVO = {"economia", "clima", "aves"}
+         "economia": area_economia, "clima": area_clima, "aves": area_aves,
+         "natureza": lambda r: area_textos(r, "natureza"), "campo": lambda r: area_textos(r, "campo"),
+         "historia": lambda r: area_textos(r, "historia")}
+AO_VIVO = {"economia", "clima", "aves", "natureza", "campo", "historia"}
 
 
 # ---------------------------------------------------------------- saída

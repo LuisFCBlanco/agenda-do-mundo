@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Proclamação da República
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:feriado-20261115@agenda-do-mundo
 DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
  agenda.\n\nBase: biblioteca holidays (python-holidays).
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Dia Nacional de Zumbi e da Consciência Negra
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:feriado-20261120@agenda-do-mundo
 DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
  agenda.\n\nBase: biblioteca holidays (python-holidays).
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Natal
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:feriado-20261225@agenda-do-mundo
 DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
  agenda.\n\nBase: biblioteca holidays (python-holidays).
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Confraternização Universal
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:feriado-20270101@agenda-do-mundo
 DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
  agenda.\n\nBase: biblioteca holidays (python-holidays).

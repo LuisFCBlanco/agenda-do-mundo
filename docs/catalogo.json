@@ -1,6 +1,6 @@
 {
  "projeto": "Agenda do Mundo",
- "gerado_em": "2026-11-13T16:45-03:00",
+ "gerado_em": "2026-11-13T16:52-03:00",
  "regioes": [
   {
    "id": "lorena",
@@ -61,6 +61,24 @@
    "nome": "Aves por perto",
    "resumo": "Espécies registradas por observadores num raio de 25 km na última semana.",
    "fonte": "eBird (Cornell Lab)"
+  },
+  {
+   "id": "natureza",
+   "nome": "Natureza da estação",
+   "resumo": "O que está florindo, frutificando, cantando e voando na região nesta época do ano.",
+   "fonte": "texto escrito por IA (Claude)"
+  },
+  {
+   "id": "campo",
+   "nome": "Campo e safra",
+   "resumo": "Plantio, colheita e o que está na época na feira, com o porquê de cada coisa.",
+   "fonte": "texto escrito por IA (Claude)"
+  },
+  {
+   "id": "historia",
+   "nome": "Aconteceu neste dia",
+   "resumo": "Datas de ciência, técnica e cultura que fazem aniversário na semana.",
+   "fonte": "texto escrito por IA (Claude)"
   }
  ],
  "feeds": {
@@ -217,8 +235,14 @@
   "lorena/economia: <urlopen error Tunnel connection failed: 403 Forbidden>",
   "lorena/clima: <urlopen error Tunnel connection failed: 403 Forbidden>",
   "lorena/aves: sem EBIRD_KEY",
+  "lorena/natureza: nenhum texto válido para esta área",
+  "lorena/campo: nenhum texto válido para esta área",
+  "lorena/historia: nenhum texto válido para esta área",
   "franca/economia: <urlopen error Tunnel connection failed: 403 Forbidden>",
   "franca/clima: <urlopen error Tunnel connection failed: 403 Forbidden>",
-  "franca/aves: sem EBIRD_KEY"
+  "franca/aves: sem EBIRD_KEY",
+  "franca/natureza: nenhum texto válido para esta área",
+  "franca/campo: nenhum texto válido para esta área",
+  "franca/historia: nenhum texto válido para esta área"
  ]
 }

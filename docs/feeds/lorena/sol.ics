@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h10
 DTSTART:20261106T080900Z
 DTEND:20261106T081900Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261106@agenda-do-mundo
 DESCRIPTION:Nascer às 5h09\, a 174° (sul). Dia de 13h10 (+1\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261106T211900Z
 DTEND:20261106T212900Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261106@agenda-do-mundo
 DESCRIPTION:Pôr às 18h19\, a 108° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h11
 DTSTART:20261107T080800Z
 DTEND:20261107T081800Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261107@agenda-do-mundo
 DESCRIPTION:Nascer às 5h08\, a 174° (sul). Dia de 13h11 (+1\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261107T212000Z
 DTEND:20261107T213000Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261107@agenda-do-mundo
 DESCRIPTION:Pôr às 18h20\, a 108° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h13
 DTSTART:20261108T080800Z
 DTEND:20261108T081800Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261108@agenda-do-mundo
 DESCRIPTION:Nascer às 5h08\, a 174° (sul). Dia de 13h13 (+1\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261108T212000Z
 DTEND:20261108T213000Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261108@agenda-do-mundo
 DESCRIPTION:Pôr às 18h20\, a 109° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h14
 DTSTART:20261109T080700Z
 DTEND:20261109T081700Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261109@agenda-do-mundo
 DESCRIPTION:Nascer às 5h07\, a 174° (sul). Dia de 13h14 (+1\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261109T212100Z
 DTEND:20261109T213100Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261109@agenda-do-mundo
 DESCRIPTION:Pôr às 18h21\, a 109° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h15
 DTSTART:20261110T080700Z
 DTEND:20261110T081700Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261110@agenda-do-mundo
 DESCRIPTION:Nascer às 5h07\, a 174° (sul). Dia de 13h15 (+1\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261110T212100Z
 DTEND:20261110T213100Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261110@agenda-do-mundo
 DESCRIPTION:Pôr às 18h21\, a 109° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h16
 DTSTART:20261111T080600Z
 DTEND:20261111T081600Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261111@agenda-do-mundo
 DESCRIPTION:Nascer às 5h06\, a 174° (sul). Dia de 13h16 (+1\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261111T212200Z
 DTEND:20261111T213200Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261111@agenda-do-mundo
 DESCRIPTION:Pôr às 18h22\, a 110° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -144,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h17
 DTSTART:20261112T080600Z
 DTEND:20261112T081600Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261112@agenda-do-mundo
 DESCRIPTION:Nascer às 5h06\, a 174° (sul). Dia de 13h17 (+1\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261112T212300Z
 DTEND:20261112T213300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261112@agenda-do-mundo
 DESCRIPTION:Pôr às 18h23\, a 110° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h18
 DTSTART:20261113T080500Z
 DTEND:20261113T081500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261113@agenda-do-mundo
 DESCRIPTION:Nascer às 5h05\, a 174° (sul). Dia de 13h18 (+1\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261113T212300Z
 DTEND:20261113T213300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261113@agenda-do-mundo
 DESCRIPTION:Pôr às 18h23\, a 110° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h19
 DTSTART:20261114T080500Z
 DTEND:20261114T081500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261114@agenda-do-mundo
 DESCRIPTION:Nascer às 5h05\, a 175° (sul). Dia de 13h19 (+1\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261114T212400Z
 DTEND:20261114T213400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261114@agenda-do-mundo
 DESCRIPTION:Pôr às 18h24\, a 111° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h20
 DTSTART:20261115T080500Z
 DTEND:20261115T081500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261115@agenda-do-mundo
 DESCRIPTION:Nascer às 5h05\, a 175° (sul). Dia de 13h20 (+1\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261115T212500Z
 DTEND:20261115T213500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261115@agenda-do-mundo
 DESCRIPTION:Pôr às 18h25\, a 111° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h21
 DTSTART:20261116T080400Z
 DTEND:20261116T081400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261116@agenda-do-mundo
 DESCRIPTION:Nascer às 5h04\, a 175° (sul). Dia de 13h21 (+1\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261116T212500Z
 DTEND:20261116T213500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261116@agenda-do-mundo
 DESCRIPTION:Pôr às 18h25\, a 111° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h22
 DTSTART:20261117T080400Z
 DTEND:20261117T081400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261117@agenda-do-mundo
 DESCRIPTION:Nascer às 5h04\, a 175° (sul). Dia de 13h22 (+1\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261117T212600Z
 DTEND:20261117T213600Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261117@agenda-do-mundo
 DESCRIPTION:Pôr às 18h26\, a 111° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h23
 DTSTART:20261118T080400Z
 DTEND:20261118T081400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261118@agenda-do-mundo
 DESCRIPTION:Nascer às 5h04\, a 175° (sul). Dia de 13h23 (+0\,9 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261118T212700Z
 DTEND:20261118T213700Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261118@agenda-do-mundo
 DESCRIPTION:Pôr às 18h27\, a 112° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h24
 DTSTART:20261119T080400Z
 DTEND:20261119T081400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261119@agenda-do-mundo
 DESCRIPTION:Nascer às 5h04\, a 175° (sul). Dia de 13h24 (+0\,9 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261119T212700Z
 DTEND:20261119T213700Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261119@agenda-do-mundo
 DESCRIPTION:Pôr às 18h27\, a 112° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h25
 DTSTART:20261120T080300Z
 DTEND:20261120T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261120@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 175° (sul). Dia de 13h25 (+0\,9 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261120T212800Z
 DTEND:20261120T213800Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261120@agenda-do-mundo
 DESCRIPTION:Pôr às 18h28\, a 112° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -342,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h25
 DTSTART:20261121T080300Z
 DTEND:20261121T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261121@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 175° (sul). Dia de 13h25 (+0\,9 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -354,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261121T212900Z
 DTEND:20261121T213900Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261121@agenda-do-mundo
 DESCRIPTION:Pôr às 18h29\, a 112° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h26
 DTSTART:20261122T080300Z
 DTEND:20261122T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261122@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 175° (sul). Dia de 13h26 (+0\,9 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261122T212900Z
 DTEND:20261122T213900Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261122@agenda-do-mundo
 DESCRIPTION:Pôr às 18h29\, a 113° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h27
 DTSTART:20261123T080300Z
 DTEND:20261123T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261123@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 175° (sul). Dia de 13h27 (+0\,8 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261123T213000Z
 DTEND:20261123T214000Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261123@agenda-do-mundo
 DESCRIPTION:Pôr às 18h30\, a 113° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -408,7 +408,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h28
 DTSTART:20261124T080300Z
 DTEND:20261124T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261124@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 176° (sul). Dia de 13h28 (+0\,8 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261124T213100Z
 DTEND:20261124T214100Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261124@agenda-do-mundo
 DESCRIPTION:Pôr às 18h31\, a 113° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -430,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h29
 DTSTART:20261125T080300Z
 DTEND:20261125T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261125@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 176° (sul). Dia de 13h29 (+0\,8 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261125T213200Z
 DTEND:20261125T214200Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261125@agenda-do-mundo
 DESCRIPTION:Pôr às 18h32\, a 113° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -452,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h30
 DTSTART:20261126T080300Z
 DTEND:20261126T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261126@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 176° (sul). Dia de 13h30 (+0\,8 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -464,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261126T213200Z
 DTEND:20261126T214200Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261126@agenda-do-mundo
 DESCRIPTION:Pôr às 18h32\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -474,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h30
 DTSTART:20261127T080300Z
 DTEND:20261127T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261127@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 176° (sul). Dia de 13h30 (+0\,7 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261127T213300Z
 DTEND:20261127T214300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261127@agenda-do-mundo
 DESCRIPTION:Pôr às 18h33\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h31
 DTSTART:20261128T080300Z
 DTEND:20261128T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261128@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 176° (sul). Dia de 13h31 (+0\,7 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261128T213400Z
 DTEND:20261128T214400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261128@agenda-do-mundo
 DESCRIPTION:Pôr às 18h34\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -518,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h32
 DTSTART:20261129T080300Z
 DTEND:20261129T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261129@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 176° (sul). Dia de 13h32 (+0\,7 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -530,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261129T213400Z
 DTEND:20261129T214400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261129@agenda-do-mundo
 DESCRIPTION:Pôr às 18h34\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -540,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h32
 DTSTART:20261130T080300Z
 DTEND:20261130T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261130@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 176° (sul). Dia de 13h32 (+0\,7 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -552,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261130T213500Z
 DTEND:20261130T214500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261130@agenda-do-mundo
 DESCRIPTION:Pôr às 18h35\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -562,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h33
 DTSTART:20261201T080300Z
 DTEND:20261201T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261201@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 176° (sul). Dia de 13h33 (+0\,6 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -574,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261201T213600Z
 DTEND:20261201T214600Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261201@agenda-do-mundo
 DESCRIPTION:Pôr às 18h36\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -584,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h34
 DTSTART:20261202T080300Z
 DTEND:20261202T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261202@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 177° (sul). Dia de 13h34 (+0\,6 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -596,7 +596,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261202T213600Z
 DTEND:20261202T214600Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261202@agenda-do-mundo
 DESCRIPTION:Pôr às 18h36\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -606,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h34
 DTSTART:20261203T080300Z
 DTEND:20261203T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261203@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 177° (sul). Dia de 13h34 (+0\,6 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -618,7 +618,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261203T213700Z
 DTEND:20261203T214700Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261203@agenda-do-mundo
 DESCRIPTION:Pôr às 18h37\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -628,7 +628,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h35
 DTSTART:20261204T080300Z
 DTEND:20261204T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261204@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 177° (sul). Dia de 13h35 (+0\,6 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -640,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261204T213800Z
 DTEND:20261204T214800Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261204@agenda-do-mundo
 DESCRIPTION:Pôr às 18h38\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -650,7 +650,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h35
 DTSTART:20261205T080300Z
 DTEND:20261205T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261205@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 177° (sul). Dia de 13h35 (+0\,5 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -662,7 +662,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261205T213800Z
 DTEND:20261205T214800Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261205@agenda-do-mundo
 DESCRIPTION:Pôr às 18h38\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -672,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h36
 DTSTART:20261206T080300Z
 DTEND:20261206T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261206@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 177° (sul). Dia de 13h36 (+0\,5 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -684,7 +684,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261206T213900Z
 DTEND:20261206T214900Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261206@agenda-do-mundo
 DESCRIPTION:Pôr às 18h39\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -694,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h36
 DTSTART:20261207T080300Z
 DTEND:20261207T081300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261207@agenda-do-mundo
 DESCRIPTION:Nascer às 5h03\, a 177° (sul). Dia de 13h36 (+0\,5 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -706,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261207T214000Z
 DTEND:20261207T215000Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261207@agenda-do-mundo
 DESCRIPTION:Pôr às 18h40\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -716,7 +716,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h37
 DTSTART:20261208T080400Z
 DTEND:20261208T081400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261208@agenda-do-mundo
 DESCRIPTION:Nascer às 5h04\, a 177° (sul). Dia de 13h37 (+0\,4 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261208T214000Z
 DTEND:20261208T215000Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261208@agenda-do-mundo
 DESCRIPTION:Pôr às 18h40\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -738,7 +738,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h37
 DTSTART:20261209T080400Z
 DTEND:20261209T081400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261209@agenda-do-mundo
 DESCRIPTION:Nascer às 5h04\, a 178° (sul). Dia de 13h37 (+0\,4 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -750,7 +750,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261209T214100Z
 DTEND:20261209T215100Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261209@agenda-do-mundo
 DESCRIPTION:Pôr às 18h41\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -760,7 +760,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h38
 DTSTART:20261210T080400Z
 DTEND:20261210T081400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261210@agenda-do-mundo
 DESCRIPTION:Nascer às 5h04\, a 178° (sul). Dia de 13h38 (+0\,4 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -772,7 +772,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261210T214200Z
 DTEND:20261210T215200Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261210@agenda-do-mundo
 DESCRIPTION:Pôr às 18h42\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -782,7 +782,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h38
 DTSTART:20261211T080400Z
 DTEND:20261211T081400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261211@agenda-do-mundo
 DESCRIPTION:Nascer às 5h04\, a 178° (sul). Dia de 13h38 (+0\,4 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -794,7 +794,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261211T214200Z
 DTEND:20261211T215200Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261211@agenda-do-mundo
 DESCRIPTION:Pôr às 18h42\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -804,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h38
 DTSTART:20261212T080500Z
 DTEND:20261212T081500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261212@agenda-do-mundo
 DESCRIPTION:Nascer às 5h05\, a 178° (sul). Dia de 13h38 (+0\,3 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -816,7 +816,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261212T214300Z
 DTEND:20261212T215300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261212@agenda-do-mundo
 DESCRIPTION:Pôr às 18h43\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -826,7 +826,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h39
 DTSTART:20261213T080500Z
 DTEND:20261213T081500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261213@agenda-do-mundo
 DESCRIPTION:Nascer às 5h05\, a 178° (sul). Dia de 13h39 (+0\,3 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -838,7 +838,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261213T214400Z
 DTEND:20261213T215400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261213@agenda-do-mundo
 DESCRIPTION:Pôr às 18h44\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -848,7 +848,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h39
 DTSTART:20261214T080500Z
 DTEND:20261214T081500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261214@agenda-do-mundo
 DESCRIPTION:Nascer às 5h05\, a 178° (sul). Dia de 13h39 (+0\,3 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -860,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261214T214400Z
 DTEND:20261214T215400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261214@agenda-do-mundo
 DESCRIPTION:Pôr às 18h44\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -870,7 +870,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h39
 DTSTART:20261215T080600Z
 DTEND:20261215T081600Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261215@agenda-do-mundo
 DESCRIPTION:Nascer às 5h06\, a 179° (sul). Dia de 13h39 (+0\,2 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -882,7 +882,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261215T214500Z
 DTEND:20261215T215500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261215@agenda-do-mundo
 DESCRIPTION:Pôr às 18h45\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -892,7 +892,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h39
 DTSTART:20261216T080600Z
 DTEND:20261216T081600Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261216@agenda-do-mundo
 DESCRIPTION:Nascer às 5h06\, a 179° (sul). Dia de 13h39 (+0\,2 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -904,7 +904,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261216T214500Z
 DTEND:20261216T215500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261216@agenda-do-mundo
 DESCRIPTION:Pôr às 18h45\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -914,7 +914,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h39
 DTSTART:20261217T080600Z
 DTEND:20261217T081600Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261217@agenda-do-mundo
 DESCRIPTION:Nascer às 5h06\, a 179° (sul). Dia de 13h39 (+0\,2 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -926,7 +926,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261217T214600Z
 DTEND:20261217T215600Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261217@agenda-do-mundo
 DESCRIPTION:Pôr às 18h46\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -936,7 +936,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h39
 DTSTART:20261218T080700Z
 DTEND:20261218T081700Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261218@agenda-do-mundo
 DESCRIPTION:Nascer às 5h07\, a 179° (sul). Dia de 13h39 (+0\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -948,7 +948,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261218T214600Z
 DTEND:20261218T215600Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261218@agenda-do-mundo
 DESCRIPTION:Pôr às 18h46\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -958,7 +958,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h40
 DTSTART:20261219T080700Z
 DTEND:20261219T081700Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261219@agenda-do-mundo
 DESCRIPTION:Nascer às 5h07\, a 179° (sul). Dia de 13h40 (+0\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -970,7 +970,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261219T214700Z
 DTEND:20261219T215700Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261219@agenda-do-mundo
 DESCRIPTION:Pôr às 18h47\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -980,7 +980,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h40
 DTSTART:20261220T080800Z
 DTEND:20261220T081800Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261220@agenda-do-mundo
 DESCRIPTION:Nascer às 5h08\, a 179° (sul). Dia de 13h40 (+0\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -992,7 +992,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261220T214700Z
 DTEND:20261220T215700Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261220@agenda-do-mundo
 DESCRIPTION:Pôr às 18h47\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1002,7 +1002,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h40
 DTSTART:20261221T080800Z
 DTEND:20261221T081800Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261221@agenda-do-mundo
 DESCRIPTION:Nascer às 5h08\, a 179° (sul). Dia de 13h40 (+0\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1014,7 +1014,7 @@ BEGIN:VEVENT
 SUMMARY:Solstício: começa o verão
 DTSTART:20261221T204900Z
 DTEND:20261221T211900Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-marco-20261221@agenda-do-mundo
 DESCRIPTION:Dia mais longo do ano no hemisfério sul. O Sol do meio-dia pa
  ssa quase a pino no Trópico de Capricórnio\, que corta o estado de São 
@@ -1028,7 +1028,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261221T214800Z
 DTEND:20261221T215800Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261221@agenda-do-mundo
 DESCRIPTION:Pôr às 18h48\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1038,7 +1038,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h40
 DTSTART:20261222T080900Z
 DTEND:20261222T081900Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261222@agenda-do-mundo
 DESCRIPTION:Nascer às 5h09\, a 180° (sul). Dia de 13h40 (−0\,0 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1050,7 +1050,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261222T214800Z
 DTEND:20261222T215800Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261222@agenda-do-mundo
 DESCRIPTION:Pôr às 18h48\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1060,7 +1060,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h40
 DTSTART:20261223T080900Z
 DTEND:20261223T081900Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261223@agenda-do-mundo
 DESCRIPTION:Nascer às 5h09\, a 180° (sul). Dia de 13h40 (−0\,0 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1072,7 +1072,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261223T214900Z
 DTEND:20261223T215900Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261223@agenda-do-mundo
 DESCRIPTION:Pôr às 18h49\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1082,7 +1082,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h40
 DTSTART:20261224T081000Z
 DTEND:20261224T082000Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261224@agenda-do-mundo
 DESCRIPTION:Nascer às 5h10\, a 180° (sul). Dia de 13h40 (−0\,1 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1094,7 +1094,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261224T214900Z
 DTEND:20261224T215900Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261224@agenda-do-mundo
 DESCRIPTION:Pôr às 18h49\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1104,7 +1104,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h39
 DTSTART:20261225T081000Z
 DTEND:20261225T082000Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261225@agenda-do-mundo
 DESCRIPTION:Nascer às 5h10\, a 180° (sul). Dia de 13h39 (−0\,1 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1116,7 +1116,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261225T215000Z
 DTEND:20261225T220000Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261225@agenda-do-mundo
 DESCRIPTION:Pôr às 18h50\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1126,7 +1126,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h39
 DTSTART:20261226T081100Z
 DTEND:20261226T082100Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261226@agenda-do-mundo
 DESCRIPTION:Nascer às 5h11\, a 180° (sul). Dia de 13h39 (−0\,1 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1138,7 +1138,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261226T215000Z
 DTEND:20261226T220000Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261226@agenda-do-mundo
 DESCRIPTION:Pôr às 18h50\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1148,7 +1148,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h39
 DTSTART:20261227T081200Z
 DTEND:20261227T082200Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261227@agenda-do-mundo
 DESCRIPTION:Nascer às 5h12\, a 180° (sul). Dia de 13h39 (−0\,2 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1160,7 +1160,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261227T215100Z
 DTEND:20261227T220100Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261227@agenda-do-mundo
 DESCRIPTION:Pôr às 18h51\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1170,7 +1170,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h39
 DTSTART:20261228T081200Z
 DTEND:20261228T082200Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261228@agenda-do-mundo
 DESCRIPTION:Nascer às 5h12\, a 181° (sul). Dia de 13h39 (−0\,2 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1182,7 +1182,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261228T215100Z
 DTEND:20261228T220100Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261228@agenda-do-mundo
 DESCRIPTION:Pôr às 18h51\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1192,7 +1192,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h39
 DTSTART:20261229T081300Z
 DTEND:20261229T082300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261229@agenda-do-mundo
 DESCRIPTION:Nascer às 5h13\, a 181° (sul). Dia de 13h39 (−0\,2 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1204,7 +1204,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261229T215100Z
 DTEND:20261229T220100Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261229@agenda-do-mundo
 DESCRIPTION:Pôr às 18h51\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1214,7 +1214,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h38
 DTSTART:20261230T081300Z
 DTEND:20261230T082300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261230@agenda-do-mundo
 DESCRIPTION:Nascer às 5h13\, a 181° (sul). Dia de 13h38 (−0\,3 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1226,7 +1226,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261230T215200Z
 DTEND:20261230T220200Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261230@agenda-do-mundo
 DESCRIPTION:Pôr às 18h52\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1236,7 +1236,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h38
 DTSTART:20261231T081400Z
 DTEND:20261231T082400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20261231@agenda-do-mundo
 DESCRIPTION:Nascer às 5h14\, a 181° (sul). Dia de 13h38 (−0\,3 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1248,7 +1248,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20261231T215200Z
 DTEND:20261231T220200Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20261231@agenda-do-mundo
 DESCRIPTION:Pôr às 18h52\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1258,7 +1258,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h38
 DTSTART:20270101T081500Z
 DTEND:20270101T082500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20270101@agenda-do-mundo
 DESCRIPTION:Nascer às 5h15\, a 181° (sul). Dia de 13h38 (−0\,3 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1270,7 +1270,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20270101T215200Z
 DTEND:20270101T220200Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20270101@agenda-do-mundo
 DESCRIPTION:Pôr às 18h52\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1280,7 +1280,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h37
 DTSTART:20270102T081500Z
 DTEND:20270102T082500Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20270102@agenda-do-mundo
 DESCRIPTION:Nascer às 5h15\, a 181° (sul). Dia de 13h37 (−0\,4 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1292,7 +1292,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20270102T215300Z
 DTEND:20270102T220300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20270102@agenda-do-mundo
 DESCRIPTION:Pôr às 18h53\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1302,7 +1302,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h37
 DTSTART:20270103T081600Z
 DTEND:20270103T082600Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20270103@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 182° (sul). Dia de 13h37 (−0\,4 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1314,7 +1314,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20270103T215300Z
 DTEND:20270103T220300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20270103@agenda-do-mundo
 DESCRIPTION:Pôr às 18h53\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1324,7 +1324,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h37
 DTSTART:20270104T081700Z
 DTEND:20270104T082700Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20270104@agenda-do-mundo
 DESCRIPTION:Nascer às 5h17\, a 182° (sul). Dia de 13h37 (−0\,4 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1336,7 +1336,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20270104T215300Z
 DTEND:20270104T220300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20270104@agenda-do-mundo
 DESCRIPTION:Pôr às 18h53\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1346,7 +1346,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h36
 DTSTART:20270105T081700Z
 DTEND:20270105T082700Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20270105@agenda-do-mundo
 DESCRIPTION:Nascer às 5h17\, a 182° (sul). Dia de 13h36 (−0\,5 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1358,7 +1358,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20270105T215300Z
 DTEND:20270105T220300Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20270105@agenda-do-mundo
 DESCRIPTION:Pôr às 18h53\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1368,7 +1368,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h36
 DTSTART:20270106T081800Z
 DTEND:20270106T082800Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20270106@agenda-do-mundo
 DESCRIPTION:Nascer às 5h18\, a 182° (sul). Dia de 13h36 (−0\,5 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1380,7 +1380,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20270106T215400Z
 DTEND:20270106T220400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20270106@agenda-do-mundo
 DESCRIPTION:Pôr às 18h54\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1390,7 +1390,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h35
 DTSTART:20270107T081900Z
 DTEND:20270107T082900Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20270107@agenda-do-mundo
 DESCRIPTION:Nascer às 5h19\, a 182° (sul). Dia de 13h35 (−0\,5 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1402,7 +1402,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20270107T215400Z
 DTEND:20270107T220400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20270107@agenda-do-mundo
 DESCRIPTION:Pôr às 18h54\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1412,7 +1412,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h35
 DTSTART:20270108T081900Z
 DTEND:20270108T082900Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20270108@agenda-do-mundo
 DESCRIPTION:Nascer às 5h19\, a 182° (sul). Dia de 13h35 (−0\,5 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1424,7 +1424,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20270108T215400Z
 DTEND:20270108T220400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20270108@agenda-do-mundo
 DESCRIPTION:Pôr às 18h54\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1434,7 +1434,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h34
 DTSTART:20270109T082000Z
 DTEND:20270109T083000Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20270109@agenda-do-mundo
 DESCRIPTION:Nascer às 5h20\, a 182° (sul). Dia de 13h34 (−0\,6 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1446,7 +1446,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20270109T215400Z
 DTEND:20270109T220400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20270109@agenda-do-mundo
 DESCRIPTION:Pôr às 18h54\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1456,7 +1456,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h33
 DTSTART:20270110T082100Z
 DTEND:20270110T083100Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20270110@agenda-do-mundo
 DESCRIPTION:Nascer às 5h21\, a 183° (sul). Dia de 13h33 (−0\,6 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1468,7 +1468,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20270110T215400Z
 DTEND:20270110T220400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20270110@agenda-do-mundo
 DESCRIPTION:Pôr às 18h54\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1478,7 +1478,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h33
 DTSTART:20270111T082100Z
 DTEND:20270111T083100Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20270111@agenda-do-mundo
 DESCRIPTION:Nascer às 5h21\, a 183° (sul). Dia de 13h33 (−0\,6 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1490,7 +1490,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20270111T215400Z
 DTEND:20270111T220400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20270111@agenda-do-mundo
 DESCRIPTION:Pôr às 18h54\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1500,7 +1500,7 @@ BEGIN:VEVENT
 SUMMARY:Sol nasce · dia de 13h32
 DTSTART:20270112T082200Z
 DTEND:20270112T083200Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-nasce-20270112@agenda-do-mundo
 DESCRIPTION:Nascer às 5h22\, a 183° (sul). Dia de 13h32 (−0\,7 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1512,7 +1512,7 @@ BEGIN:VEVENT
 SUMMARY:Pôr do sol
 DTSTART:20270112T215400Z
 DTEND:20270112T220400Z
-DTSTAMP:20261113T194553Z
+DTSTAMP:20261113T195224Z
 UID:sol-poe-20270112@agenda-do-mundo
 DESCRIPTION:Pôr às 18h54\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.

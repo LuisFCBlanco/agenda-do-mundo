@@ -64,6 +64,24 @@
       "resumo": "Espécies registradas por observadores num raio de 25 km na última semana.",
       "fonte": "eBird (Cornell Lab)",
       "precisa_chave": "EBIRD_KEY"
+    },
+    {
+      "id": "natureza",
+      "nome": "Natureza da estação",
+      "resumo": "O que está florindo, frutificando, cantando e voando na região nesta época do ano.",
+      "fonte": "texto escrito por IA (Claude)"
+    },
+    {
+      "id": "campo",
+      "nome": "Campo e safra",
+      "resumo": "Plantio, colheita e o que está na época na feira, com o porquê de cada coisa.",
+      "fonte": "texto escrito por IA (Claude)"
+    },
+    {
+      "id": "historia",
+      "nome": "Aconteceu neste dia",
+      "resumo": "Datas de ciência, técnica e cultura que fazem aniversário na semana.",
+      "fonte": "texto escrito por IA (Claude)"
     }
   ]
 }

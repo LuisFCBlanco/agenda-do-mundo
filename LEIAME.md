@@ -29,3 +29,7 @@ Aves: crie uma chave gratuita em ebird.org/api/keygen e salve em **Settings > Se
 - Banco Central, Open-Meteo e eBird foram testados com respostas no formato documentado de cada um, não contra os servidores reais. O primeiro "Run workflow" é o teste real.
 - O link "Assinar no Google" usa um formato que o Google não documenta oficialmente, mas que é amplamente usado. "Copiar link" funciona sempre.
 - Em repositório público, o GitHub pode pausar tarefas agendadas depois de 60 dias sem atividade. Se chegar um e-mail avisando, basta reativar em Actions.
+
+## Fase 2: textos escritos pela IA
+
+As áreas "Natureza da estação", "Campo e safra" e "Aconteceu neste dia" vêm de `textos/<região>.json`, escrito toda semana por uma tarefa agendada do Claude (prompt em `tarefa-semanal.md`). Enquanto o arquivo estiver vazio, essas áreas não aparecem no site. Cada evento leva o aviso de que é texto de IA e não dado medido.
