@@ -1,0 +1,18 @@
+[
+ {
+  "uid": "eco-dolar-202646",
+  "titulo": "Dólar na semana: R$ 5,6518 (+2,49%)",
+  "dia_todo": false,
+  "inicio": "2026-11-13T18:00:00-03:00",
+  "fim": "2026-11-13T18:15:00-03:00",
+  "descricao": "PTAX de venda, dia a dia:\n09/11: R$ 5,5146\n10/11: R$ 5,5840\n11/11: R$ 5,5606\n12/11: R$ 5,6143\n13/11: R$ 5,6518\n\nMínima R$ 5,5146, máxima R$ 5,6518.\nA PTAX é a média das cotações que o Banco Central coleta ao longo do dia; serve de referência para contratos.\n\nBase: Banco Central do Brasil, SGS série 1."
+ },
+ {
+  "uid": "eco-selic-20261116",
+  "titulo": "Selic em vigor: 13,75% ao ano",
+  "dia_todo": false,
+  "inicio": "2026-11-16T09:00:00-03:00",
+  "fim": "2026-11-16T09:15:00-03:00",
+  "descricao": "Meta da taxa Selic definida pelo Copom, em vigor desde o último dado publicado (09/12/2026).\nÉ a taxa que o Banco Central usa para puxar os juros da economia: quando sobe, crédito fica mais caro e o consumo esfria, o que segura a inflação.\n\nBase: Banco Central do Brasil, SGS série 432."
+ }
+]

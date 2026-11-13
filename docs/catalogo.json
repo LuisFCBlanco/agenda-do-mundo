@@ -1,6 +1,6 @@
 {
  "projeto": "Agenda do Mundo",
- "gerado_em": "2026-11-13T16:52-03:00",
+ "gerado_em": "2026-11-13T17:36-03:00",
  "regioes": [
   {
    "id": "lorena",
@@ -154,6 +154,38 @@
       "inicio": "2026-12-25"
      }
     ]
+   },
+   "economia": {
+    "n": 2,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Dólar na semana: R$ 5,6518 (+2,49%)",
+      "inicio": "2026-11-13T18:00:00-03:00"
+     },
+     {
+      "titulo": "Selic em vigor: 13,75% ao ano",
+      "inicio": "2026-11-16T09:00:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "29° / 19° · chuva 98% · garoa",
+      "inicio": "2026-11-13"
+     },
+     {
+      "titulo": "29° / 18° · chuva 41% · garoa",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "29° / 18° · chuva 89% · pancadas fracas",
+      "inicio": "2026-11-15"
+     }
+    ]
    }
   },
   "franca": {
@@ -228,18 +260,46 @@
       "inicio": "2026-12-25"
      }
     ]
+   },
+   "economia": {
+    "n": 2,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Dólar na semana: R$ 5,6518 (+2,49%)",
+      "inicio": "2026-11-13T18:00:00-03:00"
+     },
+     {
+      "titulo": "Selic em vigor: 13,75% ao ano",
+      "inicio": "2026-11-16T09:00:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "27° / 17° · chuva 83% · trovoadas",
+      "inicio": "2026-11-13"
+     },
+     {
+      "titulo": "28° / 17° · chuva 67% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "29° / 19° · chuva 86% · pancadas",
+      "inicio": "2026-11-15"
+     }
+    ]
    }
   }
  },
  "avisos": [
-  "lorena/economia: <urlopen error Tunnel connection failed: 403 Forbidden>",
-  "lorena/clima: <urlopen error Tunnel connection failed: 403 Forbidden>",
   "lorena/aves: sem EBIRD_KEY",
   "lorena/natureza: nenhum texto válido para esta área",
   "lorena/campo: nenhum texto válido para esta área",
   "lorena/historia: nenhum texto válido para esta área",
-  "franca/economia: <urlopen error Tunnel connection failed: 403 Forbidden>",
-  "franca/clima: <urlopen error Tunnel connection failed: 403 Forbidden>",
   "franca/aves: sem EBIRD_KEY",
   "franca/natureza: nenhum texto válido para esta área",
   "franca/campo: nenhum texto válido para esta área",
