@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   gerar:
@@ -28,3 +29,25 @@ jobs:
           git add docs
           git diff --cached --quiet || git commit -m "Calendários de $(date -u +%F)"
           git push
+
+      # Falhas viram uma issue com o rótulo "falha": uma só, comentada a cada dia em que algo falha,
+      # e fechada sozinha quando tudo volta a funcionar. A tarefa semanal do Claude lê essas issues.
+      - name: Registrar falhas
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          JOB: ${{ job.status }}
+          RUN: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh label create falha --color B60205 --description "Falha na geração dos calendários" 2>/dev/null || true
+          : > corpo.md
+          if [ "$JOB" != "success" ]; then echo "A execução falhou antes de terminar." >> corpo.md; fi
+          if [ -s falhas.txt ]; then echo "Fontes que não atualizaram (o calendário manteve os dados anteriores):" >> corpo.md; sed 's/^/- /' falhas.txt >> corpo.md; fi
+          N=$(gh issue list --label falha --state open --json number -q '.[0].number')
+          if [ -s corpo.md ]; then
+            echo "" >> corpo.md; echo "Execução: $RUN" >> corpo.md
+            if [ -n "$N" ]; then gh issue comment "$N" --body-file corpo.md
+            else gh issue create --title "Falha na geração dos calendários" --label falha --body-file corpo.md; fi
+          elif [ -n "$N" ]; then
+            gh issue close "$N" --comment "Tudo voltou a funcionar nesta execução: $RUN"
+          fi

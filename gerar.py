@@ -263,6 +263,11 @@ def area_sol(reg):
         out.append(ev(f"sol-poe-{d:%Y%m%d}", "Pôr do sol", p, p + timedelta(minutes=10),
                       f"Pôr às {hm(p)}, a {math.degrees(az_p):.0f}° ({rumo(az_p)}). Uns 25 minutos depois acaba o crepúsculo civil e as primeiras estrelas aparecem."))
         duracao_ant = dur
+    return out
+
+
+def area_estacoes(reg):
+    out = []
     marcos = [(ephem.next_vernal_equinox, "Equinócio: começa o outono",
                "Dia e noite com quase a mesma duração. Daqui em diante os dias encurtam até o solstício de junho."),
               (ephem.next_summer_solstice, "Solstício: começa o inverno",
@@ -424,7 +429,7 @@ def area_textos(reg, aid):
     return out
 
 
-AREAS = {"lua": area_lua, "ceu": area_ceu, "sol": area_sol, "feriados": area_feriados,
+AREAS = {"lua": area_lua, "ceu": area_ceu, "sol": area_sol, "estacoes": area_estacoes, "feriados": area_feriados,
          "economia": area_economia, "clima": area_clima, "aves": area_aves,
          "natureza": lambda r: area_textos(r, "natureza"), "campo": lambda r: area_textos(r, "campo"),
          "historia": lambda r: area_textos(r, "historia")}
@@ -506,6 +511,9 @@ def main():
             log(f"[{reg['id']}/{aid}] {len(eventos)} eventos{'' if ok else ' (mantidos da última vez)'}")
         tudo.sort(key=chave_ordem)
         (pasta / "tudo.ics").write_bytes(para_ics(tudo, f"Agenda do Mundo · {reg['nome']}", "Todas as áreas da Agenda do Mundo."))
+    # falhas que merecem aviso no GitHub (a falta da chave do eBird é esperada até ela ser cadastrada)
+    falhas = [a for a in catalogo["avisos"] if "sem EBIRD_KEY" not in a]
+    (RAIZ / "falhas.txt").write_text("\n".join(falhas), encoding="utf-8")
     (RAIZ / "docs" / "catalogo.json").write_text(json.dumps(catalogo, ensure_ascii=False, indent=1), encoding="utf-8")
 
 

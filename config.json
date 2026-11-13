@@ -36,8 +36,14 @@
     },
     {
       "id": "sol",
-      "nome": "Sol e estações",
-      "resumo": "Nascer e pôr do sol todo dia, duração do dia, solstícios e equinócios.",
+      "nome": "Nascer e pôr do sol",
+      "resumo": "Nascer e pôr do sol todo dia, com a duração do dia e quanto ela mudou desde ontem.",
+      "fonte": "cálculo astronômico (PyEphem)"
+    },
+    {
+      "id": "estacoes",
+      "nome": "Estações do ano",
+      "resumo": "Só os solstícios e equinócios, com o momento exato e o porquê.",
       "fonte": "cálculo astronômico (PyEphem)"
     },
     {
