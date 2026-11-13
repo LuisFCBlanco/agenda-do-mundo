@@ -1,0 +1,2064 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Todas as áreas da Agenda do Mundo.
+X-WR-CALNAME:Agenda do Mundo · Franca e região
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h04
+DTSTART:20261106T082100Z
+DTEND:20261106T083100Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261106@agenda-do-mundo
+DESCRIPTION:Nascer às 5h21\, a 177° (sul). Dia de 13h04 (+1\,0 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261106T212500Z
+DTEND:20261106T213500Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261106@agenda-do-mundo
+DESCRIPTION:Pôr às 18h25\, a 108° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Lua perto de Vênus
+DTSTART:20261107T080000Z
+DTEND:20261107T083000Z
+DTSTAMP:20261113T194553Z
+UID:ceu-conj-Venus-2026110705@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Vênus fica a 0\,9° da Lua\, a leste\, b
+ em baixo. Um punho fechado com o braço esticado cobre uns 10° de céu\, 
+ então os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por noite co
+ ntra as estrelas\; amanhã ela já estará longe.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h05
+DTSTART:20261107T082000Z
+DTEND:20261107T083000Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261107@agenda-do-mundo
+DESCRIPTION:Nascer às 5h20\, a 177° (sul). Dia de 13h05 (+1\,0 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261107T212600Z
+DTEND:20261107T213600Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261107@agenda-do-mundo
+DESCRIPTION:Pôr às 18h26\, a 108° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h06
+DTSTART:20261108T082000Z
+DTEND:20261108T083000Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261108@agenda-do-mundo
+DESCRIPTION:Nascer às 5h20\, a 177° (sul). Dia de 13h06 (+1\,0 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261108T212600Z
+DTEND:20261108T213600Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261108@agenda-do-mundo
+DESCRIPTION:Pôr às 18h26\, a 108° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
+ rte
+DTSTART:20261109T075900Z
+DTEND:20261109T082900Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-manha-20261109@agenda-do-mundo
+DESCRIPTION:Às 4h59 desta semana:\nVênus: bem baixo (14°)\, a leste\, b
+ rilho -4\,2\nJúpiter: a meia altura (47°)\, a nordeste\, brilho -1\,9\nM
+ arte: a meia altura (46°)\, a nordeste\, brilho 0\,8\n\nBrilho em magnitu
+ de: quanto menor o número\, mais brilhante (Vênus chega perto de -4\, as
+  estrelas mais fracas a olho nu ficam em torno de 6). Planeta não pisca c
+ omo estrela porque é um disco\, não um ponto.\n\nBase: posições calcul
+ adas com PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h07
+DTSTART:20261109T081900Z
+DTEND:20261109T082900Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261109@agenda-do-mundo
+DESCRIPTION:Nascer às 5h19\, a 177° (sul). Dia de 13h07 (+1\,0 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261109T212700Z
+DTEND:20261109T213700Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261109@agenda-do-mundo
+DESCRIPTION:Pôr às 18h27\, a 109° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
+DTSTART:20261109T214700Z
+DTEND:20261109T221700Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-noite-20261109@agenda-do-mundo
+DESCRIPTION:Às 18h47 desta semana:\nSaturno: a meia altura (45°)\, a nor
+ deste\, brilho 0\,6\n\nBrilho em magnitude: quanto menor o número\, mais 
+ brilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu fi
+ cam em torno de 6). Planeta não pisca como estrela porque é um disco\, n
+ ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca e reg
+ ião.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua: Lua nova
+DTSTART:20261109T224300Z
+DTEND:20261109T231300Z
+DTSTAMP:20261113T194553Z
+UID:lua-Lua_nova-20261109@agenda-do-mundo
+DESCRIPTION:Noite sem Lua: a semana mais escura do mês\, a melhor para ve
+ r estrelas fracas e a Via Láctea longe das luzes. A Lua está entre a Ter
+ ra e o Sol\, com o lado iluminado virado para longe de nós.\n\nCéu total
+ mente escuro a partir das 19h43.\nMomento exato da fase: 09/11 às 4h02.\n
+ \nBase: posição calculada com a biblioteca PyEphem para Franca e região
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h08
+DTSTART:20261110T081900Z
+DTEND:20261110T082900Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261110@agenda-do-mundo
+DESCRIPTION:Nascer às 5h19\, a 177° (sul). Dia de 13h08 (+1\,0 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261110T212700Z
+DTEND:20261110T213700Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261110@agenda-do-mundo
+DESCRIPTION:Pôr às 18h27\, a 109° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h09
+DTSTART:20261111T081900Z
+DTEND:20261111T082900Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261111@agenda-do-mundo
+DESCRIPTION:Nascer às 5h19\, a 178° (sul). Dia de 13h09 (+1\,0 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261111T212800Z
+DTEND:20261111T213800Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261111@agenda-do-mundo
+DESCRIPTION:Pôr às 18h28\, a 109° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h10
+DTSTART:20261112T081800Z
+DTEND:20261112T082800Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261112@agenda-do-mundo
+DESCRIPTION:Nascer às 5h18\, a 178° (sul). Dia de 13h10 (+0\,9 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261112T212800Z
+DTEND:20261112T213800Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261112@agenda-do-mundo
+DESCRIPTION:Pôr às 18h28\, a 110° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h11
+DTSTART:20261113T081800Z
+DTEND:20261113T082800Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261113@agenda-do-mundo
+DESCRIPTION:Nascer às 5h18\, a 178° (sul). Dia de 13h11 (+0\,9 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261113T212900Z
+DTEND:20261113T213900Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261113@agenda-do-mundo
+DESCRIPTION:Pôr às 18h29\, a 110° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h12
+DTSTART:20261114T081800Z
+DTEND:20261114T082800Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261114@agenda-do-mundo
+DESCRIPTION:Nascer às 5h18\, a 178° (sul). Dia de 13h12 (+0\,9 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261114T213000Z
+DTEND:20261114T214000Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261114@agenda-do-mundo
+DESCRIPTION:Pôr às 18h30\, a 110° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feriados: Proclamação da República
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261113T194553Z
+UID:feriado-20261115@agenda-do-mundo
+DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
+ agenda.\n\nBase: biblioteca holidays (python-holidays).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h13
+DTSTART:20261115T081700Z
+DTEND:20261115T082700Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261115@agenda-do-mundo
+DESCRIPTION:Nascer às 5h17\, a 178° (sul). Dia de 13h13 (+0\,9 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261115T213000Z
+DTEND:20261115T214000Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261115@agenda-do-mundo
+DESCRIPTION:Pôr às 18h30\, a 110° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
+ rte
+DTSTART:20261116T075600Z
+DTEND:20261116T082600Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-manha-20261116@agenda-do-mundo
+DESCRIPTION:Às 4h56 desta semana:\nVênus: baixo (19°)\, a leste\, brilh
+ o -4\,4\nJúpiter: a meia altura (50°)\, a nordeste\, brilho -2\,0\nMarte
+ : a meia altura (49°)\, a nordeste\, brilho 0\,7\n\nBrilho em magnitude: 
+ quanto menor o número\, mais brilhante (Vênus chega perto de -4\, as est
+ relas mais fracas a olho nu ficam em torno de 6). Planeta não pisca como 
+ estrela porque é um disco\, não um ponto.\n\nBase: posições calculadas
+  com PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h14
+DTSTART:20261116T081700Z
+DTEND:20261116T082700Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261116@agenda-do-mundo
+DESCRIPTION:Nascer às 5h17\, a 178° (sul). Dia de 13h14 (+0\,9 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261116T213100Z
+DTEND:20261116T214100Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261116@agenda-do-mundo
+DESCRIPTION:Pôr às 18h31\, a 111° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
+DTSTART:20261116T215200Z
+DTEND:20261116T222200Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-noite-20261116@agenda-do-mundo
+DESCRIPTION:Às 18h52 desta semana:\nSaturno: a meia altura (52°)\, a nor
+ deste\, brilho 0\,6\n\nBrilho em magnitude: quanto menor o número\, mais 
+ brilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu fi
+ cam em torno de 6). Planeta não pisca como estrela porque é um disco\, n
+ ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca e reg
+ ião.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Pico das Leônidas
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261113T194553Z
+UID:ceu-chuva-Leonidas-2026@agenda-do-mundo
+DESCRIPTION:O radiante nasce de madrugada a leste. A taxa costuma ser baix
+ a\, mas os meteoros são rápidos.\n\nLua 57% iluminada na madrugada segui
+ nte: Lua atrapalha um pouco.\nData de pico aproximada: varia cerca de um d
+ ia de ano para ano.\n\nBase: calendário de chuvas da International Meteor
+  Organization\; Lua calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h14
+DTSTART:20261117T081700Z
+DTEND:20261117T082700Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261117@agenda-do-mundo
+DESCRIPTION:Nascer às 5h17\, a 178° (sul). Dia de 13h14 (+0\,9 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua: Quarto crescente
+DTSTART:20261117T212800Z
+DTEND:20261117T215800Z
+DTSTAMP:20261113T194553Z
+UID:lua-Quarto_crescente-20261117@agenda-do-mundo
+DESCRIPTION:A Lua aparece meio iluminada à tarde e no começo da noite e 
+ se põe por volta da meia-noite. Com binóculo\, a linha entre luz e sombr
+ a mostra as crateras em relevo\, porque ali o sol bate rasante.\n\nAo pôr
+  do sol (18h28) ela já está alto\, a norte.\nMomento exato da fase: 17/1
+ 1 às 8h47.\n\nBase: posição calculada com a biblioteca PyEphem para Fra
+ nca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261117T213100Z
+DTEND:20261117T214100Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261117@agenda-do-mundo
+DESCRIPTION:Pôr às 18h31\, a 111° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h15
+DTSTART:20261118T081700Z
+DTEND:20261118T082700Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261118@agenda-do-mundo
+DESCRIPTION:Nascer às 5h17\, a 178° (sul). Dia de 13h15 (+0\,8 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261118T213200Z
+DTEND:20261118T214200Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261118@agenda-do-mundo
+DESCRIPTION:Pôr às 18h32\, a 111° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h16
+DTSTART:20261119T081700Z
+DTEND:20261119T082700Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261119@agenda-do-mundo
+DESCRIPTION:Nascer às 5h17\, a 178° (sul). Dia de 13h16 (+0\,8 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261119T213300Z
+DTEND:20261119T214300Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261119@agenda-do-mundo
+DESCRIPTION:Pôr às 18h33\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feriados: Dia Nacional de Zumbi e da Consciência Negra
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20261113T194553Z
+UID:feriado-20261120@agenda-do-mundo
+DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
+ agenda.\n\nBase: biblioteca holidays (python-holidays).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h17
+DTSTART:20261120T081600Z
+DTEND:20261120T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261120@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 178° (sul). Dia de 13h17 (+0\,8 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261120T213300Z
+DTEND:20261120T214300Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261120@agenda-do-mundo
+DESCRIPTION:Pôr às 18h33\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h18
+DTSTART:20261121T081600Z
+DTEND:20261121T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261121@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 178° (sul). Dia de 13h18 (+0\,8 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261121T213400Z
+DTEND:20261121T214400Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261121@agenda-do-mundo
+DESCRIPTION:Pôr às 18h34\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h19
+DTSTART:20261122T081600Z
+DTEND:20261122T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261122@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 178° (sul). Dia de 13h19 (+0\,8 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261122T213500Z
+DTEND:20261122T214500Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261122@agenda-do-mundo
+DESCRIPTION:Pôr às 18h35\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Me
+ rcúrio\, Marte
+DTSTART:20261123T075500Z
+DTEND:20261123T082500Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-manha-20261123@agenda-do-mundo
+DESCRIPTION:Às 4h55 desta semana:\nVênus: baixo (23°)\, a leste\, brilh
+ o -4\,4\nJúpiter: a meia altura (53°)\, a nordeste\, brilho -2\,0\nMerc
+ úrio: bem baixo (8°)\, a leste\, brilho -0\,5\nMarte: a meia altura (51
+ °)\, a nordeste\, brilho 0\,6\n\nBrilho em magnitude: quanto menor o núm
+ ero\, mais brilhante (Vênus chega perto de -4\, as estrelas mais fracas a
+  olho nu ficam em torno de 6). Planeta não pisca como estrela porque é u
+ m disco\, não um ponto.\n\nBase: posições calculadas com PyEphem para F
+ ranca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h19
+DTSTART:20261123T081600Z
+DTEND:20261123T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261123@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h19 (+0\,8 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261123T213500Z
+DTEND:20261123T214500Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261123@agenda-do-mundo
+DESCRIPTION:Pôr às 18h35\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
+DTSTART:20261123T215600Z
+DTEND:20261123T222600Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-noite-20261123@agenda-do-mundo
+DESCRIPTION:Às 18h56 desta semana:\nSaturno: a meia altura (58°)\, a nor
+ deste\, brilho 0\,7\n\nBrilho em magnitude: quanto menor o número\, mais 
+ brilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu fi
+ cam em torno de 6). Planeta não pisca como estrela porque é um disco\, n
+ ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca e reg
+ ião.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h20
+DTSTART:20261124T081600Z
+DTEND:20261124T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261124@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h20 (+0\,7 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261124T213600Z
+DTEND:20261124T214600Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261124@agenda-do-mundo
+DESCRIPTION:Pôr às 18h36\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua: Lua cheia
+DTSTART:20261124T215300Z
+DTEND:20261124T222300Z
+DTSTAMP:20261113T194553Z
+UID:lua-Lua_cheia-20261124@agenda-do-mundo
+DESCRIPTION:A Lua nasce no leste quando o Sol se põe e atravessa a noite 
+ inteira. A Terra está entre os dois\, então vemos o lado iluminado de fr
+ ente\; a claridade apaga as estrelas fracas.\n\nNasce às 18h53 de 24/11\,
+  a nordeste.\nMomento exato da fase: 24/11 às 11h53.\n\nBase: posição c
+ alculada com a biblioteca PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h21
+DTSTART:20261125T081600Z
+DTEND:20261125T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261125@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h21 (+0\,7 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261125T213700Z
+DTEND:20261125T214700Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261125@agenda-do-mundo
+DESCRIPTION:Pôr às 18h37\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h21
+DTSTART:20261126T081600Z
+DTEND:20261126T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261126@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h21 (+0\,7 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261126T213700Z
+DTEND:20261126T214700Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261126@agenda-do-mundo
+DESCRIPTION:Pôr às 18h37\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h22
+DTSTART:20261127T081600Z
+DTEND:20261127T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261127@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h22 (+0\,7 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261127T213800Z
+DTEND:20261127T214800Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261127@agenda-do-mundo
+DESCRIPTION:Pôr às 18h38\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h23
+DTSTART:20261128T081600Z
+DTEND:20261128T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261128@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h23 (+0\,6 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261128T213900Z
+DTEND:20261128T214900Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261128@agenda-do-mundo
+DESCRIPTION:Pôr às 18h39\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h23
+DTSTART:20261129T081600Z
+DTEND:20261129T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261129@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h23 (+0\,6 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261129T213900Z
+DTEND:20261129T214900Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261129@agenda-do-mundo
+DESCRIPTION:Pôr às 18h39\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
+ rte
+DTSTART:20261130T075500Z
+DTEND:20261130T082500Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-manha-20261130@agenda-do-mundo
+DESCRIPTION:Às 4h55 desta semana:\nVênus: baixo (26°)\, a leste\, brilh
+ o -4\,5\nJúpiter: a meia altura (55°)\, a norte\, brilho -2\,0\nMarte: a
+  meia altura (54°)\, a nordeste\, brilho 0\,5\n\nBrilho em magnitude: qua
+ nto menor o número\, mais brilhante (Vênus chega perto de -4\, as estrel
+ as mais fracas a olho nu ficam em torno de 6). Planeta não pisca como est
+ rela porque é um disco\, não um ponto.\n\nBase: posições calculadas co
+ m PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Lua perto de Marte
+DTSTART:20261130T075500Z
+DTEND:20261130T082500Z
+DTSTAMP:20261113T194553Z
+UID:ceu-conj-Marte-2026113004@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Marte fica a 5\,7° da Lua\, a nordeste\,
+  a meia altura. Um punho fechado com o braço esticado cobre uns 10° de c
+ éu\, então os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por no
+ ite contra as estrelas\; amanhã ela já estará longe.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Lua perto de Júpiter
+DTSTART:20261130T075500Z
+DTEND:20261130T082500Z
+DTSTAMP:20261113T194553Z
+UID:ceu-conj-Jupiter-2026113004@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Júpiter fica a 0\,6° da Lua\, a norte\,
+  a meia altura. Um punho fechado com o braço esticado cobre uns 10° de c
+ éu\, então os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por no
+ ite contra as estrelas\; amanhã ela já estará longe.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h24
+DTSTART:20261130T081600Z
+DTEND:20261130T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261130@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h24 (+0\,6 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261130T214000Z
+DTEND:20261130T215000Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261130@agenda-do-mundo
+DESCRIPTION:Pôr às 18h40\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
+DTSTART:20261130T220100Z
+DTEND:20261130T223100Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-noite-20261130@agenda-do-mundo
+DESCRIPTION:Às 19h01 desta semana:\nSaturno: alto (64°)\, a nordeste\, b
+ rilho 0\,7\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua: Quarto minguante
+DTSTART:20261201T031600Z
+DTEND:20261201T034600Z
+DTSTAMP:20261113T194553Z
+UID:lua-Quarto_minguante-20261201@agenda-do-mundo
+DESCRIPTION:A Lua nasce por volta da meia-noite e fica no céu de manhã. 
+ Quem acorda cedo vê a metade iluminada a oeste.\n\nNasce às 0h16 de 01/1
+ 2\, a leste.\nMomento exato da fase: 01/12 às 3h08.\n\nBase: posição ca
+ lculada com a biblioteca PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h25
+DTSTART:20261201T081600Z
+DTEND:20261201T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261201@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h25 (+0\,6 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261201T214100Z
+DTEND:20261201T215100Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261201@agenda-do-mundo
+DESCRIPTION:Pôr às 18h41\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h25
+DTSTART:20261202T081600Z
+DTEND:20261202T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261202@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 180° (sul). Dia de 13h25 (+0\,6 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261202T214100Z
+DTEND:20261202T215100Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261202@agenda-do-mundo
+DESCRIPTION:Pôr às 18h41\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h26
+DTSTART:20261203T081600Z
+DTEND:20261203T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261203@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 180° (sul). Dia de 13h26 (+0\,5 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261203T214200Z
+DTEND:20261203T215200Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261203@agenda-do-mundo
+DESCRIPTION:Pôr às 18h42\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h26
+DTSTART:20261204T081600Z
+DTEND:20261204T082600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261204@agenda-do-mundo
+DESCRIPTION:Nascer às 5h16\, a 180° (sul). Dia de 13h26 (+0\,5 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261204T214200Z
+DTEND:20261204T215200Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261204@agenda-do-mundo
+DESCRIPTION:Pôr às 18h42\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h27
+DTSTART:20261205T081700Z
+DTEND:20261205T082700Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261205@agenda-do-mundo
+DESCRIPTION:Nascer às 5h17\, a 180° (sul). Dia de 13h27 (+0\,5 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261205T214300Z
+DTEND:20261205T215300Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261205@agenda-do-mundo
+DESCRIPTION:Pôr às 18h43\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h27
+DTSTART:20261206T081700Z
+DTEND:20261206T082700Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261206@agenda-do-mundo
+DESCRIPTION:Nascer às 5h17\, a 180° (sul). Dia de 13h27 (+0\,4 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261206T214400Z
+DTEND:20261206T215400Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261206@agenda-do-mundo
+DESCRIPTION:Pôr às 18h44\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
+ rte
+DTSTART:20261207T075500Z
+DTEND:20261207T082500Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-manha-20261207@agenda-do-mundo
+DESCRIPTION:Às 4h55 desta semana:\nVênus: baixo (29°)\, a leste\, brilh
+ o -4\,4\nJúpiter: a meia altura (56°)\, a norte\, brilho -2\,1\nMarte: a
+  meia altura (56°)\, a norte\, brilho 0\,4\n\nBrilho em magnitude: quanto
+  menor o número\, mais brilhante (Vênus chega perto de -4\, as estrelas 
+ mais fracas a olho nu ficam em torno de 6). Planeta não pisca como estrel
+ a porque é um disco\, não um ponto.\n\nBase: posições calculadas com P
+ yEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h27
+DTSTART:20261207T081700Z
+DTEND:20261207T082700Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261207@agenda-do-mundo
+DESCRIPTION:Nascer às 5h17\, a 180° (sul). Dia de 13h27 (+0\,4 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261207T214400Z
+DTEND:20261207T215400Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261207@agenda-do-mundo
+DESCRIPTION:Pôr às 18h44\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
+DTSTART:20261207T220600Z
+DTEND:20261207T223600Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-noite-20261207@agenda-do-mundo
+DESCRIPTION:Às 19h06 desta semana:\nSaturno: alto (67°)\, a norte\, bril
+ ho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
+ ênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em torno
+  de 6). Planeta não pisca como estrela porque é um disco\, não um ponto
+ .\n\nBase: posições calculadas com PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h28
+DTSTART:20261208T081700Z
+DTEND:20261208T082700Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261208@agenda-do-mundo
+DESCRIPTION:Nascer às 5h17\, a 180° (sul). Dia de 13h28 (+0\,4 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261208T214500Z
+DTEND:20261208T215500Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261208@agenda-do-mundo
+DESCRIPTION:Pôr às 18h45\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua: Lua nova
+DTSTART:20261208T230500Z
+DTEND:20261208T233500Z
+DTSTAMP:20261113T194553Z
+UID:lua-Lua_nova-20261208@agenda-do-mundo
+DESCRIPTION:Noite sem Lua: a semana mais escura do mês\, a melhor para ve
+ r estrelas fracas e a Via Láctea longe das luzes. A Lua está entre a Ter
+ ra e o Sol\, com o lado iluminado virado para longe de nós.\n\nCéu total
+ mente escuro a partir das 20h05.\nMomento exato da fase: 08/12 às 21h51.
+ \n\nBase: posição calculada com a biblioteca PyEphem para Franca e regi
+ ão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h28
+DTSTART:20261209T081700Z
+DTEND:20261209T082700Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261209@agenda-do-mundo
+DESCRIPTION:Nascer às 5h17\, a 181° (sul). Dia de 13h28 (+0\,4 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261209T214600Z
+DTEND:20261209T215600Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261209@agenda-do-mundo
+DESCRIPTION:Pôr às 18h46\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h29
+DTSTART:20261210T081800Z
+DTEND:20261210T082800Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261210@agenda-do-mundo
+DESCRIPTION:Nascer às 5h18\, a 181° (sul). Dia de 13h29 (+0\,3 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261210T214600Z
+DTEND:20261210T215600Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261210@agenda-do-mundo
+DESCRIPTION:Pôr às 18h46\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h29
+DTSTART:20261211T081800Z
+DTEND:20261211T082800Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261211@agenda-do-mundo
+DESCRIPTION:Nascer às 5h18\, a 181° (sul). Dia de 13h29 (+0\,3 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261211T214700Z
+DTEND:20261211T215700Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261211@agenda-do-mundo
+DESCRIPTION:Pôr às 18h47\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h29
+DTSTART:20261212T081800Z
+DTEND:20261212T082800Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261212@agenda-do-mundo
+DESCRIPTION:Nascer às 5h18\, a 181° (sul). Dia de 13h29 (+0\,3 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261212T214700Z
+DTEND:20261212T215700Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261212@agenda-do-mundo
+DESCRIPTION:Pôr às 18h47\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h29
+DTSTART:20261213T081900Z
+DTEND:20261213T082900Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261213@agenda-do-mundo
+DESCRIPTION:Nascer às 5h19\, a 181° (sul). Dia de 13h29 (+0\,3 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261213T214800Z
+DTEND:20261213T215800Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261213@agenda-do-mundo
+DESCRIPTION:Pôr às 18h48\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Pico das Geminídeas
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+DTSTAMP:20261113T194553Z
+UID:ceu-chuva-Geminideas-2026@agenda-do-mundo
+DESCRIPTION:A chuva mais forte do ano. O radiante nasce no nordeste por vo
+ lta das 22h\; o melhor é depois da meia-noite. Vem do asteroide Faetonte
+ \, não de um cometa.\n\nLua 31% iluminada na madrugada seguinte: Lua atra
+ palha um pouco.\nData de pico aproximada: varia cerca de um dia de ano par
+ a ano.\n\nBase: calendário de chuvas da International Meteor Organization
+ \; Lua calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
+ rte
+DTSTART:20261214T075700Z
+DTEND:20261214T082700Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-manha-20261214@agenda-do-mundo
+DESCRIPTION:Às 4h57 desta semana:\nVênus: baixo (31°)\, a leste\, brilh
+ o -4\,4\nJúpiter: a meia altura (56°)\, a norte\, brilho -2\,1\nMarte: a
+  meia altura (58°)\, a norte\, brilho 0\,3\n\nBrilho em magnitude: quanto
+  menor o número\, mais brilhante (Vênus chega perto de -4\, as estrelas 
+ mais fracas a olho nu ficam em torno de 6). Planeta não pisca como estrel
+ a porque é um disco\, não um ponto.\n\nBase: posições calculadas com P
+ yEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261214T081900Z
+DTEND:20261214T082900Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261214@agenda-do-mundo
+DESCRIPTION:Nascer às 5h19\, a 181° (sul). Dia de 13h30 (+0\,2 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261214T214900Z
+DTEND:20261214T215900Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261214@agenda-do-mundo
+DESCRIPTION:Pôr às 18h49\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
+DTSTART:20261214T221000Z
+DTEND:20261214T224000Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-noite-20261214@agenda-do-mundo
+DESCRIPTION:Às 19h10 desta semana:\nSaturno: alto (69°)\, a norte\, bril
+ ho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
+ ênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em torno
+  de 6). Planeta não pisca como estrela porque é um disco\, não um ponto
+ .\n\nBase: posições calculadas com PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261215T081900Z
+DTEND:20261215T082900Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261215@agenda-do-mundo
+DESCRIPTION:Nascer às 5h19\, a 182° (sul). Dia de 13h30 (+0\,2 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261215T214900Z
+DTEND:20261215T215900Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261215@agenda-do-mundo
+DESCRIPTION:Pôr às 18h49\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261216T082000Z
+DTEND:20261216T083000Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261216@agenda-do-mundo
+DESCRIPTION:Nascer às 5h20\, a 182° (sul). Dia de 13h30 (+0\,2 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261216T215000Z
+DTEND:20261216T220000Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261216@agenda-do-mundo
+DESCRIPTION:Pôr às 18h50\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261217T082000Z
+DTEND:20261217T083000Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261217@agenda-do-mundo
+DESCRIPTION:Nascer às 5h20\, a 182° (sul). Dia de 13h30 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua: Quarto crescente
+DTSTART:20261217T214700Z
+DTEND:20261217T221700Z
+DTSTAMP:20261113T194553Z
+UID:lua-Quarto_crescente-20261217@agenda-do-mundo
+DESCRIPTION:A Lua aparece meio iluminada à tarde e no começo da noite e 
+ se põe por volta da meia-noite. Com binóculo\, a linha entre luz e sombr
+ a mostra as crateras em relevo\, porque ali o sol bate rasante.\n\nAo pôr
+  do sol (18h47) ela já está alto\, a norte.\nMomento exato da fase: 17/1
+ 2 às 2h42.\n\nBase: posição calculada com a biblioteca PyEphem para Fra
+ nca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261217T215000Z
+DTEND:20261217T220000Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261217@agenda-do-mundo
+DESCRIPTION:Pôr às 18h50\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261218T082100Z
+DTEND:20261218T083100Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261218@agenda-do-mundo
+DESCRIPTION:Nascer às 5h21\, a 182° (sul). Dia de 13h30 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261218T215100Z
+DTEND:20261218T220100Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261218@agenda-do-mundo
+DESCRIPTION:Pôr às 18h51\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261219T082100Z
+DTEND:20261219T083100Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261219@agenda-do-mundo
+DESCRIPTION:Nascer às 5h21\, a 182° (sul). Dia de 13h30 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261219T215100Z
+DTEND:20261219T220100Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261219@agenda-do-mundo
+DESCRIPTION:Pôr às 18h51\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261220T082200Z
+DTEND:20261220T083200Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261220@agenda-do-mundo
+DESCRIPTION:Nascer às 5h22\, a 182° (sul). Dia de 13h30 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261220T215200Z
+DTEND:20261220T220200Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261220@agenda-do-mundo
+DESCRIPTION:Pôr às 18h52\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
+ rte
+DTSTART:20261221T080000Z
+DTEND:20261221T083000Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-manha-20261221@agenda-do-mundo
+DESCRIPTION:Às 5h00 desta semana:\nVênus: baixo (33°)\, a leste\, brilh
+ o -4\,4\nJúpiter: a meia altura (54°)\, a norte\, brilho -2\,2\nMarte: a
+  meia altura (58°)\, a norte\, brilho 0\,1\n\nBrilho em magnitude: quanto
+  menor o número\, mais brilhante (Vênus chega perto de -4\, as estrelas 
+ mais fracas a olho nu ficam em torno de 6). Planeta não pisca como estrel
+ a porque é um disco\, não um ponto.\n\nBase: posições calculadas com P
+ yEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261221T082200Z
+DTEND:20261221T083200Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261221@agenda-do-mundo
+DESCRIPTION:Nascer às 5h22\, a 182° (sul). Dia de 13h30 (+0\,0 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Solstício: começa o verão
+DTSTART:20261221T204900Z
+DTEND:20261221T211900Z
+DTSTAMP:20261113T194553Z
+UID:sol-marco-20261221@agenda-do-mundo
+DESCRIPTION:Dia mais longo do ano no hemisfério sul. O Sol do meio-dia pa
+ ssa quase a pino no Trópico de Capricórnio\, que corta o estado de São 
+ Paulo.\nMomento exato: 21/12/2026 às 17h49.\n\nA causa é a inclinação 
+ de 23\,4° do eixo da Terra\, não a distância ao Sol: a Terra fica mais 
+ perto do Sol em janeiro\, no nosso verão\, e o hemisfério norte está no
+  inverno nessa mesma época.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261221T215200Z
+DTEND:20261221T220200Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261221@agenda-do-mundo
+DESCRIPTION:Pôr às 18h52\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
+DTSTART:20261221T221400Z
+DTEND:20261221T224400Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-noite-20261221@agenda-do-mundo
+DESCRIPTION:Às 19h14 desta semana:\nSaturno: alto (67°)\, a norte\, bril
+ ho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
+ ênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em torno
+  de 6). Planeta não pisca como estrela porque é um disco\, não um ponto
+ .\n\nBase: posições calculadas com PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261222T082300Z
+DTEND:20261222T083300Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261222@agenda-do-mundo
+DESCRIPTION:Nascer às 5h23\, a 183° (sul). Dia de 13h30 (−0\,0 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261222T215300Z
+DTEND:20261222T220300Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261222@agenda-do-mundo
+DESCRIPTION:Pôr às 18h53\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261223T082300Z
+DTEND:20261223T083300Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261223@agenda-do-mundo
+DESCRIPTION:Nascer às 5h23\, a 183° (sul). Dia de 13h30 (−0\,0 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua: Lua cheia
+DTSTART:20261223T214400Z
+DTEND:20261223T221400Z
+DTSTAMP:20261113T194553Z
+UID:lua-Lua_cheia-20261223@agenda-do-mundo
+DESCRIPTION:A Lua nasce no leste quando o Sol se põe e atravessa a noite 
+ inteira. A Terra está entre os dois\, então vemos o lado iluminado de fr
+ ente\; a claridade apaga as estrelas fracas.\n\nNasce às 18h44 de 23/12\,
+  a nordeste.\nMomento exato da fase: 23/12 às 22h28.\n\nBase: posição c
+ alculada com a biblioteca PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261223T215300Z
+DTEND:20261223T220300Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261223@agenda-do-mundo
+DESCRIPTION:Pôr às 18h53\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261224T082400Z
+DTEND:20261224T083400Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261224@agenda-do-mundo
+DESCRIPTION:Nascer às 5h24\, a 183° (sul). Dia de 13h30 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261224T215400Z
+DTEND:20261224T220400Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261224@agenda-do-mundo
+DESCRIPTION:Pôr às 18h54\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feriados: Natal
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261113T194553Z
+UID:feriado-20261225@agenda-do-mundo
+DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
+ agenda.\n\nBase: biblioteca holidays (python-holidays).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261225T082400Z
+DTEND:20261225T083400Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261225@agenda-do-mundo
+DESCRIPTION:Nascer às 5h24\, a 183° (sul). Dia de 13h30 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261225T215400Z
+DTEND:20261225T220400Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261225@agenda-do-mundo
+DESCRIPTION:Pôr às 18h54\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261226T082500Z
+DTEND:20261226T083500Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261226@agenda-do-mundo
+DESCRIPTION:Nascer às 5h25\, a 183° (sul). Dia de 13h30 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261226T215500Z
+DTEND:20261226T220500Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261226@agenda-do-mundo
+DESCRIPTION:Pôr às 18h55\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Lua perto de Júpiter
+DTSTART:20261227T080400Z
+DTEND:20261227T083400Z
+DTSTAMP:20261113T194553Z
+UID:ceu-conj-Jupiter-2026122705@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Júpiter fica a 5\,8° da Lua\, a noroest
+ e\, a meia altura. Um punho fechado com o braço esticado cobre uns 10° d
+ e céu\, então os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por
+  noite contra as estrelas\; amanhã ela já estará longe.\n\nBase: PyEphe
+ m.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261227T082500Z
+DTEND:20261227T083500Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261227@agenda-do-mundo
+DESCRIPTION:Nascer às 5h25\, a 183° (sul). Dia de 13h30 (−0\,2 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261227T215500Z
+DTEND:20261227T220500Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261227@agenda-do-mundo
+DESCRIPTION:Pôr às 18h55\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
+ rte
+DTSTART:20261228T080400Z
+DTEND:20261228T083400Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-manha-20261228@agenda-do-mundo
+DESCRIPTION:Às 5h04 desta semana:\nVênus: baixo (35°)\, a leste\, brilh
+ o -4\,3\nJúpiter: a meia altura (50°)\, a noroeste\, brilho -2\,2\nMarte
+ : a meia altura (57°)\, a norte\, brilho -0\,0\n\nBrilho em magnitude: qu
+ anto menor o número\, mais brilhante (Vênus chega perto de -4\, as estre
+ las mais fracas a olho nu ficam em torno de 6). Planeta não pisca como es
+ trela porque é um disco\, não um ponto.\n\nBase: posições calculadas c
+ om PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Lua perto de Marte
+DTSTART:20261228T080400Z
+DTEND:20261228T083400Z
+DTSTAMP:20261113T194553Z
+UID:ceu-conj-Marte-2026122805@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Marte fica a 5\,7° da Lua\, a norte\, a 
+ meia altura. Um punho fechado com o braço esticado cobre uns 10° de céu
+ \, então os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por noite
+  contra as estrelas\; amanhã ela já estará longe.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261228T082600Z
+DTEND:20261228T083600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261228@agenda-do-mundo
+DESCRIPTION:Nascer às 5h26\, a 184° (sul). Dia de 13h30 (−0\,2 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261228T215600Z
+DTEND:20261228T220600Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261228@agenda-do-mundo
+DESCRIPTION:Pôr às 18h56\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
+DTSTART:20261228T221700Z
+DTEND:20261228T224700Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-noite-20261228@agenda-do-mundo
+DESCRIPTION:Às 19h17 desta semana:\nSaturno: alto (63°)\, a noroeste\, b
+ rilho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h30
+DTSTART:20261229T082600Z
+DTEND:20261229T083600Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261229@agenda-do-mundo
+DESCRIPTION:Nascer às 5h26\, a 184° (sul). Dia de 13h30 (−0\,2 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261229T215600Z
+DTEND:20261229T220600Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261229@agenda-do-mundo
+DESCRIPTION:Pôr às 18h56\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h29
+DTSTART:20261230T082700Z
+DTEND:20261230T083700Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261230@agenda-do-mundo
+DESCRIPTION:Nascer às 5h27\, a 184° (sul). Dia de 13h29 (−0\,2 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261230T215600Z
+DTEND:20261230T220600Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261230@agenda-do-mundo
+DESCRIPTION:Pôr às 18h56\, a 116° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua: Quarto minguante
+DTSTART:20261231T030000Z
+DTEND:20261231T033000Z
+DTSTAMP:20261113T194553Z
+UID:lua-Quarto_minguante-20261230@agenda-do-mundo
+DESCRIPTION:A Lua nasce por volta da meia-noite e fica no céu de manhã. 
+ Quem acorda cedo vê a metade iluminada a oeste.\n\nNasce às 0h00 de 31/1
+ 2\, a leste.\nMomento exato da fase: 30/12 às 15h59.\n\nBase: posição c
+ alculada com a biblioteca PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h29
+DTSTART:20261231T082800Z
+DTEND:20261231T083800Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20261231@agenda-do-mundo
+DESCRIPTION:Nascer às 5h28\, a 184° (sul). Dia de 13h29 (−0\,3 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20261231T215700Z
+DTEND:20261231T220700Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20261231@agenda-do-mundo
+DESCRIPTION:Pôr às 18h57\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feriados: Confraternização Universal
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20261113T194553Z
+UID:feriado-20270101@agenda-do-mundo
+DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
+ agenda.\n\nBase: biblioteca holidays (python-holidays).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h29
+DTSTART:20270101T082800Z
+DTEND:20270101T083800Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20270101@agenda-do-mundo
+DESCRIPTION:Nascer às 5h28\, a 184° (sul). Dia de 13h29 (−0\,3 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20270101T215700Z
+DTEND:20270101T220700Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20270101@agenda-do-mundo
+DESCRIPTION:Pôr às 18h57\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h28
+DTSTART:20270102T082900Z
+DTEND:20270102T083900Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20270102@agenda-do-mundo
+DESCRIPTION:Nascer às 5h29\, a 184° (sul). Dia de 13h28 (−0\,3 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20270102T215700Z
+DTEND:20270102T220700Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20270102@agenda-do-mundo
+DESCRIPTION:Pôr às 18h57\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h28
+DTSTART:20270103T082900Z
+DTEND:20270103T083900Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20270103@agenda-do-mundo
+DESCRIPTION:Nascer às 5h29\, a 185° (sul). Dia de 13h28 (−0\,4 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20270103T215800Z
+DTEND:20270103T220800Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20270103@agenda-do-mundo
+DESCRIPTION:Pôr às 18h58\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
+ rte
+DTSTART:20270104T080900Z
+DTEND:20270104T083900Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-manha-20270104@agenda-do-mundo
+DESCRIPTION:Às 5h09 desta semana:\nVênus: a meia altura (36°)\, a leste
+ \, brilho -4\,3\nJúpiter: a meia altura (45°)\, a noroeste\, brilho -2\,
+ 3\nMarte: a meia altura (55°)\, a noroeste\, brilho -0\,2\n\nBrilho em ma
+ gnitude: quanto menor o número\, mais brilhante (Vênus chega perto de -4
+ \, as estrelas mais fracas a olho nu ficam em torno de 6). Planeta não pi
+ sca como estrela porque é um disco\, não um ponto.\n\nBase: posições c
+ alculadas com PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h28
+DTSTART:20270104T083000Z
+DTEND:20270104T084000Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20270104@agenda-do-mundo
+DESCRIPTION:Nascer às 5h30\, a 185° (sul). Dia de 13h28 (−0\,4 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20270104T215800Z
+DTEND:20270104T220800Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20270104@agenda-do-mundo
+DESCRIPTION:Pôr às 18h58\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
+DTSTART:20270104T221900Z
+DTEND:20270104T224900Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-noite-20270104@agenda-do-mundo
+DESCRIPTION:Às 19h19 desta semana:\nSaturno: a meia altura (59°)\, a nor
+ oeste\, brilho 0\,9\n\nBrilho em magnitude: quanto menor o número\, mais 
+ brilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu fi
+ cam em torno de 6). Planeta não pisca como estrela porque é um disco\, n
+ ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca e reg
+ ião.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h27
+DTSTART:20270105T083100Z
+DTEND:20270105T084100Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20270105@agenda-do-mundo
+DESCRIPTION:Nascer às 5h31\, a 185° (sul). Dia de 13h27 (−0\,4 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20270105T215800Z
+DTEND:20270105T220800Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20270105@agenda-do-mundo
+DESCRIPTION:Pôr às 18h58\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h27
+DTSTART:20270106T083100Z
+DTEND:20270106T084100Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20270106@agenda-do-mundo
+DESCRIPTION:Nascer às 5h31\, a 185° (sul). Dia de 13h27 (−0\,4 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20270106T215800Z
+DTEND:20270106T220800Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20270106@agenda-do-mundo
+DESCRIPTION:Pôr às 18h58\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h26
+DTSTART:20270107T083200Z
+DTEND:20270107T084200Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20270107@agenda-do-mundo
+DESCRIPTION:Nascer às 5h32\, a 185° (sul). Dia de 13h26 (−0\,5 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20270107T215800Z
+DTEND:20270107T220800Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20270107@agenda-do-mundo
+DESCRIPTION:Pôr às 18h58\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua: Lua nova
+DTSTART:20270107T231800Z
+DTEND:20270107T234800Z
+DTSTAMP:20261113T194553Z
+UID:lua-Lua_nova-20270107@agenda-do-mundo
+DESCRIPTION:Noite sem Lua: a semana mais escura do mês\, a melhor para ve
+ r estrelas fracas e a Via Láctea longe das luzes. A Lua está entre a Ter
+ ra e o Sol\, com o lado iluminado virado para longe de nós.\n\nCéu total
+ mente escuro a partir das 20h18.\nMomento exato da fase: 07/01 às 17h24.
+ \n\nBase: posição calculada com a biblioteca PyEphem para Franca e regi
+ ão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h26
+DTSTART:20270108T083300Z
+DTEND:20270108T084300Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20270108@agenda-do-mundo
+DESCRIPTION:Nascer às 5h33\, a 185° (sul). Dia de 13h26 (−0\,5 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20270108T215900Z
+DTEND:20270108T220900Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20270108@agenda-do-mundo
+DESCRIPTION:Pôr às 18h59\, a 115° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h25
+DTSTART:20270109T083300Z
+DTEND:20270109T084300Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20270109@agenda-do-mundo
+DESCRIPTION:Nascer às 5h33\, a 186° (sul). Dia de 13h25 (−0\,5 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20270109T215900Z
+DTEND:20270109T220900Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20270109@agenda-do-mundo
+DESCRIPTION:Pôr às 18h59\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h25
+DTSTART:20270110T083400Z
+DTEND:20270110T084400Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20270110@agenda-do-mundo
+DESCRIPTION:Nascer às 5h34\, a 186° (sul). Dia de 13h25 (−0\,5 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20270110T215900Z
+DTEND:20270110T220900Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20270110@agenda-do-mundo
+DESCRIPTION:Pôr às 18h59\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
+ rte
+DTSTART:20270111T081300Z
+DTEND:20270111T084300Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-manha-20270111@agenda-do-mundo
+DESCRIPTION:Às 5h13 desta semana:\nVênus: a meia altura (37°)\, a leste
+ \, brilho -4\,2\nJúpiter: a meia altura (39°)\, a noroeste\, brilho -2\,
+ 3\nMarte: a meia altura (51°)\, a noroeste\, brilho -0\,4\n\nBrilho em ma
+ gnitude: quanto menor o número\, mais brilhante (Vênus chega perto de -4
+ \, as estrelas mais fracas a olho nu ficam em torno de 6). Planeta não pi
+ sca como estrela porque é um disco\, não um ponto.\n\nBase: posições c
+ alculadas com PyEphem para Franca e região.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h24
+DTSTART:20270111T083500Z
+DTEND:20270111T084500Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20270111@agenda-do-mundo
+DESCRIPTION:Nascer às 5h35\, a 186° (sul). Dia de 13h24 (−0\,6 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20270111T215900Z
+DTEND:20270111T220900Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20270111@agenda-do-mundo
+DESCRIPTION:Pôr às 18h59\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
+DTSTART:20270111T222000Z
+DTEND:20270111T225000Z
+DTSTAMP:20261113T194553Z
+UID:ceu-planetas-noite-20270111@agenda-do-mundo
+DESCRIPTION:Às 19h20 desta semana:\nSaturno: a meia altura (53°)\, a nor
+ oeste\, brilho 0\,9\n\nBrilho em magnitude: quanto menor o número\, mais 
+ brilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu fi
+ cam em torno de 6). Planeta não pisca como estrela porque é um disco\, n
+ ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca e reg
+ ião.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Sol nasce · dia de 13h24
+DTSTART:20270112T083500Z
+DTEND:20270112T084500Z
+DTSTAMP:20261113T194553Z
+UID:sol-nasce-20270112@agenda-do-mundo
+DESCRIPTION:Nascer às 5h35\, a 186° (sul). Dia de 13h24 (−0\,6 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol e estações: Pôr do sol
+DTSTART:20270112T215900Z
+DTEND:20270112T220900Z
+DTSTAMP:20261113T194553Z
+UID:sol-poe-20270112@agenda-do-mundo
+DESCRIPTION:Pôr às 18h59\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

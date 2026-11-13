@@ -1,0 +1,30 @@
+name: Gerar calendários
+
+on:
+  schedule:
+    - cron: "17 8 * * *"   # todo dia às 5h17 de Brasília (8h17 UTC)
+  workflow_dispatch:        # botão "Run workflow" para rodar na hora
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Gerar
+        run: python gerar.py
+        env:
+          EBIRD_KEY: ${{ secrets.EBIRD_KEY }}
+      - name: Publicar
+        run: |
+          git config user.name "agenda-do-mundo"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || git commit -m "Calendários de $(date -u +%F)"
+          git push

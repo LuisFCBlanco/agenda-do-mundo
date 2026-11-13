@@ -1,0 +1,224 @@
+{
+ "projeto": "Agenda do Mundo",
+ "gerado_em": "2026-11-13T16:45-03:00",
+ "regioes": [
+  {
+   "id": "lorena",
+   "nome": "Lorena e Vale do Paraíba",
+   "uf": "SP",
+   "lat": -22.7311,
+   "lon": -45.1247,
+   "alt": 524
+  },
+  {
+   "id": "franca",
+   "nome": "Franca e região",
+   "uf": "SP",
+   "lat": -20.5352,
+   "lon": -47.4039,
+   "alt": 1000
+  }
+ ],
+ "areas": [
+  {
+   "id": "lua",
+   "nome": "Lua",
+   "resumo": "As quatro fases, com a hora certa de olhar na sua cidade.",
+   "fonte": "cálculo astronômico (PyEphem)"
+  },
+  {
+   "id": "ceu",
+   "nome": "Céu da noite",
+   "resumo": "Planetas visíveis ao anoitecer e antes do amanhecer, Lua perto de planetas, chuvas de meteoros.",
+   "fonte": "cálculo astronômico (PyEphem)"
+  },
+  {
+   "id": "sol",
+   "nome": "Sol e estações",
+   "resumo": "Nascer e pôr do sol todo dia, duração do dia, solstícios e equinócios.",
+   "fonte": "cálculo astronômico (PyEphem)"
+  },
+  {
+   "id": "feriados",
+   "nome": "Feriados",
+   "resumo": "Feriados nacionais e estaduais. Municipais ainda não entram.",
+   "fonte": "python-holidays"
+  },
+  {
+   "id": "economia",
+   "nome": "Economia",
+   "resumo": "Selic em vigor toda segunda e o dólar da semana toda sexta, direto do Banco Central.",
+   "fonte": "Banco Central do Brasil (SGS)"
+  },
+  {
+   "id": "clima",
+   "nome": "Previsão do tempo",
+   "resumo": "Máxima, mínima e chance de chuva para os próximos 7 dias.",
+   "fonte": "Open-Meteo"
+  },
+  {
+   "id": "aves",
+   "nome": "Aves por perto",
+   "resumo": "Espécies registradas por observadores num raio de 25 km na última semana.",
+   "fonte": "eBird (Cornell Lab)"
+  }
+ ],
+ "feeds": {
+  "lorena": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:23:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:48:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:08:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:43:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:47:00-03:00"
+     },
+     {
+      "titulo": "Pico das Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 137,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h18",
+      "inicio": "2026-11-13T05:05:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-13T18:23:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h19",
+      "inicio": "2026-11-14T05:05:00-03:00"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   }
+  },
+  "franca": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:28:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:53:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:16:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:56:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:52:00-03:00"
+     },
+     {
+      "titulo": "Pico das Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 137,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h11",
+      "inicio": "2026-11-13T05:18:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-13T18:29:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h12",
+      "inicio": "2026-11-14T05:18:00-03:00"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   }
+  }
+ },
+ "avisos": [
+  "lorena/economia: <urlopen error Tunnel connection failed: 403 Forbidden>",
+  "lorena/clima: <urlopen error Tunnel connection failed: 403 Forbidden>",
+  "lorena/aves: sem EBIRD_KEY",
+  "franca/economia: <urlopen error Tunnel connection failed: 403 Forbidden>",
+  "franca/clima: <urlopen error Tunnel connection failed: 403 Forbidden>",
+  "franca/aves: sem EBIRD_KEY"
+ ]
+}

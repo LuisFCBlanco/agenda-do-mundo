@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Feriados nacionais e estaduais. Municipais ainda não entram.
+  Agenda do Mundo.
+X-WR-CALNAME:Feriados · Lorena e Vale do Paraíba
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Proclamação da República
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261113T194553Z
+UID:feriado-20261115@agenda-do-mundo
+DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
+ agenda.\n\nBase: biblioteca holidays (python-holidays).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia Nacional de Zumbi e da Consciência Negra
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20261113T194553Z
+UID:feriado-20261120@agenda-do-mundo
+DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
+ agenda.\n\nBase: biblioteca holidays (python-holidays).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natal
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20261113T194553Z
+UID:feriado-20261225@agenda-do-mundo
+DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
+ agenda.\n\nBase: biblioteca holidays (python-holidays).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Confraternização Universal
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20261113T194553Z
+UID:feriado-20270101@agenda-do-mundo
+DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
+ agenda.\n\nBase: biblioteca holidays (python-holidays).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

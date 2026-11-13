@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Agenda do Mundo</title>
+<meta name="description" content="Escolha o que acontece no mundo ao seu redor e receba na sua agenda: Lua, céu, sol, feriados, economia, clima, aves.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#f2f5f1;--surface:#fff;--fg:#17211b;--muted:#5d6a62;--line:#d6ded7;
+  --accent:#1f6b57;--accent-ink:#fff;--accent-soft:#dcece5;--warn:#7a5200;--warn-bg:#fbecc6;
+  --f-display:"Bricolage Grotesque","Helvetica Neue",Arial,sans-serif;
+  --f-body:"Inter","Segoe UI",Roboto,system-ui,sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#0f1512;--surface:#171f1b;--fg:#e4ece7;--muted:#97a69d;--line:#2a352f;
+  --accent:#62c2a3;--accent-ink:#0f1512;--accent-soft:#1c3a30;--warn:#efc15a;--warn-bg:#382b0c;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 15px/1.5 var(--f-body)}
+.wrap{max-width:820px;margin:0 auto;padding:32px 16px 64px;display:flex;flex-direction:column;gap:28px}
+h1{font:800 clamp(34px,7vw,52px)/1 var(--f-display);margin:0;letter-spacing:-.02em}
+h2{font:600 20px var(--f-display);margin:0}
+.lede{color:var(--muted);max-width:62ch;margin:12px 0 0}
+.tabs{display:flex;flex-wrap:wrap;gap:8px}
+.tab{font:500 14px var(--f-body);border:1px solid var(--line);background:var(--surface);color:var(--fg);padding:9px 14px;border-radius:999px;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,360px),1fr));gap:12px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:10px}
+.card.all{border-color:var(--accent);background:var(--accent-soft)}
+.card h3{margin:0;font:600 17px var(--f-body)}
+.card p{margin:0}
+.src{font:400 12px var(--f-mono);color:var(--muted)}
+.next{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px;font-size:13px}
+.next time{font-family:var(--f-mono);color:var(--muted);margin-right:6px}
+.acts{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto}
+.btn{font:600 14px var(--f-body);padding:9px 14px;border-radius:8px;border:1px solid var(--accent);background:var(--accent);color:var(--accent-ink);cursor:pointer;text-decoration:none}
+.btn.ghost{background:transparent;color:var(--accent)}
+.btn:focus-visible,.tab:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.note{font-size:13px;padding:10px 12px;border-radius:8px;background:var(--warn-bg);color:var(--warn)}
+.how{color:var(--muted);font-size:14px;display:flex;flex-direction:column;gap:6px}
+.how b{color:var(--fg)}
+.how p{margin:0}
+footer{color:var(--muted);font-size:13px}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <header>
+    <h1>Agenda do Mundo</h1>
+    <p class="lede">O que está acontecendo no céu, no clima, na economia e na natureza da sua região, direto na sua agenda. Escolha as áreas que te interessam: cada uma é um calendário que você assina uma vez e passa a se atualizar sozinho.</p>
+  </header>
+
+  <section>
+    <h2 style="margin-bottom:12px">Sua região</h2>
+    <div class="tabs" id="regioes" role="tablist"></div>
+  </section>
+
+  <section>
+    <h2 style="margin-bottom:12px">Escolha o que entra</h2>
+    <div class="grid" id="areas"><p>Carregando...</p></div>
+  </section>
+
+  <section class="how">
+    <h2>Como funciona</h2>
+    <p><b>No computador com Google Agenda:</b> toque em "Assinar no Google" e confirme. A área aparece como uma agenda separada, que você pode esconder ou mudar de cor.</p>
+    <p><b>No celular Android:</b> assine pelo computador uma vez; ela passa a aparecer no app do Google Agenda.</p>
+    <p><b>iPhone, Outlook e outros:</b> toque em "Copiar link" e cole em "assinar calendário" ou "adicionar calendário pela URL".</p>
+    <p><b>Atualização:</b> os calendários são refeitos todo dia, mas o Google relê cada um a cada 12 a 24 horas. Para cancelar, basta remover a agenda nas configurações.</p>
+  </section>
+
+  <footer id="rodape"></footer>
+</main>
+<script>
+(function(){
+  const $=id=>document.getElementById(id);
+  const base=new URL('.',location.href);
+  const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const mem={get(){try{return localStorage.getItem('adm_regiao');}catch(e){return null;}},set(v){try{localStorage.setItem('adm_regiao',v);}catch(e){}}};
+  let cat=null, reg=null;
+
+  function links(regId,arq){
+    const https=new URL('feeds/'+regId+'/'+arq,base).href;
+    const webcal=https.replace(/^https?:/,'webcal:');
+    return {https,google:'https://www.google.com/calendar/render?cid='+webcal};
+  }
+  function quando(s){
+    if(s.length===10){const [y,m,d]=s.split('-');return d+'/'+m;}
+    const t=new Date(s);return String(t.getDate()).padStart(2,'0')+'/'+String(t.getMonth()+1).padStart(2,'0')+' '+t.getHours()+'h'+String(t.getMinutes()).padStart(2,'0');
+  }
+  function copiar(txt,btn){
+    const ok=()=>{const o=btn.textContent;btn.textContent='Link copiado';setTimeout(()=>btn.textContent=o,1800);};
+    try{navigator.clipboard.writeText(txt).then(ok,()=>prompt('Copie o link:',txt));}catch(e){prompt('Copie o link:',txt);}
+  }
+  function card(titulo,resumo,fonte,prox,regId,arq,destaque){
+    const L=links(regId,arq), el=document.createElement('article');
+    el.className='card'+(destaque?' all':'');
+    el.innerHTML='<h3>'+esc(titulo)+'</h3><p>'+esc(resumo)+'</p>'+
+      (fonte?'<p class="src">Fonte: '+esc(fonte)+'</p>':'')+
+      (prox&&prox.length?'<ul class="next">'+prox.map(p=>'<li><time>'+quando(p.inicio)+'</time>'+esc(p.titulo)+'</li>').join('')+'</ul>':'')+
+      '<div class="acts"><a class="btn" target="_blank" rel="noopener" href="'+esc(L.google)+'">Assinar no Google</a><button class="btn ghost" type="button">Copiar link</button></div>';
+    el.querySelector('button').addEventListener('click',e=>copiar(L.https,e.currentTarget));
+    return el;
+  }
+  function render(){
+    const tabs=$('regioes');tabs.innerHTML='';
+    cat.regioes.forEach(r=>{const b=document.createElement('button');b.className='tab';b.type='button';b.role='tab';b.textContent=r.nome;b.setAttribute('aria-selected',r.id===reg?'true':'false');b.addEventListener('click',()=>{reg=r.id;mem.set(reg);render();});tabs.appendChild(b);});
+    const box=$('areas');box.innerHTML='';
+    const feeds=cat.feeds[reg]||{};
+    cat.areas.forEach(a=>{
+      const f=feeds[a.id];
+      if(!f){return;}
+      const el=card(a.nome,a.resumo,a.fonte,f.proximos,reg,a.id+'.ics');
+      if(!f.atualizado){const n=document.createElement('p');n.className='note';n.textContent='A fonte não respondeu na última atualização; o calendário mostra os dados anteriores.';el.insertBefore(n,el.querySelector('.acts'));}
+      box.appendChild(el);
+    });
+    const fora=cat.areas.filter(a=>!feeds[a.id]).map(a=>a.nome);
+    box.appendChild(card('Tudo de uma vez','Todas as áreas acima num calendário só. Mais simples, mas não dá para esconder uma área sem esconder todas.','',null,reg,'tudo.ics',true));
+    $('rodape').textContent='Atualizado em '+new Date(cat.gerado_em).toLocaleString('pt-BR',{dateStyle:'short',timeStyle:'short'})+'.'+(fora.length?' Em breve: '+fora.join(', ')+'.':'');
+  }
+  fetch('catalogo.json',{cache:'no-store'}).then(r=>r.json()).then(j=>{
+    cat=j; const salvo=mem.get(); reg=cat.regioes.some(r=>r.id===salvo)?salvo:cat.regioes[0].id; render();
+  }).catch(()=>{$('areas').innerHTML='<p class="note">Não foi possível carregar a lista de calendários. Recarregue a página.</p>';});
+})();
+</script>
+</body>
+</html>

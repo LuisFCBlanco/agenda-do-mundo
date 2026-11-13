@@ -1,0 +1,34 @@
+[
+ {
+  "uid": "feriado-20261115",
+  "titulo": "Proclamação da República",
+  "dia_todo": true,
+  "inicio": "2026-11-15",
+  "fim": "2026-11-16",
+  "descricao": "Feriado nacional. Feriados municipais ainda não entram nesta agenda.\n\nBase: biblioteca holidays (python-holidays)."
+ },
+ {
+  "uid": "feriado-20261120",
+  "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+  "dia_todo": true,
+  "inicio": "2026-11-20",
+  "fim": "2026-11-21",
+  "descricao": "Feriado nacional. Feriados municipais ainda não entram nesta agenda.\n\nBase: biblioteca holidays (python-holidays)."
+ },
+ {
+  "uid": "feriado-20261225",
+  "titulo": "Natal",
+  "dia_todo": true,
+  "inicio": "2026-12-25",
+  "fim": "2026-12-26",
+  "descricao": "Feriado nacional. Feriados municipais ainda não entram nesta agenda.\n\nBase: biblioteca holidays (python-holidays)."
+ },
+ {
+  "uid": "feriado-20270101",
+  "titulo": "Confraternização Universal",
+  "dia_todo": true,
+  "inicio": "2027-01-01",
+  "fim": "2027-01-02",
+  "descricao": "Feriado nacional. Feriados municipais ainda não entram nesta agenda.\n\nBase: biblioteca holidays (python-holidays)."
+ }
+]
