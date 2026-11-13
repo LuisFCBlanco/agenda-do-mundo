@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Café formando os chumbinhos
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-campo-20261114-cafe-formando-os-chumbinhos@agenda-do-mundo
 DESCRIPTION:Nos cafezais da Alta Mogiana\, os frutos novos do café\, aind
  a pequenos e verdes\, estão presos nos ramos depois da florada. É a fase
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Plantio da soja de verão
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-campo-20261116-plantio-da-soja-de-verao@agenda-do-mundo
 DESCRIPTION:Plantadeiras trabalham nas lavouras da região semeando a soja
  . O plantio acompanha a volta das chuvas\, porque a semente precisa de sol
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Usinas fechando a safra da cana
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-campo-20261118-usinas-fechando-a-safra-da-cana@agenda-do-mundo
 DESCRIPTION:O movimento de caminhões de cana diminui à medida que as usi
  nas encerram a moagem. A colheita da cana se concentra no período seco\, 
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Melancia e manga na feira
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-campo-20261120-melancia-e-manga-na-feira@agenda-do-mundo
 DESCRIPTION:Melancias e as primeiras mangas da safra ganham espaço nas ba
  ncas. São frutas de calor\, que amadurecem melhor com dias longos e quent
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Pêssego da safra paulista
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-campo-20261122-pessego-da-safra-paulista@agenda-do-mundo
 DESCRIPTION:O pêssego começa a aparecer nas feiras\, vindo dos pomares p
  aulistas. Ele precisa do frio do inverno para florir e amadurece no fim da

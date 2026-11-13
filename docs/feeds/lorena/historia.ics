@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Apollo 12 decola rumo à Lua (1969)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-historia-20261114-apollo-12-decola-rumo-a-lua--1969-@agenda-do-mun
  do
 DESCRIPTION:Neste dia\, em 1969\, a Apollo 12 decolou da Flórida para o s
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Inauguração do Canal de Suez (1869)
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-historia-20261117-inauguracao-do-canal-de-suez--1869-@agenda-do-mu
  ndo
 DESCRIPTION:Neste dia\, em 1869\, foi inaugurado o Canal de Suez\, no Egit
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Ferrovias adotam a hora padrão (1883)
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-historia-20261118-ferrovias-adotam-a-hora-padrao--1883-@agenda-do-
  mundo
 DESCRIPTION:Neste dia\, em 1883\, as ferrovias dos Estados Unidos e do Can
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Lançado o primeiro módulo da Estação Espacial (1998)
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-historia-20261120-lancado-o-primeiro-modulo-da-estacao-esp@agenda-
  do-mundo
 DESCRIPTION:Neste dia\, em 1998\, foi lançado o Zarya\, primeiro módulo 
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Hubble mostra que Andrômeda é outra galáxia (1924)
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-historia-20261123-hubble-mostra-que-andromeda-e-outra-gala@agenda-
  do-mundo
 DESCRIPTION:Neste dia\, em 1924\, o jornal The New York Times noticiou a d

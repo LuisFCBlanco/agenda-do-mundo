@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Mariner 9 entra em órbita de Marte (1971)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-historia-20261114-mariner-9-entra-em-orbita-de-marte--1971@agenda-
  do-mundo
 DESCRIPTION:Neste dia\, em 1971\, a sonda Mariner 9 se tornou a primeira n
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Fundada a UNESCO (1945)
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-historia-20261116-fundada-a-unesco--1945-@agenda-do-mundo
 DESCRIPTION:Neste dia\, em 1945\, foi assinada em Londres a constituição
   da UNESCO\, agência da ONU para educação\, ciência e cultura. Ela sur
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Adotada a bandeira do Brasil republicano (1889)
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-historia-20261119-adotada-a-bandeira-do-brasil-republicano@agenda-
  do-mundo
 DESCRIPTION:Neste dia\, em 1889\, quatro dias depois da Proclamação da R
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Primeiro voo humano em balão (1783)
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-historia-20261121-primeiro-voo-humano-em-balao--1783-@agenda-do-mu
  ndo
 DESCRIPTION:Neste dia\, em 1783\, Pilâtre de Rozier e o marquês d'Arland
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Concorde começa a voar para Nova York (1977)
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-historia-20261122-concorde-comeca-a-voar-para-nova-york--1@agenda-
  do-mundo
 DESCRIPTION:Neste dia\, em 1977\, o Concorde começou os voos regulares de

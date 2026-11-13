@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Plantio do arroz nas várzeas do Vale
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-campo-20261115-plantio-do-arroz-nas-varzeas-do-vale@agenda-do-mund
  o
 DESCRIPTION:Nas várzeas do Paraíba\, os tabuleiros de arroz irrigado est
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Pasto voltando a ficar verde
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-campo-20261117-pasto-voltando-a-ficar-verde@agenda-do-mundo
 DESCRIPTION:Os pastos das fazendas de leite\, que estavam secos no inverno
  \, voltam a ficar verdes. Com chuva e calor\, o capim cresce rápido e o g
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Manga chegando à feira
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-campo-20261119-manga-chegando-a-feira@agenda-do-mundo
 DESCRIPTION:As primeiras mangas da nova safra começam a aparecer nas banc
  as. As mangueiras floriram no fim do inverno\, e os frutos amadurecem com 
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Abacaxi doce na banca
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-campo-20261121-abacaxi-doce-na-banca@agenda-do-mundo
 DESCRIPTION:O abacaxi fica mais comum e mais doce nas feiras nesta época.
   A safra principal começa na virada da primavera para o verão\, quando o
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Quiabo\, abobrinha e pepino em alta
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-campo-20261123-quiabo--abobrinha-e-pepino-em-alta@agenda-do-mundo
 DESCRIPTION:Quiabo\, abobrinha e pepino aparecem com fartura nas feiras. S
  ão hortaliças de clima quente\, que crescem rápido quando os dias esque

@@ -728,14 +728,6 @@
   "descricao": "Nascer às 5h22, a 182° (sul). Dia de 13h30 (+0,0 min em relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul até o solstício de dezembro e volta para o norte até o de junho.\n\nBase: PyEphem, com refração atmosférica padrão."
  },
  {
-  "uid": "sol-marco-20261221",
-  "titulo": "Solstício: começa o verão",
-  "dia_todo": false,
-  "inicio": "2026-12-21T17:49:00-03:00",
-  "fim": "2026-12-21T18:19:00-03:00",
-  "descricao": "Dia mais longo do ano no hemisfério sul. O Sol do meio-dia passa quase a pino no Trópico de Capricórnio, que corta o estado de São Paulo.\nMomento exato: 21/12/2026 às 17h49.\n\nA causa é a inclinação de 23,4° do eixo da Terra, não a distância ao Sol: a Terra fica mais perto do Sol em janeiro, no nosso verão, e o hemisfério norte está no inverno nessa mesma época.\n\nBase: PyEphem."
- },
- {
   "uid": "sol-poe-20261221",
   "titulo": "Pôr do sol",
   "dia_todo": false,

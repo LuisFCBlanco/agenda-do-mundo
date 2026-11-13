@@ -1,6 +1,6 @@
 {
  "projeto": "Agenda do Mundo",
- "gerado_em": "2026-11-13T17:47-03:00",
+ "gerado_em": "2026-11-13T18:03-03:00",
  "regioes": [
   {
    "id": "lorena",
@@ -34,8 +34,14 @@
   },
   {
    "id": "sol",
-   "nome": "Sol e estações",
-   "resumo": "Nascer e pôr do sol todo dia, duração do dia, solstícios e equinócios.",
+   "nome": "Nascer e pôr do sol",
+   "resumo": "Nascer e pôr do sol todo dia, com a duração do dia e quanto ela mudou desde ontem.",
+   "fonte": "cálculo astronômico (PyEphem)"
+  },
+  {
+   "id": "estacoes",
+   "nome": "Estações do ano",
+   "resumo": "Só os solstícios e equinócios, com o momento exato e o porquê.",
    "fonte": "cálculo astronômico (PyEphem)"
   },
   {
@@ -120,7 +126,7 @@
     ]
    },
    "sol": {
-    "n": 137,
+    "n": 136,
     "atualizado": true,
     "proximos": [
      {
@@ -134,6 +140,16 @@
      {
       "titulo": "Sol nasce · dia de 13h19",
       "inicio": "2026-11-14T05:05:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 1,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
      }
     ]
    },
@@ -280,7 +296,7 @@
     ]
    },
    "sol": {
-    "n": 137,
+    "n": 136,
     "atualizado": true,
     "proximos": [
      {
@@ -294,6 +310,16 @@
      {
       "titulo": "Sol nasce · dia de 13h12",
       "inicio": "2026-11-14T05:18:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 1,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
      }
     ]
    },

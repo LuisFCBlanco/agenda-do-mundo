@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Revoada de içás depois da chuva
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-natureza-20261114-revoada-de-icas-depois-da-chuva@agenda-do-mundo
 DESCRIPTION:Depois de uma chuva forte seguida de sol\, as içás saem dos 
  formigueiros de saúva e enchem o ar e as calçadas. São as rainhas e os 
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Sabiá-laranjeira cantando antes do sol
 DTSTART:20261116T080000Z
 DTEND:20261116T083000Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-natureza-20261116-sabia-laranjeira-cantando-antes-do-sol@agenda-do
  -mundo
 DESCRIPTION:Antes de clarear\, o sabiá-laranjeira canta forte e repetido 
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Flamboyant abrindo as flores vermelhas
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-natureza-20261118-flamboyant-abrindo-as-flores-vermelhas@agenda-do
  -mundo
 DESCRIPTION:Nas praças e beiras de estrada do Vale\, os flamboyants come
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Cigarras cantando nas tardes quentes
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-natureza-20261120-cigarras-cantando-nas-tardes-quentes@agenda-do-m
  undo
 DESCRIPTION:Nas tardes de calor\, o chiado das cigarras toma conta das ár
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Vaga-lumes nas noites úmidas
 DTSTART:20261122T223000Z
 DTEND:20261122T230000Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-natureza-20261122-vaga-lumes-nas-noites-umidas@agenda-do-mundo
 DESCRIPTION:Logo depois do anoitecer\, em pastos e beiras de mato\, aparec
  em os piscas dos vaga-lumes. Cada espécie tem seu ritmo de luz\, que serv

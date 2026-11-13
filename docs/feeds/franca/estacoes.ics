@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Só os solstícios e equinócios, com o momento exato e o por
+ quê. Agenda do Mundo.
+X-WR-CALNAME:Estações do ano · Franca e região
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Solstício: começa o verão
+DTSTART:20261221T204900Z
+DTEND:20261221T211900Z
+DTSTAMP:20261113T210308Z
+UID:sol-marco-20261221@agenda-do-mundo
+DESCRIPTION:Dia mais longo do ano no hemisfério sul. O Sol do meio-dia pa
+ ssa quase a pino no Trópico de Capricórnio\, que corta o estado de São 
+ Paulo.\nMomento exato: 21/12/2026 às 17h49.\n\nA causa é a inclinação 
+ de 23\,4° do eixo da Terra\, não a distância ao Sol: a Terra fica mais 
+ perto do Sol em janeiro\, no nosso verão\, e o hemisfério norte está no
+  inverno nessa mesma época.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

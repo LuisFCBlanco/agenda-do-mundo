@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Seriema gritando ao amanhecer
 DTSTART:20261115T083000Z
 DTEND:20261115T090000Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-natureza-20261115-seriema-gritando-ao-amanhecer@agenda-do-mundo
 DESCRIPTION:No começo da manhã\, nos pastos e campos de Cerrado\, o grit
  o alto da seriema se ouve de longe. Os casais cantam juntos para marcar te
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Revoada de aleluias no fim da tarde
 DTSTART:20261117T213000Z
 DTEND:20261117T220000Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-natureza-20261117-revoada-de-aleluias-no-fim-da-tarde@agenda-do-mu
  ndo
 DESCRIPTION:No fim da tarde\, depois da chuva\, nuvens de aleluias saem do
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Tesourinhas caçando insetos no voo
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-natureza-20261119-tesourinhas-cacando-insetos-no-voo@agenda-do-mun
  do
 DESCRIPTION:Em fios e cercas de beira de estrada aparecem as tesourinhas\,
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Gabiroba madura no Cerrado
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-natureza-20261121-gabiroba-madura-no-cerrado@agenda-do-mundo
 DESCRIPTION:Nos campos e beiras de Cerrado\, os pés baixos de gabiroba mo
  stram frutinhos amarelos e perfumados. A planta floresce com as primeiras 
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Cigarras no calor da tarde
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:txt-natureza-20261123-cigarras-no-calor-da-tarde@agenda-do-mundo
 DESCRIPTION:Nas tardes quentes\, as cigarras cantam alto nas árvores das 
  ruas e chácaras. As ninfas saem do chão quando a terra amolece com a chu

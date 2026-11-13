@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Lua nova
 DTSTART:20261109T224300Z
 DTEND:20261109T231300Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:lua-Lua_nova-20261109@agenda-do-mundo
 DESCRIPTION:Noite sem Lua: a semana mais escura do mês\, a melhor para ve
  r estrelas fracas e a Via Láctea longe das luzes. A Lua está entre a Ter
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Quarto crescente
 DTSTART:20261117T212800Z
 DTEND:20261117T215800Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:lua-Quarto_crescente-20261117@agenda-do-mundo
 DESCRIPTION:A Lua aparece meio iluminada à tarde e no começo da noite e 
  se põe por volta da meia-noite. Com binóculo\, a linha entre luz e sombr
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Lua cheia
 DTSTART:20261124T215300Z
 DTEND:20261124T222300Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:lua-Lua_cheia-20261124@agenda-do-mundo
 DESCRIPTION:A Lua nasce no leste quando o Sol se põe e atravessa a noite 
  inteira. A Terra está entre os dois\, então vemos o lado iluminado de fr
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Quarto minguante
 DTSTART:20261201T031600Z
 DTEND:20261201T034600Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:lua-Quarto_minguante-20261201@agenda-do-mundo
 DESCRIPTION:A Lua nasce por volta da meia-noite e fica no céu de manhã. 
  Quem acorda cedo vê a metade iluminada a oeste.\n\nNasce às 0h16 de 01/1
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Lua nova
 DTSTART:20261208T230500Z
 DTEND:20261208T233500Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:lua-Lua_nova-20261208@agenda-do-mundo
 DESCRIPTION:Noite sem Lua: a semana mais escura do mês\, a melhor para ve
  r estrelas fracas e a Via Láctea longe das luzes. A Lua está entre a Ter
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Quarto crescente
 DTSTART:20261217T214700Z
 DTEND:20261217T221700Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:lua-Quarto_crescente-20261217@agenda-do-mundo
 DESCRIPTION:A Lua aparece meio iluminada à tarde e no começo da noite e 
  se põe por volta da meia-noite. Com binóculo\, a linha entre luz e sombr
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Lua cheia
 DTSTART:20261223T214400Z
 DTEND:20261223T221400Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:lua-Lua_cheia-20261223@agenda-do-mundo
 DESCRIPTION:A Lua nasce no leste quando o Sol se põe e atravessa a noite 
  inteira. A Terra está entre os dois\, então vemos o lado iluminado de fr
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Quarto minguante
 DTSTART:20261231T030000Z
 DTEND:20261231T033000Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:lua-Quarto_minguante-20261230@agenda-do-mundo
 DESCRIPTION:A Lua nasce por volta da meia-noite e fica no céu de manhã. 
  Quem acorda cedo vê a metade iluminada a oeste.\n\nNasce às 0h00 de 31/1
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Lua nova
 DTSTART:20270107T231800Z
 DTEND:20270107T234800Z
-DTSTAMP:20261113T204709Z
+DTSTAMP:20261113T210308Z
 UID:lua-Lua_nova-20270107@agenda-do-mundo
 DESCRIPTION:Noite sem Lua: a semana mais escura do mês\, a melhor para ve
  r estrelas fracas e a Via Láctea longe das luzes. A Lua está entre a Ter
