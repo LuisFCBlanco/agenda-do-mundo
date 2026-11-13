@@ -314,7 +314,7 @@ def area_economia(reg):
     seg = HOJE + timedelta(days=(7 - HOJE.weekday()) % 7)
     t = datetime(seg.year, seg.month, seg.day, 9, tzinfo=TZ)
     out.append(ev(f"eco-selic-{seg:%Y%m%d}", f"Selic em vigor: {br(float(selic['valor']))}% ao ano", t, t + timedelta(minutes=15),
-                  f"Meta da taxa Selic definida pelo Copom, em vigor desde o último dado publicado ({selic['data']}).\n"
+                  f"Meta da taxa Selic definida pelo Copom. Valor em vigor no último dado publicado pelo Banco Central ({selic['data']}).\n"
                   "É a taxa que o Banco Central usa para puxar os juros da economia: quando sobe, crédito fica mais caro e o consumo esfria, o que segura a inflação.\n\n"
                   "Base: Banco Central do Brasil, SGS série 432."))
     dol = sgs(1, 5)
