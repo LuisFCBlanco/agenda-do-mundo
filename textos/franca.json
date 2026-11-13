@@ -1,1 +1,152 @@
-[]
+[
+ {
+  "area": "natureza",
+  "titulo": "Seriema gritando ao amanhecer",
+  "data": "2026-11-15",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "No começo da manhã, nos pastos e campos de Cerrado, o grito alto da seriema se ouve de longe. Os casais cantam juntos para marcar território. A primavera é a época de reprodução, e o canto fica mais frequente enquanto fazem ninho e criam os filhotes.",
+  "confianca": "sazonal",
+  "fonte": "fenologia do Cerrado paulista"
+ },
+ {
+  "area": "natureza",
+  "titulo": "Revoada de aleluias no fim da tarde",
+  "data": "2026-11-17",
+  "hora": "18:30",
+  "duracao_min": 30,
+  "descricao": "No fim da tarde, depois da chuva, nuvens de aleluias saem dos cupinzeiros e voam em volta das luzes. São cupins alados que deixam a colônia para formar novos ninhos. A umidade do solo depois das primeiras chuvas fortes é o gatilho da revoada, e logo eles perdem as asas.",
+  "confianca": "sazonal",
+  "fonte": "fenologia do Cerrado paulista"
+ },
+ {
+  "area": "natureza",
+  "titulo": "Tesourinhas caçando insetos no voo",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em fios e cercas de beira de estrada aparecem as tesourinhas, com a cauda longa e bifurcada, saltando para pegar insetos no ar. Elas chegam do norte no início da primavera para se reproduzir aqui. Com as chuvas, a quantidade de insetos cresce e garante comida para os filhotes.",
+  "confianca": "sazonal",
+  "fonte": "fenologia do Cerrado paulista"
+ },
+ {
+  "area": "natureza",
+  "titulo": "Gabiroba madura no Cerrado",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos campos e beiras de Cerrado, os pés baixos de gabiroba mostram frutinhos amarelos e perfumados. A planta floresce com as primeiras chuvas e frutifica logo em seguida. Aves e outros bichos comem os frutos e espalham as sementes.",
+  "confianca": "sazonal",
+  "fonte": "fenologia do Cerrado paulista"
+ },
+ {
+  "area": "natureza",
+  "titulo": "Cigarras no calor da tarde",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas tardes quentes, as cigarras cantam alto nas árvores das ruas e chácaras. As ninfas saem do chão quando a terra amolece com a chuva e fazem a última muda presas aos troncos. Os machos cantam para atrair as fêmeas, e a temporada segue enquanto durar o calor.",
+  "confianca": "sazonal",
+  "fonte": "fenologia do Cerrado paulista"
+ },
+ {
+  "area": "campo",
+  "titulo": "Café formando os chumbinhos",
+  "data": "2026-11-14",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos cafezais da Alta Mogiana, os frutos novos do café, ainda pequenos e verdes, estão presos nos ramos depois da florada. É a fase chamada de chumbinho. A chuva agora é decisiva para os grãos crescerem, e o produtor faz adubação e controle de mato nesta época.",
+  "confianca": "sazonal",
+  "fonte": "calendário agrícola da Embrapa para o Sudeste"
+ },
+ {
+  "area": "campo",
+  "titulo": "Plantio da soja de verão",
+  "data": "2026-11-16",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Plantadeiras trabalham nas lavouras da região semeando a soja. O plantio acompanha a volta das chuvas, porque a semente precisa de solo úmido para germinar. A colheita fica para o fim do verão.",
+  "confianca": "sazonal",
+  "fonte": "calendário agrícola da Embrapa para o Sudeste"
+ },
+ {
+  "area": "campo",
+  "titulo": "Usinas fechando a safra da cana",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "O movimento de caminhões de cana diminui à medida que as usinas encerram a moagem. A colheita da cana se concentra no período seco, e a chuva dificulta o corte e o transporte. Começa a entressafra, quando as usinas fazem manutenção e os canaviais rebrotam.",
+  "confianca": "sazonal",
+  "fonte": "calendário agrícola da Embrapa para o Sudeste"
+ },
+ {
+  "area": "campo",
+  "titulo": "Melancia e manga na feira",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Melancias e as primeiras mangas da safra ganham espaço nas bancas. São frutas de calor, que amadurecem melhor com dias longos e quentes. A oferta costuma crescer daqui até o verão.",
+  "confianca": "sazonal",
+  "fonte": "Ceagesp, calendário de safra"
+ },
+ {
+  "area": "campo",
+  "titulo": "Pêssego da safra paulista",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "O pêssego começa a aparecer nas feiras, vindo dos pomares paulistas. Ele precisa do frio do inverno para florir e amadurece no fim da primavera. A temporada é curta, por isso a fruta some das bancas no começo do ano.",
+  "confianca": "sazonal",
+  "fonte": "Ceagesp, calendário de safra"
+ },
+ {
+  "area": "historia",
+  "titulo": "Mariner 9 entra em órbita de Marte (1971)",
+  "data": "2026-11-14",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Neste dia, em 1971, a sonda Mariner 9 se tornou a primeira nave a entrar em órbita de outro planeta. Ao chegar, encontrou Marte coberto por uma tempestade de poeira e esperou ela baixar. Depois fotografou vulcões, cânions e leitos secos que mudaram o que se sabia sobre o planeta.",
+  "confianca": "agenda",
+  "fonte": "NASA, histórico da Mariner 9"
+ },
+ {
+  "area": "historia",
+  "titulo": "Fundada a UNESCO (1945)",
+  "data": "2026-11-16",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Neste dia, em 1945, foi assinada em Londres a constituição da UNESCO, agência da ONU para educação, ciência e cultura. Ela surgiu no fim da Segunda Guerra com a ideia de construir a paz pela cooperação entre os povos. Hoje é a UNESCO que mantém a lista do Patrimônio Mundial.",
+  "confianca": "agenda",
+  "fonte": "história da UNESCO"
+ },
+ {
+  "area": "historia",
+  "titulo": "Adotada a bandeira do Brasil republicano (1889)",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Neste dia, em 1889, quatro dias depois da Proclamação da República, foi adotada a bandeira com o céu estrelado e o lema Ordem e Progresso. O céu representa as estrelas vistas sobre o Rio de Janeiro na manhã de 15 de novembro. Por isso a data é o Dia da Bandeira.",
+  "confianca": "agenda",
+  "fonte": "história do Brasil"
+ },
+ {
+  "area": "historia",
+  "titulo": "Primeiro voo humano em balão (1783)",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Neste dia, em 1783, Pilâtre de Rozier e o marquês d'Arlandes subiram sobre Paris num balão de ar quente dos irmãos Montgolfier. Foi o primeiro voo livre tripulado da história. O ar aquecido fica mais leve que o ar em volta, e isso faz o balão subir.",
+  "confianca": "agenda",
+  "fonte": "história da aviação"
+ },
+ {
+  "area": "historia",
+  "titulo": "Concorde começa a voar para Nova York (1977)",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Neste dia, em 1977, o Concorde começou os voos regulares de Londres e de Paris para Nova York. O avião voava mais rápido que o som e cruzava o Atlântico em bem menos tempo que um jato comum. O barulho e o alto consumo de combustível limitaram as rotas, e ele saiu de operação em 2003.",
+  "confianca": "agenda",
+  "fonte": "história da aviação"
+ }
+]

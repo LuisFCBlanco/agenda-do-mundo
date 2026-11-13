@@ -1,1 +1,152 @@
-[]
+[
+ {
+  "area": "natureza",
+  "titulo": "Revoada de içás depois da chuva",
+  "data": "2026-11-14",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Depois de uma chuva forte seguida de sol, as içás saem dos formigueiros de saúva e enchem o ar e as calçadas. São as rainhas e os machos alados num voo de acasalamento. A terra úmida e quente da primavera é o sinal para a revoada, e cada rainha que sobrevive cava sozinha um novo formigueiro.",
+  "confianca": "sazonal",
+  "fonte": "fenologia da Mata Atlântica no Sudeste"
+ },
+ {
+  "area": "natureza",
+  "titulo": "Sabiá-laranjeira cantando antes do sol",
+  "data": "2026-11-16",
+  "hora": "05:00",
+  "duracao_min": 30,
+  "descricao": "Antes de clarear, o sabiá-laranjeira canta forte e repetido de cima de árvores e postes. É a época de reprodução, e o canto marca território e atrai a fêmea. O dia longo da primavera e a fartura de insetos e frutos dão energia para criar os filhotes agora.",
+  "confianca": "sazonal",
+  "fonte": "fenologia da Mata Atlântica no Sudeste"
+ },
+ {
+  "area": "natureza",
+  "titulo": "Flamboyant abrindo as flores vermelhas",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas praças e beiras de estrada do Vale, os flamboyants começam a cobrir a copa de flores vermelho alaranjadas. A árvore floresce no fim da primavera, quando o calor e as primeiras chuvas firmes chegam juntos. As folhas novas e as flores aparecem quase ao mesmo tempo, depois do inverno seco.",
+  "confianca": "sazonal",
+  "fonte": "fenologia da Mata Atlântica no Sudeste"
+ },
+ {
+  "area": "natureza",
+  "titulo": "Cigarras cantando nas tardes quentes",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas tardes de calor, o chiado das cigarras toma conta das árvores. As ninfas passaram anos debaixo da terra sugando raízes e sobem agora, quando o solo amolece com a chuva. O canto é dos machos chamando as fêmeas, e a casca seca que fica presa nos troncos é a pele da última muda.",
+  "confianca": "sazonal",
+  "fonte": "fenologia da Mata Atlântica no Sudeste"
+ },
+ {
+  "area": "natureza",
+  "titulo": "Vaga-lumes nas noites úmidas",
+  "data": "2026-11-22",
+  "hora": "19:30",
+  "duracao_min": 30,
+  "descricao": "Logo depois do anoitecer, em pastos e beiras de mato, aparecem os piscas dos vaga-lumes. Cada espécie tem seu ritmo de luz, que serve para machos e fêmeas se encontrarem. As noites quentes e úmidas do fim da primavera são o período de acasalamento de muitas delas.",
+  "confianca": "sazonal",
+  "fonte": "fenologia da Mata Atlântica no Sudeste"
+ },
+ {
+  "area": "campo",
+  "titulo": "Plantio do arroz nas várzeas do Vale",
+  "data": "2026-11-15",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas várzeas do Paraíba, os tabuleiros de arroz irrigado estão sendo preparados e plantados, alguns já com água parada e mudas verdes. O Vale tem tradição antiga de arroz nas terras baixas perto do rio. A época de plantio acompanha o calor e as chuvas, para a colheita cair no fim do verão.",
+  "confianca": "sazonal",
+  "fonte": "calendário agrícola da Embrapa para o Sudeste"
+ },
+ {
+  "area": "campo",
+  "titulo": "Pasto voltando a ficar verde",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Os pastos das fazendas de leite, que estavam secos no inverno, voltam a ficar verdes. Com chuva e calor, o capim cresce rápido e o gado depende menos de silagem e ração. É a fase em que o produtor de leite costuma ter comida farta no pasto.",
+  "confianca": "sazonal",
+  "fonte": "calendário agrícola da Embrapa para o Sudeste"
+ },
+ {
+  "area": "campo",
+  "titulo": "Manga chegando à feira",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "As primeiras mangas da nova safra começam a aparecer nas bancas. As mangueiras floriram no fim do inverno, e os frutos amadurecem com o calor da primavera. A oferta tende a crescer até o verão.",
+  "confianca": "sazonal",
+  "fonte": "Ceagesp, calendário de safra"
+ },
+ {
+  "area": "campo",
+  "titulo": "Abacaxi doce na banca",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "O abacaxi fica mais comum e mais doce nas feiras nesta época. A safra principal começa na virada da primavera para o verão, quando o calor acelera o amadurecimento. Fruta colhida no ponto certo não adoça mais depois, por isso a época faz diferença.",
+  "confianca": "sazonal",
+  "fonte": "Ceagesp, calendário de safra"
+ },
+ {
+  "area": "campo",
+  "titulo": "Quiabo, abobrinha e pepino em alta",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Quiabo, abobrinha e pepino aparecem com fartura nas feiras. São hortaliças de clima quente, que crescem rápido quando os dias esquentam e chove. Com mais oferta, a qualidade costuma ser boa e o produto chega fresco.",
+  "confianca": "sazonal",
+  "fonte": "Ceagesp, calendário de safra"
+ },
+ {
+  "area": "historia",
+  "titulo": "Apollo 12 decola rumo à Lua (1969)",
+  "data": "2026-11-14",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Neste dia, em 1969, a Apollo 12 decolou da Flórida para o segundo pouso tripulado na Lua. O foguete foi atingido por raios logo depois da decolagem e a missão seguiu mesmo assim. A tripulação pousou perto da sonda Surveyor 3 e trouxe peças dela de volta para estudo.",
+  "confianca": "agenda",
+  "fonte": "NASA, histórico das missões Apollo"
+ },
+ {
+  "area": "historia",
+  "titulo": "Inauguração do Canal de Suez (1869)",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Neste dia, em 1869, foi inaugurado o Canal de Suez, no Egito, ligando o Mediterrâneo ao Mar Vermelho. A obra permitiu que navios entre a Europa e a Ásia deixassem de contornar a África. Foi uma das maiores obras de engenharia do século 19 e mudou as rotas do comércio mundial.",
+  "confianca": "agenda",
+  "fonte": "história da engenharia"
+ },
+ {
+  "area": "historia",
+  "titulo": "Ferrovias adotam a hora padrão (1883)",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Neste dia, em 1883, as ferrovias dos Estados Unidos e do Canadá passaram a usar fusos horários padronizados. Antes, cada cidade seguia a hora do próprio sol, o que bagunçava os horários dos trens. A ideia dos fusos se espalhou pelo mundo e é a base da hora que usamos hoje.",
+  "confianca": "agenda",
+  "fonte": "história da medição do tempo"
+ },
+ {
+  "area": "historia",
+  "titulo": "Lançado o primeiro módulo da Estação Espacial (1998)",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Neste dia, em 1998, foi lançado o Zarya, primeiro módulo da Estação Espacial Internacional. A estação foi montada em órbita peça por peça, por vários países. Desde então ela virou laboratório de pesquisa em microgravidade.",
+  "confianca": "agenda",
+  "fonte": "histórico da Estação Espacial Internacional"
+ },
+ {
+  "area": "historia",
+  "titulo": "Hubble mostra que Andrômeda é outra galáxia (1924)",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Neste dia, em 1924, o jornal The New York Times noticiou a descoberta de Edwin Hubble de que a nebulosa de Andrômeda fica fora da Via Láctea. Ele mediu estrelas variáveis ali e concluiu que estavam longe demais para pertencer à nossa galáxia. A descoberta mostrou que o universo tem muitas galáxias.",
+  "confianca": "agenda",
+  "fonte": "história da astronomia"
+ }
+]
