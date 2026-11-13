@@ -1,0 +1,42 @@
+[
+ {
+  "uid": "txt-natureza-20261115-seriema-gritando-ao-amanhecer",
+  "titulo": "Seriema gritando ao amanhecer",
+  "dia_todo": false,
+  "inicio": "2026-11-15T05:30:00-03:00",
+  "fim": "2026-11-15T06:00:00-03:00",
+  "descricao": "No começo da manhã, nos pastos e campos de Cerrado, o grito alto da seriema se ouve de longe. Os casais cantam juntos para marcar território. A primavera é a época de reprodução, e o canto fica mais frequente enquanto fazem ninho e criam os filhotes.\n\nTípico desta época na região.\nBase: fenologia do Cerrado paulista\n\nTexto escrito por IA (Claude) a partir de conhecimento sobre a época e a região; não é dado medido."
+ },
+ {
+  "uid": "txt-natureza-20261117-revoada-de-aleluias-no-fim-da-tarde",
+  "titulo": "Revoada de aleluias no fim da tarde",
+  "dia_todo": false,
+  "inicio": "2026-11-17T18:30:00-03:00",
+  "fim": "2026-11-17T19:00:00-03:00",
+  "descricao": "No fim da tarde, depois da chuva, nuvens de aleluias saem dos cupinzeiros e voam em volta das luzes. São cupins alados que deixam a colônia para formar novos ninhos. A umidade do solo depois das primeiras chuvas fortes é o gatilho da revoada, e logo eles perdem as asas.\n\nTípico desta época na região.\nBase: fenologia do Cerrado paulista\n\nTexto escrito por IA (Claude) a partir de conhecimento sobre a época e a região; não é dado medido."
+ },
+ {
+  "uid": "txt-natureza-20261119-tesourinhas-cacando-insetos-no-voo",
+  "titulo": "Tesourinhas caçando insetos no voo",
+  "dia_todo": true,
+  "inicio": "2026-11-19",
+  "fim": "2026-11-20",
+  "descricao": "Em fios e cercas de beira de estrada aparecem as tesourinhas, com a cauda longa e bifurcada, saltando para pegar insetos no ar. Elas chegam do norte no início da primavera para se reproduzir aqui. Com as chuvas, a quantidade de insetos cresce e garante comida para os filhotes.\n\nTípico desta época na região.\nBase: fenologia do Cerrado paulista\n\nTexto escrito por IA (Claude) a partir de conhecimento sobre a época e a região; não é dado medido."
+ },
+ {
+  "uid": "txt-natureza-20261121-gabiroba-madura-no-cerrado",
+  "titulo": "Gabiroba madura no Cerrado",
+  "dia_todo": true,
+  "inicio": "2026-11-21",
+  "fim": "2026-11-22",
+  "descricao": "Nos campos e beiras de Cerrado, os pés baixos de gabiroba mostram frutinhos amarelos e perfumados. A planta floresce com as primeiras chuvas e frutifica logo em seguida. Aves e outros bichos comem os frutos e espalham as sementes.\n\nTípico desta época na região.\nBase: fenologia do Cerrado paulista\n\nTexto escrito por IA (Claude) a partir de conhecimento sobre a época e a região; não é dado medido."
+ },
+ {
+  "uid": "txt-natureza-20261123-cigarras-no-calor-da-tarde",
+  "titulo": "Cigarras no calor da tarde",
+  "dia_todo": true,
+  "inicio": "2026-11-23",
+  "fim": "2026-11-24",
+  "descricao": "Nas tardes quentes, as cigarras cantam alto nas árvores das ruas e chácaras. As ninfas saem do chão quando a terra amolece com a chuva e fazem a última muda presas aos troncos. Os machos cantam para atrair as fêmeas, e a temporada segue enquanto durar o calor.\n\nTípico desta época na região.\nBase: fenologia do Cerrado paulista\n\nTexto escrito por IA (Claude) a partir de conhecimento sobre a época e a região; não é dado medido."
+ }
+]

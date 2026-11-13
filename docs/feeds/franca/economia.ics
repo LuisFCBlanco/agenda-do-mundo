@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Dólar na semana: R$ 5\,6518 (+2\,49%)
 DTSTART:20261113T210000Z
 DTEND:20261113T211500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:eco-dolar-202646@agenda-do-mundo
 DESCRIPTION:PTAX de venda\, dia a dia:\n09/11: R$ 5\,5146\n10/11: R$ 5\,58
  40\n11/11: R$ 5\,5606\n12/11: R$ 5\,6143\n13/11: R$ 5\,6518\n\nMínima R$ 
@@ -25,13 +25,13 @@ BEGIN:VEVENT
 SUMMARY:Selic em vigor: 13\,75% ao ano
 DTSTART:20261116T120000Z
 DTEND:20261116T121500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:eco-selic-20261116@agenda-do-mundo
-DESCRIPTION:Meta da taxa Selic definida pelo Copom\, em vigor desde o últ
- imo dado publicado (09/12/2026).\nÉ a taxa que o Banco Central usa para p
- uxar os juros da economia: quando sobe\, crédito fica mais caro e o consu
- mo esfria\, o que segura a inflação.\n\nBase: Banco Central do Brasil\, 
- SGS série 432.
+DESCRIPTION:Meta da taxa Selic definida pelo Copom. Valor em vigor no últ
+ imo dado publicado pelo Banco Central (09/12/2026).\nÉ a taxa que o Banco
+  Central usa para puxar os juros da economia: quando sobe\, crédito fica 
+ mais caro e o consumo esfria\, o que segura a inflação.\n\nBase: Banco C
+ entral do Brasil\, SGS série 432.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

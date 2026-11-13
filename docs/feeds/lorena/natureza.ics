@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:O que está florindo, frutificando, cantando e voando na regi
+ ão nesta época do ano. Agenda do Mundo.
+X-WR-CALNAME:Natureza da estação · Lorena e Vale do Paraíba
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Revoada de içás depois da chuva
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261113T204709Z
+UID:txt-natureza-20261114-revoada-de-icas-depois-da-chuva@agenda-do-mundo
+DESCRIPTION:Depois de uma chuva forte seguida de sol\, as içás saem dos 
+ formigueiros de saúva e enchem o ar e as calçadas. São as rainhas e os 
+ machos alados num voo de acasalamento. A terra úmida e quente da primaver
+ a é o sinal para a revoada\, e cada rainha que sobrevive cava sozinha um 
+ novo formigueiro.\n\nTípico desta época na região.\nBase: fenologia da 
+ Mata Atlântica no Sudeste\n\nTexto escrito por IA (Claude) a partir de co
+ nhecimento sobre a época e a região\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sabiá-laranjeira cantando antes do sol
+DTSTART:20261116T080000Z
+DTEND:20261116T083000Z
+DTSTAMP:20261113T204709Z
+UID:txt-natureza-20261116-sabia-laranjeira-cantando-antes-do-sol@agenda-do
+ -mundo
+DESCRIPTION:Antes de clarear\, o sabiá-laranjeira canta forte e repetido 
+ de cima de árvores e postes. É a época de reprodução\, e o canto marc
+ a território e atrai a fêmea. O dia longo da primavera e a fartura de in
+ setos e frutos dão energia para criar os filhotes agora.\n\nTípico desta
+  época na região.\nBase: fenologia da Mata Atlântica no Sudeste\n\nText
+ o escrito por IA (Claude) a partir de conhecimento sobre a época e a regi
+ ão\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flamboyant abrindo as flores vermelhas
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261113T204709Z
+UID:txt-natureza-20261118-flamboyant-abrindo-as-flores-vermelhas@agenda-do
+ -mundo
+DESCRIPTION:Nas praças e beiras de estrada do Vale\, os flamboyants come
+ çam a cobrir a copa de flores vermelho alaranjadas. A árvore floresce no
+  fim da primavera\, quando o calor e as primeiras chuvas firmes chegam jun
+ tos. As folhas novas e as flores aparecem quase ao mesmo tempo\, depois do
+  inverno seco.\n\nTípico desta época na região.\nBase: fenologia da Mat
+ a Atlântica no Sudeste\n\nTexto escrito por IA (Claude) a partir de conhe
+ cimento sobre a época e a região\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cigarras cantando nas tardes quentes
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20261113T204709Z
+UID:txt-natureza-20261120-cigarras-cantando-nas-tardes-quentes@agenda-do-m
+ undo
+DESCRIPTION:Nas tardes de calor\, o chiado das cigarras toma conta das ár
+ vores. As ninfas passaram anos debaixo da terra sugando raízes e sobem ag
+ ora\, quando o solo amolece com a chuva. O canto é dos machos chamando as
+  fêmeas\, e a casca seca que fica presa nos troncos é a pele da última 
+ muda.\n\nTípico desta época na região.\nBase: fenologia da Mata Atlânt
+ ica no Sudeste\n\nTexto escrito por IA (Claude) a partir de conhecimento s
+ obre a época e a região\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vaga-lumes nas noites úmidas
+DTSTART:20261122T223000Z
+DTEND:20261122T230000Z
+DTSTAMP:20261113T204709Z
+UID:txt-natureza-20261122-vaga-lumes-nas-noites-umidas@agenda-do-mundo
+DESCRIPTION:Logo depois do anoitecer\, em pastos e beiras de mato\, aparec
+ em os piscas dos vaga-lumes. Cada espécie tem seu ritmo de luz\, que serv
+ e para machos e fêmeas se encontrarem. As noites quentes e úmidas do fim
+  da primavera são o período de acasalamento de muitas delas.\n\nTípico 
+ desta época na região.\nBase: fenologia da Mata Atlântica no Sudeste\n
+ \nTexto escrito por IA (Claude) a partir de conhecimento sobre a época e 
+ a região\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

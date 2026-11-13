@@ -1,6 +1,6 @@
 {
  "projeto": "Agenda do Mundo",
- "gerado_em": "2026-11-13T17:36-03:00",
+ "gerado_em": "2026-11-13T17:47-03:00",
  "regioes": [
   {
    "id": "lorena",
@@ -186,6 +186,60 @@
       "inicio": "2026-11-15"
      }
     ]
+   },
+   "natureza": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Revoada de içás depois da chuva",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Sabiá-laranjeira cantando antes do sol",
+      "inicio": "2026-11-16T05:00:00-03:00"
+     },
+     {
+      "titulo": "Flamboyant abrindo as flores vermelhas",
+      "inicio": "2026-11-18"
+     }
+    ]
+   },
+   "campo": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Plantio do arroz nas várzeas do Vale",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Pasto voltando a ficar verde",
+      "inicio": "2026-11-17"
+     },
+     {
+      "titulo": "Manga chegando à feira",
+      "inicio": "2026-11-19"
+     }
+    ]
+   },
+   "historia": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Apollo 12 decola rumo à Lua (1969)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Inauguração do Canal de Suez (1869)",
+      "inicio": "2026-11-17"
+     },
+     {
+      "titulo": "Ferrovias adotam a hora padrão (1883)",
+      "inicio": "2026-11-18"
+     }
+    ]
    }
   },
   "franca": {
@@ -292,17 +346,65 @@
       "inicio": "2026-11-15"
      }
     ]
+   },
+   "natureza": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Seriema gritando ao amanhecer",
+      "inicio": "2026-11-15T05:30:00-03:00"
+     },
+     {
+      "titulo": "Revoada de aleluias no fim da tarde",
+      "inicio": "2026-11-17T18:30:00-03:00"
+     },
+     {
+      "titulo": "Tesourinhas caçando insetos no voo",
+      "inicio": "2026-11-19"
+     }
+    ]
+   },
+   "campo": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Café formando os chumbinhos",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Plantio da soja de verão",
+      "inicio": "2026-11-16"
+     },
+     {
+      "titulo": "Usinas fechando a safra da cana",
+      "inicio": "2026-11-18"
+     }
+    ]
+   },
+   "historia": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Mariner 9 entra em órbita de Marte (1971)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Fundada a UNESCO (1945)",
+      "inicio": "2026-11-16"
+     },
+     {
+      "titulo": "Adotada a bandeira do Brasil republicano (1889)",
+      "inicio": "2026-11-19"
+     }
+    ]
    }
   }
  },
  "avisos": [
   "lorena/aves: sem EBIRD_KEY",
-  "lorena/natureza: nenhum texto válido para esta área",
-  "lorena/campo: nenhum texto válido para esta área",
-  "lorena/historia: nenhum texto válido para esta área",
-  "franca/aves: sem EBIRD_KEY",
-  "franca/natureza: nenhum texto válido para esta área",
-  "franca/campo: nenhum texto válido para esta área",
-  "franca/historia: nenhum texto válido para esta área"
+  "franca/aves: sem EBIRD_KEY"
  ]
 }

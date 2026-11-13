@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h04
 DTSTART:20261106T082100Z
 DTEND:20261106T083100Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261106@agenda-do-mundo
 DESCRIPTION:Nascer às 5h21\, a 177° (sul). Dia de 13h04 (+1\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261106T212500Z
 DTEND:20261106T213500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261106@agenda-do-mundo
 DESCRIPTION:Pôr às 18h25\, a 108° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Lua perto de Vênus
 DTSTART:20261107T080000Z
 DTEND:20261107T083000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-conj-Venus-2026110705@agenda-do-mundo
 DESCRIPTION:Antes do amanhecer\, Vênus fica a 0\,9° da Lua\, a leste\, b
  em baixo. Um punho fechado com o braço esticado cobre uns 10° de céu\, 
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h05
 DTSTART:20261107T082000Z
 DTEND:20261107T083000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261107@agenda-do-mundo
 DESCRIPTION:Nascer às 5h20\, a 177° (sul). Dia de 13h05 (+1\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261107T212600Z
 DTEND:20261107T213600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261107@agenda-do-mundo
 DESCRIPTION:Pôr às 18h26\, a 108° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h06
 DTSTART:20261108T082000Z
 DTEND:20261108T083000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261108@agenda-do-mundo
 DESCRIPTION:Nascer às 5h20\, a 177° (sul). Dia de 13h06 (+1\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261108T212600Z
 DTEND:20261108T213600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261108@agenda-do-mundo
 DESCRIPTION:Pôr às 18h26\, a 108° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -90,7 +90,7 @@ SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
  rte
 DTSTART:20261109T075900Z
 DTEND:20261109T082900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-manha-20261109@agenda-do-mundo
 DESCRIPTION:Às 4h59 desta semana:\nVênus: bem baixo (14°)\, a leste\, b
  rilho -4\,2\nJúpiter: a meia altura (47°)\, a nordeste\, brilho -1\,9\nM
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h07
 DTSTART:20261109T081900Z
 DTEND:20261109T082900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261109@agenda-do-mundo
 DESCRIPTION:Nascer às 5h19\, a 177° (sul). Dia de 13h07 (+1\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261109T212700Z
 DTEND:20261109T213700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261109@agenda-do-mundo
 DESCRIPTION:Pôr às 18h27\, a 109° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
 DTSTART:20261109T214700Z
 DTEND:20261109T221700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-noite-20261109@agenda-do-mundo
 DESCRIPTION:Às 18h47 desta semana:\nSaturno: a meia altura (45°)\, a nor
  deste\, brilho 0\,6\n\nBrilho em magnitude: quanto menor o número\, mais 
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Lua: Lua nova
 DTSTART:20261109T224300Z
 DTEND:20261109T231300Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:lua-Lua_nova-20261109@agenda-do-mundo
 DESCRIPTION:Noite sem Lua: a semana mais escura do mês\, a melhor para ve
  r estrelas fracas e a Via Láctea longe das luzes. A Lua está entre a Ter
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h08
 DTSTART:20261110T081900Z
 DTEND:20261110T082900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261110@agenda-do-mundo
 DESCRIPTION:Nascer às 5h19\, a 177° (sul). Dia de 13h08 (+1\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261110T212700Z
 DTEND:20261110T213700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261110@agenda-do-mundo
 DESCRIPTION:Pôr às 18h27\, a 109° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h09
 DTSTART:20261111T081900Z
 DTEND:20261111T082900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261111@agenda-do-mundo
 DESCRIPTION:Nascer às 5h19\, a 178° (sul). Dia de 13h09 (+1\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261111T212800Z
 DTEND:20261111T213800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261111@agenda-do-mundo
 DESCRIPTION:Pôr às 18h28\, a 109° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h10
 DTSTART:20261112T081800Z
 DTEND:20261112T082800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261112@agenda-do-mundo
 DESCRIPTION:Nascer às 5h18\, a 178° (sul). Dia de 13h10 (+0\,9 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261112T212800Z
 DTEND:20261112T213800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261112@agenda-do-mundo
 DESCRIPTION:Pôr às 18h28\, a 110° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -221,11 +221,11 @@ BEGIN:VEVENT
 SUMMARY:Previsão do tempo: 27° / 17° · chuva 83% · trovoadas
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:clima-20261113@agenda-do-mundo
 DESCRIPTION:Máxima 27 °C\, mínima 17 °C. Chance de chuva 83%\, 5\,4 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 13/11 às 17h36. O Google relê este calendário a cada
+ Previsão feita em 13/11 às 17h47. O Google relê este calendário a cada
   12 a 24 horas\, então a previsão pode estar um dia atrasada.\n\nBase: O
  pen-Meteo\, modelos meteorológicos nacionais combinados.
 TRANSP:TRANSPARENT
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h11
 DTSTART:20261113T081800Z
 DTEND:20261113T082800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261113@agenda-do-mundo
 DESCRIPTION:Nascer às 5h18\, a 178° (sul). Dia de 13h11 (+0\,9 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:Economia: Dólar na semana: R$ 5\,6518 (+2\,49%)
 DTSTART:20261113T210000Z
 DTEND:20261113T211500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:eco-dolar-202646@agenda-do-mundo
 DESCRIPTION:PTAX de venda\, dia a dia:\n09/11: R$ 5\,5146\n10/11: R$ 5\,58
  40\n11/11: R$ 5\,5606\n12/11: R$ 5\,6143\n13/11: R$ 5\,6518\n\nMínima R$ 
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261113T212900Z
 DTEND:20261113T213900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261113@agenda-do-mundo
 DESCRIPTION:Pôr às 18h29\, a 110° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -269,20 +269,51 @@ BEGIN:VEVENT
 SUMMARY:Previsão do tempo: 28° / 17° · chuva 67% · garoa fraca
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:clima-20261114@agenda-do-mundo
 DESCRIPTION:Máxima 28 °C\, mínima 17 °C. Chance de chuva 67%\, 0\,5 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 13/11 às 17h36. O Google relê este calendário a cada
+ Previsão feita em 13/11 às 17h47. O Google relê este calendário a cada
   12 a 24 horas\, então a previsão pode estar um dia atrasada.\n\nBase: O
  pen-Meteo\, modelos meteorológicos nacionais combinados.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Campo e safra: Café formando os chumbinhos
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261113T204709Z
+UID:txt-campo-20261114-cafe-formando-os-chumbinhos@agenda-do-mundo
+DESCRIPTION:Nos cafezais da Alta Mogiana\, os frutos novos do café\, aind
+ a pequenos e verdes\, estão presos nos ramos depois da florada. É a fase
+  chamada de chumbinho. A chuva agora é decisiva para os grãos crescerem
+ \, e o produtor faz adubação e controle de mato nesta época.\n\nTípico
+  desta época na região.\nBase: calendário agrícola da Embrapa para o S
+ udeste\n\nTexto escrito por IA (Claude) a partir de conhecimento sobre a 
+ época e a região\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aconteceu neste dia: Mariner 9 entra em órbita de Marte (1971)
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261113T204709Z
+UID:txt-historia-20261114-mariner-9-entra-em-orbita-de-marte--1971@agenda-
+ do-mundo
+DESCRIPTION:Neste dia\, em 1971\, a sonda Mariner 9 se tornou a primeira n
+ ave a entrar em órbita de outro planeta. Ao chegar\, encontrou Marte cobe
+ rto por uma tempestade de poeira e esperou ela baixar. Depois fotografou v
+ ulcões\, cânions e leitos secos que mudaram o que se sabia sobre o plane
+ ta.\n\nData fixa e conhecida.\nBase: NASA\, histórico da Mariner 9\n\nTex
+ to escrito por IA (Claude) a partir de conhecimento sobre a época e a reg
+ ião\; não é dado medido.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h12
 DTSTART:20261114T081800Z
 DTEND:20261114T082800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261114@agenda-do-mundo
 DESCRIPTION:Nascer às 5h18\, a 178° (sul). Dia de 13h12 (+0\,9 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -294,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261114T213000Z
 DTEND:20261114T214000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261114@agenda-do-mundo
 DESCRIPTION:Pôr às 18h30\, a 110° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -304,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Feriados: Proclamação da República
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:feriado-20261115@agenda-do-mundo
 DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
  agenda.\n\nBase: biblioteca holidays (python-holidays).
@@ -314,10 +345,10 @@ BEGIN:VEVENT
 SUMMARY:Previsão do tempo: 29° / 19° · chuva 86% · pancadas
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:clima-20261115@agenda-do-mundo
 DESCRIPTION:Máxima 29 °C\, mínima 19 °C. Chance de chuva 86%\, 9\,1 mm
-  previstos. Índice UV máximo 8.\n\nPrevisão feita em 13/11 às 17h36. O
+  previstos. Índice UV máximo 8.\n\nPrevisão feita em 13/11 às 17h47. O
   Google relê este calendário a cada 12 a 24 horas\, então a previsão p
  ode estar um dia atrasada.\n\nBase: Open-Meteo\, modelos meteorológicos n
  acionais combinados.
@@ -327,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h13
 DTSTART:20261115T081700Z
 DTEND:20261115T082700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261115@agenda-do-mundo
 DESCRIPTION:Nascer às 5h17\, a 178° (sul). Dia de 13h13 (+0\,9 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -336,10 +367,25 @@ DESCRIPTION:Nascer às 5h17\, a 178° (sul). Dia de 13h13 (+0\,9 min em re
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Natureza da estação: Seriema gritando ao amanhecer
+DTSTART:20261115T083000Z
+DTEND:20261115T090000Z
+DTSTAMP:20261113T204709Z
+UID:txt-natureza-20261115-seriema-gritando-ao-amanhecer@agenda-do-mundo
+DESCRIPTION:No começo da manhã\, nos pastos e campos de Cerrado\, o grit
+ o alto da seriema se ouve de longe. Os casais cantam juntos para marcar te
+ rritório. A primavera é a época de reprodução\, e o canto fica mais f
+ requente enquanto fazem ninho e criam os filhotes.\n\nTípico desta época
+  na região.\nBase: fenologia do Cerrado paulista\n\nTexto escrito por IA 
+ (Claude) a partir de conhecimento sobre a época e a região\; não é dad
+ o medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261115T213000Z
 DTEND:20261115T214000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261115@agenda-do-mundo
 DESCRIPTION:Pôr às 18h30\, a 110° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -349,13 +395,42 @@ BEGIN:VEVENT
 SUMMARY:Previsão do tempo: 26° / 18° · chuva 82% · trovoadas
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:clima-20261116@agenda-do-mundo
 DESCRIPTION:Máxima 26 °C\, mínima 18 °C. Chance de chuva 82%\, 11\,3 m
- m previstos. Índice UV máximo 6.\n\nPrevisão feita em 13/11 às 17h36. 
+ m previstos. Índice UV máximo 6.\n\nPrevisão feita em 13/11 às 17h47. 
  O Google relê este calendário a cada 12 a 24 horas\, então a previsão 
  pode estar um dia atrasada.\n\nBase: Open-Meteo\, modelos meteorológicos 
  nacionais combinados.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Campo e safra: Plantio da soja de verão
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261113T204709Z
+UID:txt-campo-20261116-plantio-da-soja-de-verao@agenda-do-mundo
+DESCRIPTION:Plantadeiras trabalham nas lavouras da região semeando a soja
+ . O plantio acompanha a volta das chuvas\, porque a semente precisa de sol
+ o úmido para germinar. A colheita fica para o fim do verão.\n\nTípico d
+ esta época na região.\nBase: calendário agrícola da Embrapa para o Sud
+ este\n\nTexto escrito por IA (Claude) a partir de conhecimento sobre a ép
+ oca e a região\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aconteceu neste dia: Fundada a UNESCO (1945)
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261113T204709Z
+UID:txt-historia-20261116-fundada-a-unesco--1945-@agenda-do-mundo
+DESCRIPTION:Neste dia\, em 1945\, foi assinada em Londres a constituição
+  da UNESCO\, agência da ONU para educação\, ciência e cultura. Ela sur
+ giu no fim da Segunda Guerra com a ideia de construir a paz pela cooperaç
+ ão entre os povos. Hoje é a UNESCO que mantém a lista do Patrimônio Mu
+ ndial.\n\nData fixa e conhecida.\nBase: história da UNESCO\n\nTexto escri
+ to por IA (Claude) a partir de conhecimento sobre a época e a região\; n
+ ão é dado medido.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -363,7 +438,7 @@ SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
  rte
 DTSTART:20261116T075600Z
 DTEND:20261116T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-manha-20261116@agenda-do-mundo
 DESCRIPTION:Às 4h56 desta semana:\nVênus: baixo (19°)\, a leste\, brilh
  o -4\,4\nJúpiter: a meia altura (50°)\, a nordeste\, brilho -2\,0\nMarte
@@ -378,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h14
 DTSTART:20261116T081700Z
 DTEND:20261116T082700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261116@agenda-do-mundo
 DESCRIPTION:Nascer às 5h17\, a 178° (sul). Dia de 13h14 (+0\,9 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -390,20 +465,20 @@ BEGIN:VEVENT
 SUMMARY:Economia: Selic em vigor: 13\,75% ao ano
 DTSTART:20261116T120000Z
 DTEND:20261116T121500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:eco-selic-20261116@agenda-do-mundo
-DESCRIPTION:Meta da taxa Selic definida pelo Copom\, em vigor desde o últ
- imo dado publicado (09/12/2026).\nÉ a taxa que o Banco Central usa para p
- uxar os juros da economia: quando sobe\, crédito fica mais caro e o consu
- mo esfria\, o que segura a inflação.\n\nBase: Banco Central do Brasil\, 
- SGS série 432.
+DESCRIPTION:Meta da taxa Selic definida pelo Copom. Valor em vigor no últ
+ imo dado publicado pelo Banco Central (09/12/2026).\nÉ a taxa que o Banco
+  Central usa para puxar os juros da economia: quando sobe\, crédito fica 
+ mais caro e o consumo esfria\, o que segura a inflação.\n\nBase: Banco C
+ entral do Brasil\, SGS série 432.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261116T213100Z
 DTEND:20261116T214100Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261116@agenda-do-mundo
 DESCRIPTION:Pôr às 18h31\, a 111° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -413,7 +488,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
 DTSTART:20261116T215200Z
 DTEND:20261116T222200Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-noite-20261116@agenda-do-mundo
 DESCRIPTION:Às 18h52 desta semana:\nSaturno: a meia altura (52°)\, a nor
  deste\, brilho 0\,6\n\nBrilho em magnitude: quanto menor o número\, mais 
@@ -427,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Pico das Leônidas
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-chuva-Leonidas-2026@agenda-do-mundo
 DESCRIPTION:O radiante nasce de madrugada a leste. A taxa costuma ser baix
  a\, mas os meteoros são rápidos.\n\nLua 57% iluminada na madrugada segui
@@ -440,11 +515,11 @@ BEGIN:VEVENT
 SUMMARY:Previsão do tempo: 24° / 19° · chuva 90% · trovoadas
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:clima-20261117@agenda-do-mundo
 DESCRIPTION:Máxima 24 °C\, mínima 19 °C. Chance de chuva 90%\, 19\,1 m
  m previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n
- \nPrevisão feita em 13/11 às 17h36. O Google relê este calendário a ca
+ \nPrevisão feita em 13/11 às 17h47. O Google relê este calendário a ca
  da 12 a 24 horas\, então a previsão pode estar um dia atrasada.\n\nBase:
   Open-Meteo\, modelos meteorológicos nacionais combinados.
 TRANSP:TRANSPARENT
@@ -453,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h14
 DTSTART:20261117T081700Z
 DTEND:20261117T082700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261117@agenda-do-mundo
 DESCRIPTION:Nascer às 5h17\, a 178° (sul). Dia de 13h14 (+0\,9 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -465,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Lua: Quarto crescente
 DTSTART:20261117T212800Z
 DTEND:20261117T215800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:lua-Quarto_crescente-20261117@agenda-do-mundo
 DESCRIPTION:A Lua aparece meio iluminada à tarde e no começo da noite e 
  se põe por volta da meia-noite. Com binóculo\, a linha entre luz e sombr
@@ -476,10 +551,26 @@ DESCRIPTION:A Lua aparece meio iluminada à tarde e no começo da noite e
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Natureza da estação: Revoada de aleluias no fim da tarde
+DTSTART:20261117T213000Z
+DTEND:20261117T220000Z
+DTSTAMP:20261113T204709Z
+UID:txt-natureza-20261117-revoada-de-aleluias-no-fim-da-tarde@agenda-do-mu
+ ndo
+DESCRIPTION:No fim da tarde\, depois da chuva\, nuvens de aleluias saem do
+ s cupinzeiros e voam em volta das luzes. São cupins alados que deixam a c
+ olônia para formar novos ninhos. A umidade do solo depois das primeiras c
+ huvas fortes é o gatilho da revoada\, e logo eles perdem as asas.\n\nTíp
+ ico desta época na região.\nBase: fenologia do Cerrado paulista\n\nTexto
+  escrito por IA (Claude) a partir de conhecimento sobre a época e a regi
+ ão\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261117T213100Z
 DTEND:20261117T214100Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261117@agenda-do-mundo
 DESCRIPTION:Pôr às 18h31\, a 111° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -489,20 +580,35 @@ BEGIN:VEVENT
 SUMMARY:Previsão do tempo: 26° / 19° · chuva 100% · pancadas fracas
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:clima-20261118@agenda-do-mundo
 DESCRIPTION:Máxima 26 °C\, mínima 19 °C. Chance de chuva 100%\, 12\,3 
  mm previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n
- \nPrevisão feita em 13/11 às 17h36. O Google relê este calendário a ca
+ \nPrevisão feita em 13/11 às 17h47. O Google relê este calendário a ca
  da 12 a 24 horas\, então a previsão pode estar um dia atrasada.\n\nBase:
   Open-Meteo\, modelos meteorológicos nacionais combinados.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Campo e safra: Usinas fechando a safra da cana
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261113T204709Z
+UID:txt-campo-20261118-usinas-fechando-a-safra-da-cana@agenda-do-mundo
+DESCRIPTION:O movimento de caminhões de cana diminui à medida que as usi
+ nas encerram a moagem. A colheita da cana se concentra no período seco\, 
+ e a chuva dificulta o corte e o transporte. Começa a entressafra\, quando
+  as usinas fazem manutenção e os canaviais rebrotam.\n\nTípico desta é
+ poca na região.\nBase: calendário agrícola da Embrapa para o Sudeste\n
+ \nTexto escrito por IA (Claude) a partir de conhecimento sobre a época e 
+ a região\; não é dado medido.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h15
 DTSTART:20261118T081700Z
 DTEND:20261118T082700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261118@agenda-do-mundo
 DESCRIPTION:Nascer às 5h17\, a 178° (sul). Dia de 13h15 (+0\,8 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -514,7 +620,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261118T213200Z
 DTEND:20261118T214200Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261118@agenda-do-mundo
 DESCRIPTION:Pôr às 18h32\, a 111° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -524,20 +630,53 @@ BEGIN:VEVENT
 SUMMARY:Previsão do tempo: 28° / 19° · chuva 91% · pancadas fracas
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:clima-20261119@agenda-do-mundo
 DESCRIPTION:Máxima 28 °C\, mínima 19 °C. Chance de chuva 91%\, 7\,4 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 13/11 às 17h36. O Google relê este calendário a cada
+ Previsão feita em 13/11 às 17h47. O Google relê este calendário a cada
   12 a 24 horas\, então a previsão pode estar um dia atrasada.\n\nBase: O
  pen-Meteo\, modelos meteorológicos nacionais combinados.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natureza da estação: Tesourinhas caçando insetos no voo
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261113T204709Z
+UID:txt-natureza-20261119-tesourinhas-cacando-insetos-no-voo@agenda-do-mun
+ do
+DESCRIPTION:Em fios e cercas de beira de estrada aparecem as tesourinhas\,
+  com a cauda longa e bifurcada\, saltando para pegar insetos no ar. Elas c
+ hegam do norte no início da primavera para se reproduzir aqui. Com as chu
+ vas\, a quantidade de insetos cresce e garante comida para os filhotes.\n
+ \nTípico desta época na região.\nBase: fenologia do Cerrado paulista\n
+ \nTexto escrito por IA (Claude) a partir de conhecimento sobre a época e 
+ a região\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aconteceu neste dia: Adotada a bandeira do Brasil republicano (188
+ 9)
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261113T204709Z
+UID:txt-historia-20261119-adotada-a-bandeira-do-brasil-republicano@agenda-
+ do-mundo
+DESCRIPTION:Neste dia\, em 1889\, quatro dias depois da Proclamação da R
+ epública\, foi adotada a bandeira com o céu estrelado e o lema Ordem e P
+ rogresso. O céu representa as estrelas vistas sobre o Rio de Janeiro na m
+ anhã de 15 de novembro. Por isso a data é o Dia da Bandeira.\n\nData fix
+ a e conhecida.\nBase: história do Brasil\n\nTexto escrito por IA (Claude)
+  a partir de conhecimento sobre a época e a região\; não é dado medido
+ .
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h16
 DTSTART:20261119T081700Z
 DTEND:20261119T082700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261119@agenda-do-mundo
 DESCRIPTION:Nascer às 5h17\, a 178° (sul). Dia de 13h16 (+0\,8 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -549,7 +688,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261119T213300Z
 DTEND:20261119T214300Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261119@agenda-do-mundo
 DESCRIPTION:Pôr às 18h33\, a 112° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -559,17 +698,31 @@ BEGIN:VEVENT
 SUMMARY:Feriados: Dia Nacional de Zumbi e da Consciência Negra
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:feriado-20261120@agenda-do-mundo
 DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
  agenda.\n\nBase: biblioteca holidays (python-holidays).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Campo e safra: Melancia e manga na feira
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20261113T204709Z
+UID:txt-campo-20261120-melancia-e-manga-na-feira@agenda-do-mundo
+DESCRIPTION:Melancias e as primeiras mangas da safra ganham espaço nas ba
+ ncas. São frutas de calor\, que amadurecem melhor com dias longos e quent
+ es. A oferta costuma crescer daqui até o verão.\n\nTípico desta época 
+ na região.\nBase: Ceagesp\, calendário de safra\n\nTexto escrito por IA 
+ (Claude) a partir de conhecimento sobre a época e a região\; não é dad
+ o medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h17
 DTSTART:20261120T081600Z
 DTEND:20261120T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261120@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 178° (sul). Dia de 13h17 (+0\,8 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -581,17 +734,46 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261120T213300Z
 DTEND:20261120T214300Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261120@agenda-do-mundo
 DESCRIPTION:Pôr às 18h33\, a 112° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Natureza da estação: Gabiroba madura no Cerrado
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261113T204709Z
+UID:txt-natureza-20261121-gabiroba-madura-no-cerrado@agenda-do-mundo
+DESCRIPTION:Nos campos e beiras de Cerrado\, os pés baixos de gabiroba mo
+ stram frutinhos amarelos e perfumados. A planta floresce com as primeiras 
+ chuvas e frutifica logo em seguida. Aves e outros bichos comem os frutos e
+  espalham as sementes.\n\nTípico desta época na região.\nBase: fenologi
+ a do Cerrado paulista\n\nTexto escrito por IA (Claude) a partir de conheci
+ mento sobre a época e a região\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aconteceu neste dia: Primeiro voo humano em balão (1783)
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261113T204709Z
+UID:txt-historia-20261121-primeiro-voo-humano-em-balao--1783-@agenda-do-mu
+ ndo
+DESCRIPTION:Neste dia\, em 1783\, Pilâtre de Rozier e o marquês d'Arland
+ es subiram sobre Paris num balão de ar quente dos irmãos Montgolfier. Fo
+ i o primeiro voo livre tripulado da história. O ar aquecido fica mais lev
+ e que o ar em volta\, e isso faz o balão subir.\n\nData fixa e conhecida.
+ \nBase: história da aviação\n\nTexto escrito por IA (Claude) a partir d
+ e conhecimento sobre a época e a região\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h18
 DTSTART:20261121T081600Z
 DTEND:20261121T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261121@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 178° (sul). Dia de 13h18 (+0\,8 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -603,17 +785,47 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261121T213400Z
 DTEND:20261121T214400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261121@agenda-do-mundo
 DESCRIPTION:Pôr às 18h34\, a 112° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Campo e safra: Pêssego da safra paulista
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261113T204709Z
+UID:txt-campo-20261122-pessego-da-safra-paulista@agenda-do-mundo
+DESCRIPTION:O pêssego começa a aparecer nas feiras\, vindo dos pomares p
+ aulistas. Ele precisa do frio do inverno para florir e amadurece no fim da
+  primavera. A temporada é curta\, por isso a fruta some das bancas no com
+ eço do ano.\n\nTípico desta época na região.\nBase: Ceagesp\, calendá
+ rio de safra\n\nTexto escrito por IA (Claude) a partir de conhecimento sob
+ re a época e a região\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aconteceu neste dia: Concorde começa a voar para Nova York (1977)
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261113T204709Z
+UID:txt-historia-20261122-concorde-comeca-a-voar-para-nova-york--1@agenda-
+ do-mundo
+DESCRIPTION:Neste dia\, em 1977\, o Concorde começou os voos regulares de
+  Londres e de Paris para Nova York. O avião voava mais rápido que o som 
+ e cruzava o Atlântico em bem menos tempo que um jato comum. O barulho e o
+  alto consumo de combustível limitaram as rotas\, e ele saiu de operaçã
+ o em 2003.\n\nData fixa e conhecida.\nBase: história da aviação\n\nText
+ o escrito por IA (Claude) a partir de conhecimento sobre a época e a regi
+ ão\; não é dado medido.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h19
 DTSTART:20261122T081600Z
 DTEND:20261122T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261122@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 178° (sul). Dia de 13h19 (+0\,8 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -625,10 +837,25 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261122T213500Z
 DTEND:20261122T214500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261122@agenda-do-mundo
 DESCRIPTION:Pôr às 18h35\, a 112° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natureza da estação: Cigarras no calor da tarde
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+DTSTAMP:20261113T204709Z
+UID:txt-natureza-20261123-cigarras-no-calor-da-tarde@agenda-do-mundo
+DESCRIPTION:Nas tardes quentes\, as cigarras cantam alto nas árvores das 
+ ruas e chácaras. As ninfas saem do chão quando a terra amolece com a chu
+ va e fazem a última muda presas aos troncos. Os machos cantam para atrair
+  as fêmeas\, e a temporada segue enquanto durar o calor.\n\nTípico desta
+  época na região.\nBase: fenologia do Cerrado paulista\n\nTexto escrito 
+ por IA (Claude) a partir de conhecimento sobre a época e a região\; não
+  é dado medido.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -636,7 +863,7 @@ SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Me
  rcúrio\, Marte
 DTSTART:20261123T075500Z
 DTEND:20261123T082500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-manha-20261123@agenda-do-mundo
 DESCRIPTION:Às 4h55 desta semana:\nVênus: baixo (23°)\, a leste\, brilh
  o -4\,4\nJúpiter: a meia altura (53°)\, a nordeste\, brilho -2\,0\nMerc
@@ -652,7 +879,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h19
 DTSTART:20261123T081600Z
 DTEND:20261123T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261123@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h19 (+0\,8 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -664,7 +891,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261123T213500Z
 DTEND:20261123T214500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261123@agenda-do-mundo
 DESCRIPTION:Pôr às 18h35\, a 112° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
@@ -674,7 +901,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
 DTSTART:20261123T215600Z
 DTEND:20261123T222600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-noite-20261123@agenda-do-mundo
 DESCRIPTION:Às 18h56 desta semana:\nSaturno: a meia altura (58°)\, a nor
  deste\, brilho 0\,7\n\nBrilho em magnitude: quanto menor o número\, mais 
@@ -688,7 +915,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h20
 DTSTART:20261124T081600Z
 DTEND:20261124T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261124@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h20 (+0\,7 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -700,7 +927,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261124T213600Z
 DTEND:20261124T214600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261124@agenda-do-mundo
 DESCRIPTION:Pôr às 18h36\, a 113° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -710,7 +937,7 @@ BEGIN:VEVENT
 SUMMARY:Lua: Lua cheia
 DTSTART:20261124T215300Z
 DTEND:20261124T222300Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:lua-Lua_cheia-20261124@agenda-do-mundo
 DESCRIPTION:A Lua nasce no leste quando o Sol se põe e atravessa a noite 
  inteira. A Terra está entre os dois\, então vemos o lado iluminado de fr
@@ -723,7 +950,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h21
 DTSTART:20261125T081600Z
 DTEND:20261125T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261125@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h21 (+0\,7 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -735,7 +962,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261125T213700Z
 DTEND:20261125T214700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261125@agenda-do-mundo
 DESCRIPTION:Pôr às 18h37\, a 113° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -745,7 +972,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h21
 DTSTART:20261126T081600Z
 DTEND:20261126T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261126@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h21 (+0\,7 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -757,7 +984,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261126T213700Z
 DTEND:20261126T214700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261126@agenda-do-mundo
 DESCRIPTION:Pôr às 18h37\, a 113° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -767,7 +994,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h22
 DTSTART:20261127T081600Z
 DTEND:20261127T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261127@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h22 (+0\,7 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -779,7 +1006,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261127T213800Z
 DTEND:20261127T214800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261127@agenda-do-mundo
 DESCRIPTION:Pôr às 18h38\, a 113° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -789,7 +1016,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h23
 DTSTART:20261128T081600Z
 DTEND:20261128T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261128@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h23 (+0\,6 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -801,7 +1028,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261128T213900Z
 DTEND:20261128T214900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261128@agenda-do-mundo
 DESCRIPTION:Pôr às 18h39\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -811,7 +1038,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h23
 DTSTART:20261129T081600Z
 DTEND:20261129T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261129@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h23 (+0\,6 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -823,7 +1050,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261129T213900Z
 DTEND:20261129T214900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261129@agenda-do-mundo
 DESCRIPTION:Pôr às 18h39\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -834,7 +1061,7 @@ SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
  rte
 DTSTART:20261130T075500Z
 DTEND:20261130T082500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-manha-20261130@agenda-do-mundo
 DESCRIPTION:Às 4h55 desta semana:\nVênus: baixo (26°)\, a leste\, brilh
  o -4\,5\nJúpiter: a meia altura (55°)\, a norte\, brilho -2\,0\nMarte: a
@@ -849,7 +1076,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Lua perto de Marte
 DTSTART:20261130T075500Z
 DTEND:20261130T082500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-conj-Marte-2026113004@agenda-do-mundo
 DESCRIPTION:Antes do amanhecer\, Marte fica a 5\,7° da Lua\, a nordeste\,
   a meia altura. Um punho fechado com o braço esticado cobre uns 10° de c
@@ -861,7 +1088,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Lua perto de Júpiter
 DTSTART:20261130T075500Z
 DTEND:20261130T082500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-conj-Jupiter-2026113004@agenda-do-mundo
 DESCRIPTION:Antes do amanhecer\, Júpiter fica a 0\,6° da Lua\, a norte\,
   a meia altura. Um punho fechado com o braço esticado cobre uns 10° de c
@@ -873,7 +1100,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h24
 DTSTART:20261130T081600Z
 DTEND:20261130T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261130@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h24 (+0\,6 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -885,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261130T214000Z
 DTEND:20261130T215000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261130@agenda-do-mundo
 DESCRIPTION:Pôr às 18h40\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -895,7 +1122,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
 DTSTART:20261130T220100Z
 DTEND:20261130T223100Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-noite-20261130@agenda-do-mundo
 DESCRIPTION:Às 19h01 desta semana:\nSaturno: alto (64°)\, a nordeste\, b
  rilho 0\,7\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
@@ -908,7 +1135,7 @@ BEGIN:VEVENT
 SUMMARY:Lua: Quarto minguante
 DTSTART:20261201T031600Z
 DTEND:20261201T034600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:lua-Quarto_minguante-20261201@agenda-do-mundo
 DESCRIPTION:A Lua nasce por volta da meia-noite e fica no céu de manhã. 
  Quem acorda cedo vê a metade iluminada a oeste.\n\nNasce às 0h16 de 01/1
@@ -920,7 +1147,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h25
 DTSTART:20261201T081600Z
 DTEND:20261201T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261201@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 179° (sul). Dia de 13h25 (+0\,6 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -932,7 +1159,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261201T214100Z
 DTEND:20261201T215100Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261201@agenda-do-mundo
 DESCRIPTION:Pôr às 18h41\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -942,7 +1169,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h25
 DTSTART:20261202T081600Z
 DTEND:20261202T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261202@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 180° (sul). Dia de 13h25 (+0\,6 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -954,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261202T214100Z
 DTEND:20261202T215100Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261202@agenda-do-mundo
 DESCRIPTION:Pôr às 18h41\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -964,7 +1191,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h26
 DTSTART:20261203T081600Z
 DTEND:20261203T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261203@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 180° (sul). Dia de 13h26 (+0\,5 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -976,7 +1203,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261203T214200Z
 DTEND:20261203T215200Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261203@agenda-do-mundo
 DESCRIPTION:Pôr às 18h42\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -986,7 +1213,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h26
 DTSTART:20261204T081600Z
 DTEND:20261204T082600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261204@agenda-do-mundo
 DESCRIPTION:Nascer às 5h16\, a 180° (sul). Dia de 13h26 (+0\,5 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -998,7 +1225,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261204T214200Z
 DTEND:20261204T215200Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261204@agenda-do-mundo
 DESCRIPTION:Pôr às 18h42\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1008,7 +1235,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h27
 DTSTART:20261205T081700Z
 DTEND:20261205T082700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261205@agenda-do-mundo
 DESCRIPTION:Nascer às 5h17\, a 180° (sul). Dia de 13h27 (+0\,5 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1020,7 +1247,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261205T214300Z
 DTEND:20261205T215300Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261205@agenda-do-mundo
 DESCRIPTION:Pôr às 18h43\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1030,7 +1257,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h27
 DTSTART:20261206T081700Z
 DTEND:20261206T082700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261206@agenda-do-mundo
 DESCRIPTION:Nascer às 5h17\, a 180° (sul). Dia de 13h27 (+0\,4 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1042,7 +1269,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261206T214400Z
 DTEND:20261206T215400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261206@agenda-do-mundo
 DESCRIPTION:Pôr às 18h44\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1053,7 +1280,7 @@ SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
  rte
 DTSTART:20261207T075500Z
 DTEND:20261207T082500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-manha-20261207@agenda-do-mundo
 DESCRIPTION:Às 4h55 desta semana:\nVênus: baixo (29°)\, a leste\, brilh
  o -4\,4\nJúpiter: a meia altura (56°)\, a norte\, brilho -2\,1\nMarte: a
@@ -1068,7 +1295,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h27
 DTSTART:20261207T081700Z
 DTEND:20261207T082700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261207@agenda-do-mundo
 DESCRIPTION:Nascer às 5h17\, a 180° (sul). Dia de 13h27 (+0\,4 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1080,7 +1307,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261207T214400Z
 DTEND:20261207T215400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261207@agenda-do-mundo
 DESCRIPTION:Pôr às 18h44\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1090,7 +1317,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
 DTSTART:20261207T220600Z
 DTEND:20261207T223600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-noite-20261207@agenda-do-mundo
 DESCRIPTION:Às 19h06 desta semana:\nSaturno: alto (67°)\, a norte\, bril
  ho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
@@ -1103,7 +1330,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h28
 DTSTART:20261208T081700Z
 DTEND:20261208T082700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261208@agenda-do-mundo
 DESCRIPTION:Nascer às 5h17\, a 180° (sul). Dia de 13h28 (+0\,4 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1115,7 +1342,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261208T214500Z
 DTEND:20261208T215500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261208@agenda-do-mundo
 DESCRIPTION:Pôr às 18h45\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1125,7 +1352,7 @@ BEGIN:VEVENT
 SUMMARY:Lua: Lua nova
 DTSTART:20261208T230500Z
 DTEND:20261208T233500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:lua-Lua_nova-20261208@agenda-do-mundo
 DESCRIPTION:Noite sem Lua: a semana mais escura do mês\, a melhor para ve
  r estrelas fracas e a Via Láctea longe das luzes. A Lua está entre a Ter
@@ -1139,7 +1366,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h28
 DTSTART:20261209T081700Z
 DTEND:20261209T082700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261209@agenda-do-mundo
 DESCRIPTION:Nascer às 5h17\, a 181° (sul). Dia de 13h28 (+0\,4 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1151,7 +1378,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261209T214600Z
 DTEND:20261209T215600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261209@agenda-do-mundo
 DESCRIPTION:Pôr às 18h46\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1161,7 +1388,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h29
 DTSTART:20261210T081800Z
 DTEND:20261210T082800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261210@agenda-do-mundo
 DESCRIPTION:Nascer às 5h18\, a 181° (sul). Dia de 13h29 (+0\,3 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1173,7 +1400,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261210T214600Z
 DTEND:20261210T215600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261210@agenda-do-mundo
 DESCRIPTION:Pôr às 18h46\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1183,7 +1410,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h29
 DTSTART:20261211T081800Z
 DTEND:20261211T082800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261211@agenda-do-mundo
 DESCRIPTION:Nascer às 5h18\, a 181° (sul). Dia de 13h29 (+0\,3 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1195,7 +1422,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261211T214700Z
 DTEND:20261211T215700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261211@agenda-do-mundo
 DESCRIPTION:Pôr às 18h47\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1205,7 +1432,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h29
 DTSTART:20261212T081800Z
 DTEND:20261212T082800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261212@agenda-do-mundo
 DESCRIPTION:Nascer às 5h18\, a 181° (sul). Dia de 13h29 (+0\,3 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1217,7 +1444,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261212T214700Z
 DTEND:20261212T215700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261212@agenda-do-mundo
 DESCRIPTION:Pôr às 18h47\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1227,7 +1454,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h29
 DTSTART:20261213T081900Z
 DTEND:20261213T082900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261213@agenda-do-mundo
 DESCRIPTION:Nascer às 5h19\, a 181° (sul). Dia de 13h29 (+0\,3 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1239,7 +1466,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261213T214800Z
 DTEND:20261213T215800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261213@agenda-do-mundo
 DESCRIPTION:Pôr às 18h48\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1249,7 +1476,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Pico das Geminídeas
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-chuva-Geminideas-2026@agenda-do-mundo
 DESCRIPTION:A chuva mais forte do ano. O radiante nasce no nordeste por vo
  lta das 22h\; o melhor é depois da meia-noite. Vem do asteroide Faetonte
@@ -1264,7 +1491,7 @@ SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
  rte
 DTSTART:20261214T075700Z
 DTEND:20261214T082700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-manha-20261214@agenda-do-mundo
 DESCRIPTION:Às 4h57 desta semana:\nVênus: baixo (31°)\, a leste\, brilh
  o -4\,4\nJúpiter: a meia altura (56°)\, a norte\, brilho -2\,1\nMarte: a
@@ -1279,7 +1506,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261214T081900Z
 DTEND:20261214T082900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261214@agenda-do-mundo
 DESCRIPTION:Nascer às 5h19\, a 181° (sul). Dia de 13h30 (+0\,2 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1291,7 +1518,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261214T214900Z
 DTEND:20261214T215900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261214@agenda-do-mundo
 DESCRIPTION:Pôr às 18h49\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1301,7 +1528,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
 DTSTART:20261214T221000Z
 DTEND:20261214T224000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-noite-20261214@agenda-do-mundo
 DESCRIPTION:Às 19h10 desta semana:\nSaturno: alto (69°)\, a norte\, bril
  ho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
@@ -1314,7 +1541,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261215T081900Z
 DTEND:20261215T082900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261215@agenda-do-mundo
 DESCRIPTION:Nascer às 5h19\, a 182° (sul). Dia de 13h30 (+0\,2 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1326,7 +1553,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261215T214900Z
 DTEND:20261215T215900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261215@agenda-do-mundo
 DESCRIPTION:Pôr às 18h49\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1336,7 +1563,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261216T082000Z
 DTEND:20261216T083000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261216@agenda-do-mundo
 DESCRIPTION:Nascer às 5h20\, a 182° (sul). Dia de 13h30 (+0\,2 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1348,7 +1575,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261216T215000Z
 DTEND:20261216T220000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261216@agenda-do-mundo
 DESCRIPTION:Pôr às 18h50\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1358,7 +1585,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261217T082000Z
 DTEND:20261217T083000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261217@agenda-do-mundo
 DESCRIPTION:Nascer às 5h20\, a 182° (sul). Dia de 13h30 (+0\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1370,7 +1597,7 @@ BEGIN:VEVENT
 SUMMARY:Lua: Quarto crescente
 DTSTART:20261217T214700Z
 DTEND:20261217T221700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:lua-Quarto_crescente-20261217@agenda-do-mundo
 DESCRIPTION:A Lua aparece meio iluminada à tarde e no começo da noite e 
  se põe por volta da meia-noite. Com binóculo\, a linha entre luz e sombr
@@ -1384,7 +1611,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261217T215000Z
 DTEND:20261217T220000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261217@agenda-do-mundo
 DESCRIPTION:Pôr às 18h50\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1394,7 +1621,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261218T082100Z
 DTEND:20261218T083100Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261218@agenda-do-mundo
 DESCRIPTION:Nascer às 5h21\, a 182° (sul). Dia de 13h30 (+0\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1406,7 +1633,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261218T215100Z
 DTEND:20261218T220100Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261218@agenda-do-mundo
 DESCRIPTION:Pôr às 18h51\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1416,7 +1643,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261219T082100Z
 DTEND:20261219T083100Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261219@agenda-do-mundo
 DESCRIPTION:Nascer às 5h21\, a 182° (sul). Dia de 13h30 (+0\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1428,7 +1655,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261219T215100Z
 DTEND:20261219T220100Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261219@agenda-do-mundo
 DESCRIPTION:Pôr às 18h51\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1438,7 +1665,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261220T082200Z
 DTEND:20261220T083200Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261220@agenda-do-mundo
 DESCRIPTION:Nascer às 5h22\, a 182° (sul). Dia de 13h30 (+0\,1 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1450,7 +1677,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261220T215200Z
 DTEND:20261220T220200Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261220@agenda-do-mundo
 DESCRIPTION:Pôr às 18h52\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1461,7 +1688,7 @@ SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
  rte
 DTSTART:20261221T080000Z
 DTEND:20261221T083000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-manha-20261221@agenda-do-mundo
 DESCRIPTION:Às 5h00 desta semana:\nVênus: baixo (33°)\, a leste\, brilh
  o -4\,4\nJúpiter: a meia altura (54°)\, a norte\, brilho -2\,2\nMarte: a
@@ -1476,7 +1703,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261221T082200Z
 DTEND:20261221T083200Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261221@agenda-do-mundo
 DESCRIPTION:Nascer às 5h22\, a 182° (sul). Dia de 13h30 (+0\,0 min em re
  lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
@@ -1488,7 +1715,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Solstício: começa o verão
 DTSTART:20261221T204900Z
 DTEND:20261221T211900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-marco-20261221@agenda-do-mundo
 DESCRIPTION:Dia mais longo do ano no hemisfério sul. O Sol do meio-dia pa
  ssa quase a pino no Trópico de Capricórnio\, que corta o estado de São 
@@ -1502,7 +1729,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261221T215200Z
 DTEND:20261221T220200Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261221@agenda-do-mundo
 DESCRIPTION:Pôr às 18h52\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1512,7 +1739,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
 DTSTART:20261221T221400Z
 DTEND:20261221T224400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-noite-20261221@agenda-do-mundo
 DESCRIPTION:Às 19h14 desta semana:\nSaturno: alto (67°)\, a norte\, bril
  ho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
@@ -1525,7 +1752,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261222T082300Z
 DTEND:20261222T083300Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261222@agenda-do-mundo
 DESCRIPTION:Nascer às 5h23\, a 183° (sul). Dia de 13h30 (−0\,0 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1537,7 +1764,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261222T215300Z
 DTEND:20261222T220300Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261222@agenda-do-mundo
 DESCRIPTION:Pôr às 18h53\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1547,7 +1774,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261223T082300Z
 DTEND:20261223T083300Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261223@agenda-do-mundo
 DESCRIPTION:Nascer às 5h23\, a 183° (sul). Dia de 13h30 (−0\,0 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1559,7 +1786,7 @@ BEGIN:VEVENT
 SUMMARY:Lua: Lua cheia
 DTSTART:20261223T214400Z
 DTEND:20261223T221400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:lua-Lua_cheia-20261223@agenda-do-mundo
 DESCRIPTION:A Lua nasce no leste quando o Sol se põe e atravessa a noite 
  inteira. A Terra está entre os dois\, então vemos o lado iluminado de fr
@@ -1572,7 +1799,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261223T215300Z
 DTEND:20261223T220300Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261223@agenda-do-mundo
 DESCRIPTION:Pôr às 18h53\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1582,7 +1809,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261224T082400Z
 DTEND:20261224T083400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261224@agenda-do-mundo
 DESCRIPTION:Nascer às 5h24\, a 183° (sul). Dia de 13h30 (−0\,1 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1594,7 +1821,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261224T215400Z
 DTEND:20261224T220400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261224@agenda-do-mundo
 DESCRIPTION:Pôr às 18h54\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1604,7 +1831,7 @@ BEGIN:VEVENT
 SUMMARY:Feriados: Natal
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:feriado-20261225@agenda-do-mundo
 DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
  agenda.\n\nBase: biblioteca holidays (python-holidays).
@@ -1614,7 +1841,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261225T082400Z
 DTEND:20261225T083400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261225@agenda-do-mundo
 DESCRIPTION:Nascer às 5h24\, a 183° (sul). Dia de 13h30 (−0\,1 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1626,7 +1853,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261225T215400Z
 DTEND:20261225T220400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261225@agenda-do-mundo
 DESCRIPTION:Pôr às 18h54\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1636,7 +1863,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261226T082500Z
 DTEND:20261226T083500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261226@agenda-do-mundo
 DESCRIPTION:Nascer às 5h25\, a 183° (sul). Dia de 13h30 (−0\,1 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1648,7 +1875,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261226T215500Z
 DTEND:20261226T220500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261226@agenda-do-mundo
 DESCRIPTION:Pôr às 18h55\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1658,7 +1885,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Lua perto de Júpiter
 DTSTART:20261227T080400Z
 DTEND:20261227T083400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-conj-Jupiter-2026122705@agenda-do-mundo
 DESCRIPTION:Antes do amanhecer\, Júpiter fica a 5\,8° da Lua\, a noroest
  e\, a meia altura. Um punho fechado com o braço esticado cobre uns 10° d
@@ -1671,7 +1898,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261227T082500Z
 DTEND:20261227T083500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261227@agenda-do-mundo
 DESCRIPTION:Nascer às 5h25\, a 183° (sul). Dia de 13h30 (−0\,2 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1683,7 +1910,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261227T215500Z
 DTEND:20261227T220500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261227@agenda-do-mundo
 DESCRIPTION:Pôr às 18h55\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1694,7 +1921,7 @@ SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
  rte
 DTSTART:20261228T080400Z
 DTEND:20261228T083400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-manha-20261228@agenda-do-mundo
 DESCRIPTION:Às 5h04 desta semana:\nVênus: baixo (35°)\, a leste\, brilh
  o -4\,3\nJúpiter: a meia altura (50°)\, a noroeste\, brilho -2\,2\nMarte
@@ -1709,7 +1936,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Lua perto de Marte
 DTSTART:20261228T080400Z
 DTEND:20261228T083400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-conj-Marte-2026122805@agenda-do-mundo
 DESCRIPTION:Antes do amanhecer\, Marte fica a 5\,7° da Lua\, a norte\, a 
  meia altura. Um punho fechado com o braço esticado cobre uns 10° de céu
@@ -1721,7 +1948,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261228T082600Z
 DTEND:20261228T083600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261228@agenda-do-mundo
 DESCRIPTION:Nascer às 5h26\, a 184° (sul). Dia de 13h30 (−0\,2 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1733,7 +1960,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261228T215600Z
 DTEND:20261228T220600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261228@agenda-do-mundo
 DESCRIPTION:Pôr às 18h56\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1743,7 +1970,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
 DTSTART:20261228T221700Z
 DTEND:20261228T224700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-noite-20261228@agenda-do-mundo
 DESCRIPTION:Às 19h17 desta semana:\nSaturno: alto (63°)\, a noroeste\, b
  rilho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
@@ -1756,7 +1983,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h30
 DTSTART:20261229T082600Z
 DTEND:20261229T083600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261229@agenda-do-mundo
 DESCRIPTION:Nascer às 5h26\, a 184° (sul). Dia de 13h30 (−0\,2 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1768,7 +1995,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261229T215600Z
 DTEND:20261229T220600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261229@agenda-do-mundo
 DESCRIPTION:Pôr às 18h56\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1778,7 +2005,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h29
 DTSTART:20261230T082700Z
 DTEND:20261230T083700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261230@agenda-do-mundo
 DESCRIPTION:Nascer às 5h27\, a 184° (sul). Dia de 13h29 (−0\,2 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1790,7 +2017,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261230T215600Z
 DTEND:20261230T220600Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261230@agenda-do-mundo
 DESCRIPTION:Pôr às 18h56\, a 116° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1800,7 +2027,7 @@ BEGIN:VEVENT
 SUMMARY:Lua: Quarto minguante
 DTSTART:20261231T030000Z
 DTEND:20261231T033000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:lua-Quarto_minguante-20261230@agenda-do-mundo
 DESCRIPTION:A Lua nasce por volta da meia-noite e fica no céu de manhã. 
  Quem acorda cedo vê a metade iluminada a oeste.\n\nNasce às 0h00 de 31/1
@@ -1812,7 +2039,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h29
 DTSTART:20261231T082800Z
 DTEND:20261231T083800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20261231@agenda-do-mundo
 DESCRIPTION:Nascer às 5h28\, a 184° (sul). Dia de 13h29 (−0\,3 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1824,7 +2051,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20261231T215700Z
 DTEND:20261231T220700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20261231@agenda-do-mundo
 DESCRIPTION:Pôr às 18h57\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1834,7 +2061,7 @@ BEGIN:VEVENT
 SUMMARY:Feriados: Confraternização Universal
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:feriado-20270101@agenda-do-mundo
 DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
  agenda.\n\nBase: biblioteca holidays (python-holidays).
@@ -1844,7 +2071,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h29
 DTSTART:20270101T082800Z
 DTEND:20270101T083800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20270101@agenda-do-mundo
 DESCRIPTION:Nascer às 5h28\, a 184° (sul). Dia de 13h29 (−0\,3 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1856,7 +2083,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20270101T215700Z
 DTEND:20270101T220700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20270101@agenda-do-mundo
 DESCRIPTION:Pôr às 18h57\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1866,7 +2093,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h28
 DTSTART:20270102T082900Z
 DTEND:20270102T083900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20270102@agenda-do-mundo
 DESCRIPTION:Nascer às 5h29\, a 184° (sul). Dia de 13h28 (−0\,3 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1878,7 +2105,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20270102T215700Z
 DTEND:20270102T220700Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20270102@agenda-do-mundo
 DESCRIPTION:Pôr às 18h57\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1888,7 +2115,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h28
 DTSTART:20270103T082900Z
 DTEND:20270103T083900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20270103@agenda-do-mundo
 DESCRIPTION:Nascer às 5h29\, a 185° (sul). Dia de 13h28 (−0\,4 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1900,7 +2127,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20270103T215800Z
 DTEND:20270103T220800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20270103@agenda-do-mundo
 DESCRIPTION:Pôr às 18h58\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1911,7 +2138,7 @@ SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
  rte
 DTSTART:20270104T080900Z
 DTEND:20270104T083900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-manha-20270104@agenda-do-mundo
 DESCRIPTION:Às 5h09 desta semana:\nVênus: a meia altura (36°)\, a leste
  \, brilho -4\,3\nJúpiter: a meia altura (45°)\, a noroeste\, brilho -2\,
@@ -1926,7 +2153,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h28
 DTSTART:20270104T083000Z
 DTEND:20270104T084000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20270104@agenda-do-mundo
 DESCRIPTION:Nascer às 5h30\, a 185° (sul). Dia de 13h28 (−0\,4 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1938,7 +2165,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20270104T215800Z
 DTEND:20270104T220800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20270104@agenda-do-mundo
 DESCRIPTION:Pôr às 18h58\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1948,7 +2175,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
 DTSTART:20270104T221900Z
 DTEND:20270104T224900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-noite-20270104@agenda-do-mundo
 DESCRIPTION:Às 19h19 desta semana:\nSaturno: a meia altura (59°)\, a nor
  oeste\, brilho 0\,9\n\nBrilho em magnitude: quanto menor o número\, mais 
@@ -1962,7 +2189,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h27
 DTSTART:20270105T083100Z
 DTEND:20270105T084100Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20270105@agenda-do-mundo
 DESCRIPTION:Nascer às 5h31\, a 185° (sul). Dia de 13h27 (−0\,4 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1974,7 +2201,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20270105T215800Z
 DTEND:20270105T220800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20270105@agenda-do-mundo
 DESCRIPTION:Pôr às 18h58\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -1984,7 +2211,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h27
 DTSTART:20270106T083100Z
 DTEND:20270106T084100Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20270106@agenda-do-mundo
 DESCRIPTION:Nascer às 5h31\, a 185° (sul). Dia de 13h27 (−0\,4 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -1996,7 +2223,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20270106T215800Z
 DTEND:20270106T220800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20270106@agenda-do-mundo
 DESCRIPTION:Pôr às 18h58\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -2006,7 +2233,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h26
 DTSTART:20270107T083200Z
 DTEND:20270107T084200Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20270107@agenda-do-mundo
 DESCRIPTION:Nascer às 5h32\, a 185° (sul). Dia de 13h26 (−0\,5 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -2018,7 +2245,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20270107T215800Z
 DTEND:20270107T220800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20270107@agenda-do-mundo
 DESCRIPTION:Pôr às 18h58\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -2028,7 +2255,7 @@ BEGIN:VEVENT
 SUMMARY:Lua: Lua nova
 DTSTART:20270107T231800Z
 DTEND:20270107T234800Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:lua-Lua_nova-20270107@agenda-do-mundo
 DESCRIPTION:Noite sem Lua: a semana mais escura do mês\, a melhor para ve
  r estrelas fracas e a Via Láctea longe das luzes. A Lua está entre a Ter
@@ -2042,7 +2269,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h26
 DTSTART:20270108T083300Z
 DTEND:20270108T084300Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20270108@agenda-do-mundo
 DESCRIPTION:Nascer às 5h33\, a 185° (sul). Dia de 13h26 (−0\,5 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -2054,7 +2281,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20270108T215900Z
 DTEND:20270108T220900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20270108@agenda-do-mundo
 DESCRIPTION:Pôr às 18h59\, a 115° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -2064,7 +2291,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h25
 DTSTART:20270109T083300Z
 DTEND:20270109T084300Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20270109@agenda-do-mundo
 DESCRIPTION:Nascer às 5h33\, a 186° (sul). Dia de 13h25 (−0\,5 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -2076,7 +2303,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20270109T215900Z
 DTEND:20270109T220900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20270109@agenda-do-mundo
 DESCRIPTION:Pôr às 18h59\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -2086,7 +2313,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h25
 DTSTART:20270110T083400Z
 DTEND:20270110T084400Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20270110@agenda-do-mundo
 DESCRIPTION:Nascer às 5h34\, a 186° (sul). Dia de 13h25 (−0\,5 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -2098,7 +2325,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20270110T215900Z
 DTEND:20270110T220900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20270110@agenda-do-mundo
 DESCRIPTION:Pôr às 18h59\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -2109,7 +2336,7 @@ SUMMARY:Céu da noite: Planetas antes do amanhecer: Vênus\, Júpiter\, Ma
  rte
 DTSTART:20270111T081300Z
 DTEND:20270111T084300Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-manha-20270111@agenda-do-mundo
 DESCRIPTION:Às 5h13 desta semana:\nVênus: a meia altura (37°)\, a leste
  \, brilho -4\,2\nJúpiter: a meia altura (39°)\, a noroeste\, brilho -2\,
@@ -2124,7 +2351,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h24
 DTSTART:20270111T083500Z
 DTEND:20270111T084500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20270111@agenda-do-mundo
 DESCRIPTION:Nascer às 5h35\, a 186° (sul). Dia de 13h24 (−0\,6 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -2136,7 +2363,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20270111T215900Z
 DTEND:20270111T220900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20270111@agenda-do-mundo
 DESCRIPTION:Pôr às 18h59\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.
@@ -2146,7 +2373,7 @@ BEGIN:VEVENT
 SUMMARY:Céu da noite: Planetas ao anoitecer: Saturno
 DTSTART:20270111T222000Z
 DTEND:20270111T225000Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:ceu-planetas-noite-20270111@agenda-do-mundo
 DESCRIPTION:Às 19h20 desta semana:\nSaturno: a meia altura (53°)\, a nor
  oeste\, brilho 0\,9\n\nBrilho em magnitude: quanto menor o número\, mais 
@@ -2160,7 +2387,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Sol nasce · dia de 13h24
 DTSTART:20270112T083500Z
 DTEND:20270112T084500Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-nasce-20270112@agenda-do-mundo
 DESCRIPTION:Nascer às 5h35\, a 186° (sul). Dia de 13h24 (−0\,6 min em 
  relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
@@ -2172,7 +2399,7 @@ BEGIN:VEVENT
 SUMMARY:Sol e estações: Pôr do sol
 DTSTART:20270112T215900Z
 DTEND:20270112T220900Z
-DTSTAMP:20261113T203603Z
+DTSTAMP:20261113T204709Z
 UID:sol-poe-20270112@agenda-do-mundo
 DESCRIPTION:Pôr às 18h59\, a 114° (sudeste). Uns 25 minutos depois acab
  a o crepúsculo civil e as primeiras estrelas aparecem.

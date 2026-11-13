@@ -13,6 +13,6 @@
   "dia_todo": false,
   "inicio": "2026-11-16T09:00:00-03:00",
   "fim": "2026-11-16T09:15:00-03:00",
-  "descricao": "Meta da taxa Selic definida pelo Copom, em vigor desde o último dado publicado (09/12/2026).\nÉ a taxa que o Banco Central usa para puxar os juros da economia: quando sobe, crédito fica mais caro e o consumo esfria, o que segura a inflação.\n\nBase: Banco Central do Brasil, SGS série 432."
+  "descricao": "Meta da taxa Selic definida pelo Copom. Valor em vigor no último dado publicado pelo Banco Central (09/12/2026).\nÉ a taxa que o Banco Central usa para puxar os juros da economia: quando sobe, crédito fica mais caro e o consumo esfria, o que segura a inflação.\n\nBase: Banco Central do Brasil, SGS série 432."
  }
 ]
