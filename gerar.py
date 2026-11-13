@@ -14,7 +14,8 @@ from icalendar import Calendar, Event
 
 RAIZ = Path(__file__).parent
 CFG = json.loads((RAIZ / "config.json").read_text(encoding="utf-8"))
-TZ = ZoneInfo(CFG["fuso"])
+FUSO_BR = "America/Sao_Paulo"
+TZ = ZoneInfo(FUSO_BR)  # trocado a cada cidade em main(), para os horários do texto saírem no fuso dela
 SAIDA = RAIZ / "docs" / "feeds"
 AGORA = datetime.now(timezone.utc)
 HOJE = AGORA.astimezone(TZ).date()
@@ -229,7 +230,7 @@ def area_ceu(reg):
             lua = ephem.Moon(); lua.compute(ephem.Date(t2.astimezone(timezone.utc)))
             ilum = round(lua.phase)
             cond = "Lua quase ausente, boa noite para ver." if ilum < 30 else ("Lua forte atrapalha bastante." if ilum > 70 else "Lua atrapalha um pouco.")
-            out.append(ev(f"ceu-chuva-{nome}-{ano}", f"Pico das {nome}", d, descricao=
+            out.append(ev(f"ceu-chuva-{nome}-{ano}", f"Chuva de meteoros {nome}", d, descricao=
                           f"{texto}\n\nLua {ilum}% iluminada na madrugada seguinte: {cond}\n"
                           f"Data de pico aproximada: varia cerca de um dia de ano para ano.\n\nBase: calendário de chuvas da International Meteor Organization; Lua calculada com PyEphem.",
                           dia_todo=True))
@@ -342,7 +343,7 @@ WMO = {0: "céu limpo", 1: "quase limpo", 2: "parcialmente nublado", 3: "nublado
 
 
 def area_clima(reg):
-    q = urllib.parse.urlencode({"latitude": reg["lat"], "longitude": reg["lon"], "timezone": CFG["fuso"], "forecast_days": 7,
+    q = urllib.parse.urlencode({"latitude": reg["lat"], "longitude": reg["lon"], "timezone": str(TZ), "forecast_days": 7,
                                 "daily": "temperature_2m_max,temperature_2m_min,precipitation_probability_max,precipitation_sum,uv_index_max,weather_code"})
     j = busca_json("https://api.open-meteo.com/v1/forecast?" + q)["daily"]
     feito = AGORA.astimezone(TZ)
@@ -444,7 +445,7 @@ def para_ics(eventos, nome_cal, descricao):
     cal.add("calscale", "GREGORIAN")
     cal.add("x-wr-calname", nome_cal)
     cal.add("x-wr-caldesc", descricao)
-    cal.add("x-wr-timezone", CFG["fuso"])
+    cal.add("x-wr-timezone", FUSO_BR)
     cal.add("refresh-interval", timedelta(hours=12), parameters={"VALUE": "DURATION"})
     cal.add("x-published-ttl", "PT12H")
     for e in eventos:

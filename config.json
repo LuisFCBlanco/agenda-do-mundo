@@ -1,93 +1,679 @@
 {
   "projeto": "Agenda do Mundo",
-  "fuso": "America/Sao_Paulo",
   "janela_dias_passado": 7,
   "janela_dias_futuro": 60,
   "regioes": [
     {
-      "id": "lorena",
-      "nome": "Lorena e Vale do Paraíba",
+      "id": "sao-paulo",
+      "nome": "São Paulo",
       "uf": "SP",
-      "lat": -22.7311,
-      "lon": -45.1247,
-      "alt": 524
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -23.5475,
+      "lon": -46.6361
+    },
+    {
+      "id": "rio-de-janeiro",
+      "nome": "Rio de Janeiro",
+      "uf": "RJ",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -22.9064,
+      "lon": -43.1822
+    },
+    {
+      "id": "belo-horizonte",
+      "nome": "Belo Horizonte",
+      "uf": "MG",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -19.9208,
+      "lon": -43.9378
+    },
+    {
+      "id": "vitoria",
+      "nome": "Vitória",
+      "uf": "ES",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -20.3194,
+      "lon": -40.3378
+    },
+    {
+      "id": "curitiba",
+      "nome": "Curitiba",
+      "uf": "PR",
+      "macro": "sul",
+      "tz": "America/Sao_Paulo",
+      "lat": -25.4278,
+      "lon": -49.2731
+    },
+    {
+      "id": "florianopolis",
+      "nome": "Florianópolis",
+      "uf": "SC",
+      "macro": "sul",
+      "tz": "America/Sao_Paulo",
+      "lat": -27.5967,
+      "lon": -48.5492
+    },
+    {
+      "id": "porto-alegre",
+      "nome": "Porto Alegre",
+      "uf": "RS",
+      "macro": "sul",
+      "tz": "America/Sao_Paulo",
+      "lat": -30.0328,
+      "lon": -51.2302
+    },
+    {
+      "id": "salvador",
+      "nome": "Salvador",
+      "uf": "BA",
+      "macro": "nordeste",
+      "tz": "America/Bahia",
+      "lat": -12.9756,
+      "lon": -38.491
+    },
+    {
+      "id": "recife",
+      "nome": "Recife",
+      "uf": "PE",
+      "macro": "nordeste",
+      "tz": "America/Recife",
+      "lat": -8.0539,
+      "lon": -34.8811
+    },
+    {
+      "id": "fortaleza",
+      "nome": "Fortaleza",
+      "uf": "CE",
+      "macro": "nordeste",
+      "tz": "America/Fortaleza",
+      "lat": -3.7172,
+      "lon": -38.5431
+    },
+    {
+      "id": "sao-luis",
+      "nome": "São Luís",
+      "uf": "MA",
+      "macro": "nordeste",
+      "tz": "America/Fortaleza",
+      "lat": -2.5297,
+      "lon": -44.3028
+    },
+    {
+      "id": "teresina",
+      "nome": "Teresina",
+      "uf": "PI",
+      "macro": "nordeste",
+      "tz": "America/Fortaleza",
+      "lat": -5.0892,
+      "lon": -42.8019
+    },
+    {
+      "id": "natal",
+      "nome": "Natal",
+      "uf": "RN",
+      "macro": "nordeste",
+      "tz": "America/Fortaleza",
+      "lat": -5.795,
+      "lon": -35.2094
+    },
+    {
+      "id": "joao-pessoa",
+      "nome": "João Pessoa",
+      "uf": "PB",
+      "macro": "nordeste",
+      "tz": "America/Fortaleza",
+      "lat": -7.115,
+      "lon": -34.8631
+    },
+    {
+      "id": "maceio",
+      "nome": "Maceió",
+      "uf": "AL",
+      "macro": "nordeste",
+      "tz": "America/Maceio",
+      "lat": -9.6658,
+      "lon": -35.7353
+    },
+    {
+      "id": "aracaju",
+      "nome": "Aracaju",
+      "uf": "SE",
+      "macro": "nordeste",
+      "tz": "America/Maceio",
+      "lat": -10.9111,
+      "lon": -37.0717
+    },
+    {
+      "id": "belem",
+      "nome": "Belém",
+      "uf": "PA",
+      "macro": "norte",
+      "tz": "America/Belem",
+      "lat": -1.4558,
+      "lon": -48.5044
+    },
+    {
+      "id": "manaus",
+      "nome": "Manaus",
+      "uf": "AM",
+      "macro": "norte",
+      "tz": "America/Manaus",
+      "lat": -3.1019,
+      "lon": -60.025
+    },
+    {
+      "id": "macapa",
+      "nome": "Macapá",
+      "uf": "AP",
+      "macro": "norte",
+      "tz": "America/Belem",
+      "lat": 0.0389,
+      "lon": -51.0664
+    },
+    {
+      "id": "boa-vista",
+      "nome": "Boa Vista",
+      "uf": "RR",
+      "macro": "norte",
+      "tz": "America/Boa_Vista",
+      "lat": 2.8197,
+      "lon": -60.6733
+    },
+    {
+      "id": "porto-velho",
+      "nome": "Porto Velho",
+      "uf": "RO",
+      "macro": "norte",
+      "tz": "America/Porto_Velho",
+      "lat": -8.7619,
+      "lon": -63.9039
+    },
+    {
+      "id": "rio-branco",
+      "nome": "Rio Branco",
+      "uf": "AC",
+      "macro": "norte",
+      "tz": "America/Rio_Branco",
+      "lat": -9.9747,
+      "lon": -67.81
+    },
+    {
+      "id": "palmas",
+      "nome": "Palmas",
+      "uf": "TO",
+      "macro": "norte",
+      "tz": "America/Araguaina",
+      "lat": -10.1675,
+      "lon": -48.3277
+    },
+    {
+      "id": "brasilia",
+      "nome": "Brasília",
+      "uf": "DF",
+      "macro": "centro-oeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -15.7797,
+      "lon": -47.9297
+    },
+    {
+      "id": "goiania",
+      "nome": "Goiânia",
+      "uf": "GO",
+      "macro": "centro-oeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -16.6786,
+      "lon": -49.2539
+    },
+    {
+      "id": "cuiaba",
+      "nome": "Cuiabá",
+      "uf": "MT",
+      "macro": "centro-oeste",
+      "tz": "America/Cuiaba",
+      "lat": -15.5961,
+      "lon": -56.0967
+    },
+    {
+      "id": "campo-grande",
+      "nome": "Campo Grande",
+      "uf": "MS",
+      "macro": "centro-oeste",
+      "tz": "America/Campo_Grande",
+      "lat": -20.4428,
+      "lon": -54.6464
+    },
+    {
+      "id": "lorena",
+      "nome": "Lorena",
+      "uf": "SP",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -22.7308,
+      "lon": -45.1247
+    },
+    {
+      "id": "guaratingueta",
+      "nome": "Guaratinguetá",
+      "uf": "SP",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -22.8164,
+      "lon": -45.1925
+    },
+    {
+      "id": "taubate",
+      "nome": "Taubaté",
+      "uf": "SP",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -23.0264,
+      "lon": -45.5553
+    },
+    {
+      "id": "sao-jose-dos-campos",
+      "nome": "São José dos Campos",
+      "uf": "SP",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -23.1794,
+      "lon": -45.8869
     },
     {
       "id": "franca",
-      "nome": "Franca e região",
+      "nome": "Franca",
       "uf": "SP",
-      "lat": -20.5352,
-      "lon": -47.4039,
-      "alt": 1000
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -20.5386,
+      "lon": -47.4008
+    },
+    {
+      "id": "ribeirao-preto",
+      "nome": "Ribeirão Preto",
+      "uf": "SP",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -21.1775,
+      "lon": -47.8103
+    },
+    {
+      "id": "campinas",
+      "nome": "Campinas",
+      "uf": "SP",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -22.9056,
+      "lon": -47.0608
+    },
+    {
+      "id": "santos",
+      "nome": "Santos",
+      "uf": "SP",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -23.9608,
+      "lon": -46.3336
+    },
+    {
+      "id": "sorocaba",
+      "nome": "Sorocaba",
+      "uf": "SP",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -23.5017,
+      "lon": -47.4581
+    },
+    {
+      "id": "uberlandia",
+      "nome": "Uberlândia",
+      "uf": "MG",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -18.9186,
+      "lon": -48.2772
+    },
+    {
+      "id": "juiz-de-fora",
+      "nome": "Juiz de Fora",
+      "uf": "MG",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -21.7642,
+      "lon": -43.3503
+    },
+    {
+      "id": "montes-claros",
+      "nome": "Montes Claros",
+      "uf": "MG",
+      "macro": "sudeste",
+      "tz": "America/Sao_Paulo",
+      "lat": -16.735,
+      "lon": -43.8617
+    },
+    {
+      "id": "londrina",
+      "nome": "Londrina",
+      "uf": "PR",
+      "macro": "sul",
+      "tz": "America/Sao_Paulo",
+      "lat": -23.3103,
+      "lon": -51.1628
+    },
+    {
+      "id": "joinville",
+      "nome": "Joinville",
+      "uf": "SC",
+      "macro": "sul",
+      "tz": "America/Sao_Paulo",
+      "lat": -26.3044,
+      "lon": -48.8456
+    },
+    {
+      "id": "caxias-do-sul",
+      "nome": "Caxias do Sul",
+      "uf": "RS",
+      "macro": "sul",
+      "tz": "America/Sao_Paulo",
+      "lat": -29.1681,
+      "lon": -51.1794
+    },
+    {
+      "id": "feira-de-santana",
+      "nome": "Feira de Santana",
+      "uf": "BA",
+      "macro": "nordeste",
+      "tz": "America/Bahia",
+      "lat": -12.2667,
+      "lon": -38.9667
+    },
+    {
+      "id": "campina-grande",
+      "nome": "Campina Grande",
+      "uf": "PB",
+      "macro": "nordeste",
+      "tz": "America/Fortaleza",
+      "lat": -7.2306,
+      "lon": -35.8811
+    },
+    {
+      "id": "petrolina",
+      "nome": "Petrolina",
+      "uf": "PE",
+      "macro": "nordeste",
+      "tz": "America/Recife",
+      "lat": -9.3986,
+      "lon": -40.5008
+    },
+    {
+      "id": "santarem",
+      "nome": "Santarém",
+      "uf": "PA",
+      "macro": "norte",
+      "tz": "America/Belem",
+      "lat": -2.4431,
+      "lon": -54.7083
+    },
+    {
+      "id": "dourados",
+      "nome": "Dourados",
+      "uf": "MS",
+      "macro": "centro-oeste",
+      "tz": "America/Campo_Grande",
+      "lat": -22.2211,
+      "lon": -54.8056
     }
   ],
   "areas": [
     {
       "id": "lua",
       "nome": "Lua",
-      "resumo": "As quatro fases, com a hora certa de olhar na sua cidade.",
-      "fonte": "cálculo astronômico (PyEphem)"
+      "grupo": "Céu e tempo",
+      "escopo": "local",
+      "fonte": "cálculo astronômico (PyEphem)",
+      "resumo": "As quatro fases, com a hora boa de olhar na sua cidade."
     },
     {
       "id": "ceu",
       "nome": "Céu da noite",
-      "resumo": "Planetas visíveis ao anoitecer e antes do amanhecer, Lua perto de planetas, chuvas de meteoros.",
-      "fonte": "cálculo astronômico (PyEphem)"
+      "grupo": "Céu e tempo",
+      "escopo": "local",
+      "fonte": "cálculo astronômico (PyEphem)",
+      "resumo": "Planetas ao anoitecer e antes do amanhecer, Lua perto de planetas, chuvas de meteoros."
     },
     {
       "id": "sol",
       "nome": "Nascer e pôr do sol",
-      "resumo": "Nascer e pôr do sol todo dia, com a duração do dia e quanto ela mudou desde ontem.",
-      "fonte": "cálculo astronômico (PyEphem)"
+      "grupo": "Céu e tempo",
+      "escopo": "local",
+      "fonte": "cálculo astronômico (PyEphem)",
+      "resumo": "Todo dia, com a duração do dia e quanto ela mudou desde ontem."
     },
     {
       "id": "estacoes",
       "nome": "Estações do ano",
-      "resumo": "Só os solstícios e equinócios, com o momento exato e o porquê.",
-      "fonte": "cálculo astronômico (PyEphem)"
-    },
-    {
-      "id": "feriados",
-      "nome": "Feriados",
-      "resumo": "Feriados nacionais e estaduais. Municipais ainda não entram.",
-      "fonte": "python-holidays"
-    },
-    {
-      "id": "economia",
-      "nome": "Economia",
-      "resumo": "Selic em vigor toda segunda e o dólar da semana toda sexta, direto do Banco Central.",
-      "fonte": "Banco Central do Brasil (SGS)"
+      "grupo": "Céu e tempo",
+      "escopo": "local",
+      "fonte": "cálculo astronômico (PyEphem)",
+      "resumo": "Só os solstícios e equinócios, com o momento exato e o porquê."
     },
     {
       "id": "clima",
       "nome": "Previsão do tempo",
-      "resumo": "Máxima, mínima e chance de chuva para os próximos 7 dias.",
-      "fonte": "Open-Meteo"
+      "grupo": "Céu e tempo",
+      "escopo": "local",
+      "fonte": "Open-Meteo",
+      "resumo": "Máxima, mínima, chance de chuva e índice UV dos próximos 7 dias."
+    },
+    {
+      "id": "ar",
+      "nome": "Qualidade do ar",
+      "grupo": "Céu e tempo",
+      "escopo": "local",
+      "fonte": "Open-Meteo (modelo CAMS)",
+      "resumo": "Índice de qualidade do ar previsto para os próximos dias, com o que fazer em cada faixa."
+    },
+    {
+      "id": "avifauna",
+      "nome": "Aves da estação",
+      "grupo": "Natureza",
+      "escopo": "regional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Uma ave por dia: o que ela está fazendo agora na sua região, com o canto."
     },
     {
       "id": "aves",
-      "nome": "Aves por perto",
-      "resumo": "Espécies registradas por observadores num raio de 25 km na última semana.",
+      "nome": "Aves registradas perto de você",
+      "grupo": "Natureza",
+      "escopo": "local",
       "fonte": "eBird (Cornell Lab)",
-      "precisa_chave": "EBIRD_KEY"
+      "resumo": "Espécies vistas por observadores num raio de 25 km na última semana."
     },
     {
-      "id": "natureza",
-      "nome": "Natureza da estação",
-      "resumo": "O que está florindo, frutificando, cantando e voando na região nesta época do ano.",
-      "fonte": "texto escrito por IA (Claude)"
+      "id": "botanica",
+      "nome": "Plantas em flor e fruto",
+      "grupo": "Natureza",
+      "escopo": "regional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Uma planta por dia florindo ou frutificando agora na sua região, e quem a poliniza."
+    },
+    {
+      "id": "entomologia",
+      "nome": "Insetos da estação",
+      "grupo": "Natureza",
+      "escopo": "regional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Um inseto por dia ativo agora, com o papel dele no ecossistema."
+    },
+    {
+      "id": "economia",
+      "nome": "Economia",
+      "grupo": "Economia e trabalho",
+      "escopo": "nacional",
+      "fonte": "Banco Central do Brasil (SGS) e pesquisa na web",
+      "resumo": "Selic, dólar, euro e IPCA direto do Banco Central, e o motivo das variações."
+    },
+    {
+      "id": "investidor",
+      "nome": "Agenda do investidor",
+      "grupo": "Economia e trabalho",
+      "escopo": "nacional",
+      "fonte": "Banco Central (Focus), IBGE e pesquisa na web",
+      "resumo": "Boletim Focus, divulgações do IBGE (IPCA, PIB, desemprego) e reuniões de política monetária."
+    },
+    {
+      "id": "agro",
+      "nome": "Campo, indústria e preços",
+      "grupo": "Economia e trabalho",
+      "escopo": "nacional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Café, boi, cana, soja, milho, leite, hortaliças, frete, fertilizante e indústria, quando o fato chega ao bolso."
     },
     {
       "id": "campo",
-      "nome": "Campo e safra",
-      "resumo": "Plantio, colheita e o que está na época na feira, com o porquê de cada coisa.",
-      "fonte": "texto escrito por IA (Claude)"
+      "nome": "Safra da sua região",
+      "grupo": "Economia e trabalho",
+      "escopo": "regional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Plantio, colheita e o que está na época na feira da sua região."
+    },
+    {
+      "id": "energia",
+      "nome": "Água e energia",
+      "grupo": "Economia e trabalho",
+      "escopo": "nacional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Reservatórios, bandeira tarifária e carga do sistema elétrico, com dado oficial."
+    },
+    {
+      "id": "feriados",
+      "nome": "Feriados",
+      "grupo": "Culturas e tradições",
+      "escopo": "local",
+      "fonte": "python-holidays",
+      "resumo": "Feriados nacionais e do seu estado."
+    },
+    {
+      "id": "cultura",
+      "nome": "Cultura e festas da região",
+      "grupo": "Culturas e tradições",
+      "escopo": "regional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Festas tradicionais, religiosas e populares da sua região."
+    },
+    {
+      "id": "judaico",
+      "nome": "Calendário judaico",
+      "grupo": "Culturas e tradições",
+      "escopo": "nacional",
+      "fonte": "calendário hebraico (convertdate)",
+      "resumo": "Festas judaicas com a data exata, que começam ao pôr do sol da véspera."
+    },
+    {
+      "id": "islamico",
+      "nome": "Calendário islâmico",
+      "grupo": "Culturas e tradições",
+      "escopo": "nacional",
+      "fonte": "calendário hijri tabular (convertdate)",
+      "resumo": "Ramadã, Eid e outras datas, estimadas pelo calendário lunar."
+    },
+    {
+      "id": "chines",
+      "nome": "Calendário chinês",
+      "grupo": "Culturas e tradições",
+      "escopo": "nacional",
+      "fonte": "cálculo astronômico e python-holidays",
+      "resumo": "As 24 estações solares chinesas e as grandes festas do calendário lunissolar."
+    },
+    {
+      "id": "hindu",
+      "nome": "Festas hindus",
+      "grupo": "Culturas e tradições",
+      "escopo": "nacional",
+      "fonte": "python-holidays (calendário oficial da Índia)",
+      "resumo": "Diwali, Holi e as festas do calendário hindu."
+    },
+    {
+      "id": "vedico",
+      "nome": "Calendário védico (panchang)",
+      "grupo": "Culturas e tradições",
+      "escopo": "local",
+      "fonte": "cálculo astronômico (PyEphem)",
+      "resumo": "Tithi e nakshatra de cada dia, Ekadashi e as passagens do Sol pelos signos siderais."
+    },
+    {
+      "id": "ayurveda",
+      "nome": "Ayurveda e yoga",
+      "grupo": "Corpo e saúde",
+      "escopo": "local",
+      "fonte": "cálculo astronômico (PyEphem) e textos da tradição",
+      "resumo": "Brahma muhurta todo dia, os ciclos dos doshas e as estações do Ayurveda, com o que a ciência diz."
+    },
+    {
+      "id": "saude",
+      "nome": "Saúde pública",
+      "grupo": "Corpo e saúde",
+      "escopo": "nacional",
+      "fonte": "Ministério da Saúde e OMS",
+      "resumo": "Campanhas do mês e dias mundiais de saúde."
     },
     {
       "id": "historia",
       "nome": "Aconteceu neste dia",
-      "resumo": "Datas de ciência, técnica e cultura que fazem aniversário na semana.",
-      "fonte": "texto escrito por IA (Claude)"
+      "grupo": "História, ciência e lazer",
+      "escopo": "nacional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Um fato por dia de ciência, técnica, astronomia, línguas e cultura."
+    },
+    {
+      "id": "materiais",
+      "nome": "Materiais e siderurgia",
+      "grupo": "História, ciência e lazer",
+      "escopo": "nacional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Aço, cerâmica, polímeros e as descobertas de engenharia de materiais na semana."
+    },
+    {
+      "id": "dias",
+      "nome": "Datas e dias internacionais",
+      "grupo": "História, ciência e lazer",
+      "escopo": "nacional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Dias da ONU e datas comemorativas, com o porquê de cada um."
+    },
+    {
+      "id": "esporte",
+      "nome": "Esporte",
+      "grupo": "História, ciência e lazer",
+      "escopo": "nacional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Jogos e competições com data confirmada."
+    },
+    {
+      "id": "telas",
+      "nome": "Cinema e streaming",
+      "grupo": "História, ciência e lazer",
+      "escopo": "nacional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Estreias no cinema e nas plataformas, com data confirmada."
     }
+  ],
+  "macros": {
+    "norte": "Norte",
+    "nordeste": "Nordeste",
+    "centro-oeste": "Centro-Oeste",
+    "sudeste": "Sudeste",
+    "sul": "Sul"
+  },
+  "grupos": [
+    "Céu e tempo",
+    "Natureza",
+    "Economia e trabalho",
+    "Culturas e tradições",
+    "Corpo e saúde",
+    "História, ciência e lazer"
   ]
 }
