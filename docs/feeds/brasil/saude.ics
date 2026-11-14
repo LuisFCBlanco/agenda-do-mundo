@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Campanhas do mês e dias mundiais de saúde. Agenda do Mundo.
+X-WR-CALNAME:Saúde pública · Brasil
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Dia Mundial do Diabetes
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260101T000000Z
+UID:sau-dia-20261114@agenda-do-mundo
+DESCRIPTION:Data do calendário oficial de dias mundiais da Organização 
+ Mundial da Saúde.\n\nBase: OMS\, World Health Days.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dezembro Vermelho
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20260101T000000Z
+UID:sau-mes-202612@agenda-do-mundo
+DESCRIPTION:Mês de campanha sobre prevenção do HIV e da aids. As campan
+ has por cor do mês se espalharam no Brasil a partir do Outubro Rosa\, que
+  começou nos Estados Unidos nos anos 1990.\n\nBase: calendário de campan
+ has do Ministério da Saúde.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia Mundial de Luta contra a Aids
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20260101T000000Z
+UID:sau-dia-20261201@agenda-do-mundo
+DESCRIPTION:Data do calendário oficial de dias mundiais da Organização 
+ Mundial da Saúde.\n\nBase: OMS\, World Health Days.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Janeiro Branco
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20260101T000000Z
+UID:sau-mes-202701@agenda-do-mundo
+DESCRIPTION:Mês de campanha sobre saúde mental. As campanhas por cor do 
+ mês se espalharam no Brasil a partir do Outubro Rosa\, que começou nos E
+ stados Unidos nos anos 1990.\n\nBase: calendário de campanhas do Ministé
+ rio da Saúde.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fevereiro Roxo e Laranja
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+DTSTAMP:20260101T000000Z
+UID:sau-mes-202702@agenda-do-mundo
+DESCRIPTION:Mês de campanha sobre lúpus\, fibromialgia e Alzheimer\; leu
+ cemia e doação de medula. As campanhas por cor do mês se espalharam no 
+ Brasil a partir do Outubro Rosa\, que começou nos Estados Unidos nos anos
+  1990.\n\nBase: calendário de campanhas do Ministério da Saúde.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Março Lilás
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+DTSTAMP:20260101T000000Z
+UID:sau-mes-202703@agenda-do-mundo
+DESCRIPTION:Mês de campanha sobre prevenção do câncer do colo do úter
+ o. As campanhas por cor do mês se espalharam no Brasil a partir do Outubr
+ o Rosa\, que começou nos Estados Unidos nos anos 1990.\n\nBase: calendár
+ io de campanhas do Ministério da Saúde.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia Mundial de Combate à Tuberculose
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+DTSTAMP:20260101T000000Z
+UID:sau-dia-20270324@agenda-do-mundo
+DESCRIPTION:Data do calendário oficial de dias mundiais da Organização 
+ Mundial da Saúde.\n\nBase: OMS\, World Health Days.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abril Azul
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+DTSTAMP:20260101T000000Z
+UID:sau-mes-202704@agenda-do-mundo
+DESCRIPTION:Mês de campanha sobre conscientização sobre o autismo. As c
+ ampanhas por cor do mês se espalharam no Brasil a partir do Outubro Rosa
+ \, que começou nos Estados Unidos nos anos 1990.\n\nBase: calendário de 
+ campanhas do Ministério da Saúde.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia Mundial da Saúde
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+DTSTAMP:20260101T000000Z
+UID:sau-dia-20270407@agenda-do-mundo
+DESCRIPTION:Data do calendário oficial de dias mundiais da Organização 
+ Mundial da Saúde.\n\nBase: OMS\, World Health Days.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia Mundial da Malária
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+DTSTAMP:20260101T000000Z
+UID:sau-dia-20270425@agenda-do-mundo
+DESCRIPTION:Data do calendário oficial de dias mundiais da Organização 
+ Mundial da Saúde.\n\nBase: OMS\, World Health Days.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maio Amarelo
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20260101T000000Z
+UID:sau-mes-202705@agenda-do-mundo
+DESCRIPTION:Mês de campanha sobre segurança no trânsito. As campanhas p
+ or cor do mês se espalharam no Brasil a partir do Outubro Rosa\, que come
+ çou nos Estados Unidos nos anos 1990.\n\nBase: calendário de campanhas d
+ o Ministério da Saúde.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia Mundial sem Tabaco
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+DTSTAMP:20260101T000000Z
+UID:sau-dia-20270531@agenda-do-mundo
+DESCRIPTION:Data do calendário oficial de dias mundiais da Organização 
+ Mundial da Saúde.\n\nBase: OMS\, World Health Days.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Junho Vermelho
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+DTSTAMP:20260101T000000Z
+UID:sau-mes-202706@agenda-do-mundo
+DESCRIPTION:Mês de campanha sobre doação de sangue. As campanhas por co
+ r do mês se espalharam no Brasil a partir do Outubro Rosa\, que começou 
+ nos Estados Unidos nos anos 1990.\n\nBase: calendário de campanhas do Min
+ istério da Saúde.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia Mundial do Doador de Sangue
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+DTSTAMP:20260101T000000Z
+UID:sau-dia-20270614@agenda-do-mundo
+DESCRIPTION:Data do calendário oficial de dias mundiais da Organização 
+ Mundial da Saúde.\n\nBase: OMS\, World Health Days.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Julho Amarelo
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+DTSTAMP:20260101T000000Z
+UID:sau-mes-202707@agenda-do-mundo
+DESCRIPTION:Mês de campanha sobre hepatites virais. As campanhas por cor 
+ do mês se espalharam no Brasil a partir do Outubro Rosa\, que começou no
+ s Estados Unidos nos anos 1990.\n\nBase: calendário de campanhas do Minis
+ tério da Saúde.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia Mundial das Hepatites
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+DTSTAMP:20260101T000000Z
+UID:sau-dia-20270728@agenda-do-mundo
+DESCRIPTION:Data do calendário oficial de dias mundiais da Organização 
+ Mundial da Saúde.\n\nBase: OMS\, World Health Days.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agosto Dourado
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+DTSTAMP:20260101T000000Z
+UID:sau-mes-202708@agenda-do-mundo
+DESCRIPTION:Mês de campanha sobre aleitamento materno. As campanhas por c
+ or do mês se espalharam no Brasil a partir do Outubro Rosa\, que começou
+  nos Estados Unidos nos anos 1990.\n\nBase: calendário de campanhas do Mi
+ nistério da Saúde.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Setembro Amarelo
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+DTSTAMP:20260101T000000Z
+UID:sau-mes-202709@agenda-do-mundo
+DESCRIPTION:Mês de campanha sobre prevenção do suicídio e valorizaçã
+ o da vida. As campanhas por cor do mês se espalharam no Brasil a partir d
+ o Outubro Rosa\, que começou nos Estados Unidos nos anos 1990.\n\nBase: c
+ alendário de campanhas do Ministério da Saúde.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia Mundial de Prevenção do Suicídio
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+DTSTAMP:20260101T000000Z
+UID:sau-dia-20270910@agenda-do-mundo
+DESCRIPTION:Data do calendário oficial de dias mundiais da Organização 
+ Mundial da Saúde.\n\nBase: OMS\, World Health Days.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outubro Rosa
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+DTSTAMP:20260101T000000Z
+UID:sau-mes-202710@agenda-do-mundo
+DESCRIPTION:Mês de campanha sobre prevenção do câncer de mama. As camp
+ anhas por cor do mês se espalharam no Brasil a partir do Outubro Rosa\, q
+ ue começou nos Estados Unidos nos anos 1990.\n\nBase: calendário de camp
+ anhas do Ministério da Saúde.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia Mundial da Saúde Mental
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+DTSTAMP:20260101T000000Z
+UID:sau-dia-20271010@agenda-do-mundo
+DESCRIPTION:Data do calendário oficial de dias mundiais da Organização 
+ Mundial da Saúde.\n\nBase: OMS\, World Health Days.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Novembro Azul
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+DTSTAMP:20260101T000000Z
+UID:sau-mes-202711@agenda-do-mundo
+DESCRIPTION:Mês de campanha sobre saúde do homem e câncer de próstata.
+  As campanhas por cor do mês se espalharam no Brasil a partir do Outubro 
+ Rosa\, que começou nos Estados Unidos nos anos 1990.\n\nBase: calendário
+  de campanhas do Ministério da Saúde.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia Mundial do Diabetes
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+DTSTAMP:20260101T000000Z
+UID:sau-dia-20271114@agenda-do-mundo
+DESCRIPTION:Data do calendário oficial de dias mundiais da Organização 
+ Mundial da Saúde.\n\nBase: OMS\, World Health Days.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

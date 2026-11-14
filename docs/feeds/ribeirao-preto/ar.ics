@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Índice de qualidade do ar previsto para os próximos dias, c
+ om o que fazer em cada faixa. Agenda do Mundo.
+X-WR-CALNAME:Qualidade do ar · Ribeirão Preto
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Ar ruim (índice 156)
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260101T000000Z
+UID:ar-20261114@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 18h00\, índice 156 na esc
+ ala americana (EPA)\, com partículas finas PM2\,5 em 20 µg/m³. Todos de
+ vem reduzir esforço intenso ao ar livre\; grupos sensíveis\, evitar.\n\n
+ As partículas finas entram fundo no pulmão e passam para o sangue\; quei
+ madas e trânsito são as fontes principais no Brasil. Valor de modelo\, n
+ ão de estação de medição: serve para ver a tendência.\n\nBase: Open-
+ Meteo\, modelo CAMS do programa Copernicus.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ar ruim (índice 157)
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20260101T000000Z
+UID:ar-20261115@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 08h00\, índice 157 na esc
+ ala americana (EPA)\, com partículas finas PM2\,5 em 54 µg/m³. Todos de
+ vem reduzir esforço intenso ao ar livre\; grupos sensíveis\, evitar.\n\n
+ As partículas finas entram fundo no pulmão e passam para o sangue\; quei
+ madas e trânsito são as fontes principais no Brasil. Valor de modelo\, n
+ ão de estação de medição: serve para ver a tendência.\n\nBase: Open-
+ Meteo\, modelo CAMS do programa Copernicus.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ar ruim (índice 151)
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20260101T000000Z
+UID:ar-20261116@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 151 na esc
+ ala americana (EPA)\, com partículas finas PM2\,5 em 44 µg/m³. Todos de
+ vem reduzir esforço intenso ao ar livre\; grupos sensíveis\, evitar.\n\n
+ As partículas finas entram fundo no pulmão e passam para o sangue\; quei
+ madas e trânsito são as fontes principais no Brasil. Valor de modelo\, n
+ ão de estação de medição: serve para ver a tendência.\n\nBase: Open-
+ Meteo\, modelo CAMS do programa Copernicus.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ar ruim para grupos sensíveis (índice 150)
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260101T000000Z
+UID:ar-20261117@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 23h00\, índice 150 na esc
+ ala americana (EPA)\, com partículas finas PM2\,5 em 131 µg/m³. Quem te
+ m asma\, doença cardíaca ou pulmonar\, crianças e idosos devem reduzir 
+ esforço longo ao ar livre.\n\nAs partículas finas entram fundo no pulmã
+ o e passam para o sangue\; queimadas e trânsito são as fontes principais
+  no Brasil. Valor de modelo\, não de estação de medição: serve para v
+ er a tendência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ar ruim (índice 160)
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20260101T000000Z
+UID:ar-20261118@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 05h00\, índice 160 na esc
+ ala americana (EPA)\, com partículas finas PM2\,5 em 108 µg/m³. Todos d
+ evem reduzir esforço intenso ao ar livre\; grupos sensíveis\, evitar.\n
+ \nAs partículas finas entram fundo no pulmão e passam para o sangue\; qu
+ eimadas e trânsito são as fontes principais no Brasil. Valor de modelo\,
+  não de estação de medição: serve para ver a tendência.\n\nBase: Ope
+ n-Meteo\, modelo CAMS do programa Copernicus.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

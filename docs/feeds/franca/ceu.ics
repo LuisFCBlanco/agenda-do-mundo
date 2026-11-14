@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Agenda do Mundo//PT-BR
 CALSCALE:GREGORIAN
-X-WR-CALDESC:Planetas visíveis ao anoitecer e antes do amanhecer, Lua per
- to de planetas, chuvas de meteoros. Agenda do Mundo.
-X-WR-CALNAME:Céu da noite · Franca e região
+X-WR-CALDESC:Planetas ao anoitecer e antes do amanhecer, Lua perto de plan
+ etas, chuvas de meteoros. Agenda do Mundo.
+X-WR-CALNAME:Céu da noite · Franca
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Sao_Paulo
@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Lua perto de Vênus
 DTSTART:20261107T080000Z
 DTEND:20261107T083000Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-conj-Venus-2026110705@agenda-do-mundo
 DESCRIPTION:Antes do amanhecer\, Vênus fica a 0\,9° da Lua\, a leste\, b
  em baixo. Um punho fechado com o braço esticado cobre uns 10° de céu\, 
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
 DTSTART:20261109T075900Z
 DTEND:20261109T082900Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-manha-20261109@agenda-do-mundo
 DESCRIPTION:Às 4h59 desta semana:\nVênus: bem baixo (14°)\, a leste\, b
  rilho -4\,2\nJúpiter: a meia altura (47°)\, a nordeste\, brilho -1\,9\nM
@@ -32,28 +32,27 @@ DESCRIPTION:Às 4h59 desta semana:\nVênus: bem baixo (14°)\, a leste\, b
  de: quanto menor o número\, mais brilhante (Vênus chega perto de -4\, as
   estrelas mais fracas a olho nu ficam em torno de 6). Planeta não pisca c
  omo estrela porque é um disco\, não um ponto.\n\nBase: posições calcul
- adas com PyEphem para Franca e região.
+ adas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas ao anoitecer: Saturno
 DTSTART:20261109T214700Z
 DTEND:20261109T221700Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-noite-20261109@agenda-do-mundo
 DESCRIPTION:Às 18h47 desta semana:\nSaturno: a meia altura (45°)\, a nor
  deste\, brilho 0\,6\n\nBrilho em magnitude: quanto menor o número\, mais 
  brilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu fi
  cam em torno de 6). Planeta não pisca como estrela porque é um disco\, n
- ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca e reg
- ião.
+ ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
 DTSTART:20261116T075600Z
 DTEND:20261116T082600Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-manha-20261116@agenda-do-mundo
 DESCRIPTION:Às 4h56 desta semana:\nVênus: baixo (19°)\, a leste\, brilh
  o -4\,4\nJúpiter: a meia altura (50°)\, a nordeste\, brilho -2\,0\nMarte
@@ -61,28 +60,27 @@ DESCRIPTION:Às 4h56 desta semana:\nVênus: baixo (19°)\, a leste\, brilh
  quanto menor o número\, mais brilhante (Vênus chega perto de -4\, as est
  relas mais fracas a olho nu ficam em torno de 6). Planeta não pisca como 
  estrela porque é um disco\, não um ponto.\n\nBase: posições calculadas
-  com PyEphem para Franca e região.
+  com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas ao anoitecer: Saturno
 DTSTART:20261116T215200Z
 DTEND:20261116T222200Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-noite-20261116@agenda-do-mundo
 DESCRIPTION:Às 18h52 desta semana:\nSaturno: a meia altura (52°)\, a nor
  deste\, brilho 0\,6\n\nBrilho em magnitude: quanto menor o número\, mais 
  brilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu fi
  cam em torno de 6). Planeta não pisca como estrela porque é um disco\, n
- ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca e reg
- ião.
+ ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pico das Leônidas
+SUMMARY:Chuva de meteoros Leônidas
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-chuva-Leonidas-2026@agenda-do-mundo
 DESCRIPTION:O radiante nasce de madrugada a leste. A taxa costuma ser baix
  a\, mas os meteoros são rápidos.\n\nLua 57% iluminada na madrugada segui
@@ -95,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Mercúrio\, Marte
 DTSTART:20261123T075500Z
 DTEND:20261123T082500Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-manha-20261123@agenda-do-mundo
 DESCRIPTION:Às 4h55 desta semana:\nVênus: baixo (23°)\, a leste\, brilh
  o -4\,4\nJúpiter: a meia altura (53°)\, a nordeste\, brilho -2\,0\nMerc
@@ -104,28 +102,27 @@ DESCRIPTION:Às 4h55 desta semana:\nVênus: baixo (23°)\, a leste\, brilh
  ero\, mais brilhante (Vênus chega perto de -4\, as estrelas mais fracas a
   olho nu ficam em torno de 6). Planeta não pisca como estrela porque é u
  m disco\, não um ponto.\n\nBase: posições calculadas com PyEphem para F
- ranca e região.
+ ranca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas ao anoitecer: Saturno
 DTSTART:20261123T215600Z
 DTEND:20261123T222600Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-noite-20261123@agenda-do-mundo
 DESCRIPTION:Às 18h56 desta semana:\nSaturno: a meia altura (58°)\, a nor
  deste\, brilho 0\,7\n\nBrilho em magnitude: quanto menor o número\, mais 
  brilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu fi
  cam em torno de 6). Planeta não pisca como estrela porque é um disco\, n
- ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca e reg
- ião.
+ ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
 DTSTART:20261130T075500Z
 DTEND:20261130T082500Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-manha-20261130@agenda-do-mundo
 DESCRIPTION:Às 4h55 desta semana:\nVênus: baixo (26°)\, a leste\, brilh
  o -4\,5\nJúpiter: a meia altura (55°)\, a norte\, brilho -2\,0\nMarte: a
@@ -133,14 +130,14 @@ DESCRIPTION:Às 4h55 desta semana:\nVênus: baixo (26°)\, a leste\, brilh
  nto menor o número\, mais brilhante (Vênus chega perto de -4\, as estrel
  as mais fracas a olho nu ficam em torno de 6). Planeta não pisca como est
  rela porque é um disco\, não um ponto.\n\nBase: posições calculadas co
- m PyEphem para Franca e região.
+ m PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lua perto de Marte
 DTSTART:20261130T075500Z
 DTEND:20261130T082500Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-conj-Marte-2026113004@agenda-do-mundo
 DESCRIPTION:Antes do amanhecer\, Marte fica a 5\,7° da Lua\, a nordeste\,
   a meia altura. Um punho fechado com o braço esticado cobre uns 10° de c
@@ -152,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Lua perto de Júpiter
 DTSTART:20261130T075500Z
 DTEND:20261130T082500Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-conj-Jupiter-2026113004@agenda-do-mundo
 DESCRIPTION:Antes do amanhecer\, Júpiter fica a 0\,6° da Lua\, a norte\,
   a meia altura. Um punho fechado com o braço esticado cobre uns 10° de c
@@ -164,20 +161,20 @@ BEGIN:VEVENT
 SUMMARY:Planetas ao anoitecer: Saturno
 DTSTART:20261130T220100Z
 DTEND:20261130T223100Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-noite-20261130@agenda-do-mundo
 DESCRIPTION:Às 19h01 desta semana:\nSaturno: alto (64°)\, a nordeste\, b
  rilho 0\,7\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
   (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
  rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
- nto.\n\nBase: posições calculadas com PyEphem para Franca e região.
+ nto.\n\nBase: posições calculadas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
 DTSTART:20261207T075500Z
 DTEND:20261207T082500Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-manha-20261207@agenda-do-mundo
 DESCRIPTION:Às 4h55 desta semana:\nVênus: baixo (29°)\, a leste\, brilh
  o -4\,4\nJúpiter: a meia altura (56°)\, a norte\, brilho -2\,1\nMarte: a
@@ -185,27 +182,27 @@ DESCRIPTION:Às 4h55 desta semana:\nVênus: baixo (29°)\, a leste\, brilh
   menor o número\, mais brilhante (Vênus chega perto de -4\, as estrelas 
  mais fracas a olho nu ficam em torno de 6). Planeta não pisca como estrel
  a porque é um disco\, não um ponto.\n\nBase: posições calculadas com P
- yEphem para Franca e região.
+ yEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas ao anoitecer: Saturno
 DTSTART:20261207T220600Z
 DTEND:20261207T223600Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-noite-20261207@agenda-do-mundo
 DESCRIPTION:Às 19h06 desta semana:\nSaturno: alto (67°)\, a norte\, bril
  ho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
  ênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em torno
   de 6). Planeta não pisca como estrela porque é um disco\, não um ponto
- .\n\nBase: posições calculadas com PyEphem para Franca e região.
+ .\n\nBase: posições calculadas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pico das Geminídeas
+SUMMARY:Chuva de meteoros Geminídeas
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-chuva-Geminideas-2026@agenda-do-mundo
 DESCRIPTION:A chuva mais forte do ano. O radiante nasce no nordeste por vo
  lta das 22h\; o melhor é depois da meia-noite. Vem do asteroide Faetonte
@@ -219,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
 DTSTART:20261214T075700Z
 DTEND:20261214T082700Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-manha-20261214@agenda-do-mundo
 DESCRIPTION:Às 4h57 desta semana:\nVênus: baixo (31°)\, a leste\, brilh
  o -4\,4\nJúpiter: a meia altura (56°)\, a norte\, brilho -2\,1\nMarte: a
@@ -227,27 +224,27 @@ DESCRIPTION:Às 4h57 desta semana:\nVênus: baixo (31°)\, a leste\, brilh
   menor o número\, mais brilhante (Vênus chega perto de -4\, as estrelas 
  mais fracas a olho nu ficam em torno de 6). Planeta não pisca como estrel
  a porque é um disco\, não um ponto.\n\nBase: posições calculadas com P
- yEphem para Franca e região.
+ yEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas ao anoitecer: Saturno
 DTSTART:20261214T221000Z
 DTEND:20261214T224000Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-noite-20261214@agenda-do-mundo
 DESCRIPTION:Às 19h10 desta semana:\nSaturno: alto (69°)\, a norte\, bril
  ho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
  ênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em torno
   de 6). Planeta não pisca como estrela porque é um disco\, não um ponto
- .\n\nBase: posições calculadas com PyEphem para Franca e região.
+ .\n\nBase: posições calculadas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
 DTSTART:20261221T080000Z
 DTEND:20261221T083000Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-manha-20261221@agenda-do-mundo
 DESCRIPTION:Às 5h00 desta semana:\nVênus: baixo (33°)\, a leste\, brilh
  o -4\,4\nJúpiter: a meia altura (54°)\, a norte\, brilho -2\,2\nMarte: a
@@ -255,27 +252,27 @@ DESCRIPTION:Às 5h00 desta semana:\nVênus: baixo (33°)\, a leste\, brilh
   menor o número\, mais brilhante (Vênus chega perto de -4\, as estrelas 
  mais fracas a olho nu ficam em torno de 6). Planeta não pisca como estrel
  a porque é um disco\, não um ponto.\n\nBase: posições calculadas com P
- yEphem para Franca e região.
+ yEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas ao anoitecer: Saturno
 DTSTART:20261221T221400Z
 DTEND:20261221T224400Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-noite-20261221@agenda-do-mundo
 DESCRIPTION:Às 19h14 desta semana:\nSaturno: alto (67°)\, a norte\, bril
  ho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
  ênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em torno
   de 6). Planeta não pisca como estrela porque é um disco\, não um ponto
- .\n\nBase: posições calculadas com PyEphem para Franca e região.
+ .\n\nBase: posições calculadas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lua perto de Júpiter
 DTSTART:20261227T080400Z
 DTEND:20261227T083400Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-conj-Jupiter-2026122705@agenda-do-mundo
 DESCRIPTION:Antes do amanhecer\, Júpiter fica a 5\,8° da Lua\, a noroest
  e\, a meia altura. Um punho fechado com o braço esticado cobre uns 10° d
@@ -288,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
 DTSTART:20261228T080400Z
 DTEND:20261228T083400Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-manha-20261228@agenda-do-mundo
 DESCRIPTION:Às 5h04 desta semana:\nVênus: baixo (35°)\, a leste\, brilh
  o -4\,3\nJúpiter: a meia altura (50°)\, a noroeste\, brilho -2\,2\nMarte
@@ -296,14 +293,14 @@ DESCRIPTION:Às 5h04 desta semana:\nVênus: baixo (35°)\, a leste\, brilh
  anto menor o número\, mais brilhante (Vênus chega perto de -4\, as estre
  las mais fracas a olho nu ficam em torno de 6). Planeta não pisca como es
  trela porque é um disco\, não um ponto.\n\nBase: posições calculadas c
- om PyEphem para Franca e região.
+ om PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lua perto de Marte
 DTSTART:20261228T080400Z
 DTEND:20261228T083400Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-conj-Marte-2026122805@agenda-do-mundo
 DESCRIPTION:Antes do amanhecer\, Marte fica a 5\,7° da Lua\, a norte\, a 
  meia altura. Um punho fechado com o braço esticado cobre uns 10° de céu
@@ -315,20 +312,20 @@ BEGIN:VEVENT
 SUMMARY:Planetas ao anoitecer: Saturno
 DTSTART:20261228T221700Z
 DTEND:20261228T224700Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-noite-20261228@agenda-do-mundo
 DESCRIPTION:Às 19h17 desta semana:\nSaturno: alto (63°)\, a noroeste\, b
  rilho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
   (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
  rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
- nto.\n\nBase: posições calculadas com PyEphem para Franca e região.
+ nto.\n\nBase: posições calculadas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
 DTSTART:20270104T080900Z
 DTEND:20270104T083900Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-manha-20270104@agenda-do-mundo
 DESCRIPTION:Às 5h09 desta semana:\nVênus: a meia altura (36°)\, a leste
  \, brilho -4\,3\nJúpiter: a meia altura (45°)\, a noroeste\, brilho -2\,
@@ -336,28 +333,27 @@ DESCRIPTION:Às 5h09 desta semana:\nVênus: a meia altura (36°)\, a leste
  gnitude: quanto menor o número\, mais brilhante (Vênus chega perto de -4
  \, as estrelas mais fracas a olho nu ficam em torno de 6). Planeta não pi
  sca como estrela porque é um disco\, não um ponto.\n\nBase: posições c
- alculadas com PyEphem para Franca e região.
+ alculadas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas ao anoitecer: Saturno
 DTSTART:20270104T221900Z
 DTEND:20270104T224900Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-noite-20270104@agenda-do-mundo
 DESCRIPTION:Às 19h19 desta semana:\nSaturno: a meia altura (59°)\, a nor
  oeste\, brilho 0\,9\n\nBrilho em magnitude: quanto menor o número\, mais 
  brilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu fi
  cam em torno de 6). Planeta não pisca como estrela porque é um disco\, n
- ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca e reg
- ião.
+ ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
 DTSTART:20270111T081300Z
 DTEND:20270111T084300Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-manha-20270111@agenda-do-mundo
 DESCRIPTION:Às 5h13 desta semana:\nVênus: a meia altura (37°)\, a leste
  \, brilho -4\,2\nJúpiter: a meia altura (39°)\, a noroeste\, brilho -2\,
@@ -365,21 +361,20 @@ DESCRIPTION:Às 5h13 desta semana:\nVênus: a meia altura (37°)\, a leste
  gnitude: quanto menor o número\, mais brilhante (Vênus chega perto de -4
  \, as estrelas mais fracas a olho nu ficam em torno de 6). Planeta não pi
  sca como estrela porque é um disco\, não um ponto.\n\nBase: posições c
- alculadas com PyEphem para Franca e região.
+ alculadas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planetas ao anoitecer: Saturno
 DTSTART:20270111T222000Z
 DTEND:20270111T225000Z
-DTSTAMP:20261113T210308Z
+DTSTAMP:20260101T000000Z
 UID:ceu-planetas-noite-20270111@agenda-do-mundo
 DESCRIPTION:Às 19h20 desta semana:\nSaturno: a meia altura (53°)\, a nor
  oeste\, brilho 0\,9\n\nBrilho em magnitude: quanto menor o número\, mais 
  brilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu fi
  cam em torno de 6). Planeta não pisca como estrela porque é um disco\, n
- ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca e reg
- ião.
+ ão um ponto.\n\nBase: posições calculadas com PyEphem para Franca.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

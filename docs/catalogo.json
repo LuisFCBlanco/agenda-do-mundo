@@ -1,93 +1,5071 @@
 {
  "projeto": "Agenda do Mundo",
- "gerado_em": "2026-11-13T18:03-03:00",
+ "gerado_em": "2026-11-14T03:14-03:00",
  "regioes": [
   {
-   "id": "lorena",
-   "nome": "Lorena e Vale do Paraíba",
+   "id": "sao-paulo",
+   "nome": "São Paulo",
    "uf": "SP",
-   "lat": -22.7311,
-   "lon": -45.1247,
-   "alt": 524
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -23.5475,
+   "lon": -46.6361
+  },
+  {
+   "id": "rio-de-janeiro",
+   "nome": "Rio de Janeiro",
+   "uf": "RJ",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -22.9064,
+   "lon": -43.1822
+  },
+  {
+   "id": "belo-horizonte",
+   "nome": "Belo Horizonte",
+   "uf": "MG",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -19.9208,
+   "lon": -43.9378
+  },
+  {
+   "id": "vitoria",
+   "nome": "Vitória",
+   "uf": "ES",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -20.3194,
+   "lon": -40.3378
+  },
+  {
+   "id": "curitiba",
+   "nome": "Curitiba",
+   "uf": "PR",
+   "macro": "sul",
+   "tz": "America/Sao_Paulo",
+   "lat": -25.4278,
+   "lon": -49.2731
+  },
+  {
+   "id": "florianopolis",
+   "nome": "Florianópolis",
+   "uf": "SC",
+   "macro": "sul",
+   "tz": "America/Sao_Paulo",
+   "lat": -27.5967,
+   "lon": -48.5492
+  },
+  {
+   "id": "porto-alegre",
+   "nome": "Porto Alegre",
+   "uf": "RS",
+   "macro": "sul",
+   "tz": "America/Sao_Paulo",
+   "lat": -30.0328,
+   "lon": -51.2302
+  },
+  {
+   "id": "salvador",
+   "nome": "Salvador",
+   "uf": "BA",
+   "macro": "nordeste",
+   "tz": "America/Bahia",
+   "lat": -12.9756,
+   "lon": -38.491
+  },
+  {
+   "id": "recife",
+   "nome": "Recife",
+   "uf": "PE",
+   "macro": "nordeste",
+   "tz": "America/Recife",
+   "lat": -8.0539,
+   "lon": -34.8811
+  },
+  {
+   "id": "fortaleza",
+   "nome": "Fortaleza",
+   "uf": "CE",
+   "macro": "nordeste",
+   "tz": "America/Fortaleza",
+   "lat": -3.7172,
+   "lon": -38.5431
+  },
+  {
+   "id": "sao-luis",
+   "nome": "São Luís",
+   "uf": "MA",
+   "macro": "nordeste",
+   "tz": "America/Fortaleza",
+   "lat": -2.5297,
+   "lon": -44.3028
+  },
+  {
+   "id": "teresina",
+   "nome": "Teresina",
+   "uf": "PI",
+   "macro": "nordeste",
+   "tz": "America/Fortaleza",
+   "lat": -5.0892,
+   "lon": -42.8019
+  },
+  {
+   "id": "natal",
+   "nome": "Natal",
+   "uf": "RN",
+   "macro": "nordeste",
+   "tz": "America/Fortaleza",
+   "lat": -5.795,
+   "lon": -35.2094
+  },
+  {
+   "id": "joao-pessoa",
+   "nome": "João Pessoa",
+   "uf": "PB",
+   "macro": "nordeste",
+   "tz": "America/Fortaleza",
+   "lat": -7.115,
+   "lon": -34.8631
+  },
+  {
+   "id": "maceio",
+   "nome": "Maceió",
+   "uf": "AL",
+   "macro": "nordeste",
+   "tz": "America/Maceio",
+   "lat": -9.6658,
+   "lon": -35.7353
+  },
+  {
+   "id": "aracaju",
+   "nome": "Aracaju",
+   "uf": "SE",
+   "macro": "nordeste",
+   "tz": "America/Maceio",
+   "lat": -10.9111,
+   "lon": -37.0717
+  },
+  {
+   "id": "belem",
+   "nome": "Belém",
+   "uf": "PA",
+   "macro": "norte",
+   "tz": "America/Belem",
+   "lat": -1.4558,
+   "lon": -48.5044
+  },
+  {
+   "id": "manaus",
+   "nome": "Manaus",
+   "uf": "AM",
+   "macro": "norte",
+   "tz": "America/Manaus",
+   "lat": -3.1019,
+   "lon": -60.025
+  },
+  {
+   "id": "macapa",
+   "nome": "Macapá",
+   "uf": "AP",
+   "macro": "norte",
+   "tz": "America/Belem",
+   "lat": 0.0389,
+   "lon": -51.0664
+  },
+  {
+   "id": "boa-vista",
+   "nome": "Boa Vista",
+   "uf": "RR",
+   "macro": "norte",
+   "tz": "America/Boa_Vista",
+   "lat": 2.8197,
+   "lon": -60.6733
+  },
+  {
+   "id": "porto-velho",
+   "nome": "Porto Velho",
+   "uf": "RO",
+   "macro": "norte",
+   "tz": "America/Porto_Velho",
+   "lat": -8.7619,
+   "lon": -63.9039
+  },
+  {
+   "id": "rio-branco",
+   "nome": "Rio Branco",
+   "uf": "AC",
+   "macro": "norte",
+   "tz": "America/Rio_Branco",
+   "lat": -9.9747,
+   "lon": -67.81
+  },
+  {
+   "id": "palmas",
+   "nome": "Palmas",
+   "uf": "TO",
+   "macro": "norte",
+   "tz": "America/Araguaina",
+   "lat": -10.1675,
+   "lon": -48.3277
+  },
+  {
+   "id": "brasilia",
+   "nome": "Brasília",
+   "uf": "DF",
+   "macro": "centro-oeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -15.7797,
+   "lon": -47.9297
+  },
+  {
+   "id": "goiania",
+   "nome": "Goiânia",
+   "uf": "GO",
+   "macro": "centro-oeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -16.6786,
+   "lon": -49.2539
+  },
+  {
+   "id": "cuiaba",
+   "nome": "Cuiabá",
+   "uf": "MT",
+   "macro": "centro-oeste",
+   "tz": "America/Cuiaba",
+   "lat": -15.5961,
+   "lon": -56.0967
+  },
+  {
+   "id": "campo-grande",
+   "nome": "Campo Grande",
+   "uf": "MS",
+   "macro": "centro-oeste",
+   "tz": "America/Campo_Grande",
+   "lat": -20.4428,
+   "lon": -54.6464
+  },
+  {
+   "id": "lorena",
+   "nome": "Lorena",
+   "uf": "SP",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -22.7308,
+   "lon": -45.1247
+  },
+  {
+   "id": "guaratingueta",
+   "nome": "Guaratinguetá",
+   "uf": "SP",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -22.8164,
+   "lon": -45.1925
+  },
+  {
+   "id": "taubate",
+   "nome": "Taubaté",
+   "uf": "SP",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -23.0264,
+   "lon": -45.5553
+  },
+  {
+   "id": "sao-jose-dos-campos",
+   "nome": "São José dos Campos",
+   "uf": "SP",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -23.1794,
+   "lon": -45.8869
   },
   {
    "id": "franca",
-   "nome": "Franca e região",
+   "nome": "Franca",
    "uf": "SP",
-   "lat": -20.5352,
-   "lon": -47.4039,
-   "alt": 1000
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -20.5386,
+   "lon": -47.4008
+  },
+  {
+   "id": "ribeirao-preto",
+   "nome": "Ribeirão Preto",
+   "uf": "SP",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -21.1775,
+   "lon": -47.8103
+  },
+  {
+   "id": "campinas",
+   "nome": "Campinas",
+   "uf": "SP",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -22.9056,
+   "lon": -47.0608
+  },
+  {
+   "id": "santos",
+   "nome": "Santos",
+   "uf": "SP",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -23.9608,
+   "lon": -46.3336
+  },
+  {
+   "id": "sorocaba",
+   "nome": "Sorocaba",
+   "uf": "SP",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -23.5017,
+   "lon": -47.4581
+  },
+  {
+   "id": "uberlandia",
+   "nome": "Uberlândia",
+   "uf": "MG",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -18.9186,
+   "lon": -48.2772
+  },
+  {
+   "id": "juiz-de-fora",
+   "nome": "Juiz de Fora",
+   "uf": "MG",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -21.7642,
+   "lon": -43.3503
+  },
+  {
+   "id": "montes-claros",
+   "nome": "Montes Claros",
+   "uf": "MG",
+   "macro": "sudeste",
+   "tz": "America/Sao_Paulo",
+   "lat": -16.735,
+   "lon": -43.8617
+  },
+  {
+   "id": "londrina",
+   "nome": "Londrina",
+   "uf": "PR",
+   "macro": "sul",
+   "tz": "America/Sao_Paulo",
+   "lat": -23.3103,
+   "lon": -51.1628
+  },
+  {
+   "id": "joinville",
+   "nome": "Joinville",
+   "uf": "SC",
+   "macro": "sul",
+   "tz": "America/Sao_Paulo",
+   "lat": -26.3044,
+   "lon": -48.8456
+  },
+  {
+   "id": "caxias-do-sul",
+   "nome": "Caxias do Sul",
+   "uf": "RS",
+   "macro": "sul",
+   "tz": "America/Sao_Paulo",
+   "lat": -29.1681,
+   "lon": -51.1794
+  },
+  {
+   "id": "feira-de-santana",
+   "nome": "Feira de Santana",
+   "uf": "BA",
+   "macro": "nordeste",
+   "tz": "America/Bahia",
+   "lat": -12.2667,
+   "lon": -38.9667
+  },
+  {
+   "id": "campina-grande",
+   "nome": "Campina Grande",
+   "uf": "PB",
+   "macro": "nordeste",
+   "tz": "America/Fortaleza",
+   "lat": -7.2306,
+   "lon": -35.8811
+  },
+  {
+   "id": "petrolina",
+   "nome": "Petrolina",
+   "uf": "PE",
+   "macro": "nordeste",
+   "tz": "America/Recife",
+   "lat": -9.3986,
+   "lon": -40.5008
+  },
+  {
+   "id": "santarem",
+   "nome": "Santarém",
+   "uf": "PA",
+   "macro": "norte",
+   "tz": "America/Belem",
+   "lat": -2.4431,
+   "lon": -54.7083
+  },
+  {
+   "id": "dourados",
+   "nome": "Dourados",
+   "uf": "MS",
+   "macro": "centro-oeste",
+   "tz": "America/Campo_Grande",
+   "lat": -22.2211,
+   "lon": -54.8056
   }
+ ],
+ "macros": {
+  "norte": "Norte",
+  "nordeste": "Nordeste",
+  "centro-oeste": "Centro-Oeste",
+  "sudeste": "Sudeste",
+  "sul": "Sul"
+ },
+ "grupos": [
+  "Céu e tempo",
+  "Natureza",
+  "Economia e trabalho",
+  "Culturas e tradições",
+  "Corpo e saúde",
+  "História, ciência e lazer"
  ],
  "areas": [
   {
    "id": "lua",
    "nome": "Lua",
-   "resumo": "As quatro fases, com a hora certa de olhar na sua cidade.",
+   "grupo": "Céu e tempo",
+   "escopo": "local",
+   "resumo": "As quatro fases, com a hora boa de olhar na sua cidade.",
    "fonte": "cálculo astronômico (PyEphem)"
   },
   {
    "id": "ceu",
    "nome": "Céu da noite",
-   "resumo": "Planetas visíveis ao anoitecer e antes do amanhecer, Lua perto de planetas, chuvas de meteoros.",
+   "grupo": "Céu e tempo",
+   "escopo": "local",
+   "resumo": "Planetas ao anoitecer e antes do amanhecer, Lua perto de planetas, chuvas de meteoros.",
    "fonte": "cálculo astronômico (PyEphem)"
   },
   {
    "id": "sol",
    "nome": "Nascer e pôr do sol",
-   "resumo": "Nascer e pôr do sol todo dia, com a duração do dia e quanto ela mudou desde ontem.",
+   "grupo": "Céu e tempo",
+   "escopo": "local",
+   "resumo": "Todo dia, com a duração do dia e quanto ela mudou desde ontem.",
    "fonte": "cálculo astronômico (PyEphem)"
   },
   {
    "id": "estacoes",
    "nome": "Estações do ano",
+   "grupo": "Céu e tempo",
+   "escopo": "local",
    "resumo": "Só os solstícios e equinócios, com o momento exato e o porquê.",
    "fonte": "cálculo astronômico (PyEphem)"
   },
   {
-   "id": "feriados",
-   "nome": "Feriados",
-   "resumo": "Feriados nacionais e estaduais. Municipais ainda não entram.",
-   "fonte": "python-holidays"
+   "id": "clima",
+   "nome": "Previsão do tempo",
+   "grupo": "Céu e tempo",
+   "escopo": "local",
+   "resumo": "Máxima, mínima, chance de chuva e índice UV dos próximos 7 dias.",
+   "fonte": "Open-Meteo"
+  },
+  {
+   "id": "ar",
+   "nome": "Qualidade do ar",
+   "grupo": "Céu e tempo",
+   "escopo": "local",
+   "resumo": "Índice de qualidade do ar previsto para os próximos dias, com o que fazer em cada faixa.",
+   "fonte": "Open-Meteo (modelo CAMS)"
+  },
+  {
+   "id": "avifauna",
+   "nome": "Aves da estação",
+   "grupo": "Natureza",
+   "escopo": "regional",
+   "resumo": "Uma ave por dia: o que ela está fazendo agora na sua região, com o canto.",
+   "fonte": "texto do Claude com pesquisa na web, fonte em cada evento"
+  },
+  {
+   "id": "aves",
+   "nome": "Aves registradas perto de você",
+   "grupo": "Natureza",
+   "escopo": "local",
+   "resumo": "Espécies vistas por observadores num raio de 25 km na última semana.",
+   "fonte": "eBird (Cornell Lab)"
+  },
+  {
+   "id": "botanica",
+   "nome": "Plantas em flor e fruto",
+   "grupo": "Natureza",
+   "escopo": "regional",
+   "resumo": "Uma planta por dia florindo ou frutificando agora na sua região, e quem a poliniza.",
+   "fonte": "texto do Claude com pesquisa na web, fonte em cada evento"
+  },
+  {
+   "id": "entomologia",
+   "nome": "Insetos da estação",
+   "grupo": "Natureza",
+   "escopo": "regional",
+   "resumo": "Um inseto por dia ativo agora, com o papel dele no ecossistema.",
+   "fonte": "texto do Claude com pesquisa na web, fonte em cada evento"
   },
   {
    "id": "economia",
    "nome": "Economia",
-   "resumo": "Selic em vigor toda segunda e o dólar da semana toda sexta, direto do Banco Central.",
-   "fonte": "Banco Central do Brasil (SGS)"
+   "grupo": "Economia e trabalho",
+   "escopo": "nacional",
+   "resumo": "Selic, dólar, euro e IPCA direto do Banco Central, e o motivo das variações.",
+   "fonte": "Banco Central do Brasil (SGS) e pesquisa na web"
   },
   {
-   "id": "clima",
-   "nome": "Previsão do tempo",
-   "resumo": "Máxima, mínima e chance de chuva para os próximos 7 dias.",
-   "fonte": "Open-Meteo"
+   "id": "investidor",
+   "nome": "Agenda do investidor",
+   "grupo": "Economia e trabalho",
+   "escopo": "nacional",
+   "resumo": "Boletim Focus, divulgações do IBGE (IPCA, PIB, desemprego) e reuniões de política monetária.",
+   "fonte": "Banco Central (Focus), IBGE e pesquisa na web"
   },
   {
-   "id": "aves",
-   "nome": "Aves por perto",
-   "resumo": "Espécies registradas por observadores num raio de 25 km na última semana.",
-   "fonte": "eBird (Cornell Lab)"
-  },
-  {
-   "id": "natureza",
-   "nome": "Natureza da estação",
-   "resumo": "O que está florindo, frutificando, cantando e voando na região nesta época do ano.",
-   "fonte": "texto escrito por IA (Claude)"
+   "id": "agro",
+   "nome": "Campo, indústria e preços",
+   "grupo": "Economia e trabalho",
+   "escopo": "nacional",
+   "resumo": "Café, boi, cana, soja, milho, leite, hortaliças, frete, fertilizante e indústria, quando o fato chega ao bolso.",
+   "fonte": "texto do Claude com pesquisa na web, fonte em cada evento"
   },
   {
    "id": "campo",
-   "nome": "Campo e safra",
-   "resumo": "Plantio, colheita e o que está na época na feira, com o porquê de cada coisa.",
-   "fonte": "texto escrito por IA (Claude)"
+   "nome": "Safra da sua região",
+   "grupo": "Economia e trabalho",
+   "escopo": "regional",
+   "resumo": "Plantio, colheita e o que está na época na feira da sua região.",
+   "fonte": "texto do Claude com pesquisa na web, fonte em cada evento"
+  },
+  {
+   "id": "energia",
+   "nome": "Água e energia",
+   "grupo": "Economia e trabalho",
+   "escopo": "nacional",
+   "resumo": "Reservatórios, bandeira tarifária e carga do sistema elétrico, com dado oficial.",
+   "fonte": "texto do Claude com pesquisa na web, fonte em cada evento"
+  },
+  {
+   "id": "feriados",
+   "nome": "Feriados",
+   "grupo": "Culturas e tradições",
+   "escopo": "local",
+   "resumo": "Feriados nacionais e do seu estado.",
+   "fonte": "python-holidays"
+  },
+  {
+   "id": "cultura",
+   "nome": "Cultura e festas da região",
+   "grupo": "Culturas e tradições",
+   "escopo": "regional",
+   "resumo": "Festas tradicionais, religiosas e populares da sua região.",
+   "fonte": "texto do Claude com pesquisa na web, fonte em cada evento"
+  },
+  {
+   "id": "judaico",
+   "nome": "Calendário judaico",
+   "grupo": "Culturas e tradições",
+   "escopo": "nacional",
+   "resumo": "Festas judaicas com a data exata, que começam ao pôr do sol da véspera.",
+   "fonte": "calendário hebraico (convertdate)"
+  },
+  {
+   "id": "islamico",
+   "nome": "Calendário islâmico",
+   "grupo": "Culturas e tradições",
+   "escopo": "nacional",
+   "resumo": "Ramadã, Eid e outras datas, estimadas pelo calendário lunar.",
+   "fonte": "calendário hijri tabular (convertdate)"
+  },
+  {
+   "id": "chines",
+   "nome": "Calendário chinês",
+   "grupo": "Culturas e tradições",
+   "escopo": "nacional",
+   "resumo": "As 24 estações solares chinesas e as grandes festas do calendário lunissolar.",
+   "fonte": "cálculo astronômico e python-holidays"
+  },
+  {
+   "id": "hindu",
+   "nome": "Festas hindus",
+   "grupo": "Culturas e tradições",
+   "escopo": "nacional",
+   "resumo": "Diwali, Holi e as festas do calendário hindu.",
+   "fonte": "python-holidays (calendário oficial da Índia)"
+  },
+  {
+   "id": "vedico",
+   "nome": "Calendário védico (panchang)",
+   "grupo": "Culturas e tradições",
+   "escopo": "local",
+   "resumo": "Tithi e nakshatra de cada dia, Ekadashi e as passagens do Sol pelos signos siderais.",
+   "fonte": "cálculo astronômico (PyEphem)"
+  },
+  {
+   "id": "ayurveda",
+   "nome": "Ayurveda e yoga",
+   "grupo": "Corpo e saúde",
+   "escopo": "local",
+   "resumo": "Brahma muhurta todo dia, os ciclos dos doshas e as estações do Ayurveda, com o que a ciência diz.",
+   "fonte": "cálculo astronômico (PyEphem) e textos da tradição"
+  },
+  {
+   "id": "saude",
+   "nome": "Saúde pública",
+   "grupo": "Corpo e saúde",
+   "escopo": "nacional",
+   "resumo": "Campanhas do mês e dias mundiais de saúde.",
+   "fonte": "Ministério da Saúde e OMS"
   },
   {
    "id": "historia",
    "nome": "Aconteceu neste dia",
-   "resumo": "Datas de ciência, técnica e cultura que fazem aniversário na semana.",
-   "fonte": "texto escrito por IA (Claude)"
+   "grupo": "História, ciência e lazer",
+   "escopo": "nacional",
+   "resumo": "Um fato por dia de ciência, técnica, astronomia, línguas e cultura.",
+   "fonte": "texto do Claude com pesquisa na web, fonte em cada evento"
+  },
+  {
+   "id": "materiais",
+   "nome": "Materiais e siderurgia",
+   "grupo": "História, ciência e lazer",
+   "escopo": "nacional",
+   "resumo": "Aço, cerâmica, polímeros e as descobertas de engenharia de materiais na semana.",
+   "fonte": "texto do Claude com pesquisa na web, fonte em cada evento"
+  },
+  {
+   "id": "dias",
+   "nome": "Datas e dias internacionais",
+   "grupo": "História, ciência e lazer",
+   "escopo": "nacional",
+   "resumo": "Dias da ONU e datas comemorativas, com o porquê de cada um.",
+   "fonte": "texto do Claude com pesquisa na web, fonte em cada evento"
+  },
+  {
+   "id": "esporte",
+   "nome": "Esporte",
+   "grupo": "História, ciência e lazer",
+   "escopo": "nacional",
+   "resumo": "Jogos e competições com data confirmada.",
+   "fonte": "texto do Claude com pesquisa na web, fonte em cada evento"
+  },
+  {
+   "id": "telas",
+   "nome": "Cinema e streaming",
+   "grupo": "História, ciência e lazer",
+   "escopo": "nacional",
+   "resumo": "Estreias no cinema e nas plataformas, com data confirmada.",
+   "fonte": "texto do Claude com pesquisa na web, fonte em cada evento"
   }
  ],
  "feeds": {
+  "brasil": {
+   "economia": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "IPCA de outubro: 0,14%",
+      "inicio": "2026-11-14T09:30:00-03:00"
+     },
+     {
+      "titulo": "Selic em vigor: 13,75% ao ano",
+      "inicio": "2026-11-16T09:00:00-03:00"
+     }
+    ]
+   },
+   "chines": {
+    "n": 29,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Neve pequena (Xiaoxue)",
+      "inicio": "2026-11-22T04:18:00-03:00"
+     },
+     {
+      "titulo": "Neve grande (Daxue)",
+      "inicio": "2026-12-06T23:47:00-03:00"
+     },
+     {
+      "titulo": "Solstício de inverno (Dongzhi)",
+      "inicio": "2026-12-21T17:45:00-03:00"
+     }
+    ]
+   },
+   "hindu": {
+    "n": 14,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Aniversário de Guru Nanak",
+      "inicio": "2026-11-24"
+     },
+     {
+      "titulo": "Makar Sankranti",
+      "inicio": "2027-01-15"
+     },
+     {
+      "titulo": "Maha Shivaratri",
+      "inicio": "2027-03-06"
+     }
+    ]
+   },
+   "saude": {
+    "n": 23,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Dia Mundial do Diabetes",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Dezembro Vermelho",
+      "inicio": "2026-12-01"
+     },
+     {
+      "titulo": "Dia Mundial de Luta contra a Aids",
+      "inicio": "2026-12-01"
+     }
+    ]
+   }
+  },
+  "sao-paulo": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:30:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:57:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:15:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:48:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:54:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h22",
+      "inicio": "2026-11-14T05:10:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:31:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h23",
+      "inicio": "2026-11-15T05:09:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 65)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar ruim para grupos sensíveis (índice 124)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 94)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:34:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:33:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:33:00-03:00"
+     }
+    ]
+   }
+  },
+  "rio-de-janeiro": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:15:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:41:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:00:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:35:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:39:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h19",
+      "inicio": "2026-11-14T04:57:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:17:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h20",
+      "inicio": "2026-11-15T04:57:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar ruim para grupos sensíveis (índice 133)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar ruim para grupos sensíveis (índice 130)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar ruim (índice 152)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 13,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:21:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:21:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:20:00-03:00"
+     }
+    ]
+   }
+  },
+  "belo-horizonte": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:13:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:37:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:01:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:44:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:37:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h10",
+      "inicio": "2026-11-14T05:05:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:15:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h11",
+      "inicio": "2026-11-15T05:05:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 63)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 68)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 73)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 11,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:29:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:29:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:28:00-03:00"
+     }
+    ]
+   }
+  },
+  "vitoria": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:59:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:22:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:47:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 26,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:29:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:23:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h11",
+      "inicio": "2026-11-14T04:50:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:01:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h12",
+      "inicio": "2026-11-15T04:50:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 67)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 69)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 55)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:14:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:14:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:13:00-03:00"
+     }
+    ]
+   }
+  },
+  "curitiba": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:44:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T19:13:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:27:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:55:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T19:08:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h28",
+      "inicio": "2026-11-14T05:17:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:45:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h29",
+      "inicio": "2026-11-15T05:17:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "26° / 15° · chuva 55% · garoa forte",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "28° / 16° · chuva 100% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "25° / 17° · chuva 76% · garoa fraca",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 57)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 54)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 51)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 11,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Nossa Senhora do Rocio; Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:41:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:41:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:40:00-03:00"
+     }
+    ]
+   }
+  },
+  "florianopolis": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:45:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T19:16:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:25:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:47:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T19:10:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h36",
+      "inicio": "2026-11-14T05:11:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:46:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h37",
+      "inicio": "2026-11-15T05:10:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "25° / 19° · chuva 59% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "26° / 21° · chuva 76% · garoa forte",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "25° / 20° · chuva 76% · garoa",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 57)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 34)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 32)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 13,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Dia de Santa Catarina de Alexandria",
+      "inicio": "2026-11-29"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:35:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:34:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:34:00-03:00"
+     }
+    ]
+   }
+  },
+  "porto-alegre": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T19:00:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T19:34:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:38:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:53:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T19:26:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h45",
+      "inicio": "2026-11-14T05:17:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T19:01:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h46",
+      "inicio": "2026-11-15T05:16:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "30° / 19° · chuva 15% · nublado",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "29° / 20° · chuva 83% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "29° / 20° · chuva 24% · garoa fraca",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar bom (índice 46)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 51)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 41)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:41:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:40:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:40:00-03:00"
+     }
+    ]
+   }
+  },
+  "salvador": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:41:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:58:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:35:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 26,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T04:33:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:03:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h49",
+      "inicio": "2026-11-14T04:53:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:43:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h50",
+      "inicio": "2026-11-15T04:53:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "30° / 25° · chuva 37% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "31° / 24° · chuva 84% · garoa fraca",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "32° / 24° · chuva 84% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 56)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 56)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 51)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:17:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:17:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:17:00-03:00"
+     }
+    ]
+   }
+  },
+  "recife": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:19:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:32:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:17:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 24,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T04:26:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T17:41:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h35",
+      "inicio": "2026-11-14T04:46:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:21:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h36",
+      "inicio": "2026-11-15T04:46:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "31° / 26° · chuva 35% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "30° / 26° · chuva 67% · garoa fraca",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "30° / 25° · chuva 47% · garoa fraca",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 52)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 44)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 52)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:10:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:10:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:10:00-03:00"
+     }
+    ]
+   }
+  },
+  "fortaleza": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:28:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:39:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:29:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T04:47:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T17:50:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h24",
+      "inicio": "2026-11-14T05:06:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:30:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h24",
+      "inicio": "2026-11-15T05:06:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "31° / 27° · chuva 31% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "32° / 25° · chuva 41% · garoa forte",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "30° / 24° · chuva 76% · pancadas fracas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 53)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 50)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 47)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 14,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:30:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:30:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:30:00-03:00"
+     }
+    ]
+   }
+  },
+  "sao-luis": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:49:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:00:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:52:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T05:12:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:11:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h20",
+      "inicio": "2026-11-14T05:31:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:51:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h21",
+      "inicio": "2026-11-15T05:31:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "33° / 26° · chuva 24% · pancadas fracas",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "33° / 26° · chuva 42% · garoa fraca",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "33° / 26° · chuva 69% · pancadas fracas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:55:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:55:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:55:00-03:00"
+     }
+    ]
+   }
+  },
+  "teresina": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:47:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:59:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:48:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T05:02:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:09:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h27",
+      "inicio": "2026-11-14T05:22:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:49:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h28",
+      "inicio": "2026-11-15T05:22:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "38° / 26° · chuva 25% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "34° / 24° · chuva 31% · pancadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "35° / 23° · chuva 29% · pancadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 59)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 59)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 64)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:46:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:46:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:46:00-03:00"
+     }
+    ]
+   }
+  },
+  "natal": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:17:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:29:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:17:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 24,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T04:31:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T17:39:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h29",
+      "inicio": "2026-11-14T04:50:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:19:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h29",
+      "inicio": "2026-11-15T04:50:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "31° / 26° · chuva 24% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "31° / 26° · chuva 15% · garoa fraca",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "31° / 25° · chuva 57% · garoa fraca",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 52)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 49)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 53)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 13,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:14:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:14:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:14:00-03:00"
+     }
+    ]
+   }
+  },
+  "joao-pessoa": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:18:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:30:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:16:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 24,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T04:28:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T17:40:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h33",
+      "inicio": "2026-11-14T04:47:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:20:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h33",
+      "inicio": "2026-11-15T04:47:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "31° / 26° · chuva 36% · parcialmente nublado",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "30° / 26° · chuva 35% · garoa",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "30° / 25° · chuva 47% · garoa",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 52)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 41)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 52)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:11:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:11:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:11:00-03:00"
+     }
+    ]
+   }
+  },
+  "maceio": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:25:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:39:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:21:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 25,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T04:27:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T17:47:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h40",
+      "inicio": "2026-11-14T04:47:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:27:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h40",
+      "inicio": "2026-11-15T04:47:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "29° / 25° · chuva 59% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "30° / 25° · chuva 92% · garoa forte",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "31° / 25° · chuva 78% · garoa fraca",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 62)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 55)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 53)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 15,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Dia do Evangélico",
+      "inicio": "2026-11-30"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:11:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:11:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:11:00-03:00"
+     }
+    ]
+   }
+  },
+  "aracaju": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:32:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:48:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:27:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 26,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T04:31:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T17:54:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h43",
+      "inicio": "2026-11-14T04:51:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:34:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h44",
+      "inicio": "2026-11-15T04:51:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "30° / 26° · chuva 12% · nublado",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "30° / 26° · chuva 94% · garoa",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "32° / 26° · chuva 66% · garoa fraca",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 53)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 50)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 49)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:15:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:15:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:15:00-03:00"
+     }
+    ]
+   }
+  },
+  "belem": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:04:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:16:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:09:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T05:30:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:26:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h18",
+      "inicio": "2026-11-14T05:49:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:07:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h18",
+      "inicio": "2026-11-15T05:49:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "34° / 24° · chuva 86% · garoa forte",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "33° / 24° · chuva 86% · pancadas fracas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "34° / 24° · chuva 78% · garoa",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 52)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 49)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 39)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T04:13:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T04:13:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T04:13:00-03:00"
+     }
+    ]
+   }
+  },
+  "manaus": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:53:00-04:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:07:00-04:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:58:00-04:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T05:14:00-04:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:15:00-04:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h22",
+      "inicio": "2026-11-14T05:33:00-04:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:55:00-04:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h22",
+      "inicio": "2026-11-15T05:33:00-04:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T16:49:00-04:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T16:24:00-04:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T10:10:00-04:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "33° / 26° · chuva 94% · garoa forte",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "31° / 26° · chuva 88% · pancadas fracas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "31° / 26° · chuva 70% · garoa",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 75)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 65)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 56)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:57:00-04:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:57:00-04:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:57:00-04:00"
+     }
+    ]
+   }
+  },
+  "macapa": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:13:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:23:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:19:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T05:43:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:35:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h14",
+      "inicio": "2026-11-14T06:01:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:15:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h14",
+      "inicio": "2026-11-15T06:02:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "33° / 26° · chuva 10% · nublado",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "33° / 26° · chuva 65% · garoa fraca",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "32° / 25° · chuva 63% · garoa fraca",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar bom (índice 47)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 37)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 33)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 14,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T04:25:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T04:26:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T04:26:00-03:00"
+     }
+    ]
+   }
+  },
+  "boa-vista": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:47:00-04:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:58:00-04:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:57:00-04:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T05:25:00-04:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:09:00-04:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h06",
+      "inicio": "2026-11-14T05:43:00-04:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:50:00-04:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h06",
+      "inicio": "2026-11-15T05:44:00-04:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T16:49:00-04:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T16:24:00-04:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T10:10:00-04:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "36° / 24° · chuva 61% · pancadas fracas",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "34° / 24° · chuva 65% · pancadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "34° / 26° · chuva 23% · garoa fraca",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T04:07:00-04:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T04:08:00-04:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T04:08:00-04:00"
+     }
+    ]
+   }
+  },
+  "porto-velho": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:16:00-04:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:35:00-04:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:17:00-04:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T05:21:00-04:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:38:00-04:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h37",
+      "inicio": "2026-11-14T05:41:00-04:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:18:00-04:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h38",
+      "inicio": "2026-11-15T05:41:00-04:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T16:49:00-04:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T16:24:00-04:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T10:10:00-04:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "34° / 25° · chuva 92% · pancadas fracas",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "33° / 25° · chuva 73% · garoa fraca",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "35° / 25° · chuva 86% · garoa fraca",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 55)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 52)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 52)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 13,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T04:05:00-04:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T04:05:00-04:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T04:05:00-04:00"
+     }
+    ]
+   }
+  },
+  "rio-branco": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:34:00-05:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:54:00-05:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:33:00-05:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T04:35:00-05:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T17:56:00-05:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h41",
+      "inicio": "2026-11-14T04:55:00-05:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:36:00-05:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h41",
+      "inicio": "2026-11-15T04:55:00-05:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T15:49:00-05:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T15:24:00-05:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T09:10:00-05:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "33° / 23° · chuva 45% · garoa",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "33° / 25° · chuva 63% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "34° / 25° · chuva 55% · garoa fraca",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 56)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 53)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 45)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 16,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Assinatura do Tratado de Petrópolis; Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:19:00-05:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:19:00-05:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:19:00-05:00"
+     }
+    ]
+   }
+  },
+  "palmas": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:16:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:33:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:13:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T05:17:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:38:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h41",
+      "inicio": "2026-11-14T05:37:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:18:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h42",
+      "inicio": "2026-11-15T05:37:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "30° / 24° · chuva 84% · trovoadas",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "30° / 24° · chuva 94% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "28° / 23° · chuva 95% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar bom (índice 40)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 41)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 36)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 14,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T04:01:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T04:01:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T04:01:00-03:00"
+     }
+    ]
+   }
+  },
+  "brasilia": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:23:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:44:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:15:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T05:07:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:46:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h57",
+      "inicio": "2026-11-14T05:27:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:24:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h58",
+      "inicio": "2026-11-15T05:27:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "27° / 17° · chuva 88% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "28° / 18° · chuva 92% · garoa",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "26° / 18° · chuva 84% · pancadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 51)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 44)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 37)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Dia do Evangélico",
+      "inicio": "2026-11-30"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:51:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:51:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:51:00-03:00"
+     }
+    ]
+   }
+  },
+  "goiania": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:29:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:51:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:21:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T05:10:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:52:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h00",
+      "inicio": "2026-11-14T05:31:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:31:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h01",
+      "inicio": "2026-11-15T05:31:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "30° / 20° · chuva 75% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "30° / 20° · chuva 76% · pancadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "28° / 20° · chuva 92% · pancadas fracas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 72)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 50)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 43)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 13,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:55:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:55:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:55:00-03:00"
+     }
+    ]
+   }
+  },
+  "cuiaba": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:55:00-04:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:18:00-04:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:48:00-04:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T04:40:00-04:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:18:00-04:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h57",
+      "inicio": "2026-11-14T05:00:00-04:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:57:00-04:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h57",
+      "inicio": "2026-11-15T05:00:00-04:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T16:49:00-04:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T16:24:00-04:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T10:10:00-04:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "36° / 26° · chuva 65% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "36° / 24° · chuva 78% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "31° / 24° · chuva 100% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar bom (índice 36)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 32)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 30)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 11,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:24:00-04:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:24:00-04:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:24:00-04:00"
+     }
+    ]
+   }
+  },
+  "campo-grande": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:57:00-04:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:23:00-04:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:45:00-04:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:26:00-04:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:20:00-04:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h12",
+      "inicio": "2026-11-14T04:47:00-04:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:58:00-04:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h12",
+      "inicio": "2026-11-15T04:47:00-04:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T16:49:00-04:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T16:24:00-04:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T10:10:00-04:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "35° / 25° · chuva 55% · parcialmente nublado",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "30° / 22° · chuva 68% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "27° / 22° · chuva 91% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar bom (índice 44)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 38)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 33)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:11:00-04:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:11:00-04:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:10:00-04:00"
+     }
+    ]
+   }
+  },
   "lorena": {
    "lua": {
     "n": 9,
@@ -120,7 +5098,7 @@
       "inicio": "2026-11-16T18:47:00-03:00"
      },
      {
-      "titulo": "Pico das Leônidas",
+      "titulo": "Chuva de meteoros Leônidas",
       "inicio": "2026-11-17"
      }
     ]
@@ -130,31 +5108,75 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Sol nasce · dia de 13h18",
-      "inicio": "2026-11-13T05:05:00-03:00"
+      "titulo": "Sol nasce · dia de 13h19",
+      "inicio": "2026-11-14T05:05:00-03:00"
      },
      {
       "titulo": "Pôr do sol",
-      "inicio": "2026-11-13T18:23:00-03:00"
+      "inicio": "2026-11-14T18:24:00-03:00"
      },
      {
-      "titulo": "Sol nasce · dia de 13h19",
-      "inicio": "2026-11-14T05:05:00-03:00"
+      "titulo": "Sol nasce · dia de 13h20",
+      "inicio": "2026-11-15T05:05:00-03:00"
      }
     ]
    },
    "estacoes": {
-    "n": 1,
+    "n": 4,
     "atualizado": true,
     "proximos": [
      {
       "titulo": "Solstício: começa o verão",
       "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 8,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "29° / 16° · chuva 51% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "30° / 18° · chuva 87% · garoa fraca",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "28° / 20° · chuva 94% · garoa",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 57)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 47)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 50)",
+      "inicio": "2026-11-16"
      }
     ]
    },
    "feriados": {
-    "n": 4,
+    "n": 12,
     "atualizado": true,
     "proximos": [
      {
@@ -171,17 +5193,113 @@
      }
     ]
    },
-   "economia": {
-    "n": 2,
+   "vedico": {
+    "n": 74,
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Dólar na semana: R$ 5,6518 (+2,49%)",
-      "inicio": "2026-11-13T18:00:00-03:00"
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
      },
      {
-      "titulo": "Selic em vigor: 13,75% ao ano",
-      "inicio": "2026-11-16T09:00:00-03:00"
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:29:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:29:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:28:00-03:00"
+     }
+    ]
+   }
+  },
+  "guaratingueta": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:23:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:49:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:08:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:43:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:47:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h19",
+      "inicio": "2026-11-14T05:05:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:24:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h20",
+      "inicio": "2026-11-15T05:05:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
      }
     ]
    },
@@ -190,70 +5308,398 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "29° / 19° · chuva 98% · garoa",
-      "inicio": "2026-11-13"
-     },
-     {
-      "titulo": "29° / 18° · chuva 41% · garoa",
+      "titulo": "28° / 16° · chuva 35% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "29° / 18° · chuva 89% · pancadas fracas",
-      "inicio": "2026-11-15"
-     }
-    ]
-   },
-   "natureza": {
-    "n": 5,
-    "atualizado": true,
-    "proximos": [
-     {
-      "titulo": "Revoada de içás depois da chuva",
-      "inicio": "2026-11-14"
-     },
-     {
-      "titulo": "Sabiá-laranjeira cantando antes do sol",
-      "inicio": "2026-11-16T05:00:00-03:00"
-     },
-     {
-      "titulo": "Flamboyant abrindo as flores vermelhas",
-      "inicio": "2026-11-18"
-     }
-    ]
-   },
-   "campo": {
-    "n": 5,
-    "atualizado": true,
-    "proximos": [
-     {
-      "titulo": "Plantio do arroz nas várzeas do Vale",
+      "titulo": "28° / 18° · chuva 97% · garoa fraca",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Pasto voltando a ficar verde",
-      "inicio": "2026-11-17"
-     },
-     {
-      "titulo": "Manga chegando à feira",
-      "inicio": "2026-11-19"
+      "titulo": "27° / 19° · chuva 82% · pancadas fracas",
+      "inicio": "2026-11-16"
      }
     ]
    },
-   "historia": {
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:29:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:29:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:29:00-03:00"
+     }
+    ]
+   }
+  },
+  "taubate": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:25:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:51:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:10:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:44:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:49:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h20",
+      "inicio": "2026-11-14T05:06:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:26:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h21",
+      "inicio": "2026-11-15T05:06:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "28° / 17° · chuva 41% · nevoeiro",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "29° / 17° · chuva 94% · garoa forte",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "27° / 18° · chuva 91% · garoa forte",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
     "n": 5,
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Apollo 12 decola rumo à Lua (1969)",
+      "titulo": "Ar moderado (índice 67)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Inauguração do Canal de Suez (1869)",
-      "inicio": "2026-11-17"
+      "titulo": "Ar moderado (índice 59)",
+      "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ferrovias adotam a hora padrão (1883)",
-      "inicio": "2026-11-18"
+      "titulo": "Ar moderado (índice 61)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:30:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:30:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:30:00-03:00"
+     }
+    ]
+   }
+  },
+  "sao-jose-dos-campos": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:26:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:53:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:11:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:46:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:50:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h20",
+      "inicio": "2026-11-14T05:07:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:28:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h21",
+      "inicio": "2026-11-15T05:07:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "28° / 18° · chuva 14% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "29° / 16° · chuva 94% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "27° / 18° · chuva 91% · pancadas fracas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar ruim para grupos sensíveis (índice 101)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 68)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 84)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:31:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:31:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:31:00-03:00"
      }
     ]
    }
@@ -290,7 +5736,7 @@
       "inicio": "2026-11-16T18:52:00-03:00"
      },
      {
-      "titulo": "Pico das Leônidas",
+      "titulo": "Chuva de meteoros Leônidas",
       "inicio": "2026-11-17"
      }
     ]
@@ -300,31 +5746,75 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Sol nasce · dia de 13h11",
-      "inicio": "2026-11-13T05:18:00-03:00"
+      "titulo": "Sol nasce · dia de 13h12",
+      "inicio": "2026-11-14T05:18:00-03:00"
      },
      {
       "titulo": "Pôr do sol",
-      "inicio": "2026-11-13T18:29:00-03:00"
+      "inicio": "2026-11-14T18:30:00-03:00"
      },
      {
-      "titulo": "Sol nasce · dia de 13h12",
-      "inicio": "2026-11-14T05:18:00-03:00"
+      "titulo": "Sol nasce · dia de 13h13",
+      "inicio": "2026-11-15T05:17:00-03:00"
      }
     ]
    },
    "estacoes": {
-    "n": 1,
+    "n": 4,
     "atualizado": true,
     "proximos": [
      {
       "titulo": "Solstício: começa o verão",
       "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 8,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "28° / 18° · chuva 71% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "29° / 19° · chuva 80% · pancadas fracas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "26° / 19° · chuva 89% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar ruim para grupos sensíveis (índice 121)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar ruim para grupos sensíveis (índice 109)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 96)",
+      "inicio": "2026-11-16"
      }
     ]
    },
    "feriados": {
-    "n": 4,
+    "n": 12,
     "atualizado": true,
     "proximos": [
      {
@@ -341,17 +5831,113 @@
      }
     ]
    },
-   "economia": {
-    "n": 2,
+   "vedico": {
+    "n": 74,
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Dólar na semana: R$ 5,6518 (+2,49%)",
-      "inicio": "2026-11-13T18:00:00-03:00"
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
      },
      {
-      "titulo": "Selic em vigor: 13,75% ao ano",
-      "inicio": "2026-11-16T09:00:00-03:00"
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:42:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:41:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:41:00-03:00"
+     }
+    ]
+   }
+  },
+  "ribeirao-preto": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:31:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:56:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:18:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:57:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:54:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h14",
+      "inicio": "2026-11-14T05:18:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:32:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h15",
+      "inicio": "2026-11-15T05:18:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
      }
     ]
    },
@@ -360,77 +5946,2359 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "27° / 17° · chuva 83% · trovoadas",
-      "inicio": "2026-11-13"
-     },
-     {
-      "titulo": "28° / 17° · chuva 67% · garoa fraca",
+      "titulo": "32° / 20° · chuva 59% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "29° / 19° · chuva 86% · pancadas",
+      "titulo": "34° / 20° · chuva 87% · pancadas fracas",
       "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "27° / 20° · chuva 85% · trovoadas",
+      "inicio": "2026-11-16"
      }
     ]
    },
-   "natureza": {
+   "ar": {
     "n": 5,
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Seriema gritando ao amanhecer",
-      "inicio": "2026-11-15T05:30:00-03:00"
+      "titulo": "Ar ruim (índice 156)",
+      "inicio": "2026-11-14"
      },
      {
-      "titulo": "Revoada de aleluias no fim da tarde",
+      "titulo": "Ar ruim (índice 157)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar ruim (índice 151)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:42:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:42:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:42:00-03:00"
+     }
+    ]
+   }
+  },
+  "campinas": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:31:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:57:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:16:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:51:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:55:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h19",
+      "inicio": "2026-11-14T05:13:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:32:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h20",
+      "inicio": "2026-11-15T05:12:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "28° / 17° · chuva 20% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "29° / 17° · chuva 82% · pancadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "26° / 18° · chuva 80% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 100)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar ruim para grupos sensíveis (índice 131)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar ruim para grupos sensíveis (índice 123)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:37:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:36:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:36:00-03:00"
+     }
+    ]
+   }
+  },
+  "santos": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
       "inicio": "2026-11-17T18:30:00-03:00"
      },
      {
-      "titulo": "Tesourinhas caçando insetos no voo",
-      "inicio": "2026-11-19"
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:57:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:14:00-03:00"
      }
     ]
    },
-   "campo": {
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:46:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:54:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h23",
+      "inicio": "2026-11-14T05:08:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:31:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h24",
+      "inicio": "2026-11-15T05:08:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "25° / 20° · chuva 64% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "26° / 19° · chuva 56% · garoa fraca",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "26° / 22° · chuva 83% · pancadas fracas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
     "n": 5,
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Café formando os chumbinhos",
+      "titulo": "Ar moderado (índice 77)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Plantio da soja de verão",
-      "inicio": "2026-11-16"
+      "titulo": "Ar moderado (índice 89)",
+      "inicio": "2026-11-15"
      },
      {
-      "titulo": "Usinas fechando a safra da cana",
-      "inicio": "2026-11-18"
+      "titulo": "Ar moderado (índice 61)",
+      "inicio": "2026-11-16"
      }
     ]
    },
-   "historia": {
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:32:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:32:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:31:00-03:00"
+     }
+    ]
+   }
+  },
+  "sorocaba": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:33:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T19:00:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:18:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:51:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:57:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h21",
+      "inicio": "2026-11-14T05:13:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:35:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h22",
+      "inicio": "2026-11-15T05:13:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "29° / 18° · chuva 24% · nublado",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "29° / 17° · chuva 91% · pancadas fracas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "26° / 19° · chuva 84% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
     "n": 5,
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Mariner 9 entra em órbita de Marte (1971)",
+      "titulo": "Ar moderado (índice 53)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Fundada a UNESCO (1945)",
-      "inicio": "2026-11-16"
+      "titulo": "Ar bom (índice 50)",
+      "inicio": "2026-11-15"
      },
      {
-      "titulo": "Adotada a bandeira do Brasil republicano (1889)",
-      "inicio": "2026-11-19"
+      "titulo": "Ar moderado (índice 52)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:37:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:37:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:37:00-03:00"
+     }
+    ]
+   }
+  },
+  "uberlandia": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:29:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:52:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:18:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T05:03:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:52:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h07",
+      "inicio": "2026-11-14T05:24:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:31:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h08",
+      "inicio": "2026-11-15T05:24:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "30° / 19° · chuva 50% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "31° / 21° · chuva 80% · garoa fraca",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "28° / 20° · chuva 91% · pancadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 53)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 52)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 48)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 11,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:48:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:48:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:47:00-03:00"
+     }
+    ]
+   }
+  },
+  "juiz-de-fora": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:14:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:39:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:00:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:38:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:38:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h16",
+      "inicio": "2026-11-14T05:00:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:15:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h17",
+      "inicio": "2026-11-15T04:59:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "27° / 16° · chuva 88% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "28° / 18° · chuva 100% · garoa forte",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "27° / 18° · chuva 100% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 11,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:24:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:23:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:23:00-03:00"
+     }
+    ]
+   }
+  },
+  "montes-claros": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:08:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:29:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:59:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:49:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:31:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h00",
+      "inicio": "2026-11-14T05:09:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:10:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h01",
+      "inicio": "2026-11-15T05:09:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "30° / 19° · chuva 61% · garoa",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "31° / 19° · chuva 63% · garoa fraca",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "28° / 19° · chuva 80% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar bom (índice 38)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 40)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 38)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 11,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:33:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:33:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:33:00-03:00"
+     }
+    ]
+   }
+  },
+  "londrina": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:48:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T19:15:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:33:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T05:06:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T19:12:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h21",
+      "inicio": "2026-11-14T05:28:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:49:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h22",
+      "inicio": "2026-11-15T05:28:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "30° / 19° · chuva 35% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "30° / 20° · chuva 90% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "28° / 20° · chuva 73% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 95)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 77)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 99)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 11,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Nossa Senhora do Rocio; Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:52:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:52:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:52:00-03:00"
+     }
+    ]
+   }
+  },
+  "joinville": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:44:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T19:13:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:25:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:51:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T19:08:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h31",
+      "inicio": "2026-11-14T05:14:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:45:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h32",
+      "inicio": "2026-11-15T05:14:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "27° / 20° · chuva 29% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "29° / 20° · chuva 90% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "27° / 21° · chuva 86% · garoa forte",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 64)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 47)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 45)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 13,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Dia de Santa Catarina de Alexandria",
+      "inicio": "2026-11-29"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:38:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:38:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:37:00-03:00"
+     }
+    ]
+   }
+  },
+  "caxias-do-sul": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:58:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T19:31:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:37:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:55:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T19:24:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h41",
+      "inicio": "2026-11-14T05:18:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T19:00:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h43",
+      "inicio": "2026-11-15T05:18:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "26° / 15° · chuva 53% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "25° / 17° · chuva 94% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "28° / 15° · chuva 37% · parcialmente nublado",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar bom (índice 49)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 56)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 53)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:42:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:42:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:41:00-03:00"
+     }
+    ]
+   }
+  },
+  "feira-de-santana": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:42:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:58:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:36:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T04:36:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:04:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h47",
+      "inicio": "2026-11-14T04:56:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:43:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h48",
+      "inicio": "2026-11-15T04:56:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "34° / 24° · chuva 31% · pancadas fracas",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "35° / 23° · chuva 75% · garoa forte",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "33° / 23° · chuva 90% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 57)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 54)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 48)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:20:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:20:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:20:00-03:00"
+     }
+    ]
+   }
+  },
+  "campina-grande": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:22:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:35:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:20:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 26,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T04:32:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T17:44:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h33",
+      "inicio": "2026-11-14T04:51:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:24:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h33",
+      "inicio": "2026-11-15T04:51:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "31° / 21° · chuva 38% · garoa",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "31° / 21° · chuva 46% · pancadas fracas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "31° / 21° · chuva 45% · nevoeiro",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 52)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 48)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 40)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:15:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:15:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:15:00-03:00"
+     }
+    ]
+   }
+  },
+  "petrolina": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T17:44:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T17:59:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:41:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T04:47:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:06:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h39",
+      "inicio": "2026-11-14T05:06:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T17:46:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h40",
+      "inicio": "2026-11-15T05:06:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "35° / 25° · chuva 13% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "35° / 22° · chuva 76% · pancadas fracas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "31° / 22° · chuva 88% · pancadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar bom (índice 39)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 36)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 34)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:30:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:30:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:30:00-03:00"
+     }
+    ]
+   }
+  },
+  "santarem": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:31:00-03:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:44:00-03:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-12-01T00:35:00-03:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Mercúrio, Marte",
+      "inicio": "2026-11-16T05:54:00-03:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:53:00-03:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 12h20",
+      "inicio": "2026-11-14T06:13:00-03:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:33:00-03:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 12h20",
+      "inicio": "2026-11-15T06:13:00-03:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T17:49:00-03:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T17:24:00-03:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "33° / 28° · chuva 2% · nublado",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "34° / 29° · chuva 11% · nublado",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "32° / 26° · chuva 47% · garoa",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T04:37:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T04:37:00-03:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T04:37:00-03:00"
+     }
+    ]
+   }
+  },
+  "dourados": {
+   "lua": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Quarto crescente",
+      "inicio": "2026-11-17T18:01:00-04:00"
+     },
+     {
+      "titulo": "Lua cheia",
+      "inicio": "2026-11-24T18:28:00-04:00"
+     },
+     {
+      "titulo": "Quarto minguante",
+      "inicio": "2026-11-30T23:47:00-04:00"
+     }
+    ]
+   },
+   "ceu": {
+    "n": 27,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Planetas antes do amanhecer: Vênus, Júpiter, Marte",
+      "inicio": "2026-11-16T04:23:00-04:00"
+     },
+     {
+      "titulo": "Planetas ao anoitecer: Saturno",
+      "inicio": "2026-11-16T18:24:00-04:00"
+     },
+     {
+      "titulo": "Chuva de meteoros Leônidas",
+      "inicio": "2026-11-17"
+     }
+    ]
+   },
+   "sol": {
+    "n": 136,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Sol nasce · dia de 13h17",
+      "inicio": "2026-11-14T04:45:00-04:00"
+     },
+     {
+      "titulo": "Pôr do sol",
+      "inicio": "2026-11-14T18:02:00-04:00"
+     },
+     {
+      "titulo": "Sol nasce · dia de 13h18",
+      "inicio": "2026-11-15T04:44:00-04:00"
+     }
+    ]
+   },
+   "estacoes": {
+    "n": 4,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Solstício: começa o verão",
+      "inicio": "2026-12-21T16:49:00-04:00"
+     },
+     {
+      "titulo": "Equinócio: começa o outono",
+      "inicio": "2027-03-20T16:24:00-04:00"
+     },
+     {
+      "titulo": "Solstício: começa o inverno",
+      "inicio": "2027-06-21T10:10:00-04:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "36° / 24° · chuva 76% · garoa",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "32° / 23° · chuva 69% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "29° / 22° · chuva 81% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 68)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 65)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 49)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "feriados": {
+    "n": 12,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Proclamação da República",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+      "inicio": "2026-11-20"
+     },
+     {
+      "titulo": "Natal",
+      "inicio": "2026-12-25"
+     }
+    ]
+   },
+   "vedico": {
+    "n": 74,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Shukla Panchami · Purva Ashadha",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Shukla Shashthi · Uttara Ashadha",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Shukla Saptami · Shravana",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ayurveda": {
+    "n": 79,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-14T03:09:00-04:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-15T03:08:00-04:00"
+     },
+     {
+      "titulo": "Brahma muhurta",
+      "inicio": "2026-11-16T03:08:00-04:00"
      }
     ]
    }
   }
  },
  "avisos": [
-  "lorena/aves: sem EBIRD_KEY",
-  "franca/aves: sem EBIRD_KEY"
+  "brasil/investidor: URLError: <urlopen error timed out>",
+  "brasil/judaico: ModuleNotFoundError: No module named 'convertdate'",
+  "brasil/islamico: ModuleNotFoundError: No module named 'convertdate'",
+  "sao-paulo/clima: URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
+  "sao-paulo/aves: RuntimeError: sem EBIRD_KEY",
+  "sao-luis/ar: URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
  ]
 }

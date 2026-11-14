@@ -1,0 +1,1507 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Todo dia, com a duração do dia e quanto ela mudou desde ont
+ em. Agenda do Mundo.
+X-WR-CALNAME:Nascer e pôr do sol · João Pessoa
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h30
+DTSTART:20261107T074700Z
+DTEND:20261107T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261107@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 149° (sudeste). Dia de 12h30 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261107T201800Z
+DTEND:20261107T202800Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261107@agenda-do-mundo
+DESCRIPTION:Pôr às 17h18\, a 107° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h31
+DTSTART:20261108T074700Z
+DTEND:20261108T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261108@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 149° (sudeste). Dia de 12h31 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261108T201800Z
+DTEND:20261108T202800Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261108@agenda-do-mundo
+DESCRIPTION:Pôr às 17h18\, a 107° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h31
+DTSTART:20261109T074700Z
+DTEND:20261109T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261109@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 150° (sudeste). Dia de 12h31 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261109T201800Z
+DTEND:20261109T202800Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261109@agenda-do-mundo
+DESCRIPTION:Pôr às 17h18\, a 107° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h32
+DTSTART:20261110T074700Z
+DTEND:20261110T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261110@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 150° (sudeste). Dia de 12h32 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261110T201900Z
+DTEND:20261110T202900Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261110@agenda-do-mundo
+DESCRIPTION:Pôr às 17h19\, a 108° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h32
+DTSTART:20261111T074700Z
+DTEND:20261111T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261111@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 150° (sudeste). Dia de 12h32 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261111T201900Z
+DTEND:20261111T202900Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261111@agenda-do-mundo
+DESCRIPTION:Pôr às 17h19\, a 108° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h32
+DTSTART:20261112T074700Z
+DTEND:20261112T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261112@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 151° (sudeste). Dia de 12h32 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261112T201900Z
+DTEND:20261112T202900Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261112@agenda-do-mundo
+DESCRIPTION:Pôr às 17h19\, a 108° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h33
+DTSTART:20261113T074700Z
+DTEND:20261113T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261113@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 151° (sudeste). Dia de 12h33 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261113T202000Z
+DTEND:20261113T203000Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261113@agenda-do-mundo
+DESCRIPTION:Pôr às 17h20\, a 108° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h33
+DTSTART:20261114T074700Z
+DTEND:20261114T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261114@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 151° (sudeste). Dia de 12h33 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261114T202000Z
+DTEND:20261114T203000Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261114@agenda-do-mundo
+DESCRIPTION:Pôr às 17h20\, a 109° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h33
+DTSTART:20261115T074700Z
+DTEND:20261115T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261115@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 152° (sudeste). Dia de 12h33 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261115T202000Z
+DTEND:20261115T203000Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261115@agenda-do-mundo
+DESCRIPTION:Pôr às 17h20\, a 109° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h33
+DTSTART:20261116T074700Z
+DTEND:20261116T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261116@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 152° (sudeste). Dia de 12h33 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261116T202100Z
+DTEND:20261116T203100Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261116@agenda-do-mundo
+DESCRIPTION:Pôr às 17h21\, a 109° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h34
+DTSTART:20261117T074700Z
+DTEND:20261117T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261117@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 152° (sudeste). Dia de 12h34 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261117T202100Z
+DTEND:20261117T203100Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261117@agenda-do-mundo
+DESCRIPTION:Pôr às 17h21\, a 109° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h34
+DTSTART:20261118T074700Z
+DTEND:20261118T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261118@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 153° (sudeste). Dia de 12h34 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261118T202100Z
+DTEND:20261118T203100Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261118@agenda-do-mundo
+DESCRIPTION:Pôr às 17h21\, a 110° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h34
+DTSTART:20261119T074700Z
+DTEND:20261119T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261119@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 153° (sudeste). Dia de 12h34 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261119T202200Z
+DTEND:20261119T203200Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261119@agenda-do-mundo
+DESCRIPTION:Pôr às 17h22\, a 110° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h35
+DTSTART:20261120T074700Z
+DTEND:20261120T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261120@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 153° (sudeste). Dia de 12h35 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261120T202200Z
+DTEND:20261120T203200Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261120@agenda-do-mundo
+DESCRIPTION:Pôr às 17h22\, a 110° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h35
+DTSTART:20261121T074700Z
+DTEND:20261121T075700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261121@agenda-do-mundo
+DESCRIPTION:Nascer às 4h47\, a 154° (sudeste). Dia de 12h35 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261121T202200Z
+DTEND:20261121T203200Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261121@agenda-do-mundo
+DESCRIPTION:Pôr às 17h22\, a 110° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h35
+DTSTART:20261122T074800Z
+DTEND:20261122T075800Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261122@agenda-do-mundo
+DESCRIPTION:Nascer às 4h48\, a 154° (sudeste). Dia de 12h35 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261122T202300Z
+DTEND:20261122T203300Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261122@agenda-do-mundo
+DESCRIPTION:Pôr às 17h23\, a 111° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h35
+DTSTART:20261123T074800Z
+DTEND:20261123T075800Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261123@agenda-do-mundo
+DESCRIPTION:Nascer às 4h48\, a 154° (sudeste). Dia de 12h35 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261123T202300Z
+DTEND:20261123T203300Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261123@agenda-do-mundo
+DESCRIPTION:Pôr às 17h23\, a 111° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h36
+DTSTART:20261124T074800Z
+DTEND:20261124T075800Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261124@agenda-do-mundo
+DESCRIPTION:Nascer às 4h48\, a 155° (sudeste). Dia de 12h36 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261124T202400Z
+DTEND:20261124T203400Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261124@agenda-do-mundo
+DESCRIPTION:Pôr às 17h24\, a 111° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h36
+DTSTART:20261125T074800Z
+DTEND:20261125T075800Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261125@agenda-do-mundo
+DESCRIPTION:Nascer às 4h48\, a 155° (sudeste). Dia de 12h36 (+0\,3 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261125T202400Z
+DTEND:20261125T203400Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261125@agenda-do-mundo
+DESCRIPTION:Pôr às 17h24\, a 111° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h36
+DTSTART:20261126T074800Z
+DTEND:20261126T075800Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261126@agenda-do-mundo
+DESCRIPTION:Nascer às 4h48\, a 155° (sudeste). Dia de 12h36 (+0\,2 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261126T202400Z
+DTEND:20261126T203400Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261126@agenda-do-mundo
+DESCRIPTION:Pôr às 17h24\, a 111° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h36
+DTSTART:20261127T074800Z
+DTEND:20261127T075800Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261127@agenda-do-mundo
+DESCRIPTION:Nascer às 4h48\, a 156° (sudeste). Dia de 12h36 (+0\,2 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261127T202500Z
+DTEND:20261127T203500Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261127@agenda-do-mundo
+DESCRIPTION:Pôr às 17h25\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h37
+DTSTART:20261128T074900Z
+DTEND:20261128T075900Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261128@agenda-do-mundo
+DESCRIPTION:Nascer às 4h49\, a 156° (sudeste). Dia de 12h37 (+0\,2 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261128T202500Z
+DTEND:20261128T203500Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261128@agenda-do-mundo
+DESCRIPTION:Pôr às 17h25\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h37
+DTSTART:20261129T074900Z
+DTEND:20261129T075900Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261129@agenda-do-mundo
+DESCRIPTION:Nascer às 4h49\, a 156° (sudeste). Dia de 12h37 (+0\,2 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261129T202600Z
+DTEND:20261129T203600Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261129@agenda-do-mundo
+DESCRIPTION:Pôr às 17h26\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h37
+DTSTART:20261130T074900Z
+DTEND:20261130T075900Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261130@agenda-do-mundo
+DESCRIPTION:Nascer às 4h49\, a 156° (sudeste). Dia de 12h37 (+0\,2 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261130T202600Z
+DTEND:20261130T203600Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261130@agenda-do-mundo
+DESCRIPTION:Pôr às 17h26\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h37
+DTSTART:20261201T074900Z
+DTEND:20261201T075900Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261201@agenda-do-mundo
+DESCRIPTION:Nascer às 4h49\, a 157° (sudeste). Dia de 12h37 (+0\,2 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261201T202700Z
+DTEND:20261201T203700Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261201@agenda-do-mundo
+DESCRIPTION:Pôr às 17h27\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h37
+DTSTART:20261202T075000Z
+DTEND:20261202T080000Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261202@agenda-do-mundo
+DESCRIPTION:Nascer às 4h50\, a 157° (sudeste). Dia de 12h37 (+0\,2 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261202T202700Z
+DTEND:20261202T203700Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261202@agenda-do-mundo
+DESCRIPTION:Pôr às 17h27\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h38
+DTSTART:20261203T075000Z
+DTEND:20261203T080000Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261203@agenda-do-mundo
+DESCRIPTION:Nascer às 4h50\, a 157° (sudeste). Dia de 12h38 (+0\,2 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261203T202800Z
+DTEND:20261203T203800Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261203@agenda-do-mundo
+DESCRIPTION:Pôr às 17h28\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h38
+DTSTART:20261204T075000Z
+DTEND:20261204T080000Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261204@agenda-do-mundo
+DESCRIPTION:Nascer às 4h50\, a 157° (sudeste). Dia de 12h38 (+0\,2 min e
+ m relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o s
+ ul até o solstício de dezembro e volta para o norte até o de junho.\n\n
+ Base: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261204T202800Z
+DTEND:20261204T203800Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261204@agenda-do-mundo
+DESCRIPTION:Pôr às 17h28\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h38
+DTSTART:20261205T075100Z
+DTEND:20261205T080100Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261205@agenda-do-mundo
+DESCRIPTION:Nascer às 4h51\, a 158° (sul). Dia de 12h38 (+0\,2 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261205T202900Z
+DTEND:20261205T203900Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261205@agenda-do-mundo
+DESCRIPTION:Pôr às 17h29\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h38
+DTSTART:20261206T075100Z
+DTEND:20261206T080100Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261206@agenda-do-mundo
+DESCRIPTION:Nascer às 4h51\, a 158° (sul). Dia de 12h38 (+0\,2 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261206T202900Z
+DTEND:20261206T203900Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261206@agenda-do-mundo
+DESCRIPTION:Pôr às 17h29\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h38
+DTSTART:20261207T075100Z
+DTEND:20261207T080100Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261207@agenda-do-mundo
+DESCRIPTION:Nascer às 4h51\, a 158° (sul). Dia de 12h38 (+0\,2 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261207T203000Z
+DTEND:20261207T204000Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261207@agenda-do-mundo
+DESCRIPTION:Pôr às 17h30\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h38
+DTSTART:20261208T075200Z
+DTEND:20261208T080200Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261208@agenda-do-mundo
+DESCRIPTION:Nascer às 4h52\, a 158° (sul). Dia de 12h38 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261208T203000Z
+DTEND:20261208T204000Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261208@agenda-do-mundo
+DESCRIPTION:Pôr às 17h30\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261209T075200Z
+DTEND:20261209T080200Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261209@agenda-do-mundo
+DESCRIPTION:Nascer às 4h52\, a 159° (sul). Dia de 12h39 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261209T203100Z
+DTEND:20261209T204100Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261209@agenda-do-mundo
+DESCRIPTION:Pôr às 17h31\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261210T075200Z
+DTEND:20261210T080200Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261210@agenda-do-mundo
+DESCRIPTION:Nascer às 4h52\, a 159° (sul). Dia de 12h39 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261210T203100Z
+DTEND:20261210T204100Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261210@agenda-do-mundo
+DESCRIPTION:Pôr às 17h31\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261211T075300Z
+DTEND:20261211T080300Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261211@agenda-do-mundo
+DESCRIPTION:Nascer às 4h53\, a 159° (sul). Dia de 12h39 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261211T203200Z
+DTEND:20261211T204200Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261211@agenda-do-mundo
+DESCRIPTION:Pôr às 17h32\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261212T075300Z
+DTEND:20261212T080300Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261212@agenda-do-mundo
+DESCRIPTION:Nascer às 4h53\, a 159° (sul). Dia de 12h39 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261212T203200Z
+DTEND:20261212T204200Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261212@agenda-do-mundo
+DESCRIPTION:Pôr às 17h32\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261213T075400Z
+DTEND:20261213T080400Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261213@agenda-do-mundo
+DESCRIPTION:Nascer às 4h54\, a 160° (sul). Dia de 12h39 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261213T203300Z
+DTEND:20261213T204300Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261213@agenda-do-mundo
+DESCRIPTION:Pôr às 17h33\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261214T075400Z
+DTEND:20261214T080400Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261214@agenda-do-mundo
+DESCRIPTION:Nascer às 4h54\, a 160° (sul). Dia de 12h39 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261214T203300Z
+DTEND:20261214T204300Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261214@agenda-do-mundo
+DESCRIPTION:Pôr às 17h33\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261215T075500Z
+DTEND:20261215T080500Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261215@agenda-do-mundo
+DESCRIPTION:Nascer às 4h55\, a 160° (sul). Dia de 12h39 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261215T203400Z
+DTEND:20261215T204400Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261215@agenda-do-mundo
+DESCRIPTION:Pôr às 17h34\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261216T075500Z
+DTEND:20261216T080500Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261216@agenda-do-mundo
+DESCRIPTION:Nascer às 4h55\, a 160° (sul). Dia de 12h39 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261216T203400Z
+DTEND:20261216T204400Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261216@agenda-do-mundo
+DESCRIPTION:Pôr às 17h34\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261217T075500Z
+DTEND:20261217T080500Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261217@agenda-do-mundo
+DESCRIPTION:Nascer às 4h55\, a 161° (sul). Dia de 12h39 (+0\,1 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261217T203500Z
+DTEND:20261217T204500Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261217@agenda-do-mundo
+DESCRIPTION:Pôr às 17h35\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261218T075600Z
+DTEND:20261218T080600Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261218@agenda-do-mundo
+DESCRIPTION:Nascer às 4h56\, a 161° (sul). Dia de 12h39 (+0\,0 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261218T203500Z
+DTEND:20261218T204500Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261218@agenda-do-mundo
+DESCRIPTION:Pôr às 17h35\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261219T075600Z
+DTEND:20261219T080600Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261219@agenda-do-mundo
+DESCRIPTION:Nascer às 4h56\, a 161° (sul). Dia de 12h39 (+0\,0 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261219T203600Z
+DTEND:20261219T204600Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261219@agenda-do-mundo
+DESCRIPTION:Pôr às 17h36\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261220T075700Z
+DTEND:20261220T080700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261220@agenda-do-mundo
+DESCRIPTION:Nascer às 4h57\, a 161° (sul). Dia de 12h39 (+0\,0 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261220T203600Z
+DTEND:20261220T204600Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261220@agenda-do-mundo
+DESCRIPTION:Pôr às 17h36\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261221T075700Z
+DTEND:20261221T080700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261221@agenda-do-mundo
+DESCRIPTION:Nascer às 4h57\, a 161° (sul). Dia de 12h39 (+0\,0 min em re
+ lação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul a
+ té o solstício de dezembro e volta para o norte até o de junho.\n\nBase
+ : PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261221T203700Z
+DTEND:20261221T204700Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261221@agenda-do-mundo
+DESCRIPTION:Pôr às 17h37\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261222T075800Z
+DTEND:20261222T080800Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261222@agenda-do-mundo
+DESCRIPTION:Nascer às 4h58\, a 162° (sul). Dia de 12h39 (−0\,0 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261222T203700Z
+DTEND:20261222T204700Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261222@agenda-do-mundo
+DESCRIPTION:Pôr às 17h37\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261223T075800Z
+DTEND:20261223T080800Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261223@agenda-do-mundo
+DESCRIPTION:Nascer às 4h58\, a 162° (sul). Dia de 12h39 (−0\,0 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261223T203800Z
+DTEND:20261223T204800Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261223@agenda-do-mundo
+DESCRIPTION:Pôr às 17h38\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261224T075900Z
+DTEND:20261224T080900Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261224@agenda-do-mundo
+DESCRIPTION:Nascer às 4h59\, a 162° (sul). Dia de 12h39 (−0\,0 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261224T203800Z
+DTEND:20261224T204800Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261224@agenda-do-mundo
+DESCRIPTION:Pôr às 17h38\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261225T075900Z
+DTEND:20261225T080900Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261225@agenda-do-mundo
+DESCRIPTION:Nascer às 4h59\, a 162° (sul). Dia de 12h39 (−0\,0 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261225T203900Z
+DTEND:20261225T204900Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261225@agenda-do-mundo
+DESCRIPTION:Pôr às 17h39\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261226T080000Z
+DTEND:20261226T081000Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261226@agenda-do-mundo
+DESCRIPTION:Nascer às 5h00\, a 162° (sul). Dia de 12h39 (−0\,0 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261226T203900Z
+DTEND:20261226T204900Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261226@agenda-do-mundo
+DESCRIPTION:Pôr às 17h39\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261227T080000Z
+DTEND:20261227T081000Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261227@agenda-do-mundo
+DESCRIPTION:Nascer às 5h00\, a 163° (sul). Dia de 12h39 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261227T204000Z
+DTEND:20261227T205000Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261227@agenda-do-mundo
+DESCRIPTION:Pôr às 17h40\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261228T080100Z
+DTEND:20261228T081100Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261228@agenda-do-mundo
+DESCRIPTION:Nascer às 5h01\, a 163° (sul). Dia de 12h39 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261228T204000Z
+DTEND:20261228T205000Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261228@agenda-do-mundo
+DESCRIPTION:Pôr às 17h40\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261229T080100Z
+DTEND:20261229T081100Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261229@agenda-do-mundo
+DESCRIPTION:Nascer às 5h01\, a 163° (sul). Dia de 12h39 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261229T204100Z
+DTEND:20261229T205100Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261229@agenda-do-mundo
+DESCRIPTION:Pôr às 17h41\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261230T080200Z
+DTEND:20261230T081200Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261230@agenda-do-mundo
+DESCRIPTION:Nascer às 5h02\, a 163° (sul). Dia de 12h39 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261230T204100Z
+DTEND:20261230T205100Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261230@agenda-do-mundo
+DESCRIPTION:Pôr às 17h41\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20261231T080300Z
+DTEND:20261231T081300Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20261231@agenda-do-mundo
+DESCRIPTION:Nascer às 5h03\, a 163° (sul). Dia de 12h39 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20261231T204100Z
+DTEND:20261231T205100Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20261231@agenda-do-mundo
+DESCRIPTION:Pôr às 17h41\, a 114° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20270101T080300Z
+DTEND:20270101T081300Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270101@agenda-do-mundo
+DESCRIPTION:Nascer às 5h03\, a 163° (sul). Dia de 12h39 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270101T204200Z
+DTEND:20270101T205200Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270101@agenda-do-mundo
+DESCRIPTION:Pôr às 17h42\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20270102T080400Z
+DTEND:20270102T081400Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270102@agenda-do-mundo
+DESCRIPTION:Nascer às 5h04\, a 164° (sul). Dia de 12h39 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270102T204200Z
+DTEND:20270102T205200Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270102@agenda-do-mundo
+DESCRIPTION:Pôr às 17h42\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h39
+DTSTART:20270103T080400Z
+DTEND:20270103T081400Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270103@agenda-do-mundo
+DESCRIPTION:Nascer às 5h04\, a 164° (sul). Dia de 12h39 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270103T204300Z
+DTEND:20270103T205300Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270103@agenda-do-mundo
+DESCRIPTION:Pôr às 17h43\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h38
+DTSTART:20270104T080500Z
+DTEND:20270104T081500Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270104@agenda-do-mundo
+DESCRIPTION:Nascer às 5h05\, a 164° (sul). Dia de 12h38 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270104T204300Z
+DTEND:20270104T205300Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270104@agenda-do-mundo
+DESCRIPTION:Pôr às 17h43\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h38
+DTSTART:20270105T080500Z
+DTEND:20270105T081500Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270105@agenda-do-mundo
+DESCRIPTION:Nascer às 5h05\, a 164° (sul). Dia de 12h38 (−0\,1 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270105T204300Z
+DTEND:20270105T205300Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270105@agenda-do-mundo
+DESCRIPTION:Pôr às 17h43\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h38
+DTSTART:20270106T080600Z
+DTEND:20270106T081600Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270106@agenda-do-mundo
+DESCRIPTION:Nascer às 5h06\, a 164° (sul). Dia de 12h38 (−0\,2 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270106T204400Z
+DTEND:20270106T205400Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270106@agenda-do-mundo
+DESCRIPTION:Pôr às 17h44\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h38
+DTSTART:20270107T080600Z
+DTEND:20270107T081600Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270107@agenda-do-mundo
+DESCRIPTION:Nascer às 5h06\, a 164° (sul). Dia de 12h38 (−0\,2 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270107T204400Z
+DTEND:20270107T205400Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270107@agenda-do-mundo
+DESCRIPTION:Pôr às 17h44\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h38
+DTSTART:20270108T080700Z
+DTEND:20270108T081700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270108@agenda-do-mundo
+DESCRIPTION:Nascer às 5h07\, a 164° (sul). Dia de 12h38 (−0\,2 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270108T204400Z
+DTEND:20270108T205400Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270108@agenda-do-mundo
+DESCRIPTION:Pôr às 17h44\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h38
+DTSTART:20270109T080700Z
+DTEND:20270109T081700Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270109@agenda-do-mundo
+DESCRIPTION:Nascer às 5h07\, a 164° (sul). Dia de 12h38 (−0\,2 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270109T204500Z
+DTEND:20270109T205500Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270109@agenda-do-mundo
+DESCRIPTION:Pôr às 17h45\, a 113° (sudeste). Uns 25 minutos depois acab
+ a o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h37
+DTSTART:20270110T080800Z
+DTEND:20270110T081800Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270110@agenda-do-mundo
+DESCRIPTION:Nascer às 5h08\, a 165° (sul). Dia de 12h37 (−0\,2 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270110T204500Z
+DTEND:20270110T205500Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270110@agenda-do-mundo
+DESCRIPTION:Pôr às 17h45\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h37
+DTSTART:20270111T080800Z
+DTEND:20270111T081800Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270111@agenda-do-mundo
+DESCRIPTION:Nascer às 5h08\, a 165° (sul). Dia de 12h37 (−0\,2 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270111T204500Z
+DTEND:20270111T205500Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270111@agenda-do-mundo
+DESCRIPTION:Pôr às 17h45\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h37
+DTSTART:20270112T080900Z
+DTEND:20270112T081900Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270112@agenda-do-mundo
+DESCRIPTION:Nascer às 5h09\, a 165° (sul). Dia de 12h37 (−0\,2 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270112T204600Z
+DTEND:20270112T205600Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270112@agenda-do-mundo
+DESCRIPTION:Pôr às 17h46\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sol nasce · dia de 12h37
+DTSTART:20270113T080900Z
+DTEND:20270113T081900Z
+DTSTAMP:20260101T000000Z
+UID:sol-nasce-20270113@agenda-do-mundo
+DESCRIPTION:Nascer às 5h09\, a 165° (sul). Dia de 12h37 (−0\,2 min em 
+ relação a ontem).\nO ponto do horizonte onde o Sol nasce anda para o sul
+  até o solstício de dezembro e volta para o norte até o de junho.\n\nBa
+ se: PyEphem\, com refração atmosférica padrão.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pôr do sol
+DTSTART:20270113T204600Z
+DTEND:20270113T205600Z
+DTSTAMP:20260101T000000Z
+UID:sol-poe-20270113@agenda-do-mundo
+DESCRIPTION:Pôr às 17h46\, a 112° (leste). Uns 25 minutos depois acaba 
+ o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

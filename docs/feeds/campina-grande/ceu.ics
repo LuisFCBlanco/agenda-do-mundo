@@ -1,0 +1,366 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Planetas ao anoitecer e antes do amanhecer, Lua perto de plan
+ etas, chuvas de meteoros. Agenda do Mundo.
+X-WR-CALNAME:Céu da noite · Campina Grande
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Lua perto de Vênus
+DTSTART:20261107T073200Z
+DTEND:20261107T080200Z
+DTSTAMP:20260101T000000Z
+UID:ceu-conj-Venus-2026110704@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Vênus fica a 1\,1° da Lua\, a leste\, b
+ em baixo. Um punho fechado com o braço esticado cobre uns 10° de céu\, 
+ então os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por noite co
+ ntra as estrelas\; amanhã ela já estará longe.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20261109T073200Z
+DTEND:20261109T080200Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261109@agenda-do-mundo
+DESCRIPTION:Às 4h32 desta semana:\nVênus: baixo (16°)\, a leste\, brilh
+ o -4\,2\nJúpiter: a meia altura (60°)\, a nordeste\, brilho -1\,9\nMarte
+ : a meia altura (60°)\, a nordeste\, brilho 0\,8\n\nBrilho em magnitude: 
+ quanto menor o número\, mais brilhante (Vênus chega perto de -4\, as est
+ relas mais fracas a olho nu ficam em torno de 6). Planeta não pisca como 
+ estrela porque é um disco\, não um ponto.\n\nBase: posições calculadas
+  com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261109T204200Z
+DTEND:20261109T211200Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261109@agenda-do-mundo
+DESCRIPTION:Às 17h42 desta semana:\nSaturno: a meia altura (44°)\, a les
+ te\, brilho 0\,6\n\nBrilho em magnitude: quanto menor o número\, mais bri
+ lhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam
+  em torno de 6). Planeta não pisca como estrela porque é um disco\, não
+  um ponto.\n\nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Mercúrio\, Marte
+DTSTART:20261116T073200Z
+DTEND:20261116T080200Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261116@agenda-do-mundo
+DESCRIPTION:Às 4h32 desta semana:\nVênus: baixo (23°)\, a leste\, brilh
+ o -4\,4\nJúpiter: alto (64°)\, a nordeste\, brilho -2\,0\nMercúrio: bem
+  baixo (10°)\, a leste\, brilho 0\,1\nMarte: alto (63°)\, a nordeste\, b
+ rilho 0\,7\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261116T204400Z
+DTEND:20261116T211400Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261116@agenda-do-mundo
+DESCRIPTION:Às 17h44 desta semana:\nSaturno: a meia altura (52°)\, a les
+ te\, brilho 0\,6\n\nBrilho em magnitude: quanto menor o número\, mais bri
+ lhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam
+  em torno de 6). Planeta não pisca como estrela porque é um disco\, não
+  um ponto.\n\nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chuva de meteoros Leônidas
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260101T000000Z
+UID:ceu-chuva-Leonidas-2026@agenda-do-mundo
+DESCRIPTION:O radiante nasce de madrugada a leste. A taxa costuma ser baix
+ a\, mas os meteoros são rápidos.\n\nLua 57% iluminada na madrugada segui
+ nte: Lua atrapalha um pouco.\nData de pico aproximada: varia cerca de um d
+ ia de ano para ano.\n\nBase: calendário de chuvas da International Meteor
+  Organization\; Lua calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Mercúrio\, Marte
+DTSTART:20261123T073200Z
+DTEND:20261123T080200Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261123@agenda-do-mundo
+DESCRIPTION:Às 4h32 desta semana:\nVênus: baixo (27°)\, a leste\, brilh
+ o -4\,4\nJúpiter: alto (67°)\, a nordeste\, brilho -2\,0\nMercúrio: bem
+  baixo (11°)\, a leste\, brilho -0\,5\nMarte: alto (66°)\, a nordeste\, 
+ brilho 0\,6\n\nBrilho em magnitude: quanto menor o número\, mais brilhant
+ e (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em t
+ orno de 6). Planeta não pisca como estrela porque é um disco\, não um p
+ onto.\n\nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261123T204700Z
+DTEND:20261123T211700Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261123@agenda-do-mundo
+DESCRIPTION:Às 17h47 desta semana:\nSaturno: a meia altura (59°)\, a les
+ te\, brilho 0\,7\n\nBrilho em magnitude: quanto menor o número\, mais bri
+ lhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam
+  em torno de 6). Planeta não pisca como estrela porque é um disco\, não
+  um ponto.\n\nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Mercúrio\, Marte
+DTSTART:20261130T073300Z
+DTEND:20261130T080300Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261130@agenda-do-mundo
+DESCRIPTION:Às 4h33 desta semana:\nVênus: baixo (31°)\, a leste\, brilh
+ o -4\,5\nJúpiter: alto (69°)\, a norte\, brilho -2\,0\nMercúrio: bem ba
+ ixo (9°)\, a leste\, brilho -0\,5\nMarte: alto (68°)\, a norte\, brilho 
+ 0\,5\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (Vên
+ us chega perto de -4\, as estrelas mais fracas a olho nu ficam em torno de
+  6). Planeta não pisca como estrela porque é um disco\, não um ponto.\n
+ \nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua perto de Marte
+DTSTART:20261130T073300Z
+DTEND:20261130T080300Z
+DTSTAMP:20260101T000000Z
+UID:ceu-conj-Marte-2026113004@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Marte fica a 6\,0° da Lua\, a norte\, al
+ to. Um punho fechado com o braço esticado cobre uns 10° de céu\, então
+  os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por noite contra a
+ s estrelas\; amanhã ela já estará longe.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua perto de Júpiter
+DTSTART:20261130T073300Z
+DTEND:20261130T080300Z
+DTSTAMP:20260101T000000Z
+UID:ceu-conj-Jupiter-2026113004@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Júpiter fica a 1\,0° da Lua\, a norte\,
+  alto. Um punho fechado com o braço esticado cobre uns 10° de céu\, ent
+ ão os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por noite contr
+ a as estrelas\; amanhã ela já estará longe.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261130T205000Z
+DTEND:20261130T212000Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261130@agenda-do-mundo
+DESCRIPTION:Às 17h50 desta semana:\nSaturno: alto (67°)\, a leste\, bril
+ ho 0\,7\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
+ ênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em torno
+  de 6). Planeta não pisca como estrela porque é um disco\, não um ponto
+ .\n\nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20261207T073500Z
+DTEND:20261207T080500Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261207@agenda-do-mundo
+DESCRIPTION:Às 4h35 desta semana:\nVênus: baixo (34°)\, a leste\, brilh
+ o -4\,4\nJúpiter: alto (69°)\, a norte\, brilho -2\,1\nMarte: alto (70°
+ )\, a norte\, brilho 0\,4\n\nBrilho em magnitude: quanto menor o número\,
+  mais brilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho
+  nu ficam em torno de 6). Planeta não pisca como estrela porque é um dis
+ co\, não um ponto.\n\nBase: posições calculadas com PyEphem para Campin
+ a Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261207T205400Z
+DTEND:20261207T212400Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261207@agenda-do-mundo
+DESCRIPTION:Às 17h54 desta semana:\nSaturno: alto (74°)\, a nordeste\, b
+ rilho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chuva de meteoros Geminídeas
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+DTSTAMP:20260101T000000Z
+UID:ceu-chuva-Geminideas-2026@agenda-do-mundo
+DESCRIPTION:A chuva mais forte do ano. O radiante nasce no nordeste por vo
+ lta das 22h\; o melhor é depois da meia-noite. Vem do asteroide Faetonte
+ \, não de um cometa.\n\nLua 31% iluminada na madrugada seguinte: Lua atra
+ palha um pouco.\nData de pico aproximada: varia cerca de um dia de ano par
+ a ano.\n\nBase: calendário de chuvas da International Meteor Organization
+ \; Lua calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20261214T073800Z
+DTEND:20261214T080800Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261214@agenda-do-mundo
+DESCRIPTION:Às 4h38 desta semana:\nVênus: a meia altura (37°)\, a leste
+ \, brilho -4\,4\nJúpiter: alto (66°)\, a noroeste\, brilho -2\,1\nMarte:
+  alto (71°)\, a norte\, brilho 0\,3\n\nBrilho em magnitude: quanto menor 
+ o número\, mais brilhante (Vênus chega perto de -4\, as estrelas mais fr
+ acas a olho nu ficam em torno de 6). Planeta não pisca como estrela porqu
+ e é um disco\, não um ponto.\n\nBase: posições calculadas com PyEphem 
+ para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261214T205700Z
+DTEND:20261214T212700Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261214@agenda-do-mundo
+DESCRIPTION:Às 17h57 desta semana:\nSaturno: alto (80°)\, a nordeste\, b
+ rilho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20261221T074100Z
+DTEND:20261221T081100Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261221@agenda-do-mundo
+DESCRIPTION:Às 4h41 desta semana:\nVênus: a meia altura (38°)\, a leste
+ \, brilho -4\,4\nJúpiter: alto (61°)\, a noroeste\, brilho -2\,2\nMarte:
+  alto (70°)\, a noroeste\, brilho 0\,1\n\nBrilho em magnitude: quanto men
+ or o número\, mais brilhante (Vênus chega perto de -4\, as estrelas mais
+  fracas a olho nu ficam em torno de 6). Planeta não pisca como estrela po
+ rque é um disco\, não um ponto.\n\nBase: posições calculadas com PyEph
+ em para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261221T210100Z
+DTEND:20261221T213100Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261221@agenda-do-mundo
+DESCRIPTION:Às 18h01 desta semana:\nSaturno: alto (82°)\, a norte\, bril
+ ho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
+ ênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em torno
+  de 6). Planeta não pisca como estrela porque é um disco\, não um ponto
+ .\n\nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20261228T074500Z
+DTEND:20261228T081500Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261228@agenda-do-mundo
+DESCRIPTION:Às 4h45 desta semana:\nVênus: a meia altura (39°)\, a leste
+ \, brilho -4\,3\nJúpiter: a meia altura (55°)\, a noroeste\, brilho -2\,
+ 2\nMarte: alto (66°)\, a noroeste\, brilho -0\,0\n\nBrilho em magnitude: 
+ quanto menor o número\, mais brilhante (Vênus chega perto de -4\, as est
+ relas mais fracas a olho nu ficam em torno de 6). Planeta não pisca como 
+ estrela porque é um disco\, não um ponto.\n\nBase: posições calculadas
+  com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua perto de Marte
+DTSTART:20261228T074500Z
+DTEND:20261228T081500Z
+DTSTAMP:20260101T000000Z
+UID:ceu-conj-Marte-2026122804@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Marte fica a 6\,0° da Lua\, a noroeste\,
+  alto. Um punho fechado com o braço esticado cobre uns 10° de céu\, ent
+ ão os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por noite contr
+ a as estrelas\; amanhã ela já estará longe.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261228T210400Z
+DTEND:20261228T213400Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261228@agenda-do-mundo
+DESCRIPTION:Às 18h04 desta semana:\nSaturno: alto (78°)\, a noroeste\, b
+ rilho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20270104T074900Z
+DTEND:20270104T081900Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20270104@agenda-do-mundo
+DESCRIPTION:Às 4h49 desta semana:\nVênus: a meia altura (40°)\, a leste
+ \, brilho -4\,3\nJúpiter: a meia altura (48°)\, a noroeste\, brilho -2\,
+ 3\nMarte: alto (62°)\, a noroeste\, brilho -0\,2\n\nBrilho em magnitude: 
+ quanto menor o número\, mais brilhante (Vênus chega perto de -4\, as est
+ relas mais fracas a olho nu ficam em torno de 6). Planeta não pisca como 
+ estrela porque é um disco\, não um ponto.\n\nBase: posições calculadas
+  com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20270104T210700Z
+DTEND:20270104T213700Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20270104@agenda-do-mundo
+DESCRIPTION:Às 18h07 desta semana:\nSaturno: alto (72°)\, a noroeste\, b
+ rilho 0\,9\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20270111T075200Z
+DTEND:20270111T082200Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20270111@agenda-do-mundo
+DESCRIPTION:Às 4h52 desta semana:\nVênus: a meia altura (40°)\, a leste
+ \, brilho -4\,2\nJúpiter: a meia altura (41°)\, a noroeste\, brilho -2\,
+ 3\nMarte: a meia altura (55°)\, a noroeste\, brilho -0\,4\n\nBrilho em ma
+ gnitude: quanto menor o número\, mais brilhante (Vênus chega perto de -4
+ \, as estrelas mais fracas a olho nu ficam em torno de 6). Planeta não pi
+ sca como estrela porque é um disco\, não um ponto.\n\nBase: posições c
+ alculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20270111T210900Z
+DTEND:20270111T213900Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20270111@agenda-do-mundo
+DESCRIPTION:Às 18h09 desta semana:\nSaturno: alto (65°)\, a oeste\, bril
+ ho 0\,9\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
+ ênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em torno
+  de 6). Planeta não pisca como estrela porque é um disco\, não um ponto
+ .\n\nBase: posições calculadas com PyEphem para Campina Grande.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

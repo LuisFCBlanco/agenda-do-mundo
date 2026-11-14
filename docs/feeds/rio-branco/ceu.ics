@@ -1,0 +1,379 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Planetas ao anoitecer e antes do amanhecer, Lua perto de plan
+ etas, chuvas de meteoros. Agenda do Mundo.
+X-WR-CALNAME:Céu da noite · Rio Branco
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Lua perto de Vênus
+DTSTART:20261107T093600Z
+DTEND:20261107T100600Z
+DTSTAMP:20260101T000000Z
+UID:ceu-conj-Venus-2026110704@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Vênus fica a 0\,5° da Lua\, a leste\, b
+ em baixo. Um punho fechado com o braço esticado cobre uns 10° de céu\, 
+ então os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por noite co
+ ntra as estrelas\; amanhã ela já estará longe.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20261109T093600Z
+DTEND:20261109T100600Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261109@agenda-do-mundo
+DESCRIPTION:Às 4h36 desta semana:\nVênus: baixo (16°)\, a leste\, brilh
+ o -4\,2\nJúpiter: a meia altura (57°)\, a nordeste\, brilho -1\,9\nMarte
+ : a meia altura (57°)\, a nordeste\, brilho 0\,8\n\nBrilho em magnitude: 
+ quanto menor o número\, mais brilhante (Vênus chega perto de -4\, as est
+ relas mais fracas a olho nu ficam em torno de 6). Planeta não pisca como 
+ estrela porque é um disco\, não um ponto.\n\nBase: posições calculadas
+  com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261109T225300Z
+DTEND:20261109T232300Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261109@agenda-do-mundo
+DESCRIPTION:Às 17h53 desta semana:\nSaturno: a meia altura (45°)\, a les
+ te\, brilho 0\,6\n\nBrilho em magnitude: quanto menor o número\, mais bri
+ lhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam
+  em torno de 6). Planeta não pisca como estrela porque é um disco\, não
+  um ponto.\n\nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Mercúrio\, Marte
+DTSTART:20261116T093500Z
+DTEND:20261116T100500Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261116@agenda-do-mundo
+DESCRIPTION:Às 4h35 desta semana:\nVênus: baixo (22°)\, a leste\, brilh
+ o -4\,4\nJúpiter: alto (61°)\, a nordeste\, brilho -2\,0\nMercúrio: bem
+  baixo (9°)\, a leste\, brilho 0\,1\nMarte: a meia altura (60°)\, a nord
+ este\, brilho 0\,7\n\nBrilho em magnitude: quanto menor o número\, mais b
+ rilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu fic
+ am em torno de 6). Planeta não pisca como estrela porque é um disco\, n
+ ão um ponto.\n\nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261116T225600Z
+DTEND:20261116T232600Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261116@agenda-do-mundo
+DESCRIPTION:Às 17h56 desta semana:\nSaturno: a meia altura (52°)\, a les
+ te\, brilho 0\,6\n\nBrilho em magnitude: quanto menor o número\, mais bri
+ lhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam
+  em torno de 6). Planeta não pisca como estrela porque é um disco\, não
+  um ponto.\n\nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chuva de meteoros Leônidas
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260101T000000Z
+UID:ceu-chuva-Leonidas-2026@agenda-do-mundo
+DESCRIPTION:O radiante nasce de madrugada a leste. A taxa costuma ser baix
+ a\, mas os meteoros são rápidos.\n\nLua 58% iluminada na madrugada segui
+ nte: Lua atrapalha um pouco.\nData de pico aproximada: varia cerca de um d
+ ia de ano para ano.\n\nBase: calendário de chuvas da International Meteor
+  Organization\; Lua calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Mercúrio\, Marte
+DTSTART:20261123T093500Z
+DTEND:20261123T100500Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261123@agenda-do-mundo
+DESCRIPTION:Às 4h35 desta semana:\nVênus: baixo (27°)\, a leste\, brilh
+ o -4\,4\nJúpiter: alto (64°)\, a nordeste\, brilho -2\,0\nMercúrio: bem
+  baixo (10°)\, a leste\, brilho -0\,5\nMarte: alto (63°)\, a nordeste\, 
+ brilho 0\,6\n\nBrilho em magnitude: quanto menor o número\, mais brilhant
+ e (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em t
+ orno de 6). Planeta não pisca como estrela porque é um disco\, não um p
+ onto.\n\nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261123T225900Z
+DTEND:20261123T232900Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261123@agenda-do-mundo
+DESCRIPTION:Às 17h59 desta semana:\nSaturno: a meia altura (60°)\, a les
+ te\, brilho 0\,7\n\nBrilho em magnitude: quanto menor o número\, mais bri
+ lhante (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam
+  em torno de 6). Planeta não pisca como estrela porque é um disco\, não
+  um ponto.\n\nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Mercúrio\, Marte
+DTSTART:20261130T093600Z
+DTEND:20261130T100600Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261130@agenda-do-mundo
+DESCRIPTION:Às 4h36 desta semana:\nVênus: baixo (30°)\, a leste\, brilh
+ o -4\,5\nJúpiter: alto (66°)\, a norte\, brilho -2\,0\nMercúrio: bem ba
+ ixo (9°)\, a leste\, brilho -0\,5\nMarte: alto (65°)\, a norte\, brilho 
+ 0\,5\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (Vên
+ us chega perto de -4\, as estrelas mais fracas a olho nu ficam em torno de
+  6). Planeta não pisca como estrela porque é um disco\, não um ponto.\n
+ \nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua perto de Marte
+DTSTART:20261130T093600Z
+DTEND:20261130T100600Z
+DTSTAMP:20260101T000000Z
+UID:ceu-conj-Marte-2026113004@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Marte fica a 5\,0° da Lua\, a norte\, al
+ to. Um punho fechado com o braço esticado cobre uns 10° de céu\, então
+  os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por noite contra a
+ s estrelas\; amanhã ela já estará longe.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua perto de Júpiter
+DTSTART:20261130T093600Z
+DTEND:20261130T100600Z
+DTSTAMP:20260101T000000Z
+UID:ceu-conj-Jupiter-2026113004@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Júpiter fica a 0\,9° da Lua\, a norte\,
+  alto. Um punho fechado com o braço esticado cobre uns 10° de céu\, ent
+ ão os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por noite contr
+ a as estrelas\; amanhã ela já estará longe.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261130T230300Z
+DTEND:20261130T233300Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261130@agenda-do-mundo
+DESCRIPTION:Às 18h03 desta semana:\nSaturno: alto (67°)\, a nordeste\, b
+ rilho 0\,7\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20261207T093800Z
+DTEND:20261207T100800Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261207@agenda-do-mundo
+DESCRIPTION:Às 4h38 desta semana:\nVênus: baixo (33°)\, a leste\, brilh
+ o -4\,4\nJúpiter: alto (66°)\, a norte\, brilho -2\,1\nMarte: alto (67°
+ )\, a norte\, brilho 0\,4\n\nBrilho em magnitude: quanto menor o número\,
+  mais brilhante (Vênus chega perto de -4\, as estrelas mais fracas a olho
+  nu ficam em torno de 6). Planeta não pisca como estrela porque é um dis
+ co\, não um ponto.\n\nBase: posições calculadas com PyEphem para Rio Br
+ anco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261207T230600Z
+DTEND:20261207T233600Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261207@agenda-do-mundo
+DESCRIPTION:Às 18h06 desta semana:\nSaturno: alto (73°)\, a nordeste\, b
+ rilho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chuva de meteoros Geminídeas
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+DTSTAMP:20260101T000000Z
+UID:ceu-chuva-Geminideas-2026@agenda-do-mundo
+DESCRIPTION:A chuva mais forte do ano. O radiante nasce no nordeste por vo
+ lta das 22h\; o melhor é depois da meia-noite. Vem do asteroide Faetonte
+ \, não de um cometa.\n\nLua 31% iluminada na madrugada seguinte: Lua atra
+ palha um pouco.\nData de pico aproximada: varia cerca de um dia de ano par
+ a ano.\n\nBase: calendário de chuvas da International Meteor Organization
+ \; Lua calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20261214T094100Z
+DTEND:20261214T101100Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261214@agenda-do-mundo
+DESCRIPTION:Às 4h41 desta semana:\nVênus: a meia altura (36°)\, a leste
+ \, brilho -4\,4\nJúpiter: alto (64°)\, a noroeste\, brilho -2\,1\nMarte:
+  alto (68°)\, a norte\, brilho 0\,2\n\nBrilho em magnitude: quanto menor 
+ o número\, mais brilhante (Vênus chega perto de -4\, as estrelas mais fr
+ acas a olho nu ficam em torno de 6). Planeta não pisca como estrela porqu
+ e é um disco\, não um ponto.\n\nBase: posições calculadas com PyEphem 
+ para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261214T231000Z
+DTEND:20261214T234000Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261214@agenda-do-mundo
+DESCRIPTION:Às 18h10 desta semana:\nSaturno: alto (78°)\, a nordeste\, b
+ rilho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20261221T094400Z
+DTEND:20261221T101400Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261221@agenda-do-mundo
+DESCRIPTION:Às 4h44 desta semana:\nVênus: a meia altura (37°)\, a leste
+ \, brilho -4\,4\nJúpiter: alto (60°)\, a noroeste\, brilho -2\,2\nMarte:
+  alto (68°)\, a norte\, brilho 0\,1\n\nBrilho em magnitude: quanto menor 
+ o número\, mais brilhante (Vênus chega perto de -4\, as estrelas mais fr
+ acas a olho nu ficam em torno de 6). Planeta não pisca como estrela porqu
+ e é um disco\, não um ponto.\n\nBase: posições calculadas com PyEphem 
+ para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261221T231400Z
+DTEND:20261221T234400Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261221@agenda-do-mundo
+DESCRIPTION:Às 18h14 desta semana:\nSaturno: alto (79°)\, a norte\, bril
+ ho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante (V
+ ênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em torno
+  de 6). Planeta não pisca como estrela porque é um disco\, não um ponto
+ .\n\nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua perto de Júpiter
+DTSTART:20261227T094700Z
+DTEND:20261227T101700Z
+DTSTAMP:20260101T000000Z
+UID:ceu-conj-Jupiter-2026122704@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Júpiter fica a 4\,8° da Lua\, a noroest
+ e\, a meia altura. Um punho fechado com o braço esticado cobre uns 10° d
+ e céu\, então os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por
+  noite contra as estrelas\; amanhã ela já estará longe.\n\nBase: PyEphe
+ m.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20261228T094700Z
+DTEND:20261228T101700Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20261228@agenda-do-mundo
+DESCRIPTION:Às 4h47 desta semana:\nVênus: a meia altura (39°)\, a leste
+ \, brilho -4\,3\nJúpiter: a meia altura (54°)\, a noroeste\, brilho -2\,
+ 2\nMarte: alto (65°)\, a noroeste\, brilho -0\,0\n\nBrilho em magnitude: 
+ quanto menor o número\, mais brilhante (Vênus chega perto de -4\, as est
+ relas mais fracas a olho nu ficam em torno de 6). Planeta não pisca como 
+ estrela porque é um disco\, não um ponto.\n\nBase: posições calculadas
+  com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lua perto de Marte
+DTSTART:20261228T094700Z
+DTEND:20261228T101700Z
+DTSTAMP:20260101T000000Z
+UID:ceu-conj-Marte-2026122804@agenda-do-mundo
+DESCRIPTION:Antes do amanhecer\, Marte fica a 5\,3° da Lua\, a noroeste\,
+  alto. Um punho fechado com o braço esticado cobre uns 10° de céu\, ent
+ ão os dois cabem dentro dele.\n\nA Lua anda cerca de 13° por noite contr
+ a as estrelas\; amanhã ela já estará longe.\n\nBase: PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20261228T231700Z
+DTEND:20261228T234700Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20261228@agenda-do-mundo
+DESCRIPTION:Às 18h17 desta semana:\nSaturno: alto (75°)\, a noroeste\, b
+ rilho 0\,8\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20270104T095100Z
+DTEND:20270104T102100Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20270104@agenda-do-mundo
+DESCRIPTION:Às 4h51 desta semana:\nVênus: a meia altura (40°)\, a leste
+ \, brilho -4\,3\nJúpiter: a meia altura (48°)\, a noroeste\, brilho -2\,
+ 3\nMarte: alto (61°)\, a noroeste\, brilho -0\,2\n\nBrilho em magnitude: 
+ quanto menor o número\, mais brilhante (Vênus chega perto de -4\, as est
+ relas mais fracas a olho nu ficam em torno de 6). Planeta não pisca como 
+ estrela porque é um disco\, não um ponto.\n\nBase: posições calculadas
+  com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20270104T232000Z
+DTEND:20270104T235000Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20270104@agenda-do-mundo
+DESCRIPTION:Às 18h20 desta semana:\nSaturno: alto (69°)\, a noroeste\, b
+ rilho 0\,9\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas antes do amanhecer: Vênus\, Júpiter\, Marte
+DTSTART:20270111T095500Z
+DTEND:20270111T102500Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-manha-20270111@agenda-do-mundo
+DESCRIPTION:Às 4h55 desta semana:\nVênus: a meia altura (40°)\, a leste
+ \, brilho -4\,2\nJúpiter: a meia altura (41°)\, a noroeste\, brilho -2\,
+ 3\nMarte: a meia altura (55°)\, a noroeste\, brilho -0\,4\n\nBrilho em ma
+ gnitude: quanto menor o número\, mais brilhante (Vênus chega perto de -4
+ \, as estrelas mais fracas a olho nu ficam em torno de 6). Planeta não pi
+ sca como estrela porque é um disco\, não um ponto.\n\nBase: posições c
+ alculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planetas ao anoitecer: Saturno
+DTSTART:20270111T232200Z
+DTEND:20270111T235200Z
+DTSTAMP:20260101T000000Z
+UID:ceu-planetas-noite-20270111@agenda-do-mundo
+DESCRIPTION:Às 18h22 desta semana:\nSaturno: alto (63°)\, a noroeste\, b
+ rilho 0\,9\n\nBrilho em magnitude: quanto menor o número\, mais brilhante
+  (Vênus chega perto de -4\, as estrelas mais fracas a olho nu ficam em to
+ rno de 6). Planeta não pisca como estrela porque é um disco\, não um po
+ nto.\n\nBase: posições calculadas com PyEphem para Rio Branco.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

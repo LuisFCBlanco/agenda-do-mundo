@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Máxima, mínima, chance de chuva e índice UV dos próximos 
+ 7 dias. Agenda do Mundo.
+X-WR-CALNAME:Previsão do tempo · Feira de Santana
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:34° / 24° · chuva 31% · pancadas fracas
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260101T000000Z
+UID:clima-20261114@agenda-do-mundo
+DESCRIPTION:Máxima 34 °C\, mínima 24 °C. Chance de chuva 31%\, 2\,3 mm
+  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
+ or forte: beba água antes de sentir sede\, porque a sede chega depois da 
+ desidratação começar.\n\nPrevisão feita em 14/11 às 03h14. O Google r
+ elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:35° / 23° · chuva 75% · garoa forte
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20260101T000000Z
+UID:clima-20261115@agenda-do-mundo
+DESCRIPTION:Máxima 35 °C\, mínima 23 °C. Chance de chuva 75%\, 4\,4 mm
+  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
+ or forte: beba água antes de sentir sede\, porque a sede chega depois da 
+ desidratação começar.\n\nPrevisão feita em 14/11 às 03h14. O Google r
+ elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:33° / 23° · chuva 90% · trovoadas
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20260101T000000Z
+UID:clima-20261116@agenda-do-mundo
+DESCRIPTION:Máxima 33 °C\, mínima 23 °C. Chance de chuva 90%\, 33\,2 m
+ m previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n
+ \nPrevisão feita em 14/11 às 03h14. O Google relê este calendário a ca
+ da 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:32° / 23° · chuva 88% · trovoadas
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260101T000000Z
+UID:clima-20261117@agenda-do-mundo
+DESCRIPTION:Máxima 32 °C\, mínima 23 °C. Chance de chuva 88%\, 16\,0 m
+ m previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n
+ \nPrevisão feita em 14/11 às 03h14. O Google relê este calendário a ca
+ da 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:33° / 23° · chuva 55% · nublado
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20260101T000000Z
+UID:clima-20261118@agenda-do-mundo
+DESCRIPTION:Máxima 33 °C\, mínima 23 °C. Chance de chuva 55%\, 0\,0 mm
+  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
+ Previsão feita em 14/11 às 03h14. O Google relê este calendário a cada
+  12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:33° / 24° · chuva 8% · nublado
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20260101T000000Z
+UID:clima-20261119@agenda-do-mundo
+DESCRIPTION:Máxima 33 °C\, mínima 24 °C. Chance de chuva 8%\, 0\,0 mm 
+ previstos. Índice UV máximo 7.\n\nPrevisão feita em 14/11 às 03h14. O 
+ Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:34° / 24° · chuva 7% · nublado
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20260101T000000Z
+UID:clima-20261120@agenda-do-mundo
+DESCRIPTION:Máxima 34 °C\, mínima 24 °C. Chance de chuva 7%\, 0\,0 mm 
+ previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\nP
+ revisão feita em 14/11 às 03h14. O Google relê este calendário a cada 
+ 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

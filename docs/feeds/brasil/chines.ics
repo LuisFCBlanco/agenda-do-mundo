@@ -1,0 +1,406 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:As 24 estações solares chinesas e as grandes festas do cale
+ ndário lunissolar. Agenda do Mundo.
+X-WR-CALNAME:Calendário chinês · Brasil
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Início do inverno (Lidong)
+DTSTART:20261107T094600Z
+DTEND:20261107T101600Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20261107@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 225°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 0
+ 7/11 às 6h46.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neve pequena (Xiaoxue)
+DTSTART:20261122T071800Z
+DTEND:20261122T074800Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20261122@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 240°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 2
+ 2/11 às 4h18.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neve grande (Daxue)
+DTSTART:20261207T024700Z
+DTEND:20261207T031700Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20261206@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 255°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 0
+ 6/12 às 23h47.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solstício de inverno (Dongzhi)
+DTSTART:20261221T204500Z
+DTEND:20261221T211500Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20261221@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 270°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 2
+ 1/12 às 17h45.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frio pequeno (Xiaohan)
+DTSTART:20270105T140500Z
+DTEND:20270105T143500Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270105@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 285°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 0
+ 5/01 às 11h05.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frio grande (Dahan)
+DTSTART:20270120T072600Z
+DTEND:20270120T075600Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270120@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 300°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 2
+ 0/01 às 4h26.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Início da primavera (Lichun)
+DTSTART:20270204T014200Z
+DTEND:20270204T021200Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270203@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 315°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 0
+ 3/02 às 22h42.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ano-novo chinês (Festa da Primavera)
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20260101T000000Z
+UID:chi-20270206-Chinese_New_@agenda-do-mundo
+DESCRIPTION:A maior festa da China: reuniões de família\, envelopes verm
+ elhos e fogos. Abre o novo ano do calendário lunissolar\, na segunda Lua 
+ nova depois do solstício de dezembro.\n\nData oficial do calendário de f
+ eriados da China.\n\nBase: python-holidays.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Água da chuva (Yushui)
+DTSTART:20270218T213000Z
+DTEND:20270218T220000Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270218@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 330°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 1
+ 8/02 às 18h30.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Despertar dos insetos (Jingzhe)
+DTSTART:20270305T193500Z
+DTEND:20270305T200500Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270305@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 345°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 0
+ 5/03 às 16h35.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Equinócio da primavera (Chunfen)
+DTSTART:20270320T202000Z
+DTEND:20270320T205000Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270320@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 0°). Os nomes desc
+ revem o clima e o trabalho do campo na planície do rio Amarelo\, no hemis
+ fério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a U
+ NESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 20/
+ 03 às 17h20.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claridade pura (Qingming)
+DTSTART:20270405T001300Z
+DTEND:20270405T004300Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270404@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 15°). Os nomes des
+ crevem o clima e o trabalho do campo na planície do rio Amarelo\, no hemi
+ sfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a 
+ UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 04
+ /04 às 21h13.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qingming\, dia de varrer os túmulos
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+DTSTAMP:20260101T000000Z
+UID:chi-20270405-Tomb-Sweepin@agenda-do-mundo
+DESCRIPTION:Famílias limpam os túmulos dos antepassados e fazem passeios
+  ao ar livre na primavera chinesa.\n\nData oficial do calendário de feria
+ dos da China.\n\nBase: python-holidays.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chuva dos grãos (Guyu)
+DTSTART:20270420T071300Z
+DTEND:20270420T074300Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270420@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 30°). Os nomes des
+ crevem o clima e o trabalho do campo na planície do rio Amarelo\, no hemi
+ sfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a 
+ UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 20
+ /04 às 4h13.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Início do verão (Lixia)
+DTSTART:20270505T172000Z
+DTEND:20270505T175000Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270505@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 45°). Os nomes des
+ crevem o clima e o trabalho do campo na planície do rio Amarelo\, no hemi
+ sfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a 
+ UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 05
+ /05 às 14h20.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grão pequeno (Xiaoman)
+DTSTART:20270521T061400Z
+DTEND:20270521T064400Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270521@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 60°). Os nomes des
+ crevem o clima e o trabalho do campo na planície do rio Amarelo\, no hemi
+ sfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a 
+ UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 21
+ /05 às 3h14.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grão com espiga (Mangzhong)
+DTSTART:20270605T212200Z
+DTEND:20270605T215200Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270605@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 75°). Os nomes des
+ crevem o clima e o trabalho do campo na planície do rio Amarelo\, no hemi
+ sfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a 
+ UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 05
+ /06 às 18h22.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festa do Barco-Dragão
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+DTSTAMP:20260101T000000Z
+UID:chi-20270609-Dragon_Boat@agenda-do-mundo
+DESCRIPTION:Corridas de barcos e bolinhos de arroz em folha de bambu\, no 
+ 5º dia do 5º mês lunar.\n\nData oficial do calendário de feriados da C
+ hina.\n\nBase: python-holidays.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solstício de verão (Xiazhi)
+DTSTART:20270621T140700Z
+DTEND:20270621T143700Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270621@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 90°). Os nomes des
+ crevem o clima e o trabalho do campo na planície do rio Amarelo\, no hemi
+ sfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a 
+ UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 21
+ /06 às 11h07.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calor pequeno (Xiaoshu)
+DTSTART:20270707T073400Z
+DTEND:20270707T080400Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270707@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 105°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 0
+ 7/07 às 4h34.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calor grande (Dashu)
+DTSTART:20270723T010100Z
+DTEND:20270723T013100Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270722@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 120°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 2
+ 2/07 às 22h01.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Início do outono (Liqiu)
+DTSTART:20270807T172300Z
+DTEND:20270807T175300Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270807@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 135°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 0
+ 7/08 às 14h23.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fim do calor (Chushu)
+DTSTART:20270823T081100Z
+DTEND:20270823T084100Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270823@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 150°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 2
+ 3/08 às 5h11.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orvalho branco (Bailu)
+DTSTART:20270907T202500Z
+DTEND:20270907T205500Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270907@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 165°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 0
+ 7/09 às 17h25.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festa do Meio do Outono
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+DTSTAMP:20260101T000000Z
+UID:chi-20270915-Mid-Autumn@agenda-do-mundo
+DESCRIPTION:Noite de Lua cheia de outono no hemisfério norte: famílias o
+ lham a Lua e comem bolos da Lua.\n\nData oficial do calendário de feriado
+ s da China.\n\nBase: python-holidays.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Equinócio de outono (Qiufen)
+DTSTART:20270923T055800Z
+DTEND:20270923T062800Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20270923@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 180°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 2
+ 3/09 às 2h58.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orvalho frio (Hanlu)
+DTSTART:20271008T121300Z
+DTEND:20271008T124300Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20271008@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 195°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 0
+ 8/10 às 9h13.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Descida da geada (Shuangjiang)
+DTSTART:20271023T152900Z
+DTEND:20271023T155900Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20271023@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 210°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 2
+ 3/10 às 12h29.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Início do inverno (Lidong)
+DTSTART:20271107T153500Z
+DTEND:20271107T160500Z
+DTSTAMP:20260101T000000Z
+UID:chi-termo-20271107@agenda-do-mundo
+DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
+  a cada 15° que o Sol avança na eclíptica (agora em 225°). Os nomes de
+ screvem o clima e o trabalho do campo na planície do rio Amarelo\, no hem
+ isfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a
+  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 0
+ 7/11 às 12h35.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

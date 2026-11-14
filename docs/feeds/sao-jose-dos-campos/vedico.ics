@@ -1,0 +1,1187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Tithi e nakshatra de cada dia, Ekadashi e as passagens do Sol
+  pelos signos siderais. Agenda do Mundo.
+X-WR-CALNAME:Calendário védico (panchang) · São José dos Campos
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Krishna Chaturdashi · Chitra
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261107@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h10) o dia lunar é Krishna Chaturdashi e a
+  Lua está no nakshatra Chitra.\n\nNo panchang\, o almanaque védico\, o t
+ ithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 
+ crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 m
+ ansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa e
+ m cerca de um dia cada. O dia védico é regido pelo tithi que está valen
+ do no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com Py
+ Ephem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amavasya (Lua nova) · Swati
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261108@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h10) o dia lunar é Amavasya (Lua nova) e a
+  Lua está no nakshatra Swati.\n\nNo panchang\, o almanaque védico\, o ti
+ thi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 c
+ rescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 ma
+ nsões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em
+  cerca de um dia cada. O dia védico é regido pelo tithi que está valend
+ o no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyE
+ phem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Pratipada · Vishakha
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261109@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h10) o dia lunar é Shukla Pratipada e a Lu
+ a está no nakshatra Vishakha.\n\nNo panchang\, o almanaque védico\, o ti
+ thi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 c
+ rescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 ma
+ nsões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em
+  cerca de um dia cada. O dia védico é regido pelo tithi que está valend
+ o no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyE
+ phem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Pratipada · Anuradha
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261110@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h09) o dia lunar é Shukla Pratipada e a Lu
+ a está no nakshatra Anuradha.\n\nNo panchang\, o almanaque védico\, o ti
+ thi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 c
+ rescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 ma
+ nsões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em
+  cerca de um dia cada. O dia védico é regido pelo tithi que está valend
+ o no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyE
+ phem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Dvitiya · Jyeshtha
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261111@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h09) o dia lunar é Shukla Dvitiya e a Lua 
+ está no nakshatra Jyeshtha.\n\nNo panchang\, o almanaque védico\, o tith
+ i é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cre
+ scentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Tritiya · Jyeshtha
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261112@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h08) o dia lunar é Shukla Tritiya e a Lua 
+ está no nakshatra Jyeshtha.\n\nNo panchang\, o almanaque védico\, o tith
+ i é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cre
+ scentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Chaturthi · Mula
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261113@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h08) o dia lunar é Shukla Chaturthi e a Lu
+ a está no nakshatra Mula.\n\nNo panchang\, o almanaque védico\, o tithi 
+ é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cresc
+ entes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mansõ
+ es lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em cer
+ ca de um dia cada. O dia védico é regido pelo tithi que está valendo no
+  nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEphem
+ \; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Panchami · Purva Ashadha
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261114@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h07) o dia lunar é Shukla Panchami e a Lua
+  está no nakshatra Purva Ashadha.\n\nNo panchang\, o almanaque védico\, 
+ o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 
+ 15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 2
+ 7 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua pass
+ a em cerca de um dia cada. O dia védico é regido pelo tithi que está va
+ lendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com
+  PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Shashthi · Uttara Ashadha
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261115@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h07) o dia lunar é Shukla Shashthi e a Lua
+  está no nakshatra Uttara Ashadha.\n\nNo panchang\, o almanaque védico\,
+  o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\,
+  15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 
+ 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua pas
+ sa em cerca de um dia cada. O dia védico é regido pelo tithi que está v
+ alendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas co
+ m PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Saptami · Shravana
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261116@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h07) o dia lunar é Shukla Saptami e a Lua 
+ está no nakshatra Shravana.\n\nNo panchang\, o almanaque védico\, o tith
+ i é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cre
+ scentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sankranti: Sol em Vrischika
+DTSTART:20261116T135800Z
+DTEND:20261116T142800Z
+DTSTAMP:20260101T000000Z
+UID:ved-sankranti-20261116@agenda-do-mundo
+DESCRIPTION:O Sol entra em Vrischika (Escorpião) no zodíaco sideral\, a 
+ Sankranti do mês. Começa também o ritu Hemanta\, começo do inverno ind
+ iano\, uma das seis estações do Ayurveda. O zodíaco sideral é medido p
+ elas estrelas fixas\; o tropical\, usado no Ocidente\, pelos equinócios. 
+ Hoje os dois estão cerca de 24° defasados por causa da precessão do eix
+ o da Terra.\nMomento exato: 16/11 às 10h58.\n\nBase: PyEphem\, ayanamsa d
+ e Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Ashtami · Dhanishta
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261117@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h06) o dia lunar é Shukla Ashtami e a Lua 
+ está no nakshatra Dhanishta.\n\nNo panchang\, o almanaque védico\, o tit
+ hi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cr
+ escentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 man
+ sões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em 
+ cerca de um dia cada. O dia védico é regido pelo tithi que está valendo
+  no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEp
+ hem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Navami · Shatabhisha
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261118@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h06) o dia lunar é Shukla Navami e a Lua e
+ stá no nakshatra Shatabhisha.\n\nNo panchang\, o almanaque védico\, o ti
+ thi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 c
+ rescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 ma
+ nsões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em
+  cerca de um dia cada. O dia védico é regido pelo tithi que está valend
+ o no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyE
+ phem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Dashami · Purva Bhadrapada
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261119@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h06) o dia lunar é Shukla Dashami e a Lua 
+ está no nakshatra Purva Bhadrapada.\n\nNo panchang\, o almanaque védico
+ \, o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar
+ \, 15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma da
+ s 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua p
+ assa em cerca de um dia cada. O dia védico é regido pelo tithi que está
+  valendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas 
+ com PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Ekadashi · Uttara Bhadrapada
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261120@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h06) o dia lunar é Shukla Ekadashi e a Lua
+  está no nakshatra Uttara Bhadrapada.\n\nNo panchang\, o almanaque védic
+ o\, o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês luna
+ r\, 15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma d
+ as 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua 
+ passa em cerca de um dia cada. O dia védico é regido pelo tithi que est
+ á valendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculada
+ s com PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekadashi (Shukla)
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20260101T000000Z
+UID:ved-ekadashi-20261120@agenda-do-mundo
+DESCRIPTION:Décimo primeiro dia de cada metade do mês lunar\, dia de jej
+ um para muitos hindus\, sobretudo devotos de Vishnu: a tradição evita gr
+ ãos e feijões e reserva o dia para oração e quietude. Acontece duas ve
+ zes por mês.\n\nA ciência estudou o jejum intermitente em geral\, com ef
+ eitos sobre a sensibilidade à insulina descritos em ensaios clínicos\; n
+ ão há estudo que ligue a fase da Lua a esses efeitos.\n\nBase: tithi no 
+ nascer do sol calculado com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Dvadashi · Revati
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261121@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h06) o dia lunar é Shukla Dvadashi e a Lua
+  está no nakshatra Revati.\n\nNo panchang\, o almanaque védico\, o tithi
+  é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cres
+ centes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Trayodashi · Ashvini
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261122@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Shukla Trayodashi e a L
+ ua está no nakshatra Ashvini.\n\nNo panchang\, o almanaque védico\, o ti
+ thi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 c
+ rescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 ma
+ nsões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em
+  cerca de um dia cada. O dia védico é regido pelo tithi que está valend
+ o no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyE
+ phem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Chaturdashi · Bharani
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261123@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Shukla Chaturdashi e a 
+ Lua está no nakshatra Bharani.\n\nNo panchang\, o almanaque védico\, o t
+ ithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 
+ crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 m
+ ansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa e
+ m cerca de um dia cada. O dia védico é regido pelo tithi que está valen
+ do no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com Py
+ Ephem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purnima (Lua cheia) · Krittika
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261124@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Purnima (Lua cheia) e a
+  Lua está no nakshatra Krittika.\n\nNo panchang\, o almanaque védico\, o
+  tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 1
+ 5 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27
+  mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa
+  em cerca de um dia cada. O dia védico é regido pelo tithi que está val
+ endo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com 
+ PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Pratipada · Rohini
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261125@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Krishna Pratipada e a L
+ ua está no nakshatra Rohini.\n\nNo panchang\, o almanaque védico\, o tit
+ hi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cr
+ escentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 man
+ sões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em 
+ cerca de um dia cada. O dia védico é regido pelo tithi que está valendo
+  no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEp
+ hem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Tritiya · Mrigashira
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261126@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Krishna Tritiya e a Lua
+  está no nakshatra Mrigashira.\n\nNo panchang\, o almanaque védico\, o t
+ ithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 
+ crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 m
+ ansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa e
+ m cerca de um dia cada. O dia védico é regido pelo tithi que está valen
+ do no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com Py
+ Ephem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Chaturthi · Ardra
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261127@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Krishna Chaturthi e a L
+ ua está no nakshatra Ardra.\n\nNo panchang\, o almanaque védico\, o tith
+ i é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cre
+ scentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Panchami · Pushya
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261128@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Krishna Panchami e a Lu
+ a está no nakshatra Pushya.\n\nNo panchang\, o almanaque védico\, o tith
+ i é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cre
+ scentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Shashthi · Ashlesha
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261129@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Krishna Shashthi e a Lu
+ a está no nakshatra Ashlesha.\n\nNo panchang\, o almanaque védico\, o ti
+ thi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 c
+ rescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 ma
+ nsões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em
+  cerca de um dia cada. O dia védico é regido pelo tithi que está valend
+ o no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyE
+ phem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Saptami · Magha
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261130@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Krishna Saptami e a Lua
+  está no nakshatra Magha.\n\nNo panchang\, o almanaque védico\, o tithi 
+ é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cresc
+ entes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mansõ
+ es lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em cer
+ ca de um dia cada. O dia védico é regido pelo tithi que está valendo no
+  nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEphem
+ \; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Ashtami · Purva Phalguni
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261201@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Krishna Ashtami e a Lua
+  está no nakshatra Purva Phalguni.\n\nNo panchang\, o almanaque védico\,
+  o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\,
+  15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 
+ 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua pas
+ sa em cerca de um dia cada. O dia védico é regido pelo tithi que está v
+ alendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas co
+ m PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Navami · Uttara Phalguni
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261202@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Krishna Navami e a Lua 
+ está no nakshatra Uttara Phalguni.\n\nNo panchang\, o almanaque védico\,
+  o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\,
+  15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 
+ 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua pas
+ sa em cerca de um dia cada. O dia védico é regido pelo tithi que está v
+ alendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas co
+ m PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Dashami · Hasta
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261203@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Krishna Dashami e a Lua
+  está no nakshatra Hasta.\n\nNo panchang\, o almanaque védico\, o tithi 
+ é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cresc
+ entes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mansõ
+ es lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em cer
+ ca de um dia cada. O dia védico é regido pelo tithi que está valendo no
+  nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEphem
+ \; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Ekadashi · Chitra
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261204@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Krishna Ekadashi e a Lu
+ a está no nakshatra Chitra.\n\nNo panchang\, o almanaque védico\, o tith
+ i é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cre
+ scentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekadashi (Krishna)
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20260101T000000Z
+UID:ved-ekadashi-20261204@agenda-do-mundo
+DESCRIPTION:Décimo primeiro dia de cada metade do mês lunar\, dia de jej
+ um para muitos hindus\, sobretudo devotos de Vishnu: a tradição evita gr
+ ãos e feijões e reserva o dia para oração e quietude. Acontece duas ve
+ zes por mês.\n\nA ciência estudou o jejum intermitente em geral\, com ef
+ eitos sobre a sensibilidade à insulina descritos em ensaios clínicos\; n
+ ão há estudo que ligue a fase da Lua a esses efeitos.\n\nBase: tithi no 
+ nascer do sol calculado com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Dvadashi · Swati
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261205@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Krishna Dvadashi e a Lu
+ a está no nakshatra Swati.\n\nNo panchang\, o almanaque védico\, o tithi
+  é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cres
+ centes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Trayodashi · Swati
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261206@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h05) o dia lunar é Krishna Trayodashi e a 
+ Lua está no nakshatra Swati.\n\nNo panchang\, o almanaque védico\, o tit
+ hi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cr
+ escentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 man
+ sões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em 
+ cerca de um dia cada. O dia védico é regido pelo tithi que está valendo
+  no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEp
+ hem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Chaturdashi · Vishakha
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261207@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h06) o dia lunar é Krishna Chaturdashi e a
+  Lua está no nakshatra Vishakha.\n\nNo panchang\, o almanaque védico\, o
+  tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 1
+ 5 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27
+  mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa
+  em cerca de um dia cada. O dia védico é regido pelo tithi que está val
+ endo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com 
+ PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amavasya (Lua nova) · Anuradha
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261208@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h06) o dia lunar é Amavasya (Lua nova) e a
+  Lua está no nakshatra Anuradha.\n\nNo panchang\, o almanaque védico\, o
+  tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 1
+ 5 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27
+  mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa
+  em cerca de um dia cada. O dia védico é regido pelo tithi que está val
+ endo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com 
+ PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Pratipada · Jyeshtha
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261209@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h06) o dia lunar é Shukla Pratipada e a Lu
+ a está no nakshatra Jyeshtha.\n\nNo panchang\, o almanaque védico\, o ti
+ thi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 c
+ rescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 ma
+ nsões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em
+  cerca de um dia cada. O dia védico é regido pelo tithi que está valend
+ o no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyE
+ phem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Dvitiya · Mula
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261210@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h06) o dia lunar é Shukla Dvitiya e a Lua 
+ está no nakshatra Mula.\n\nNo panchang\, o almanaque védico\, o tithi é
+  cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 crescen
+ tes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mansões
+  lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em cerca
+  de um dia cada. O dia védico é regido pelo tithi que está valendo no n
+ ascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEphem\;
+  zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Tritiya · Purva Ashadha
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261211@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h06) o dia lunar é Shukla Tritiya e a Lua 
+ está no nakshatra Purva Ashadha.\n\nNo panchang\, o almanaque védico\, o
+  tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 1
+ 5 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27
+  mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa
+  em cerca de um dia cada. O dia védico é regido pelo tithi que está val
+ endo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com 
+ PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Tritiya · Uttara Ashadha
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261212@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h07) o dia lunar é Shukla Tritiya e a Lua 
+ está no nakshatra Uttara Ashadha.\n\nNo panchang\, o almanaque védico\, 
+ o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 
+ 15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 2
+ 7 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua pass
+ a em cerca de um dia cada. O dia védico é regido pelo tithi que está va
+ lendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com
+  PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Chaturthi · Shravana
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261213@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h07) o dia lunar é Shukla Chaturthi e a Lu
+ a está no nakshatra Shravana.\n\nNo panchang\, o almanaque védico\, o ti
+ thi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 c
+ rescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 ma
+ nsões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em
+  cerca de um dia cada. O dia védico é regido pelo tithi que está valend
+ o no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyE
+ phem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Panchami · Dhanishta
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261214@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h07) o dia lunar é Shukla Panchami e a Lua
+  está no nakshatra Dhanishta.\n\nNo panchang\, o almanaque védico\, o ti
+ thi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 c
+ rescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 ma
+ nsões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em
+  cerca de um dia cada. O dia védico é regido pelo tithi que está valend
+ o no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyE
+ phem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Shashthi · Shatabhisha
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261215@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h08) o dia lunar é Shukla Shashthi e a Lua
+  está no nakshatra Shatabhisha.\n\nNo panchang\, o almanaque védico\, o 
+ tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15
+  crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 
+ mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa 
+ em cerca de um dia cada. O dia védico é regido pelo tithi que está vale
+ ndo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com P
+ yEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Saptami · Shatabhisha
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261216@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h08) o dia lunar é Shukla Saptami e a Lua 
+ está no nakshatra Shatabhisha.\n\nNo panchang\, o almanaque védico\, o t
+ ithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 
+ crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 m
+ ansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa e
+ m cerca de um dia cada. O dia védico é regido pelo tithi que está valen
+ do no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com Py
+ Ephem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sankranti: Sol em Dhanu
+DTSTART:20261216T043900Z
+DTEND:20261216T050900Z
+DTSTAMP:20260101T000000Z
+UID:ved-sankranti-20261216@agenda-do-mundo
+DESCRIPTION:O Sol entra em Dhanu (Sagitário) no zodíaco sideral\, a Sank
+ ranti do mês. O zodíaco sideral é medido pelas estrelas fixas\; o tropi
+ cal\, usado no Ocidente\, pelos equinócios. Hoje os dois estão cerca de 
+ 24° defasados por causa da precessão do eixo da Terra.\nMomento exato: 1
+ 6/12 às 1h39.\n\nBase: PyEphem\, ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Ashtami · Purva Bhadrapada
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261217@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h09) o dia lunar é Shukla Ashtami e a Lua 
+ está no nakshatra Purva Bhadrapada.\n\nNo panchang\, o almanaque védico
+ \, o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar
+ \, 15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma da
+ s 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua p
+ assa em cerca de um dia cada. O dia védico é regido pelo tithi que está
+  valendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas 
+ com PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Navami · Uttara Bhadrapada
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261218@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h09) o dia lunar é Shukla Navami e a Lua e
+ stá no nakshatra Uttara Bhadrapada.\n\nNo panchang\, o almanaque védico
+ \, o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar
+ \, 15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma da
+ s 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua p
+ assa em cerca de um dia cada. O dia védico é regido pelo tithi que está
+  valendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas 
+ com PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Dashami · Revati
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261219@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h09) o dia lunar é Shukla Dashami e a Lua 
+ está no nakshatra Revati.\n\nNo panchang\, o almanaque védico\, o tithi 
+ é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cresc
+ entes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mansõ
+ es lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em cer
+ ca de um dia cada. O dia védico é regido pelo tithi que está valendo no
+  nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEphem
+ \; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Ekadashi · Ashvini
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261220@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h10) o dia lunar é Shukla Ekadashi e a Lua
+  está no nakshatra Ashvini.\n\nNo panchang\, o almanaque védico\, o tith
+ i é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cre
+ scentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekadashi (Shukla)
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+DTSTAMP:20260101T000000Z
+UID:ved-ekadashi-20261220@agenda-do-mundo
+DESCRIPTION:Décimo primeiro dia de cada metade do mês lunar\, dia de jej
+ um para muitos hindus\, sobretudo devotos de Vishnu: a tradição evita gr
+ ãos e feijões e reserva o dia para oração e quietude. Acontece duas ve
+ zes por mês.\n\nA ciência estudou o jejum intermitente em geral\, com ef
+ eitos sobre a sensibilidade à insulina descritos em ensaios clínicos\; n
+ ão há estudo que ligue a fase da Lua a esses efeitos.\n\nBase: tithi no 
+ nascer do sol calculado com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Dvadashi · Krittika
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261221@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h10) o dia lunar é Shukla Dvadashi e a Lua
+  está no nakshatra Krittika.\n\nNo panchang\, o almanaque védico\, o tit
+ hi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cr
+ escentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 man
+ sões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em 
+ cerca de um dia cada. O dia védico é regido pelo tithi que está valendo
+  no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEp
+ hem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Trayodashi · Rohini
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261222@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h11) o dia lunar é Shukla Trayodashi e a L
+ ua está no nakshatra Rohini.\n\nNo panchang\, o almanaque védico\, o tit
+ hi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cr
+ escentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 man
+ sões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em 
+ cerca de um dia cada. O dia védico é regido pelo tithi que está valendo
+  no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEp
+ hem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purnima (Lua cheia) · Mrigashira
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261223@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h11) o dia lunar é Purnima (Lua cheia) e a
+  Lua está no nakshatra Mrigashira.\n\nNo panchang\, o almanaque védico\,
+  o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\,
+  15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 
+ 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua pas
+ sa em cerca de um dia cada. O dia védico é regido pelo tithi que está v
+ alendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas co
+ m PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Pratipada · Ardra
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261224@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h12) o dia lunar é Krishna Pratipada e a L
+ ua está no nakshatra Ardra.\n\nNo panchang\, o almanaque védico\, o tith
+ i é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cre
+ scentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Dvitiya · Punarvasu
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261225@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h12) o dia lunar é Krishna Dvitiya e a Lua
+  está no nakshatra Punarvasu.\n\nNo panchang\, o almanaque védico\, o ti
+ thi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 c
+ rescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 ma
+ nsões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em
+  cerca de um dia cada. O dia védico é regido pelo tithi que está valend
+ o no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyE
+ phem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Tritiya · Pushya
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261226@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h13) o dia lunar é Krishna Tritiya e a Lua
+  está no nakshatra Pushya.\n\nNo panchang\, o almanaque védico\, o tithi
+  é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cres
+ centes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Chaturthi · Ashlesha
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261227@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h14) o dia lunar é Krishna Chaturthi e a L
+ ua está no nakshatra Ashlesha.\n\nNo panchang\, o almanaque védico\, o t
+ ithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 
+ crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 m
+ ansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa e
+ m cerca de um dia cada. O dia védico é regido pelo tithi que está valen
+ do no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com Py
+ Ephem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Panchami · Magha
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261228@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h14) o dia lunar é Krishna Panchami e a Lu
+ a está no nakshatra Magha.\n\nNo panchang\, o almanaque védico\, o tithi
+  é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cres
+ centes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Saptami · Purva Phalguni
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261229@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h15) o dia lunar é Krishna Saptami e a Lua
+  está no nakshatra Purva Phalguni.\n\nNo panchang\, o almanaque védico\,
+  o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\,
+  15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 
+ 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua pas
+ sa em cerca de um dia cada. O dia védico é regido pelo tithi que está v
+ alendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas co
+ m PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Ashtami · Uttara Phalguni
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261230@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h15) o dia lunar é Krishna Ashtami e a Lua
+  está no nakshatra Uttara Phalguni.\n\nNo panchang\, o almanaque védico
+ \, o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar
+ \, 15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma da
+ s 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua p
+ assa em cerca de um dia cada. O dia védico é regido pelo tithi que está
+  valendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas 
+ com PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Navami · Hasta
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20261231@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h16) o dia lunar é Krishna Navami e a Lua 
+ está no nakshatra Hasta.\n\nNo panchang\, o almanaque védico\, o tithi 
+ é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cresc
+ entes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mansõ
+ es lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em cer
+ ca de um dia cada. O dia védico é regido pelo tithi que está valendo no
+  nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEphem
+ \; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Dashami · Chitra
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270101@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h17) o dia lunar é Krishna Dashami e a Lua
+  está no nakshatra Chitra.\n\nNo panchang\, o almanaque védico\, o tithi
+  é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cres
+ centes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Dashami · Swati
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270102@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h17) o dia lunar é Krishna Dashami e a Lua
+  está no nakshatra Swati.\n\nNo panchang\, o almanaque védico\, o tithi 
+ é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cresc
+ entes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mansõ
+ es lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em cer
+ ca de um dia cada. O dia védico é regido pelo tithi que está valendo no
+  nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEphem
+ \; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Ekadashi · Vishakha
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270103@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h18) o dia lunar é Krishna Ekadashi e a Lu
+ a está no nakshatra Vishakha.\n\nNo panchang\, o almanaque védico\, o ti
+ thi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 c
+ rescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 ma
+ nsões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em
+  cerca de um dia cada. O dia védico é regido pelo tithi que está valend
+ o no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyE
+ phem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekadashi (Krishna)
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20260101T000000Z
+UID:ved-ekadashi-20270103@agenda-do-mundo
+DESCRIPTION:Décimo primeiro dia de cada metade do mês lunar\, dia de jej
+ um para muitos hindus\, sobretudo devotos de Vishnu: a tradição evita gr
+ ãos e feijões e reserva o dia para oração e quietude. Acontece duas ve
+ zes por mês.\n\nA ciência estudou o jejum intermitente em geral\, com ef
+ eitos sobre a sensibilidade à insulina descritos em ensaios clínicos\; n
+ ão há estudo que ligue a fase da Lua a esses efeitos.\n\nBase: tithi no 
+ nascer do sol calculado com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Dvadashi · Anuradha
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270104@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h19) o dia lunar é Krishna Dvadashi e a Lu
+ a está no nakshatra Anuradha.\n\nNo panchang\, o almanaque védico\, o ti
+ thi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 c
+ rescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 ma
+ nsões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em
+  cerca de um dia cada. O dia védico é regido pelo tithi que está valend
+ o no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyE
+ phem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Trayodashi · Jyeshtha
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270105@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h19) o dia lunar é Krishna Trayodashi e a 
+ Lua está no nakshatra Jyeshtha.\n\nNo panchang\, o almanaque védico\, o 
+ tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15
+  crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 
+ mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa 
+ em cerca de um dia cada. O dia védico é regido pelo tithi que está vale
+ ndo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com P
+ yEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna Chaturdashi · Mula
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270106@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h20) o dia lunar é Krishna Chaturdashi e a
+  Lua está no nakshatra Mula.\n\nNo panchang\, o almanaque védico\, o tit
+ hi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cr
+ escentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 man
+ sões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em 
+ cerca de um dia cada. O dia védico é regido pelo tithi que está valendo
+  no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEp
+ hem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amavasya (Lua nova) · Purva Ashadha
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270107@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h21) o dia lunar é Amavasya (Lua nova) e a
+  Lua está no nakshatra Purva Ashadha.\n\nNo panchang\, o almanaque védic
+ o\, o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês luna
+ r\, 15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma d
+ as 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua 
+ passa em cerca de um dia cada. O dia védico é regido pelo tithi que est
+ á valendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculada
+ s com PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Pratipada · Uttara Ashadha
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270108@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h21) o dia lunar é Shukla Pratipada e a Lu
+ a está no nakshatra Uttara Ashadha.\n\nNo panchang\, o almanaque védico
+ \, o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar
+ \, 15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma da
+ s 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua p
+ assa em cerca de um dia cada. O dia védico é regido pelo tithi que está
+  valendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas 
+ com PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Dvitiya · Shravana
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270109@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h22) o dia lunar é Shukla Dvitiya e a Lua 
+ está no nakshatra Shravana.\n\nNo panchang\, o almanaque védico\, o tith
+ i é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cre
+ scentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Tritiya · Shravana
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270110@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h23) o dia lunar é Shukla Tritiya e a Lua 
+ está no nakshatra Shravana.\n\nNo panchang\, o almanaque védico\, o tith
+ i é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 cre
+ scentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 mans
+ ões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa em c
+ erca de um dia cada. O dia védico é regido pelo tithi que está valendo 
+ no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com PyEph
+ em\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Chaturthi · Dhanishta
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270111@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h24) o dia lunar é Shukla Chaturthi e a Lu
+ a está no nakshatra Dhanishta.\n\nNo panchang\, o almanaque védico\, o t
+ ithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15 
+ crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 m
+ ansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa e
+ m cerca de um dia cada. O dia védico é regido pelo tithi que está valen
+ do no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com Py
+ Ephem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Panchami · Shatabhisha
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270112@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h24) o dia lunar é Shukla Panchami e a Lua
+  está no nakshatra Shatabhisha.\n\nNo panchang\, o almanaque védico\, o 
+ tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar\, 15
+  crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma das 27 
+ mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua passa 
+ em cerca de um dia cada. O dia védico é regido pelo tithi que está vale
+ ndo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas com P
+ yEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla Shashthi · Purva Bhadrapada
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+DTSTAMP:20260101T000000Z
+UID:ved-dia-20270113@agenda-do-mundo
+DESCRIPTION:No nascer do sol (5h25) o dia lunar é Shukla Shashthi e a Lua
+  está no nakshatra Purva Bhadrapada.\n\nNo panchang\, o almanaque védico
+ \, o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar
+ \, 15 crescentes (Shukla) e 15 minguantes (Krishna). O nakshatra é uma da
+ s 27 mansões lunares\, faixas de 13°20' do céu sideral por onde a Lua p
+ assa em cerca de um dia cada. O dia védico é regido pelo tithi que está
+  valendo no nascer do sol.\n\nBase: posições do Sol e da Lua calculadas 
+ com PyEphem\; zodíaco sideral com ayanamsa de Lahiri aproximado.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Máxima, mínima, chance de chuva e índice UV dos próximos 
+ 7 dias. Agenda do Mundo.
+X-WR-CALNAME:Previsão do tempo · Rio Branco
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:33° / 23° · chuva 45% · garoa
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260101T000000Z
+UID:clima-20261114@agenda-do-mundo
+DESCRIPTION:Máxima 33 °C\, mínima 23 °C. Chance de chuva 45%\, 0\,6 mm
+  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
+ Previsão feita em 14/11 às 01h14. O Google relê este calendário a cada
+  12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:33° / 25° · chuva 63% · trovoadas
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20260101T000000Z
+UID:clima-20261115@agenda-do-mundo
+DESCRIPTION:Máxima 33 °C\, mínima 25 °C. Chance de chuva 63%\, 6\,2 mm
+  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
+ Previsão feita em 14/11 às 01h14. O Google relê este calendário a cada
+  12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:34° / 25° · chuva 55% · garoa fraca
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20260101T000000Z
+UID:clima-20261116@agenda-do-mundo
+DESCRIPTION:Máxima 34 °C\, mínima 25 °C. Chance de chuva 55%\, 1\,0 mm
+  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
+ or forte: beba água antes de sentir sede\, porque a sede chega depois da 
+ desidratação começar.\n\nPrevisão feita em 14/11 às 01h14. O Google r
+ elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:34° / 25° · chuva 70% · trovoadas
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260101T000000Z
+UID:clima-20261117@agenda-do-mundo
+DESCRIPTION:Máxima 34 °C\, mínima 25 °C. Chance de chuva 70%\, 4\,2 mm
+  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
+ or forte: beba água antes de sentir sede\, porque a sede chega depois da 
+ desidratação começar.\n\nPrevisão feita em 14/11 às 01h14. O Google r
+ elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:32° / 25° · chuva 75% · garoa fraca
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20260101T000000Z
+UID:clima-20261118@agenda-do-mundo
+DESCRIPTION:Máxima 32 °C\, mínima 25 °C. Chance de chuva 75%\, 1\,8 mm
+  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
+ Previsão feita em 14/11 às 01h14. O Google relê este calendário a cada
+  12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:35° / 25° · chuva 50% · trovoadas
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20260101T000000Z
+UID:clima-20261119@agenda-do-mundo
+DESCRIPTION:Máxima 35 °C\, mínima 25 °C. Chance de chuva 50%\, 2\,7 mm
+  previstos. Índice UV máximo 7. Calor forte: beba água antes de sentir 
+ sede\, porque a sede chega depois da desidratação começar.\n\nPrevisão
+  feita em 14/11 às 01h14. O Google relê este calendário a cada 12 a 24 
+ horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:33° / 25° · chuva 57% · garoa fraca
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20260101T000000Z
+UID:clima-20261120@agenda-do-mundo
+DESCRIPTION:Máxima 33 °C\, mínima 25 °C. Chance de chuva 57%\, 1\,8 mm
+  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
+ Previsão feita em 14/11 às 01h14. O Google relê este calendário a cada
+  12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

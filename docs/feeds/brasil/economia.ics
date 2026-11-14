@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Selic, dólar, euro e IPCA direto do Banco Central, e o motiv
+ o das variações. Agenda do Mundo.
+X-WR-CALNAME:Economia · Brasil
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Dólar na semana: R$ 5\,6518 (+2\,49%)
+DTSTART:20261113T210000Z
+DTEND:20261113T211500Z
+DTSTAMP:20260101T000000Z
+UID:eco-dolar-202646@agenda-do-mundo
+DESCRIPTION:PTAX de venda\, dia a dia:\n09/11: R$ 5\,5146\n10/11: R$ 5\,58
+ 40\n11/11: R$ 5\,5606\n12/11: R$ 5\,6143\n13/11: R$ 5\,6518\n\nMínima R$ 
+ 5\,5146\, máxima R$ 5\,6518. A PTAX é a média das cotações que o Banc
+ o Central coleta ao longo do dia e serve de referência para contratos.\n
+ \nBase: Banco Central do Brasil\, SGS série 1.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Euro na semana: R$ 6\,2334 (+0\,96%)
+DTSTART:20261113T210000Z
+DTEND:20261113T211500Z
+DTSTAMP:20260101T000000Z
+UID:eco-euro-202646@agenda-do-mundo
+DESCRIPTION:PTAX de venda\, dia a dia:\n09/11: R$ 6\,1741\n10/11: R$ 6\,23
+ 17\n11/11: R$ 6\,1706\n12/11: R$ 6\,2133\n13/11: R$ 6\,2334\n\nMínima R$ 
+ 6\,1706\, máxima R$ 6\,2334. A PTAX é a média das cotações que o Banc
+ o Central coleta ao longo do dia e serve de referência para contratos.\n
+ \nBase: Banco Central do Brasil\, SGS série 21619.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPCA de outubro: 0\,14%
+DTSTART:20261114T123000Z
+DTEND:20261114T124500Z
+DTSTAMP:20260101T000000Z
+UID:eco-ipca-202610@agenda-do-mundo
+DESCRIPTION:Inflação oficial do mês de outubro de 2026: 0\,14%. Nos 12 
+ meses até ele: 4\,63%.\nO IPCA mede a variação de preços de uma cesta 
+ de consumo de famílias com renda de 1 a 40 salários mínimos em 16 regi
+ ões\; é o índice da meta de inflação.\n\nBase: IBGE\, via Banco Centr
+ al do Brasil\, SGS série 433.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selic em vigor: 13\,75% ao ano
+DTSTART:20261116T120000Z
+DTEND:20261116T121500Z
+DTSTAMP:20260101T000000Z
+UID:eco-selic-20261116@agenda-do-mundo
+DESCRIPTION:Meta da taxa Selic definida pelo Copom. Valor em vigor no últ
+ imo dado publicado pelo Banco Central (09/12/2026).\nÉ a taxa que o Banco
+  Central usa para puxar os juros da economia: quando sobe\, o crédito fic
+ a mais caro e o consumo esfria\, o que segura a inflação.\n\nBase: Banco
+  Central do Brasil\, SGS série 432.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Brahma muhurta todo dia, os ciclos dos doshas e as estações
+  do Ayurveda, com o que a ciência diz. Agenda do Mundo.
+X-WR-CALNAME:Ayurveda e yoga · São Luís
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261107T065500Z
+DTEND:20261107T074300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261107@agenda-do-mundo
+DESCRIPTION:Das 3h55 às 4h43\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h31).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261108T065500Z
+DTEND:20261108T074300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261108@agenda-do-mundo
+DESCRIPTION:Das 3h55 às 4h43\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h31).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261109T065500Z
+DTEND:20261109T074300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261109@agenda-do-mundo
+DESCRIPTION:Das 3h55 às 4h43\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h31).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Os doshas ao longo do dia
+DTSTART:20261109T090000Z
+DTEND:20261109T091500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-doshas-20261109@agenda-do-mundo
+DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
+ as do dia: Kapha (terra e água\, estabilidade) das 6h às 10h\, Pitta (fo
+ go\, digestão e foco) das 10h às 14h e Vata (ar\, movimento e criativida
+ de) das 14h às 18h\; o ciclo se repete à noite. Daí a recomendação tr
+ adicional de fazer a refeição principal perto do meio-dia\, quando Pitta
+ \, o fogo digestivo\, está no auge.\n\nA cronobiologia confirma que diges
+ tão\, temperatura do corpo e atenção variam ao longo do dia de forma pr
+ evisível\; estudos de refeição em horário restrito indicam melhor resp
+ osta à glicose em refeições mais cedo. Os doshas em si não têm equiva
+ lente medido.\n\nBase: Ashtanga Hridaya (Sutrasthana)\; Jakubowicz e coleg
+ as\, Obesity (2013)\, sobre horário das refeições.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261110T065500Z
+DTEND:20261110T074300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261110@agenda-do-mundo
+DESCRIPTION:Das 3h55 às 4h43\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h31).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261111T065500Z
+DTEND:20261111T074300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261111@agenda-do-mundo
+DESCRIPTION:Das 3h55 às 4h43\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h31).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261112T065500Z
+DTEND:20261112T074300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261112@agenda-do-mundo
+DESCRIPTION:Das 3h55 às 4h43\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h31).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261113T065500Z
+DTEND:20261113T074300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261113@agenda-do-mundo
+DESCRIPTION:Das 3h55 às 4h43\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h31).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261114T065500Z
+DTEND:20261114T074300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261114@agenda-do-mundo
+DESCRIPTION:Das 3h55 às 4h43\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h31).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261115T065500Z
+DTEND:20261115T074300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261115@agenda-do-mundo
+DESCRIPTION:Das 3h55 às 4h43\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h31).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261116T065500Z
+DTEND:20261116T074300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261116@agenda-do-mundo
+DESCRIPTION:Das 3h55 às 4h43\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h31).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Os doshas ao longo do dia
+DTSTART:20261116T090000Z
+DTEND:20261116T091500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-doshas-20261116@agenda-do-mundo
+DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
+ as do dia: Kapha (terra e água\, estabilidade) das 6h às 10h\, Pitta (fo
+ go\, digestão e foco) das 10h às 14h e Vata (ar\, movimento e criativida
+ de) das 14h às 18h\; o ciclo se repete à noite. Daí a recomendação tr
+ adicional de fazer a refeição principal perto do meio-dia\, quando Pitta
+ \, o fogo digestivo\, está no auge.\n\nA cronobiologia confirma que diges
+ tão\, temperatura do corpo e atenção variam ao longo do dia de forma pr
+ evisível\; estudos de refeição em horário restrito indicam melhor resp
+ osta à glicose em refeições mais cedo. Os doshas em si não têm equiva
+ lente medido.\n\nBase: Ashtanga Hridaya (Sutrasthana)\; Jakubowicz e coleg
+ as\, Obesity (2013)\, sobre horário das refeições.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261117T065500Z
+DTEND:20261117T074300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261117@agenda-do-mundo
+DESCRIPTION:Das 3h55 às 4h43\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h31).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261118T065500Z
+DTEND:20261118T074300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261118@agenda-do-mundo
+DESCRIPTION:Das 3h55 às 4h43\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h31).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261119T065600Z
+DTEND:20261119T074400Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261119@agenda-do-mundo
+DESCRIPTION:Das 3h56 às 4h44\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h32).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261120T065600Z
+DTEND:20261120T074400Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261120@agenda-do-mundo
+DESCRIPTION:Das 3h56 às 4h44\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h32).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261121T065600Z
+DTEND:20261121T074400Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261121@agenda-do-mundo
+DESCRIPTION:Das 3h56 às 4h44\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h32).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261122T065600Z
+DTEND:20261122T074400Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261122@agenda-do-mundo
+DESCRIPTION:Das 3h56 às 4h44\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h32).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261123T065600Z
+DTEND:20261123T074400Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261123@agenda-do-mundo
+DESCRIPTION:Das 3h56 às 4h44\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h32).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Os doshas ao longo do dia
+DTSTART:20261123T090000Z
+DTEND:20261123T091500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-doshas-20261123@agenda-do-mundo
+DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
+ as do dia: Kapha (terra e água\, estabilidade) das 6h às 10h\, Pitta (fo
+ go\, digestão e foco) das 10h às 14h e Vata (ar\, movimento e criativida
+ de) das 14h às 18h\; o ciclo se repete à noite. Daí a recomendação tr
+ adicional de fazer a refeição principal perto do meio-dia\, quando Pitta
+ \, o fogo digestivo\, está no auge.\n\nA cronobiologia confirma que diges
+ tão\, temperatura do corpo e atenção variam ao longo do dia de forma pr
+ evisível\; estudos de refeição em horário restrito indicam melhor resp
+ osta à glicose em refeições mais cedo. Os doshas em si não têm equiva
+ lente medido.\n\nBase: Ashtanga Hridaya (Sutrasthana)\; Jakubowicz e coleg
+ as\, Obesity (2013)\, sobre horário das refeições.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261124T065700Z
+DTEND:20261124T074500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261124@agenda-do-mundo
+DESCRIPTION:Das 3h57 às 4h45\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h33).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261125T065700Z
+DTEND:20261125T074500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261125@agenda-do-mundo
+DESCRIPTION:Das 3h57 às 4h45\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h33).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261126T065700Z
+DTEND:20261126T074500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261126@agenda-do-mundo
+DESCRIPTION:Das 3h57 às 4h45\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h33).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261127T065700Z
+DTEND:20261127T074500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261127@agenda-do-mundo
+DESCRIPTION:Das 3h57 às 4h45\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h33).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261128T065800Z
+DTEND:20261128T074600Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261128@agenda-do-mundo
+DESCRIPTION:Das 3h58 às 4h46\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h34).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261129T065800Z
+DTEND:20261129T074600Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261129@agenda-do-mundo
+DESCRIPTION:Das 3h58 às 4h46\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h34).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261130T065800Z
+DTEND:20261130T074600Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261130@agenda-do-mundo
+DESCRIPTION:Das 3h58 às 4h46\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h34).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Os doshas ao longo do dia
+DTSTART:20261130T090000Z
+DTEND:20261130T091500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-doshas-20261130@agenda-do-mundo
+DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
+ as do dia: Kapha (terra e água\, estabilidade) das 6h às 10h\, Pitta (fo
+ go\, digestão e foco) das 10h às 14h e Vata (ar\, movimento e criativida
+ de) das 14h às 18h\; o ciclo se repete à noite. Daí a recomendação tr
+ adicional de fazer a refeição principal perto do meio-dia\, quando Pitta
+ \, o fogo digestivo\, está no auge.\n\nA cronobiologia confirma que diges
+ tão\, temperatura do corpo e atenção variam ao longo do dia de forma pr
+ evisível\; estudos de refeição em horário restrito indicam melhor resp
+ osta à glicose em refeições mais cedo. Os doshas em si não têm equiva
+ lente medido.\n\nBase: Ashtanga Hridaya (Sutrasthana)\; Jakubowicz e coleg
+ as\, Obesity (2013)\, sobre horário das refeições.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261201T065900Z
+DTEND:20261201T074700Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261201@agenda-do-mundo
+DESCRIPTION:Das 3h59 às 4h47\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h35).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261202T065900Z
+DTEND:20261202T074700Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261202@agenda-do-mundo
+DESCRIPTION:Das 3h59 às 4h47\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h35).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261203T065900Z
+DTEND:20261203T074700Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261203@agenda-do-mundo
+DESCRIPTION:Das 3h59 às 4h47\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h35).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261204T070000Z
+DTEND:20261204T074800Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261204@agenda-do-mundo
+DESCRIPTION:Das 4h00 às 4h48\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h36).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261205T070000Z
+DTEND:20261205T074800Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261205@agenda-do-mundo
+DESCRIPTION:Das 4h00 às 4h48\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h36).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261206T070000Z
+DTEND:20261206T074800Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261206@agenda-do-mundo
+DESCRIPTION:Das 4h00 às 4h48\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h36).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261207T070100Z
+DTEND:20261207T074900Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261207@agenda-do-mundo
+DESCRIPTION:Das 4h01 às 4h49\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h37).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Os doshas ao longo do dia
+DTSTART:20261207T090000Z
+DTEND:20261207T091500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-doshas-20261207@agenda-do-mundo
+DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
+ as do dia: Kapha (terra e água\, estabilidade) das 6h às 10h\, Pitta (fo
+ go\, digestão e foco) das 10h às 14h e Vata (ar\, movimento e criativida
+ de) das 14h às 18h\; o ciclo se repete à noite. Daí a recomendação tr
+ adicional de fazer a refeição principal perto do meio-dia\, quando Pitta
+ \, o fogo digestivo\, está no auge.\n\nA cronobiologia confirma que diges
+ tão\, temperatura do corpo e atenção variam ao longo do dia de forma pr
+ evisível\; estudos de refeição em horário restrito indicam melhor resp
+ osta à glicose em refeições mais cedo. Os doshas em si não têm equiva
+ lente medido.\n\nBase: Ashtanga Hridaya (Sutrasthana)\; Jakubowicz e coleg
+ as\, Obesity (2013)\, sobre horário das refeições.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261208T070100Z
+DTEND:20261208T074900Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261208@agenda-do-mundo
+DESCRIPTION:Das 4h01 às 4h49\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h37).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261209T070200Z
+DTEND:20261209T075000Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261209@agenda-do-mundo
+DESCRIPTION:Das 4h02 às 4h50\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h38).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261210T070200Z
+DTEND:20261210T075000Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261210@agenda-do-mundo
+DESCRIPTION:Das 4h02 às 4h50\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h38).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261211T070300Z
+DTEND:20261211T075100Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261211@agenda-do-mundo
+DESCRIPTION:Das 4h03 às 4h51\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h39).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261212T070300Z
+DTEND:20261212T075100Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261212@agenda-do-mundo
+DESCRIPTION:Das 4h03 às 4h51\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h39).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261213T070300Z
+DTEND:20261213T075100Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261213@agenda-do-mundo
+DESCRIPTION:Das 4h03 às 4h51\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h39).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261214T070400Z
+DTEND:20261214T075200Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261214@agenda-do-mundo
+DESCRIPTION:Das 4h04 às 4h52\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h40).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Os doshas ao longo do dia
+DTSTART:20261214T090000Z
+DTEND:20261214T091500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-doshas-20261214@agenda-do-mundo
+DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
+ as do dia: Kapha (terra e água\, estabilidade) das 6h às 10h\, Pitta (fo
+ go\, digestão e foco) das 10h às 14h e Vata (ar\, movimento e criativida
+ de) das 14h às 18h\; o ciclo se repete à noite. Daí a recomendação tr
+ adicional de fazer a refeição principal perto do meio-dia\, quando Pitta
+ \, o fogo digestivo\, está no auge.\n\nA cronobiologia confirma que diges
+ tão\, temperatura do corpo e atenção variam ao longo do dia de forma pr
+ evisível\; estudos de refeição em horário restrito indicam melhor resp
+ osta à glicose em refeições mais cedo. Os doshas em si não têm equiva
+ lente medido.\n\nBase: Ashtanga Hridaya (Sutrasthana)\; Jakubowicz e coleg
+ as\, Obesity (2013)\, sobre horário das refeições.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261215T070400Z
+DTEND:20261215T075200Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261215@agenda-do-mundo
+DESCRIPTION:Das 4h04 às 4h52\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h40).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261216T070500Z
+DTEND:20261216T075300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261216@agenda-do-mundo
+DESCRIPTION:Das 4h05 às 4h53\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h41).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261217T070500Z
+DTEND:20261217T075300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261217@agenda-do-mundo
+DESCRIPTION:Das 4h05 às 4h53\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h41).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261218T070600Z
+DTEND:20261218T075400Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261218@agenda-do-mundo
+DESCRIPTION:Das 4h06 às 4h54\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h42).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261219T070600Z
+DTEND:20261219T075400Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261219@agenda-do-mundo
+DESCRIPTION:Das 4h06 às 4h54\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h42).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261220T070700Z
+DTEND:20261220T075500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261220@agenda-do-mundo
+DESCRIPTION:Das 4h07 às 4h55\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h43).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261221T070700Z
+DTEND:20261221T075500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261221@agenda-do-mundo
+DESCRIPTION:Das 4h07 às 4h55\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h43).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Os doshas ao longo do dia
+DTSTART:20261221T090000Z
+DTEND:20261221T091500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-doshas-20261221@agenda-do-mundo
+DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
+ as do dia: Kapha (terra e água\, estabilidade) das 6h às 10h\, Pitta (fo
+ go\, digestão e foco) das 10h às 14h e Vata (ar\, movimento e criativida
+ de) das 14h às 18h\; o ciclo se repete à noite. Daí a recomendação tr
+ adicional de fazer a refeição principal perto do meio-dia\, quando Pitta
+ \, o fogo digestivo\, está no auge.\n\nA cronobiologia confirma que diges
+ tão\, temperatura do corpo e atenção variam ao longo do dia de forma pr
+ evisível\; estudos de refeição em horário restrito indicam melhor resp
+ osta à glicose em refeições mais cedo. Os doshas em si não têm equiva
+ lente medido.\n\nBase: Ashtanga Hridaya (Sutrasthana)\; Jakubowicz e coleg
+ as\, Obesity (2013)\, sobre horário das refeições.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261222T070800Z
+DTEND:20261222T075600Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261222@agenda-do-mundo
+DESCRIPTION:Das 4h08 às 4h56\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h44).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261223T070800Z
+DTEND:20261223T075600Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261223@agenda-do-mundo
+DESCRIPTION:Das 4h08 às 4h56\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h44).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261224T070900Z
+DTEND:20261224T075700Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261224@agenda-do-mundo
+DESCRIPTION:Das 4h09 às 4h57\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h45).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261225T070900Z
+DTEND:20261225T075700Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261225@agenda-do-mundo
+DESCRIPTION:Das 4h09 às 4h57\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h45).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261226T071000Z
+DTEND:20261226T075800Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261226@agenda-do-mundo
+DESCRIPTION:Das 4h10 às 4h58\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h46).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261227T071000Z
+DTEND:20261227T075800Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261227@agenda-do-mundo
+DESCRIPTION:Das 4h10 às 4h58\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h46).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261228T071100Z
+DTEND:20261228T075900Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261228@agenda-do-mundo
+DESCRIPTION:Das 4h11 às 4h59\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h47).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Os doshas ao longo do dia
+DTSTART:20261228T090000Z
+DTEND:20261228T091500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-doshas-20261228@agenda-do-mundo
+DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
+ as do dia: Kapha (terra e água\, estabilidade) das 6h às 10h\, Pitta (fo
+ go\, digestão e foco) das 10h às 14h e Vata (ar\, movimento e criativida
+ de) das 14h às 18h\; o ciclo se repete à noite. Daí a recomendação tr
+ adicional de fazer a refeição principal perto do meio-dia\, quando Pitta
+ \, o fogo digestivo\, está no auge.\n\nA cronobiologia confirma que diges
+ tão\, temperatura do corpo e atenção variam ao longo do dia de forma pr
+ evisível\; estudos de refeição em horário restrito indicam melhor resp
+ osta à glicose em refeições mais cedo. Os doshas em si não têm equiva
+ lente medido.\n\nBase: Ashtanga Hridaya (Sutrasthana)\; Jakubowicz e coleg
+ as\, Obesity (2013)\, sobre horário das refeições.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261229T071100Z
+DTEND:20261229T075900Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261229@agenda-do-mundo
+DESCRIPTION:Das 4h11 às 4h59\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h47).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261230T071200Z
+DTEND:20261230T080000Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261230@agenda-do-mundo
+DESCRIPTION:Das 4h12 às 5h00\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h48).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20261231T071200Z
+DTEND:20261231T080000Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20261231@agenda-do-mundo
+DESCRIPTION:Das 4h12 às 5h00\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h48).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270101T071300Z
+DTEND:20270101T080100Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270101@agenda-do-mundo
+DESCRIPTION:Das 4h13 às 5h01\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h49).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270102T071300Z
+DTEND:20270102T080100Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270102@agenda-do-mundo
+DESCRIPTION:Das 4h13 às 5h01\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h49).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270103T071400Z
+DTEND:20270103T080200Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270103@agenda-do-mundo
+DESCRIPTION:Das 4h14 às 5h02\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h50).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270104T071400Z
+DTEND:20270104T080200Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270104@agenda-do-mundo
+DESCRIPTION:Das 4h14 às 5h02\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h50).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Os doshas ao longo do dia
+DTSTART:20270104T090000Z
+DTEND:20270104T091500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-doshas-20270104@agenda-do-mundo
+DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
+ as do dia: Kapha (terra e água\, estabilidade) das 6h às 10h\, Pitta (fo
+ go\, digestão e foco) das 10h às 14h e Vata (ar\, movimento e criativida
+ de) das 14h às 18h\; o ciclo se repete à noite. Daí a recomendação tr
+ adicional de fazer a refeição principal perto do meio-dia\, quando Pitta
+ \, o fogo digestivo\, está no auge.\n\nA cronobiologia confirma que diges
+ tão\, temperatura do corpo e atenção variam ao longo do dia de forma pr
+ evisível\; estudos de refeição em horário restrito indicam melhor resp
+ osta à glicose em refeições mais cedo. Os doshas em si não têm equiva
+ lente medido.\n\nBase: Ashtanga Hridaya (Sutrasthana)\; Jakubowicz e coleg
+ as\, Obesity (2013)\, sobre horário das refeições.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270105T071500Z
+DTEND:20270105T080300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270105@agenda-do-mundo
+DESCRIPTION:Das 4h15 às 5h03\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h51).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270106T071500Z
+DTEND:20270106T080300Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270106@agenda-do-mundo
+DESCRIPTION:Das 4h15 às 5h03\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h51).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270107T071600Z
+DTEND:20270107T080400Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270107@agenda-do-mundo
+DESCRIPTION:Das 4h16 às 5h04\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h52).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270108T071600Z
+DTEND:20270108T080400Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270108@agenda-do-mundo
+DESCRIPTION:Das 4h16 às 5h04\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h52).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270109T071700Z
+DTEND:20270109T080500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270109@agenda-do-mundo
+DESCRIPTION:Das 4h17 às 5h05\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h53).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270110T071700Z
+DTEND:20270110T080500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270110@agenda-do-mundo
+DESCRIPTION:Das 4h17 às 5h05\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h53).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270111T071700Z
+DTEND:20270111T080500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270111@agenda-do-mundo
+DESCRIPTION:Das 4h17 às 5h05\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h53).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Os doshas ao longo do dia
+DTSTART:20270111T090000Z
+DTEND:20270111T091500Z
+DTSTAMP:20260101T000000Z
+UID:ayu-doshas-20270111@agenda-do-mundo
+DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
+ as do dia: Kapha (terra e água\, estabilidade) das 6h às 10h\, Pitta (fo
+ go\, digestão e foco) das 10h às 14h e Vata (ar\, movimento e criativida
+ de) das 14h às 18h\; o ciclo se repete à noite. Daí a recomendação tr
+ adicional de fazer a refeição principal perto do meio-dia\, quando Pitta
+ \, o fogo digestivo\, está no auge.\n\nA cronobiologia confirma que diges
+ tão\, temperatura do corpo e atenção variam ao longo do dia de forma pr
+ evisível\; estudos de refeição em horário restrito indicam melhor resp
+ osta à glicose em refeições mais cedo. Os doshas em si não têm equiva
+ lente medido.\n\nBase: Ashtanga Hridaya (Sutrasthana)\; Jakubowicz e coleg
+ as\, Obesity (2013)\, sobre horário das refeições.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270112T071800Z
+DTEND:20270112T080600Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270112@agenda-do-mundo
+DESCRIPTION:Das 4h18 às 5h06\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h54).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brahma muhurta
+DTSTART:20270113T071800Z
+DTEND:20270113T080600Z
+DTSTAMP:20260101T000000Z
+UID:ayu-brahma-20270113@agenda-do-mundo
+DESCRIPTION:Das 4h18 às 5h06\, os 48 minutos que começam 96 minutos ante
+ s do nascer do sol (5h54).\n\nNa tradição do Ayurveda e do yoga é a hor
+ a mais indicada para meditação\, estudo e pranayama: o ar é calmo e a m
+ ente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n
+ \nPelo lado da ciência\, o que se sabe é que horários regulares de acor
+ dar e a exposição à luz da manhã ajudam a manter o relógio circadiano
+  estável\; a hora específica não foi testada.\n\nBase: nascer do sol ca
+ lculado com PyEphem\; horário tradicional do Ashtanga Hridaya.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dia Internacional do Yoga
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+DTSTAMP:20260101T000000Z
+UID:ayu-yoga-2027@agenda-do-mundo
+DESCRIPTION:Instituído pela ONU em 2014\, a pedido da Índia\, na data do
+  solstício de junho.\n\nBase: Resolução 69/131 da Assembleia Geral da O
+ NU.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
