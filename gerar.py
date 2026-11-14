@@ -672,10 +672,8 @@ def area_investidor(reg):
         out += _focus()
     except Exception as ex:
         erros.append(f"Focus (Banco Central): {type(ex).__name__}: {ex}")
-    try:
-        out += _ibge()
-    except Exception as ex:
-        erros.append(f"calendário do IBGE: {type(ex).__name__}: {ex}")
+    # o calendário do IBGE não responde aos servidores do GitHub (fora do Brasil): as datas de divulgação
+    # entram pela tarefa semanal nacional, que pesquisa na web (tarefas/nacional.md, área investidor)
     if erros and not out:
         raise RuntimeError("; ".join(erros))
     PARCIAIS.extend(f"brasil/investidor, {e}" for e in erros)
@@ -690,16 +688,17 @@ def _focus():
            f"?$top=80&$format=json&$orderby=Data%20desc&$filter={filtro}&$select=Indicador,Data,DataReferencia,Mediana,baseCalculo")
     vals = busca_json(url)["value"]
     data = max(v["Data"] for v in vals)
-    ano = str(HOJE.year if HOJE.month < 11 else HOJE.year + 1)
+    anos = [str(HOJE.year), str(HOJE.year + 1)]
     pega = {}
     for v in vals:
-        if v["Data"] == data and v.get("baseCalculo", 0) == 0 and v["DataReferencia"] == ano:
-            pega.setdefault(v["Indicador"], v["Mediana"])
+        if v["Data"] == data and v.get("baseCalculo", 0) == 0 and v["DataReferencia"] in anos:
+            pega.setdefault((v["Indicador"], v["DataReferencia"]), v["Mediana"])
+    ano = " e ".join(anos)
     d = date.fromisoformat(data)
     seg = d + timedelta(days=(7 - d.weekday()) % 7)
     t = datetime(seg.year, seg.month, seg.day, 8, 30, tzinfo=TZ)
-    rot = {"IPCA": ("IPCA", "%"), "Selic": ("Selic no fim do ano", "% ao ano"), "Câmbio": ("Dólar no fim do ano", " reais"), "PIB Total": ("PIB", "%")}
-    linhas = [f"{rot[k][0]}: {br(float(v))}{rot[k][1]}" for k, v in pega.items() if k in rot]
+    rot = {"IPCA": ("IPCA", "%"), "Selic": ("Selic no fim de", "% ao ano"), "Câmbio": ("Dólar no fim de", " reais"), "PIB Total": ("PIB", "%")}
+    linhas = [f"{rot[k][0]} {a}: {br(float(v))}{rot[k][1]}" for (k, a), v in sorted(pega.items(), key=lambda x: (x[0][1], x[0][0])) if k in rot]
     out.append(ev(f"inv-focus-{d:%Y%m%d}", f"Focus: o que o mercado espera para {ano}", t, t + timedelta(minutes=15),
                   f"Mediana das projeções de cerca de cem bancos e consultorias, coletadas até {d:%d/%m}:\n" + "\n".join(linhas) +
                   "\n\nO Boletim Focus sai toda segunda às 8h25. Ele não é previsão do Banco Central, é o que o mercado acha; "
@@ -959,7 +958,7 @@ def main():
             vistos.add(resto)
             avisos.append(a)
     catalogo["avisos"] = avisos + sorted(set(PARCIAIS))
-    falhas = [a for a in avisos if "sem EBIRD_KEY" not in a]
+    falhas = [a for a in catalogo["avisos"] if "sem EBIRD_KEY" not in a]
     (RAIZ / "falhas.txt").write_text("\n".join(falhas), encoding="utf-8")
     (RAIZ / "docs" / "catalogo.json").write_text(json.dumps(catalogo, ensure_ascii=False, indent=1), encoding="utf-8")
 

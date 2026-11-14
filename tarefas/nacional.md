@@ -12,4 +12,4 @@ Arquivo: `textos/brasil/nacional.json`. Valem para todo o Brasil.
 | energia | 2 a 3 | Reservatórios (Cantareira, Paraíba do Sul, subsistema Sudeste/Centro-Oeste do ONS), bandeira tarifária da ANEEL do mês, carga do sistema. Dado oficial com data do boletim. |
 | agro | 5 a 8 | O fato chega ao bolso: café, boi, cana e etanol, soja e milho (ração, carne, ovo, leite), laranja, leite, frango e ovo, hortaliças e frutas, frete e diesel, fertilizante, indústria calçadista e outras com notícia real. Número só com fonte (Cepea, Conab, IBGE, ANP). |
 | economia | 1 a 3 | O motivo declarado pelas fontes para o movimento do dólar ou dos juros na semana, com a data. |
-| investidor | 2 a 5 | Agenda da semana com data confirmada: reunião do Copom, ata, decisão do Fed, payroll americano, balanços de grandes empresas brasileiras. |
+| investidor | 3 a 8 | Agenda da semana com data confirmada: divulgações do IBGE (IPCA, IPCA-15, PIB, PNAD, produção industrial, varejo) com a hora, reunião e ata do Copom, decisão do Fed, payroll americano, balanços de grandes empresas brasileiras. Fonte: calendário oficial do órgão. |
