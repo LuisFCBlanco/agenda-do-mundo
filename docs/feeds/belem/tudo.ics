@@ -519,7 +519,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261114@agenda-do-mundo
 DESCRIPTION:Máxima 34 °C\, mínima 25 °C. Chance de chuva 86%\, 4\,3 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 12h01. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h13. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -623,7 +623,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261115@agenda-do-mundo
 DESCRIPTION:Máxima 33 °C\, mínima 24 °C. Chance de chuva 86%\, 1\,8 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 12h01. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h13. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -713,7 +713,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261116@agenda-do-mundo
 DESCRIPTION:Máxima 33 °C\, mínima 24 °C. Chance de chuva 78%\, 2\,8 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 12h01. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h13. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -882,7 +882,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261117@agenda-do-mundo
 DESCRIPTION:Máxima 33 °C\, mínima 25 °C. Chance de chuva 94%\, 2\,2 mm
   previstos. Índice UV máximo 8 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 12h01. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h13. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -977,7 +977,7 @@ UID:clima-20261118@agenda-do-mundo
 DESCRIPTION:Máxima 34 °C\, mínima 25 °C. Chance de chuva 71%\, 2\,7 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 12h01. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 12h13. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1058,7 +1058,7 @@ UID:clima-20261119@agenda-do-mundo
 DESCRIPTION:Máxima 35 °C\, mínima 26 °C. Chance de chuva 48%\, 3\,0 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 12h01. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 12h13. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1125,7 +1125,7 @@ UID:clima-20261120@agenda-do-mundo
 DESCRIPTION:Máxima 36 °C\, mínima 25 °C. Chance de chuva 48%\, 1\,2 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 12h01. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 12h13. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2171,6 +2171,21 @@ DTSTAMP:20260101T000000Z
 UID:sol-poe-20261204@agenda-do-mundo
 DESCRIPTION:Pôr às 18h13\, a 112° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calendário judaico: Chanucá
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20260101T000000Z
+UID:jud-Chanuca-2026@agenda-do-mundo
+DESCRIPTION:Festa das Luzes\, oito noites acendendo uma vela a mais por no
+ ite\, lembrando a reconsagração do Templo de Jerusalém no século 2 a.C
+ .\n\nNo calendário judaico o dia começa ao pôr do sol\, então a festa 
+ começa na noite anterior a esta data.\nO calendário é lunissolar: os me
+ ses seguem a Lua e um 13º mês entra 7 vezes a cada 19 anos para manter a
+ s festas na estação certa.\n\nBase: conversão do calendário hebraico (
+ convertdate).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4886,6 +4901,20 @@ DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calendário judaico: Tu BiShvat
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20260101T000000Z
+UID:jud-Tu_BiShvat-2027@agenda-do-mundo
+DESCRIPTION:Ano-novo das árvores: no inverno de Israel\, a seiva volta a 
+ subir nas amendoeiras\, as primeiras a florir.\n\nNo calendário judaico o
+  dia começa ao pôr do sol\, então a festa começa na noite anterior a e
+ sta data.\nO calendário é lunissolar: os meses seguem a Lua e um 13º m
+ ês entra 7 vezes a cada 19 anos para manter as festas na estação certa.
+ \n\nBase: conversão do calendário hebraico (convertdate).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Saúde pública: Fevereiro Roxo e Laranja
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
@@ -4921,6 +4950,21 @@ DESCRIPTION:A maior festa da China: reuniões de família\, envelopes verm
  elhos e fogos. Abre o novo ano do calendário lunissolar\, na segunda Lua 
  nova depois do solstício de dezembro.\n\nData oficial do calendário de f
  eriados da China.\n\nBase: python-holidays.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calendário islâmico: Começa o Ramadã
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+DTSTAMP:20260101T000000Z
+UID:isl-9-1-1448@agenda-do-mundo
+DESCRIPTION:Mês de jejum do nascer ao pôr do sol. A refeição que quebr
+ a o jejum ao anoitecer se chama iftar.\n\nO calendário islâmico é puram
+ ente lunar: 12 meses de 29 ou 30 dias\, cerca de 11 dias mais curto que o 
+ nosso ano\, então cada festa anda pelas estações ao longo de 33 anos.\n
+ Data estimada pelo calendário tabular: o início real depende de avistar 
+ a Lua crescente e pode variar um ou dois dias conforme o país.\n\nBase: c
+ alendário hijri tabular (convertdate).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4976,6 +5020,21 @@ DESCRIPTION:A grande noite de Shiva: jejum e vigília noturna nos templos.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calendário islâmico: Eid al-Fitr
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+DTSTAMP:20260101T000000Z
+UID:isl-10-1-1448@agenda-do-mundo
+DESCRIPTION:Festa do fim do Ramadã: oração da manhã\, roupas novas\, v
+ isitas e doações.\n\nO calendário islâmico é puramente lunar: 12 mese
+ s de 29 ou 30 dias\, cerca de 11 dias mais curto que o nosso ano\, então 
+ cada festa anda pelas estações ao longo de 33 anos.\nData estimada pelo 
+ calendário tabular: o início real depende de avistar a Lua crescente e p
+ ode variar um ou dois dias conforme o país.\n\nBase: calendário hijri ta
+ bular (convertdate).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Calendário chinês: Equinócio da primavera (Chunfen)
 DTSTART:20270320T202000Z
 DTEND:20270320T205000Z
@@ -5027,6 +5086,21 @@ DESCRIPTION:Pó colorido e água jogados nas ruas celebram a chegada da pr
  ssolar\, com meses que seguem a Lua\; por isso a data muda a cada ano no n
  osso calendário. Data do calendário oficial de feriados da Índia.\n\nBa
  se: python-holidays.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calendário judaico: Purim
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+DTSTAMP:20260101T000000Z
+UID:jud-Purim-2027@agenda-do-mundo
+DESCRIPTION:Lembra a rainha Ester e a salvação dos judeus da Pérsia. Le
+ itura do Livro de Ester\, fantasias e troca de presentes de comida.\n\nNo 
+ calendário judaico o dia começa ao pôr do sol\, então a festa começa 
+ na noite anterior a esta data.\nO calendário é lunissolar: os meses segu
+ em a Lua e um 13º mês entra 7 vezes a cada 19 anos para manter as festas
+  na estação certa.\n\nBase: conversão do calendário hebraico (convertd
+ ate).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5133,6 +5207,20 @@ DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calendário judaico: Pessach
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+DTSTAMP:20260101T000000Z
+UID:jud-Pessach-2027@agenda-do-mundo
+DESCRIPTION:Páscoa judaica\, a saída do Egito. Oito dias sem pão fermen
+ tado\; começa com o jantar do Sêder.\n\nNo calendário judaico o dia com
+ eça ao pôr do sol\, então a festa começa na noite anterior a esta data
+ .\nO calendário é lunissolar: os meses seguem a Lua e um 13º mês entra
+  7 vezes a cada 19 anos para manter as festas na estação certa.\n\nBase:
+  conversão do calendário hebraico (convertdate).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Saúde pública: Dia Mundial da Malária
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
@@ -5176,6 +5264,21 @@ DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
  sfério norte\; aqui no Brasil as estações estão invertidas. Em 2016 a 
  UNESCO reconheceu o sistema como patrimônio imaterial.\nMomento exato: 05
  /05 às 14h20.\n\nBase: longitude do Sol calculada com PyEphem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calendário islâmico: Eid al-Adha
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+DTSTAMP:20260101T000000Z
+UID:isl-12-10-1448@agenda-do-mundo
+DESCRIPTION:Festa do Sacrifício\, no auge da peregrinação a Meca\, lemb
+ rando Abraão.\n\nO calendário islâmico é puramente lunar: 12 meses de 
+ 29 ou 30 dias\, cerca de 11 dias mais curto que o nosso ano\, então cada 
+ festa anda pelas estações ao longo de 33 anos.\nData estimada pelo calen
+ dário tabular: o início real depende de avistar a Lua crescente e pode v
+ ariar um ou dois dias conforme o país.\n\nBase: calendário hijri tabular
+  (convertdate).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5229,6 +5332,21 @@ DESCRIPTION:Começa uma das 24 estações solares do calendário chinês\,
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calendário islâmico: Ano-novo islâmico
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+DTSTAMP:20260101T000000Z
+UID:isl-1-1-1449@agenda-do-mundo
+DESCRIPTION:Primeiro de Muharram\, que marca a Hégira\, a ida de Maomé d
+ e Meca para Medina em 622.\n\nO calendário islâmico é puramente lunar: 
+ 12 meses de 29 ou 30 dias\, cerca de 11 dias mais curto que o nosso ano\, 
+ então cada festa anda pelas estações ao longo de 33 anos.\nData estimad
+ a pelo calendário tabular: o início real depende de avistar a Lua cresce
+ nte e pode variar um ou dois dias conforme o país.\n\nBase: calendário h
+ ijri tabular (convertdate).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Calendário chinês: Festa do Barco-Dragão
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
@@ -5240,6 +5358,20 @@ DESCRIPTION:Corridas de barcos e bolinhos de arroz em folha de bambu\, no
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calendário judaico: Shavuot
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+DTSTAMP:20260101T000000Z
+UID:jud-Shavuot-2027@agenda-do-mundo
+DESCRIPTION:Festa das Semanas\, 50 dias depois de Pessach: a entrega da To
+ rá no Sinai e a colheita do trigo.\n\nNo calendário judaico o dia começ
+ a ao pôr do sol\, então a festa começa na noite anterior a esta data.\n
+ O calendário é lunissolar: os meses seguem a Lua e um 13º mês entra 7 
+ vezes a cada 19 anos para manter as festas na estação certa.\n\nBase: co
+ nversão do calendário hebraico (convertdate).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Saúde pública: Dia Mundial do Doador de Sangue
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270615
@@ -5247,6 +5379,21 @@ DTSTAMP:20260101T000000Z
 UID:sau-dia-20270614@agenda-do-mundo
 DESCRIPTION:Data do calendário oficial de dias mundiais da Organização 
  Mundial da Saúde.\n\nBase: OMS\, World Health Days.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calendário islâmico: Ashura
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+DTSTAMP:20260101T000000Z
+UID:isl-1-10-1449@agenda-do-mundo
+DESCRIPTION:Dia de jejum voluntário para sunitas\; para xiitas\, luto pel
+ a morte de Hussein em Karbala.\n\nO calendário islâmico é puramente lun
+ ar: 12 meses de 29 ou 30 dias\, cerca de 11 dias mais curto que o nosso an
+ o\, então cada festa anda pelas estações ao longo de 33 anos.\nData est
+ imada pelo calendário tabular: o início real depende de avistar a Lua cr
+ escente e pode variar um ou dois dias conforme o país.\n\nBase: calendár
+ io hijri tabular (convertdate).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5371,6 +5518,21 @@ DTSTAMP:20260101T000000Z
 UID:feriado-20270815@agenda-do-mundo
 DESCRIPTION:Feriado estadual (PA). Feriados municipais ainda não entram n
  esta agenda.\n\nBase: biblioteca holidays (python-holidays).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calendário islâmico: Mawlid
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+DTSTAMP:20260101T000000Z
+UID:isl-3-12-1449@agenda-do-mundo
+DESCRIPTION:Nascimento do profeta Maomé\, celebrado em boa parte do mundo
+  muçulmano.\n\nO calendário islâmico é puramente lunar: 12 meses de 29
+  ou 30 dias\, cerca de 11 dias mais curto que o nosso ano\, então cada fe
+ sta anda pelas estações ao longo de 33 anos.\nData estimada pelo calend
+ ário tabular: o início real depende de avistar a Lua crescente e pode va
+ riar um ou dois dias conforme o país.\n\nBase: calendário hijri tabular 
+ (convertdate).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5534,6 +5696,20 @@ DESCRIPTION:Mês de campanha sobre prevenção do câncer de mama. As camp
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calendário judaico: Rosh Hashaná
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+DTSTAMP:20260101T000000Z
+UID:jud-Rosh_Hashana-2027@agenda-do-mundo
+DESCRIPTION:Ano-novo judaico. Abre os Dez Dias de Arrependimento\; o shofa
+ r\, um chifre de carneiro\, é tocado na sinagoga.\n\nNo calendário judai
+ co o dia começa ao pôr do sol\, então a festa começa na noite anterior
+  a esta data.\nO calendário é lunissolar: os meses seguem a Lua e um 13
+ º mês entra 7 vezes a cada 19 anos para manter as festas na estação ce
+ rta.\n\nBase: conversão do calendário hebraico (convertdate).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Festas hindus: Dussehra
 DTSTART;VALUE=DATE:20271006
 DTEND;VALUE=DATE:20271007
@@ -5571,6 +5747,20 @@ DESCRIPTION:Data do calendário oficial de dias mundiais da Organização
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calendário judaico: Yom Kipur
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+DTSTAMP:20260101T000000Z
+UID:jud-Yom_Kipur-2027@agenda-do-mundo
+DESCRIPTION:Dia do Perdão\, o mais solene do ano: 25 horas de jejum e ora
+ ção.\n\nNo calendário judaico o dia começa ao pôr do sol\, então a f
+ esta começa na noite anterior a esta data.\nO calendário é lunissolar: 
+ os meses seguem a Lua e um 13º mês entra 7 vezes a cada 19 anos para man
+ ter as festas na estação certa.\n\nBase: conversão do calendário hebra
+ ico (convertdate).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Feriados: Nossa Senhora Aparecida
 DTSTART;VALUE=DATE:20271012
 DTEND;VALUE=DATE:20271013
@@ -5578,6 +5768,35 @@ DTSTAMP:20260101T000000Z
 UID:feriado-20271012@agenda-do-mundo
 DESCRIPTION:Feriado nacional. Feriados municipais ainda não entram nesta 
  agenda.\n\nBase: biblioteca holidays (python-holidays).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calendário judaico: Sucot
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+DTSTAMP:20260101T000000Z
+UID:jud-Sucot-2027@agenda-do-mundo
+DESCRIPTION:Festa das Cabanas: sete dias morando ou comendo em cabanas de 
+ teto aberto\, lembrando os 40 anos no deserto e a colheita de outono em Is
+ rael.\n\nNo calendário judaico o dia começa ao pôr do sol\, então a fe
+ sta começa na noite anterior a esta data.\nO calendário é lunissolar: o
+ s meses seguem a Lua e um 13º mês entra 7 vezes a cada 19 anos para mant
+ er as festas na estação certa.\n\nBase: conversão do calendário hebrai
+ co (convertdate).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calendário judaico: Simchat Torá
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+DTSTAMP:20260101T000000Z
+UID:jud-Simchat_Tora-2027@agenda-do-mundo
+DESCRIPTION:Fim e recomeço da leitura anual da Torá\, com dança nas sin
+ agogas.\n\nNo calendário judaico o dia começa ao pôr do sol\, então a 
+ festa começa na noite anterior a esta data.\nO calendário é lunissolar:
+  os meses seguem a Lua e um 13º mês entra 7 vezes a cada 19 anos para ma
+ nter as festas na estação certa.\n\nBase: conversão do calendário hebr
+ aico (convertdate).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

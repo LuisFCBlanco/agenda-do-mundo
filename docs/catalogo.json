@@ -1,6 +1,6 @@
 {
  "projeto": "Agenda do Mundo",
- "gerado_em": "2026-11-14T12:01-03:00",
+ "gerado_em": "2026-11-14T12:13-03:00",
  "regioes": [
   {
    "id": "sao-paulo",
@@ -691,6 +691,42 @@
      }
     ]
    },
+   "judaico": {
+    "n": 9,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Chanucá",
+      "inicio": "2026-12-05"
+     },
+     {
+      "titulo": "Tu BiShvat",
+      "inicio": "2027-01-23"
+     },
+     {
+      "titulo": "Purim",
+      "inicio": "2027-03-23"
+     }
+    ]
+   },
+   "islamico": {
+    "n": 6,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Começa o Ramadã",
+      "inicio": "2027-02-08"
+     },
+     {
+      "titulo": "Eid al-Fitr",
+      "inicio": "2027-03-10"
+     },
+     {
+      "titulo": "Eid al-Adha",
+      "inicio": "2027-05-17"
+     }
+    ]
+   },
    "chines": {
     "n": 29,
     "atualizado": true,
@@ -965,6 +1001,24 @@
      }
     ]
    },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "26° / 22° · chuva 71% · garoa",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "26° / 21° · chuva 51% · garoa",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "27° / 22° · chuva 67% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
    "ar": {
     "n": 5,
     "atualizado": true,
@@ -1111,6 +1165,24 @@
      }
     ]
    },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "27° / 16° · chuva 78% · garoa",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "28° / 18° · chuva 92% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "24° / 18° · chuva 90% · trovoadas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
    "ar": {
     "n": 5,
     "atualizado": true,
@@ -1254,6 +1326,24 @@
      {
       "titulo": "Solstício: começa o inverno",
       "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "27° / 21° · chuva 98% · pancadas fracas",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "28° / 21° · chuva 59% · pancadas fracas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "32° / 23° · chuva 89% · trovoadas",
+      "inicio": "2026-11-16"
      }
     ]
    },
@@ -1405,18 +1495,18 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
-      "titulo": "26° / 15° · chuva 55% · garoa forte",
+      "titulo": "26° / 15° · chuva 55% · chuva fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "28° / 16° · chuva 100% · trovoadas",
+      "titulo": "27° / 17° · chuva 100% · trovoadas com granizo",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "25° / 17° · chuva 76% · garoa fraca",
+      "titulo": "26° / 16° · chuva 76% · garoa fraca",
       "inicio": "2026-11-16"
      }
     ]
@@ -1569,14 +1659,14 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
       "titulo": "25° / 19° · chuva 59% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "26° / 21° · chuva 76% · garoa forte",
+      "titulo": "26° / 20° · chuva 76% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
@@ -1733,18 +1823,18 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
-      "titulo": "30° / 19° · chuva 15% · nublado",
+      "titulo": "28° / 19° · chuva 15% · nublado",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "29° / 20° · chuva 83% · trovoadas",
+      "titulo": "27° / 19° · chuva 83% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "29° / 20° · chuva 24% · garoa fraca",
+      "titulo": "27° / 19° · chuva 24% · nublado",
       "inicio": "2026-11-16"
      }
     ]
@@ -1897,10 +1987,10 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
-      "titulo": "30° / 25° · chuva 37% · garoa fraca",
+      "titulo": "30° / 26° · chuva 37% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
@@ -1908,7 +1998,7 @@
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "32° / 24° · chuva 84% · trovoadas",
+      "titulo": "30° / 23° · chuva 84% · trovoadas",
       "inicio": "2026-11-16"
      }
     ]
@@ -2061,18 +2151,18 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
-      "titulo": "31° / 26° · chuva 35% · garoa fraca",
+      "titulo": "30° / 25° · chuva 35% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "30° / 26° · chuva 67% · garoa fraca",
+      "titulo": "31° / 26° · chuva 67% · garoa fraca",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "30° / 25° · chuva 47% · garoa fraca",
+      "titulo": "30° / 26° · chuva 47% · garoa",
       "inicio": "2026-11-16"
      }
     ]
@@ -2225,18 +2315,18 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
-      "titulo": "31° / 27° · chuva 31% · garoa fraca",
+      "titulo": "32° / 27° · chuva 31% · nublado",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "32° / 25° · chuva 41% · garoa forte",
+      "titulo": "32° / 26° · chuva 41% · garoa fraca",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "30° / 24° · chuva 76% · pancadas fracas",
+      "titulo": "31° / 25° · chuva 76% · garoa fraca",
       "inicio": "2026-11-16"
      }
     ]
@@ -2389,10 +2479,10 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
-      "titulo": "33° / 26° · chuva 24% · pancadas fracas",
+      "titulo": "33° / 26° · chuva 24% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
@@ -2553,18 +2643,18 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
       "titulo": "38° / 26° · chuva 25% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "34° / 24° · chuva 31% · pancadas",
+      "titulo": "34° / 25° · chuva 31% · garoa",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "35° / 23° · chuva 29% · pancadas",
+      "titulo": "35° / 24° · chuva 29% · garoa",
       "inicio": "2026-11-16"
      }
     ]
@@ -2717,7 +2807,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
       "titulo": "31° / 26° · chuva 24% · garoa fraca",
@@ -2728,7 +2818,7 @@
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "31° / 25° · chuva 57% · garoa fraca",
+      "titulo": "31° / 24° · chuva 57% · garoa fraca",
       "inicio": "2026-11-16"
      }
     ]
@@ -2881,18 +2971,18 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
-      "titulo": "31° / 26° · chuva 36% · parcialmente nublado",
+      "titulo": "30° / 26° · chuva 36% · parcialmente nublado",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "30° / 26° · chuva 35% · garoa",
+      "titulo": "30° / 26° · chuva 35% · nublado",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "30° / 25° · chuva 47% · garoa",
+      "titulo": "30° / 26° · chuva 47% · garoa fraca",
       "inicio": "2026-11-16"
      }
     ]
@@ -3045,14 +3135,14 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
-      "titulo": "29° / 25° · chuva 59% · garoa fraca",
+      "titulo": "30° / 25° · chuva 59% · nublado",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "30° / 25° · chuva 92% · garoa forte",
+      "titulo": "30° / 25° · chuva 92% · garoa",
       "inicio": "2026-11-15"
      },
      {
@@ -4047,18 +4137,18 @@
    },
    "ar": {
     "n": 5,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
       "titulo": "Ar moderado (índice 55)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 52)",
+      "titulo": "Ar bom (índice 50)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 52)",
+      "titulo": "Ar bom (índice 50)",
       "inicio": "2026-11-16"
      }
     ]
@@ -5341,18 +5431,18 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
-      "titulo": "28° / 16° · chuva 35% · garoa fraca",
+      "titulo": "29° / 18° · chuva 35% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "28° / 18° · chuva 97% · garoa fraca",
+      "titulo": "28° / 18° · chuva 97% · garoa",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "27° / 19° · chuva 82% · pancadas fracas",
+      "titulo": "27° / 18° · chuva 82% · trovoadas",
       "inicio": "2026-11-16"
      }
     ]
@@ -6833,6 +6923,24 @@
      }
     ]
    },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 72)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 58)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 46)",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
    "feriados": {
     "n": 11,
     "atualizado": true,
@@ -8275,18 +8383,18 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": false,
+    "atualizado": true,
     "proximos": [
      {
-      "titulo": "36° / 24° · chuva 76% · garoa",
+      "titulo": "35° / 22° · chuva 76% · garoa",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "32° / 23° · chuva 69% · trovoadas",
+      "titulo": "30° / 21° · chuva 69% · pancadas fracas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "29° / 22° · chuva 81% · trovoadas",
+      "titulo": "30° / 21° · chuva 81% · trovoadas",
       "inicio": "2026-11-16"
      }
     ]
@@ -8367,10 +8475,7 @@
  },
  "avisos": [
   "brasil/investidor: URLError: <urlopen error timed out>",
-  "brasil/judaico: ModuleNotFoundError: No module named 'convertdate'",
-  "brasil/islamico: ModuleNotFoundError: No module named 'convertdate'",
   "sao-paulo/clima: URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
-  "sao-paulo/aves: RuntimeError: sem EBIRD_KEY",
-  "porto-velho/ar: URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
+  "sao-paulo/aves: RuntimeError: sem EBIRD_KEY"
  ]
 }

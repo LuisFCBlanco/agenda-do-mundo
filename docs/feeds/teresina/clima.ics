@@ -14,61 +14,61 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 DTSTAMP:20260101T000000Z
 UID:clima-20261114@agenda-do-mundo
-DESCRIPTION:Máxima 38 °C\, mínima 26 °C. Chance de chuva 25%\, 0\,5 mm
+DESCRIPTION:Máxima 38 °C\, mínima 26 °C. Chance de chuva 25%\, 0\,4 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 03h14. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 12h13. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:34° / 24° · chuva 31% · pancadas
+SUMMARY:34° / 25° · chuva 31% · garoa
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DTSTAMP:20260101T000000Z
 UID:clima-20261115@agenda-do-mundo
-DESCRIPTION:Máxima 34 °C\, mínima 24 °C. Chance de chuva 31%\, 6\,8 mm
+DESCRIPTION:Máxima 34 °C\, mínima 25 °C. Chance de chuva 31%\, 1\,7 mm
   previstos. Índice UV máximo 8 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 03h14. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h13. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:35° / 23° · chuva 29% · pancadas
+SUMMARY:35° / 24° · chuva 29% · garoa
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DTSTAMP:20260101T000000Z
 UID:clima-20261116@agenda-do-mundo
-DESCRIPTION:Máxima 35 °C\, mínima 23 °C. Chance de chuva 29%\, 5\,2 mm
-  previstos. Índice UV máximo 5. Calor forte: beba água antes de sentir 
+DESCRIPTION:Máxima 35 °C\, mínima 24 °C. Chance de chuva 29%\, 3\,2 mm
+  previstos. Índice UV máximo 3. Calor forte: beba água antes de sentir 
  sede\, porque a sede chega depois da desidratação começar.\n\nPrevisão
-  feita em 14/11 às 03h14. O Google relê este calendário a cada 12 a 24 
+  feita em 14/11 às 12h13. O Google relê este calendário a cada 12 a 24 
  horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:36° / 24° · chuva 24% · nublado
+SUMMARY:38° / 24° · chuva 24% · garoa fraca
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 DTSTAMP:20260101T000000Z
 UID:clima-20261117@agenda-do-mundo
-DESCRIPTION:Máxima 36 °C\, mínima 24 °C. Chance de chuva 24%\, 0\,0 mm
+DESCRIPTION:Máxima 38 °C\, mínima 24 °C. Chance de chuva 24%\, 0\,3 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 03h14. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 12h13. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:38° / 24° · chuva 12% · parcialmente nublado
+SUMMARY:39° / 26° · chuva 12% · nublado
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 DTSTAMP:20260101T000000Z
 UID:clima-20261118@agenda-do-mundo
-DESCRIPTION:Máxima 38 °C\, mínima 24 °C. Chance de chuva 12%\, 0\,0 mm
+DESCRIPTION:Máxima 39 °C\, mínima 26 °C. Chance de chuva 12%\, 0\,0 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 03h14. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 12h13. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -81,20 +81,20 @@ UID:clima-20261119@agenda-do-mundo
 DESCRIPTION:Máxima 40 °C\, mínima 25 °C. Chance de chuva 4%\, 0\,0 mm 
  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Calo
  r forte: beba água antes de sentir sede\, porque a sede chega depois da d
- esidratação começar.\n\nPrevisão feita em 14/11 às 03h14. O Google re
+ esidratação começar.\n\nPrevisão feita em 14/11 às 12h13. O Google re
  lê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:40° / 26° · chuva 2% · nublado
+SUMMARY:40° / 26° · chuva 2% · parcialmente nublado
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 DTSTAMP:20260101T000000Z
 UID:clima-20261120@agenda-do-mundo
 DESCRIPTION:Máxima 40 °C\, mínima 26 °C. Chance de chuva 2%\, 0\,0 mm 
- previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Calo
+ previstos. Índice UV máximo 8 (muito alto: sombra entre 10h e 16h). Calo
  r forte: beba água antes de sentir sede\, porque a sede chega depois da d
- esidratação começar.\n\nPrevisão feita em 14/11 às 03h14. O Google re
+ esidratação começar.\n\nPrevisão feita em 14/11 às 12h13. O Google re
  lê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
