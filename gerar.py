@@ -663,7 +663,26 @@ def area_economia(reg):
     return out
 
 
+PARCIAIS = []  # fontes que falharam dentro de uma área que ainda teve outra fonte funcionando
+
+
 def area_investidor(reg):
+    out, erros = [], []
+    try:
+        out += _focus()
+    except Exception as ex:
+        erros.append(f"Focus (Banco Central): {type(ex).__name__}: {ex}")
+    try:
+        out += _ibge()
+    except Exception as ex:
+        erros.append(f"calendário do IBGE: {type(ex).__name__}: {ex}")
+    if erros and not out:
+        raise RuntimeError("; ".join(erros))
+    PARCIAIS.extend(f"brasil/investidor, {e}" for e in erros)
+    return out
+
+
+def _focus():
     out = []
     q = urllib.parse.quote
     filtro = q("Indicador eq 'IPCA' or Indicador eq 'Selic' or Indicador eq 'Câmbio' or Indicador eq 'PIB Total'")
@@ -685,6 +704,11 @@ def area_investidor(reg):
                   f"Mediana das projeções de cerca de cem bancos e consultorias, coletadas até {d:%d/%m}:\n" + "\n".join(linhas) +
                   "\n\nO Boletim Focus sai toda segunda às 8h25. Ele não é previsão do Banco Central, é o que o mercado acha; "
                   "a distância entre ele e a meta de inflação ajuda a entender as decisões do Copom.\n\nBase: Banco Central do Brasil, Sistema de Expectativas de Mercado."))
+    return out
+
+
+def _ibge():
+    out = []
     cal = busca_json("https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=200")
     itens = cal.get("items", cal) if isinstance(cal, dict) else cal
     for x in itens:
@@ -934,7 +958,7 @@ def main():
         if resto not in vistos:
             vistos.add(resto)
             avisos.append(a)
-    catalogo["avisos"] = avisos
+    catalogo["avisos"] = avisos + sorted(set(PARCIAIS))
     falhas = [a for a in avisos if "sem EBIRD_KEY" not in a]
     (RAIZ / "falhas.txt").write_text("\n".join(falhas), encoding="utf-8")
     (RAIZ / "docs" / "catalogo.json").write_text(json.dumps(catalogo, ensure_ascii=False, indent=1), encoding="utf-8")

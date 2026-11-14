@@ -1,4 +1,4 @@
 ephem==4.2.1
 holidays==0.108
 icalendar==7.3.0
-convertdate==2.4.0
+convertdate==2.5.1
