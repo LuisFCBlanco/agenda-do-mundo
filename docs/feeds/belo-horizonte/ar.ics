@@ -9,13 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Sao_Paulo
 BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 63)
+SUMMARY:Ar moderado (índice 87)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 DTSTAMP:20260101T000000Z
 UID:ar-20261114@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 63 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 4 µg/m³. Pessoas mu
+DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 87 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 6 µg/m³. Pessoas mu
  ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
  as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
  nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
@@ -24,12 +24,12 @@ DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 63 na esca
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 68)
+SUMMARY:Ar moderado (índice 59)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DTSTAMP:20260101T000000Z
 UID:ar-20261115@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 68 na esca
+DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 59 na esca
  la americana (EPA)\, com partículas finas PM2\,5 em 5 µg/m³. Pessoas mu
  ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
  as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
@@ -39,43 +39,41 @@ DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 68 na esca
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 73)
+SUMMARY:Ar bom (índice 45)
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DTSTAMP:20260101T000000Z
 UID:ar-20261116@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 73 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 5 µg/m³. Pessoas mu
- ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
- as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
- nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
- ção de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mod
- elo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 45 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 5 µg/m³. Ar limpo\,
+  sem restrição.\n\nAs partículas finas entram fundo no pulmão e passam
+  para o sangue\; queimadas e trânsito são as fontes principais no Brasil
+ . Valor de modelo\, não de estação de medição: serve para ver a tend
+ ência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 54)
+SUMMARY:Ar bom (índice 50)
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 DTSTAMP:20260101T000000Z
 UID:ar-20261117@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 54 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 13 µg/m³. Pessoas m
- uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
- las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
- ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
- ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
- delo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 50 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 5 µg/m³. Ar limpo\,
+  sem restrição.\n\nAs partículas finas entram fundo no pulmão e passam
+  para o sangue\; queimadas e trânsito são as fontes principais no Brasil
+ . Valor de modelo\, não de estação de medição: serve para ver a tend
+ ência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ar bom (índice 47)
+SUMMARY:Ar bom (índice 49)
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 DTSTAMP:20260101T000000Z
 UID:ar-20261118@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 47 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 4 µg/m³. Ar limpo\,
+DESCRIPTION:Pior momento previsto por volta das 01h00\, índice 49 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 8 µg/m³. Ar limpo\,
   sem restrição.\n\nAs partículas finas entram fundo no pulmão e passam
   para o sangue\; queimadas e trânsito são as fontes principais no Brasil
  . Valor de modelo\, não de estação de medição: serve para ver a tend

@@ -9,12 +9,57 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Sao_Paulo
 BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 95)
+SUMMARY:Ar ruim para grupos sensíveis (índice 105)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 DTSTAMP:20260101T000000Z
 UID:ar-20261114@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 95 na esca
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 105 na esc
+ ala americana (EPA)\, com partículas finas PM2\,5 em 34 µg/m³. Quem tem
+  asma\, doença cardíaca ou pulmonar\, crianças e idosos devem reduzir e
+ sforço longo ao ar livre.\n\nAs partículas finas entram fundo no pulmão
+  e passam para o sangue\; queimadas e trânsito são as fontes principais 
+ no Brasil. Valor de modelo\, não de estação de medição: serve para ve
+ r a tendência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ar moderado (índice 86)
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20260101T000000Z
+UID:ar-20261115@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 23h00\, índice 86 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 42 µg/m³. Pessoas m
+ uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
+ las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
+ ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
+ ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
+ delo CAMS do programa Copernicus.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ar moderado (índice 97)
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20260101T000000Z
+UID:ar-20261116@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 07h00\, índice 97 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 31 µg/m³. Pessoas m
+ uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
+ las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
+ ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
+ ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
+ delo CAMS do programa Copernicus.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ar moderado (índice 92)
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260101T000000Z
+UID:ar-20261117@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 92 na esca
  la americana (EPA)\, com partículas finas PM2\,5 em 28 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
@@ -24,63 +69,18 @@ DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 95 na esca
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 77)
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-DTSTAMP:20260101T000000Z
-UID:ar-20261115@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 23h00\, índice 77 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 52 µg/m³. Pessoas m
- uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
- las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
- ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
- ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
- delo CAMS do programa Copernicus.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 99)
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-DTSTAMP:20260101T000000Z
-UID:ar-20261116@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 18h00\, índice 99 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 13 µg/m³. Pessoas m
- uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
- las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
- ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
- ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
- delo CAMS do programa Copernicus.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 93)
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-DTSTAMP:20260101T000000Z
-UID:ar-20261117@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 93 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 22 µg/m³. Pessoas m
- uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
- las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
- ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
- ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
- delo CAMS do programa Copernicus.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 66)
+SUMMARY:Ar moderado (índice 72)
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 DTSTAMP:20260101T000000Z
 UID:ar-20261118@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 10h00\, índice 66 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 0 µg/m³. Pessoas mu
- ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
- as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
- nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
- ção de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mod
- elo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 08h00\, índice 72 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 15 µg/m³. Pessoas m
+ uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
+ las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
+ ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
+ ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
+ delo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

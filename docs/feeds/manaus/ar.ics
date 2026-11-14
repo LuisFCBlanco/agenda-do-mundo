@@ -9,13 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Sao_Paulo
 BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 75)
+SUMMARY:Ar moderado (índice 76)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 DTSTAMP:20260101T000000Z
 UID:ar-20261114@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 75 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 20 µg/m³. Pessoas m
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 76 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 22 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
  ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
@@ -24,13 +24,13 @@ DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 75 na esca
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 65)
+SUMMARY:Ar moderado (índice 69)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DTSTAMP:20260101T000000Z
 UID:ar-20261115@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 65 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 15 µg/m³. Pessoas m
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 69 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 16 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
  ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
@@ -39,13 +39,13 @@ DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 65 na esca
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 56)
+SUMMARY:Ar moderado (índice 58)
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DTSTAMP:20260101T000000Z
 UID:ar-20261116@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 56 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 11 µg/m³. Pessoas m
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 58 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 13 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
  ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
@@ -54,12 +54,12 @@ DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 56 na esca
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 51)
+SUMMARY:Ar moderado (índice 53)
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 DTSTAMP:20260101T000000Z
 UID:ar-20261117@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 20h00\, índice 51 na esca
+DESCRIPTION:Pior momento previsto por volta das 23h00\, índice 53 na esca
  la americana (EPA)\, com partículas finas PM2\,5 em 12 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
@@ -69,13 +69,13 @@ DESCRIPTION:Pior momento previsto por volta das 20h00\, índice 51 na esca
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ar moderado (índice 51)
+SUMMARY:Ar moderado (índice 54)
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 DTSTAMP:20260101T000000Z
 UID:ar-20261118@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 51 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 12 µg/m³. Pessoas m
+DESCRIPTION:Pior momento previsto por volta das 20h00\, índice 54 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 18 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
  ânsito são as fontes principais no Brasil. Valor de modelo\, não de est

@@ -1,6 +1,6 @@
 {
  "projeto": "Agenda do Mundo",
- "gerado_em": "2026-11-14T03:14-03:00",
+ "gerado_em": "2026-11-14T12:01-03:00",
  "regioes": [
   {
    "id": "sao-paulo",
@@ -824,15 +824,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 65)",
+      "titulo": "Ar ruim para grupos sensíveis (índice 108)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar ruim para grupos sensíveis (índice 124)",
+      "titulo": "Ar ruim para grupos sensíveis (índice 143)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 94)",
+      "titulo": "Ar ruim para grupos sensíveis (índice 122)",
       "inicio": "2026-11-16"
      }
     ]
@@ -970,15 +970,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar ruim para grupos sensíveis (índice 133)",
+      "titulo": "Ar moderado (índice 99)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar ruim para grupos sensíveis (índice 130)",
+      "titulo": "Ar ruim para grupos sensíveis (índice 107)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar ruim (índice 152)",
+      "titulo": "Ar ruim (índice 169)",
       "inicio": "2026-11-16"
      }
     ]
@@ -1116,15 +1116,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 63)",
+      "titulo": "Ar moderado (índice 87)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 68)",
+      "titulo": "Ar moderado (índice 59)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 73)",
+      "titulo": "Ar bom (índice 45)",
       "inicio": "2026-11-16"
      }
     ]
@@ -1262,11 +1262,11 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 67)",
+      "titulo": "Ar moderado (índice 85)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 69)",
+      "titulo": "Ar moderado (índice 73)",
       "inicio": "2026-11-15"
      },
      {
@@ -1405,7 +1405,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "26° / 15° · chuva 55% · garoa forte",
@@ -1426,15 +1426,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 57)",
+      "titulo": "Ar moderado (índice 60)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 54)",
+      "titulo": "Ar moderado (índice 57)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 51)",
+      "titulo": "Ar moderado (índice 52)",
       "inicio": "2026-11-16"
      }
     ]
@@ -1569,7 +1569,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "25° / 19° · chuva 59% · garoa fraca",
@@ -1594,11 +1594,11 @@
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 34)",
+      "titulo": "Ar bom (índice 32)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 32)",
+      "titulo": "Ar bom (índice 33)",
       "inicio": "2026-11-16"
      }
     ]
@@ -1733,7 +1733,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "30° / 19° · chuva 15% · nublado",
@@ -1754,15 +1754,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar bom (índice 46)",
+      "titulo": "Ar moderado (índice 51)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 51)",
+      "titulo": "Ar moderado (índice 53)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 41)",
+      "titulo": "Ar bom (índice 49)",
       "inicio": "2026-11-16"
      }
     ]
@@ -1897,7 +1897,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "30° / 25° · chuva 37% · garoa fraca",
@@ -1918,15 +1918,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 56)",
+      "titulo": "Ar moderado (índice 57)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 56)",
+      "titulo": "Ar moderado (índice 54)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 51)",
+      "titulo": "Ar moderado (índice 54)",
       "inicio": "2026-11-16"
      }
     ]
@@ -2061,7 +2061,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "31° / 26° · chuva 35% · garoa fraca",
@@ -2086,11 +2086,11 @@
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 44)",
+      "titulo": "Ar bom (índice 42)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 52)",
+      "titulo": "Ar bom (índice 50)",
       "inicio": "2026-11-16"
      }
     ]
@@ -2225,7 +2225,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "31° / 27° · chuva 31% · garoa fraca",
@@ -2254,7 +2254,7 @@
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 47)",
+      "titulo": "Ar bom (índice 44)",
       "inicio": "2026-11-16"
      }
     ]
@@ -2389,7 +2389,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "33° / 26° · chuva 24% · pancadas fracas",
@@ -2401,6 +2401,24 @@
      },
      {
       "titulo": "33° / 26° · chuva 69% · pancadas fracas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 51)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 51)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 46)",
       "inicio": "2026-11-16"
      }
     ]
@@ -2535,7 +2553,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "38° / 26° · chuva 25% · garoa fraca",
@@ -2556,15 +2574,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 59)",
+      "titulo": "Ar moderado (índice 55)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 59)",
+      "titulo": "Ar moderado (índice 62)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 64)",
+      "titulo": "Ar moderado (índice 69)",
       "inicio": "2026-11-16"
      }
     ]
@@ -2699,7 +2717,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "31° / 26° · chuva 24% · garoa fraca",
@@ -2724,11 +2742,11 @@
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 49)",
+      "titulo": "Ar bom (índice 48)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 53)",
+      "titulo": "Ar moderado (índice 52)",
       "inicio": "2026-11-16"
      }
     ]
@@ -2863,7 +2881,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "31° / 26° · chuva 36% · parcialmente nublado",
@@ -2888,11 +2906,11 @@
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 41)",
+      "titulo": "Ar bom (índice 42)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 52)",
+      "titulo": "Ar bom (índice 50)",
       "inicio": "2026-11-16"
      }
     ]
@@ -3027,7 +3045,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "29° / 25° · chuva 59% · garoa fraca",
@@ -3048,7 +3066,7 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 62)",
+      "titulo": "Ar moderado (índice 61)",
       "inicio": "2026-11-14"
      },
      {
@@ -3194,11 +3212,11 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "30° / 26° · chuva 12% · nublado",
+      "titulo": "30° / 26° · chuva 12% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "30° / 26° · chuva 94% · garoa",
+      "titulo": "31° / 26° · chuva 94% · garoa fraca",
       "inicio": "2026-11-15"
      },
      {
@@ -3212,11 +3230,11 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 53)",
+      "titulo": "Ar moderado (índice 54)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 50)",
+      "titulo": "Ar moderado (índice 51)",
       "inicio": "2026-11-15"
      },
      {
@@ -3358,15 +3376,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "34° / 24° · chuva 86% · garoa forte",
+      "titulo": "34° / 25° · chuva 86% · pancadas fracas",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "33° / 24° · chuva 86% · pancadas fracas",
+      "titulo": "33° / 24° · chuva 86% · garoa forte",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "34° / 24° · chuva 78% · garoa",
+      "titulo": "33° / 24° · chuva 78% · garoa",
       "inicio": "2026-11-16"
      }
     ]
@@ -3376,7 +3394,7 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 52)",
+      "titulo": "Ar moderado (índice 51)",
       "inicio": "2026-11-14"
      },
      {
@@ -3384,7 +3402,7 @@
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 39)",
+      "titulo": "Ar bom (índice 45)",
       "inicio": "2026-11-16"
      }
     ]
@@ -3522,15 +3540,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "33° / 26° · chuva 94% · garoa forte",
+      "titulo": "32° / 26° · chuva 94% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "31° / 26° · chuva 88% · pancadas fracas",
+      "titulo": "33° / 28° · chuva 88% · garoa",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "31° / 26° · chuva 70% · garoa",
+      "titulo": "32° / 24° · chuva 70% · pancadas",
       "inicio": "2026-11-16"
      }
     ]
@@ -3540,15 +3558,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 75)",
+      "titulo": "Ar moderado (índice 76)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 65)",
+      "titulo": "Ar moderado (índice 69)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 56)",
+      "titulo": "Ar moderado (índice 58)",
       "inicio": "2026-11-16"
      }
     ]
@@ -3686,15 +3704,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "33° / 26° · chuva 10% · nublado",
+      "titulo": "33° / 26° · chuva 10% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "33° / 26° · chuva 65% · garoa fraca",
+      "titulo": "32° / 26° · chuva 65% · garoa",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "32° / 25° · chuva 63% · garoa fraca",
+      "titulo": "33° / 25° · chuva 63% · garoa fraca",
       "inicio": "2026-11-16"
      }
     ]
@@ -3704,15 +3722,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar bom (índice 47)",
+      "titulo": "Ar bom (índice 46)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 37)",
+      "titulo": "Ar bom (índice 35)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 33)",
+      "titulo": "Ar bom (índice 29)",
       "inicio": "2026-11-16"
      }
     ]
@@ -3850,15 +3868,33 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "36° / 24° · chuva 61% · pancadas fracas",
+      "titulo": "37° / 28° · chuva 61% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "34° / 24° · chuva 65% · pancadas",
+      "titulo": "36° / 27° · chuva 65% · garoa forte",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "34° / 26° · chuva 23% · garoa fraca",
+      "titulo": "35° / 26° · chuva 23% · nublado",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 51)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar bom (índice 48)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar bom (índice 47)",
       "inicio": "2026-11-16"
      }
     ]
@@ -3996,22 +4032,22 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "34° / 25° · chuva 92% · pancadas fracas",
+      "titulo": "33° / 24° · chuva 92% · pancadas",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "33° / 25° · chuva 73% · garoa fraca",
+      "titulo": "33° / 25° · chuva 73% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "35° / 25° · chuva 86% · garoa fraca",
+      "titulo": "34° / 26° · chuva 86% · pancadas",
       "inicio": "2026-11-16"
      }
     ]
    },
    "ar": {
     "n": 5,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "Ar moderado (índice 55)",
@@ -4160,15 +4196,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "33° / 23° · chuva 45% · garoa",
+      "titulo": "34° / 24° · chuva 45% · trovoadas",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "33° / 25° · chuva 63% · trovoadas",
+      "titulo": "34° / 24° · chuva 63% · garoa fraca",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "34° / 25° · chuva 55% · garoa fraca",
+      "titulo": "35° / 25° · chuva 55% · garoa fraca",
       "inicio": "2026-11-16"
      }
     ]
@@ -4178,15 +4214,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 56)",
+      "titulo": "Ar moderado (índice 55)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 53)",
+      "titulo": "Ar bom (índice 48)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 45)",
+      "titulo": "Ar bom (índice 39)",
       "inicio": "2026-11-16"
      }
     ]
@@ -4324,15 +4360,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "30° / 24° · chuva 84% · trovoadas",
+      "titulo": "29° / 23° · chuva 84% · pancadas",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "30° / 24° · chuva 94% · trovoadas",
+      "titulo": "31° / 23° · chuva 94% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "28° / 23° · chuva 95% · trovoadas",
+      "titulo": "28° / 23° · chuva 95% · pancadas",
       "inicio": "2026-11-16"
      }
     ]
@@ -4342,15 +4378,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar bom (índice 40)",
+      "titulo": "Ar bom (índice 37)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 41)",
+      "titulo": "Ar bom (índice 37)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 36)",
+      "titulo": "Ar bom (índice 34)",
       "inicio": "2026-11-16"
      }
     ]
@@ -4488,15 +4524,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "27° / 17° · chuva 88% · garoa fraca",
+      "titulo": "27° / 17° · chuva 88% · garoa forte",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "28° / 18° · chuva 92% · garoa",
+      "titulo": "27° / 18° · chuva 92% · pancadas fracas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "26° / 18° · chuva 84% · pancadas",
+      "titulo": "24° / 19° · chuva 84% · pancadas fracas",
       "inicio": "2026-11-16"
      }
     ]
@@ -4510,7 +4546,7 @@
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 44)",
+      "titulo": "Ar bom (índice 46)",
       "inicio": "2026-11-15"
      },
      {
@@ -4652,15 +4688,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "30° / 20° · chuva 75% · garoa fraca",
+      "titulo": "29° / 20° · chuva 75% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "30° / 20° · chuva 76% · pancadas",
+      "titulo": "30° / 20° · chuva 76% · garoa",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "28° / 20° · chuva 92% · pancadas fracas",
+      "titulo": "26° / 20° · chuva 92% · trovoadas",
       "inicio": "2026-11-16"
      }
     ]
@@ -4670,15 +4706,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 72)",
+      "titulo": "Ar moderado (índice 71)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 50)",
+      "titulo": "Ar bom (índice 48)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 43)",
+      "titulo": "Ar bom (índice 36)",
       "inicio": "2026-11-16"
      }
     ]
@@ -4816,15 +4852,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "36° / 26° · chuva 65% · garoa fraca",
+      "titulo": "37° / 27° · chuva 65% · garoa forte",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "36° / 24° · chuva 78% · trovoadas",
+      "titulo": "35° / 26° · chuva 78% · pancadas fracas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "31° / 24° · chuva 100% · trovoadas",
+      "titulo": "34° / 25° · chuva 100% · trovoadas com granizo",
       "inicio": "2026-11-16"
      }
     ]
@@ -4834,15 +4870,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar bom (índice 36)",
+      "titulo": "Ar bom (índice 35)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 32)",
+      "titulo": "Ar bom (índice 33)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 30)",
+      "titulo": "Ar bom (índice 36)",
       "inicio": "2026-11-16"
      }
     ]
@@ -4980,15 +5016,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "35° / 25° · chuva 55% · parcialmente nublado",
+      "titulo": "33° / 24° · chuva 55% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "30° / 22° · chuva 68% · trovoadas",
+      "titulo": "29° / 20° · chuva 68% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "27° / 22° · chuva 91% · trovoadas",
+      "titulo": "27° / 21° · chuva 91% · trovoadas",
       "inicio": "2026-11-16"
      }
     ]
@@ -4998,7 +5034,7 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar bom (índice 44)",
+      "titulo": "Ar bom (índice 45)",
       "inicio": "2026-11-14"
      },
      {
@@ -5006,7 +5042,7 @@
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 33)",
+      "titulo": "Ar bom (índice 38)",
       "inicio": "2026-11-16"
      }
     ]
@@ -5144,15 +5180,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "29° / 16° · chuva 51% · garoa fraca",
+      "titulo": "30° / 18° · chuva 51% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "30° / 18° · chuva 87% · garoa fraca",
+      "titulo": "30° / 18° · chuva 87% · garoa",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "28° / 20° · chuva 94% · garoa",
+      "titulo": "27° / 19° · chuva 94% · pancadas fracas",
       "inicio": "2026-11-16"
      }
     ]
@@ -5166,11 +5202,11 @@
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 47)",
+      "titulo": "Ar moderado (índice 51)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 50)",
+      "titulo": "Ar moderado (índice 59)",
       "inicio": "2026-11-16"
      }
     ]
@@ -5305,7 +5341,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "28° / 16° · chuva 35% · garoa fraca",
@@ -5317,6 +5353,24 @@
      },
      {
       "titulo": "27° / 19° · chuva 82% · pancadas fracas",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 57)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 51)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 59)",
       "inicio": "2026-11-16"
      }
     ]
@@ -5454,15 +5508,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "28° / 17° · chuva 41% · nevoeiro",
+      "titulo": "29° / 18° · chuva 41% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "29° / 17° · chuva 94% · garoa forte",
+      "titulo": "28° / 18° · chuva 94% · trovoadas com granizo",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "27° / 18° · chuva 91% · garoa forte",
+      "titulo": "28° / 19° · chuva 91% · garoa forte",
       "inicio": "2026-11-16"
      }
     ]
@@ -5472,15 +5526,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 67)",
+      "titulo": "Ar moderado (índice 64)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 59)",
+      "titulo": "Ar moderado (índice 57)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 61)",
+      "titulo": "Ar moderado (índice 67)",
       "inicio": "2026-11-16"
      }
     ]
@@ -5618,15 +5672,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "28° / 18° · chuva 14% · garoa fraca",
+      "titulo": "29° / 18° · chuva 14% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "29° / 16° · chuva 94% · trovoadas",
+      "titulo": "26° / 17° · chuva 94% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "27° / 18° · chuva 91% · pancadas fracas",
+      "titulo": "26° / 19° · chuva 91% · garoa fraca",
       "inicio": "2026-11-16"
      }
     ]
@@ -5636,15 +5690,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar ruim para grupos sensíveis (índice 101)",
+      "titulo": "Ar moderado (índice 88)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 68)",
+      "titulo": "Ar moderado (índice 72)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 84)",
+      "titulo": "Ar moderado (índice 93)",
       "inicio": "2026-11-16"
      }
     ]
@@ -5782,15 +5836,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "28° / 18° · chuva 71% · garoa fraca",
+      "titulo": "29° / 18° · chuva 71% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "29° / 19° · chuva 80% · pancadas fracas",
+      "titulo": "29° / 19° · chuva 80% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "26° / 19° · chuva 89% · trovoadas",
+      "titulo": "25° / 18° · chuva 89% · trovoadas",
       "inicio": "2026-11-16"
      }
     ]
@@ -5800,15 +5854,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar ruim para grupos sensíveis (índice 121)",
+      "titulo": "Ar moderado (índice 96)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar ruim para grupos sensíveis (índice 109)",
+      "titulo": "Ar ruim para grupos sensíveis (índice 122)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 96)",
+      "titulo": "Ar moderado (índice 91)",
       "inicio": "2026-11-16"
      }
     ]
@@ -5946,15 +6000,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "32° / 20° · chuva 59% · garoa fraca",
+      "titulo": "33° / 20° · chuva 59% · garoa",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "34° / 20° · chuva 87% · pancadas fracas",
+      "titulo": "33° / 21° · chuva 87% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "27° / 20° · chuva 85% · trovoadas",
+      "titulo": "28° / 20° · chuva 85% · trovoadas",
       "inicio": "2026-11-16"
      }
     ]
@@ -5964,15 +6018,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar ruim (índice 156)",
+      "titulo": "Ar ruim para grupos sensíveis (índice 136)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar ruim (índice 157)",
+      "titulo": "Ar ruim (índice 152)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar ruim (índice 151)",
+      "titulo": "Ar ruim (índice 153)",
       "inicio": "2026-11-16"
      }
     ]
@@ -6110,15 +6164,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "28° / 17° · chuva 20% · garoa fraca",
+      "titulo": "28° / 18° · chuva 20% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "29° / 17° · chuva 82% · pancadas",
+      "titulo": "29° / 18° · chuva 82% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "26° / 18° · chuva 80% · trovoadas",
+      "titulo": "27° / 18° · chuva 80% · garoa",
       "inicio": "2026-11-16"
      }
     ]
@@ -6128,15 +6182,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 100)",
+      "titulo": "Ar ruim para grupos sensíveis (índice 117)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar ruim para grupos sensíveis (índice 131)",
+      "titulo": "Ar ruim (índice 152)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar ruim para grupos sensíveis (índice 123)",
+      "titulo": "Ar ruim para grupos sensíveis (índice 112)",
       "inicio": "2026-11-16"
      }
     ]
@@ -6274,15 +6328,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "25° / 20° · chuva 64% · garoa fraca",
+      "titulo": "24° / 20° · chuva 64% · pancadas fracas",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "26° / 19° · chuva 56% · garoa fraca",
+      "titulo": "26° / 20° · chuva 56% · garoa fraca",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "26° / 22° · chuva 83% · pancadas fracas",
+      "titulo": "25° / 21° · chuva 83% · garoa fraca",
       "inicio": "2026-11-16"
      }
     ]
@@ -6292,15 +6346,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 77)",
+      "titulo": "Ar moderado (índice 76)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 89)",
+      "titulo": "Ar moderado (índice 78)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 61)",
+      "titulo": "Ar moderado (índice 63)",
       "inicio": "2026-11-16"
      }
     ]
@@ -6438,15 +6492,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "29° / 18° · chuva 24% · nublado",
+      "titulo": "28° / 17° · chuva 24% · nublado",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "29° / 17° · chuva 91% · pancadas fracas",
+      "titulo": "29° / 18° · chuva 91% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "26° / 19° · chuva 84% · trovoadas",
+      "titulo": "28° / 18° · chuva 84% · garoa",
       "inicio": "2026-11-16"
      }
     ]
@@ -6460,11 +6514,11 @@
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 50)",
+      "titulo": "Ar moderado (índice 70)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 52)",
+      "titulo": "Ar moderado (índice 56)",
       "inicio": "2026-11-16"
      }
     ]
@@ -6602,15 +6656,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "30° / 19° · chuva 50% · garoa fraca",
+      "titulo": "30° / 20° · chuva 50% · garoa forte",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "31° / 21° · chuva 80% · garoa fraca",
+      "titulo": "30° / 19° · chuva 80% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "28° / 20° · chuva 91% · pancadas",
+      "titulo": "24° / 20° · chuva 91% · pancadas fracas",
       "inicio": "2026-11-16"
      }
     ]
@@ -6620,15 +6674,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 53)",
+      "titulo": "Ar bom (índice 50)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 52)",
+      "titulo": "Ar moderado (índice 63)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 48)",
+      "titulo": "Ar moderado (índice 52)",
       "inicio": "2026-11-16"
      }
     ]
@@ -6766,11 +6820,11 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "27° / 16° · chuva 88% · garoa fraca",
+      "titulo": "28° / 17° · chuva 88% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "28° / 18° · chuva 100% · garoa forte",
+      "titulo": "28° / 18° · chuva 100% · trovoadas com granizo",
       "inicio": "2026-11-15"
      },
      {
@@ -6912,7 +6966,7 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "30° / 19° · chuva 61% · garoa",
+      "titulo": "30° / 19° · chuva 61% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
@@ -6920,7 +6974,7 @@
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "28° / 19° · chuva 80% · trovoadas",
+      "titulo": "28° / 20° · chuva 80% · pancadas fortes",
       "inicio": "2026-11-16"
      }
     ]
@@ -6930,15 +6984,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar bom (índice 38)",
+      "titulo": "Ar bom (índice 39)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 40)",
+      "titulo": "Ar bom (índice 37)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 38)",
+      "titulo": "Ar bom (índice 35)",
       "inicio": "2026-11-16"
      }
     ]
@@ -7076,15 +7130,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "30° / 19° · chuva 35% · garoa fraca",
+      "titulo": "30° / 19° · chuva 35% · trovoadas",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "30° / 20° · chuva 90% · trovoadas",
+      "titulo": "31° / 19° · chuva 90% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "28° / 20° · chuva 73% · trovoadas",
+      "titulo": "29° / 19° · chuva 73% · pancadas fracas",
       "inicio": "2026-11-16"
      }
     ]
@@ -7094,15 +7148,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 95)",
+      "titulo": "Ar ruim para grupos sensíveis (índice 105)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 77)",
+      "titulo": "Ar moderado (índice 86)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 99)",
+      "titulo": "Ar moderado (índice 97)",
       "inicio": "2026-11-16"
      }
     ]
@@ -7240,15 +7294,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "27° / 20° · chuva 29% · garoa fraca",
+      "titulo": "27° / 19° · chuva 29% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "29° / 20° · chuva 90% · trovoadas",
+      "titulo": "29° / 19° · chuva 90% · pancadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "27° / 21° · chuva 86% · garoa forte",
+      "titulo": "26° / 19° · chuva 86% · garoa",
       "inicio": "2026-11-16"
      }
     ]
@@ -7258,15 +7312,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 64)",
+      "titulo": "Ar moderado (índice 65)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 47)",
+      "titulo": "Ar bom (índice 44)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 45)",
+      "titulo": "Ar bom (índice 43)",
       "inicio": "2026-11-16"
      }
     ]
@@ -7404,15 +7458,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "26° / 15° · chuva 53% · garoa fraca",
+      "titulo": "26° / 16° · chuva 53% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "25° / 17° · chuva 94% · trovoadas",
+      "titulo": "25° / 15° · chuva 94% · trovoadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "28° / 15° · chuva 37% · parcialmente nublado",
+      "titulo": "28° / 14° · chuva 37% · parcialmente nublado",
       "inicio": "2026-11-16"
      }
     ]
@@ -7426,11 +7480,11 @@
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 56)",
+      "titulo": "Ar moderado (índice 55)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar moderado (índice 53)",
+      "titulo": "Ar moderado (índice 52)",
       "inicio": "2026-11-16"
      }
     ]
@@ -7568,15 +7622,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "34° / 24° · chuva 31% · pancadas fracas",
+      "titulo": "34° / 24° · chuva 31% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "35° / 23° · chuva 75% · garoa forte",
+      "titulo": "36° / 23° · chuva 75% · garoa forte",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "33° / 23° · chuva 90% · trovoadas",
+      "titulo": "33° / 22° · chuva 90% · pancadas fracas",
       "inicio": "2026-11-16"
      }
     ]
@@ -7590,11 +7644,11 @@
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 54)",
+      "titulo": "Ar moderado (índice 52)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 48)",
+      "titulo": "Ar bom (índice 44)",
       "inicio": "2026-11-16"
      }
     ]
@@ -7732,15 +7786,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "31° / 21° · chuva 38% · garoa",
+      "titulo": "31° / 21° · chuva 38% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "31° / 21° · chuva 46% · pancadas fracas",
+      "titulo": "31° / 21° · chuva 46% · garoa fraca",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "31° / 21° · chuva 45% · nevoeiro",
+      "titulo": "31° / 21° · chuva 45% · garoa fraca",
       "inicio": "2026-11-16"
      }
     ]
@@ -7750,15 +7804,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 52)",
+      "titulo": "Ar bom (índice 50)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 48)",
+      "titulo": "Ar bom (índice 46)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 40)",
+      "titulo": "Ar bom (índice 42)",
       "inicio": "2026-11-16"
      }
     ]
@@ -7896,15 +7950,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "35° / 25° · chuva 13% · garoa fraca",
+      "titulo": "36° / 25° · chuva 13% · garoa fraca",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "35° / 22° · chuva 76% · pancadas fracas",
+      "titulo": "34° / 23° · chuva 76% · pancadas",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "31° / 22° · chuva 88% · pancadas",
+      "titulo": "31° / 22° · chuva 88% · trovoadas",
       "inicio": "2026-11-16"
      }
     ]
@@ -7914,15 +7968,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar bom (índice 39)",
+      "titulo": "Ar bom (índice 38)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar bom (índice 36)",
+      "titulo": "Ar bom (índice 37)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 34)",
+      "titulo": "Ar bom (índice 35)",
       "inicio": "2026-11-16"
      }
     ]
@@ -8068,7 +8122,25 @@
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "32° / 26° · chuva 47% · garoa",
+      "titulo": "33° / 28° · chuva 47% · garoa fraca",
+      "inicio": "2026-11-16"
+     }
+    ]
+   },
+   "ar": {
+    "n": 5,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "Ar moderado (índice 60)",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "Ar moderado (índice 61)",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "Ar moderado (índice 65)",
       "inicio": "2026-11-16"
      }
     ]
@@ -8203,7 +8275,7 @@
    },
    "clima": {
     "n": 7,
-    "atualizado": true,
+    "atualizado": false,
     "proximos": [
      {
       "titulo": "36° / 24° · chuva 76% · garoa",
@@ -8224,15 +8296,15 @@
     "atualizado": true,
     "proximos": [
      {
-      "titulo": "Ar moderado (índice 68)",
+      "titulo": "Ar moderado (índice 72)",
       "inicio": "2026-11-14"
      },
      {
-      "titulo": "Ar moderado (índice 65)",
+      "titulo": "Ar moderado (índice 66)",
       "inicio": "2026-11-15"
      },
      {
-      "titulo": "Ar bom (índice 49)",
+      "titulo": "Ar moderado (índice 57)",
       "inicio": "2026-11-16"
      }
     ]
@@ -8299,6 +8371,6 @@
   "brasil/islamico: ModuleNotFoundError: No module named 'convertdate'",
   "sao-paulo/clima: URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
   "sao-paulo/aves: RuntimeError: sem EBIRD_KEY",
-  "sao-luis/ar: URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
+  "porto-velho/ar: URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
  ]
 }

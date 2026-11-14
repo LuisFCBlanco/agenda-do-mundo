@@ -524,13 +524,13 @@ DESCRIPTION:Máxima 30 °C\, mínima 25 °C. Chance de chuva 37%\, 0\,7 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 56)
+SUMMARY:Qualidade do ar: Ar moderado (índice 57)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 DTSTAMP:20260101T000000Z
 UID:ar-20261114@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 56 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 10 µg/m³. Pessoas m
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 57 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 14 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
  ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
@@ -628,18 +628,18 @@ DESCRIPTION:Máxima 31 °C\, mínima 24 °C. Chance de chuva 84%\, 0\,3 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 56)
+SUMMARY:Qualidade do ar: Ar moderado (índice 54)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DTSTAMP:20260101T000000Z
 UID:ar-20261115@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 06h00\, índice 56 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 19 µg/m³. Pessoas m
- uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
- las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
- ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
- ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
- delo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 54 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 9 µg/m³. Pessoas mu
+ ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
+ as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
+ nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
+ ção de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mod
+ elo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -719,18 +719,18 @@ DESCRIPTION:Máxima 32 °C\, mínima 24 °C. Chance de chuva 84%\, 10\,4 m
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 51)
+SUMMARY:Qualidade do ar: Ar moderado (índice 54)
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DTSTAMP:20260101T000000Z
 UID:ar-20261116@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 51 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 5 µg/m³. Pessoas mu
- ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
- as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
- nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
- ção de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mod
- elo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 18h00\, índice 54 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 13 µg/m³. Pessoas m
+ uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
+ las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
+ ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
+ ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
+ delo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -890,13 +890,13 @@ DESCRIPTION:Máxima 29 °C\, mínima 24 °C. Chance de chuva 92%\, 12\,5 m
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 56)
+SUMMARY:Qualidade do ar: Ar moderado (índice 54)
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 DTSTAMP:20260101T000000Z
 UID:ar-20261117@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 13h00\, índice 56 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 15 µg/m³. Pessoas m
+DESCRIPTION:Pior momento previsto por volta das 21h00\, índice 54 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 13 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
  ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
@@ -990,8 +990,8 @@ DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 DTSTAMP:20260101T000000Z
 UID:ar-20261118@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 55 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 11 µg/m³. Pessoas m
+DESCRIPTION:Pior momento previsto por volta das 05h00\, índice 55 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 10 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
  ânsito são as fontes principais no Brasil. Valor de modelo\, não de est

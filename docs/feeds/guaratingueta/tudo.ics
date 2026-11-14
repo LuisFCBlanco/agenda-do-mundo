@@ -525,6 +525,21 @@ DESCRIPTION:Máxima 28 °C\, mínima 16 °C. Chance de chuva 35%\, 0\,1 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Qualidade do ar: Ar moderado (índice 57)
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260101T000000Z
+UID:ar-20261114@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 08h00\, índice 57 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 12 µg/m³. Pessoas m
+ uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
+ las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
+ ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
+ ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
+ delo CAMS do programa Copernicus.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Calendário védico (panchang): Shukla Panchami · Purva Ashadha
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
@@ -614,6 +629,21 @@ DESCRIPTION:Máxima 28 °C\, mínima 18 °C. Chance de chuva 97%\, 1\,2 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Qualidade do ar: Ar moderado (índice 51)
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20260101T000000Z
+UID:ar-20261115@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 51 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 7 µg/m³. Pessoas mu
+ ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
+ as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
+ nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
+ ção de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mod
+ elo CAMS do programa Copernicus.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Feriados: Proclamação da República
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
@@ -687,6 +717,21 @@ DESCRIPTION:Máxima 27 °C\, mínima 19 °C. Chance de chuva 82%\, 6\,8 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
  Previsão feita em 14/11 às 03h14. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qualidade do ar: Ar moderado (índice 59)
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20260101T000000Z
+UID:ar-20261116@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 59 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 8 µg/m³. Pessoas mu
+ ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
+ as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
+ nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
+ ção de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mod
+ elo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -845,6 +890,21 @@ DESCRIPTION:Máxima 28 °C\, mínima 20 °C. Chance de chuva 73%\, 6\,5 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Qualidade do ar: Ar moderado (índice 54)
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260101T000000Z
+UID:ar-20261117@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 18h00\, índice 54 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 8 µg/m³. Pessoas mu
+ ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
+ as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
+ nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
+ ção de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mod
+ elo CAMS do programa Copernicus.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Calendário védico (panchang): Shukla Ashtami · Dhanishta
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
@@ -922,6 +982,20 @@ DESCRIPTION:Máxima 27 °C\, mínima 19 °C. Chance de chuva 93%\, 4\,5 mm
   previstos. Índice UV máximo 10 (muito alto: sombra entre 10h e 16h).\n
  \nPrevisão feita em 14/11 às 03h14. O Google relê este calendário a ca
  da 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qualidade do ar: Ar bom (índice 45)
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20260101T000000Z
+UID:ar-20261118@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 09h00\, índice 45 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 5 µg/m³. Ar limpo\,
+  sem restrição.\n\nAs partículas finas entram fundo no pulmão e passam
+  para o sangue\; queimadas e trânsito são as fontes principais no Brasil
+ . Valor de modelo\, não de estação de medição: serve para ver a tend
+ ência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

@@ -512,18 +512,18 @@ DESCRIPTION:Pôr às 18h31\, a 110° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 65)
+SUMMARY:Qualidade do ar: Ar ruim para grupos sensíveis (índice 108)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 DTSTAMP:20260101T000000Z
 UID:ar-20261114@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 65 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 9 µg/m³. Pessoas mu
- ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
- as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
- nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
- ção de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mod
- elo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 108 na esc
+ ala americana (EPA)\, com partículas finas PM2\,5 em 13 µg/m³. Quem tem
+  asma\, doença cardíaca ou pulmonar\, crianças e idosos devem reduzir e
+ sforço longo ao ar livre.\n\nAs partículas finas entram fundo no pulmão
+  e passam para o sangue\; queimadas e trânsito são as fontes principais 
+ no Brasil. Valor de modelo\, não de estação de medição: serve para ve
+ r a tendência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -604,13 +604,13 @@ DESCRIPTION:Pôr às 18h31\, a 111° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar ruim para grupos sensíveis (índice 124)
+SUMMARY:Qualidade do ar: Ar ruim para grupos sensíveis (índice 143)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DTSTAMP:20260101T000000Z
 UID:ar-20261115@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 16h00\, índice 124 na esc
- ala americana (EPA)\, com partículas finas PM2\,5 em 12 µg/m³. Quem tem
+DESCRIPTION:Pior momento previsto por volta das 16h00\, índice 143 na esc
+ ala americana (EPA)\, com partículas finas PM2\,5 em 13 µg/m³. Quem tem
   asma\, doença cardíaca ou pulmonar\, crianças e idosos devem reduzir e
  sforço longo ao ar livre.\n\nAs partículas finas entram fundo no pulmão
   e passam para o sangue\; queimadas e trânsito são as fontes principais 
@@ -683,18 +683,18 @@ DESCRIPTION:Pôr às 18h32\, a 111° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 94)
+SUMMARY:Qualidade do ar: Ar ruim para grupos sensíveis (índice 122)
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DTSTAMP:20260101T000000Z
 UID:ar-20261116@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 94 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 11 µg/m³. Pessoas m
- uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
- las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
- ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
- ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
- delo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 122 na esc
+ ala americana (EPA)\, com partículas finas PM2\,5 em 14 µg/m³. Quem tem
+  asma\, doença cardíaca ou pulmonar\, crianças e idosos devem reduzir e
+ sforço longo ao ar livre.\n\nAs partículas finas entram fundo no pulmão
+  e passam para o sangue\; queimadas e trânsito são as fontes principais 
+ no Brasil. Valor de modelo\, não de estação de medição: serve para ve
+ r a tendência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -841,18 +841,18 @@ DESCRIPTION:O radiante nasce de madrugada a leste. A taxa costuma ser baix
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 66)
+SUMMARY:Qualidade do ar: Ar ruim para grupos sensíveis (índice 136)
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 DTSTAMP:20260101T000000Z
 UID:ar-20261117@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 02h00\, índice 66 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 16 µg/m³. Pessoas m
- uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
- las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
- ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
- ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
- delo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 18h00\, índice 136 na esc
+ ala americana (EPA)\, com partículas finas PM2\,5 em 12 µg/m³. Quem tem
+  asma\, doença cardíaca ou pulmonar\, crianças e idosos devem reduzir e
+ sforço longo ao ar livre.\n\nAs partículas finas entram fundo no pulmão
+  e passam para o sangue\; queimadas e trânsito são as fontes principais 
+ no Brasil. Valor de modelo\, não de estação de medição: serve para ve
+ r a tendência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -924,13 +924,13 @@ DESCRIPTION:Pôr às 18h33\, a 112° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 75)
+SUMMARY:Qualidade do ar: Ar moderado (índice 96)
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 DTSTAMP:20260101T000000Z
 UID:ar-20261118@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 09h00\, índice 75 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 14 µg/m³. Pessoas m
+DESCRIPTION:Pior momento previsto por volta das 17h00\, índice 96 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 16 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
  ânsito são as fontes principais no Brasil. Valor de modelo\, não de est

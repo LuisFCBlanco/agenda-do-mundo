@@ -525,12 +525,12 @@ DESCRIPTION:Máxima 38 °C\, mínima 26 °C. Chance de chuva 25%\, 0\,5 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 59)
+SUMMARY:Qualidade do ar: Ar moderado (índice 55)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 DTSTAMP:20260101T000000Z
 UID:ar-20261114@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 18h00\, índice 59 na esca
+DESCRIPTION:Pior momento previsto por volta das 18h00\, índice 55 na esca
  la americana (EPA)\, com partículas finas PM2\,5 em 11 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
@@ -629,13 +629,13 @@ DESCRIPTION:Máxima 34 °C\, mínima 24 °C. Chance de chuva 31%\, 6\,8 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 59)
+SUMMARY:Qualidade do ar: Ar moderado (índice 62)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DTSTAMP:20260101T000000Z
 UID:ar-20261115@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 22h00\, índice 59 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 24 µg/m³. Pessoas m
+DESCRIPTION:Pior momento previsto por volta das 23h00\, índice 62 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 25 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
  ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
@@ -721,13 +721,13 @@ DESCRIPTION:Máxima 35 °C\, mínima 23 °C. Chance de chuva 29%\, 5\,2 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 64)
+SUMMARY:Qualidade do ar: Ar moderado (índice 69)
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DTSTAMP:20260101T000000Z
 UID:ar-20261116@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 13h00\, índice 64 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 14 µg/m³. Pessoas m
+DESCRIPTION:Pior momento previsto por volta das 15h00\, índice 69 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 15 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
  ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
@@ -892,13 +892,13 @@ DESCRIPTION:Máxima 36 °C\, mínima 24 °C. Chance de chuva 24%\, 0\,0 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 62)
+SUMMARY:Qualidade do ar: Ar moderado (índice 69)
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 DTSTAMP:20260101T000000Z
 UID:ar-20261117@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 62 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 14 µg/m³. Pessoas m
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 69 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 20 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
  ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
@@ -994,13 +994,13 @@ DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 DTSTAMP:20260101T000000Z
 UID:ar-20261118@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 10h00\, índice 54 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 0 µg/m³. Pessoas mu
- ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
- as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
- nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
- ção de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mod
- elo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 54 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 15 µg/m³. Pessoas m
+ uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
+ las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
+ ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
+ ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
+ delo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

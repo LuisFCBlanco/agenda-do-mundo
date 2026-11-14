@@ -512,24 +512,25 @@ DESCRIPTION:Pôr às 18h44\, a 111° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 27° / 20° · chuva 29% · garoa fraca
+SUMMARY:Previsão do tempo: 27° / 19° · chuva 29% · garoa fraca
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 DTSTAMP:20260101T000000Z
 UID:clima-20261114@agenda-do-mundo
-DESCRIPTION:Máxima 27 °C\, mínima 20 °C. Chance de chuva 29%\, 0\,5 mm
-  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 03h14. O
-  Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+DESCRIPTION:Máxima 27 °C\, mínima 19 °C. Chance de chuva 29%\, 0\,2 mm
+  previstos. Índice UV máximo 8 (muito alto: sombra entre 10h e 16h).\n\n
+ Previsão feita em 14/11 às 12h01. O Google relê este calendário a cada
+  12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 64)
+SUMMARY:Qualidade do ar: Ar moderado (índice 65)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 DTSTAMP:20260101T000000Z
 UID:ar-20261114@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 64 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 12 µg/m³. Pessoas m
+DESCRIPTION:Pior momento previsto por volta das 02h00\, índice 65 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 16 µg/m³. Pessoas m
  uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
  las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
  ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
@@ -615,24 +616,24 @@ DESCRIPTION:Pôr às 18h45\, a 111° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 29° / 20° · chuva 90% · trovoadas
+SUMMARY:Previsão do tempo: 29° / 19° · chuva 90% · pancadas
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DTSTAMP:20260101T000000Z
 UID:clima-20261115@agenda-do-mundo
-DESCRIPTION:Máxima 29 °C\, mínima 20 °C. Chance de chuva 90%\, 9\,4 mm
+DESCRIPTION:Máxima 29 °C\, mínima 19 °C. Chance de chuva 90%\, 7\,1 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 03h14. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h01. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar bom (índice 47)
+SUMMARY:Qualidade do ar: Ar bom (índice 44)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DTSTAMP:20260101T000000Z
 UID:ar-20261115@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 19h00\, índice 47 na esca
+DESCRIPTION:Pior momento previsto por volta das 18h00\, índice 44 na esca
  la americana (EPA)\, com partículas finas PM2\,5 em 6 µg/m³. Ar limpo\,
   sem restrição.\n\nAs partículas finas entram fundo no pulmão e passam
   para o sangue\; queimadas e trânsito são as fontes principais no Brasil
@@ -705,23 +706,23 @@ DESCRIPTION:Pôr às 18h46\, a 112° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 27° / 21° · chuva 86% · garoa forte
+SUMMARY:Previsão do tempo: 26° / 19° · chuva 86% · garoa
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DTSTAMP:20260101T000000Z
 UID:clima-20261116@agenda-do-mundo
-DESCRIPTION:Máxima 27 °C\, mínima 21 °C. Chance de chuva 86%\, 7\,0 mm
-  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 03h14. O
+DESCRIPTION:Máxima 26 °C\, mínima 19 °C. Chance de chuva 86%\, 3\,7 mm
+  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 12h01. O
   Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar bom (índice 45)
+SUMMARY:Qualidade do ar: Ar bom (índice 43)
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DTSTAMP:20260101T000000Z
 UID:ar-20261116@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 45 na esca
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 43 na esca
  la americana (EPA)\, com partículas finas PM2\,5 em 6 µg/m³. Ar limpo\,
   sem restrição.\n\nAs partículas finas entram fundo no pulmão e passam
   para o sangue\; queimadas e trânsito são as fontes principais no Brasil
@@ -873,15 +874,14 @@ DESCRIPTION:O radiante nasce de madrugada a leste. A taxa costuma ser baix
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 28° / 21° · chuva 73% · garoa
+SUMMARY:Previsão do tempo: 27° / 20° · chuva 73% · garoa forte
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 DTSTAMP:20260101T000000Z
 UID:clima-20261117@agenda-do-mundo
-DESCRIPTION:Máxima 28 °C\, mínima 21 °C. Chance de chuva 73%\, 6\,7 mm
-  previstos. Índice UV máximo 8 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 03h14. O Google relê este calendário a cada
-  12 a 24 horas.\n\nBase: Open-Meteo.
+DESCRIPTION:Máxima 27 °C\, mínima 20 °C. Chance de chuva 73%\, 5\,6 mm
+  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 12h01. O
+  Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -890,8 +890,8 @@ DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 DTSTAMP:20260101T000000Z
 UID:ar-20261117@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 07h00\, índice 39 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 8 µg/m³. Ar limpo\,
+DESCRIPTION:Pior momento previsto por volta das 18h00\, índice 39 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 6 µg/m³. Ar limpo\,
   sem restrição.\n\nAs partículas finas entram fundo no pulmão e passam
   para o sangue\; queimadas e trânsito são as fontes principais no Brasil
  . Valor de modelo\, não de estação de medição: serve para ver a tend
@@ -967,24 +967,24 @@ DESCRIPTION:Pôr às 18h47\, a 112° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 30° / 19° · chuva 37% · garoa fraca
+SUMMARY:Previsão do tempo: 30° / 20° · chuva 37% · garoa forte
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 DTSTAMP:20260101T000000Z
 UID:clima-20261118@agenda-do-mundo
-DESCRIPTION:Máxima 30 °C\, mínima 19 °C. Chance de chuva 37%\, 0\,7 mm
-  previstos. Índice UV máximo 7.\n\nPrevisão feita em 14/11 às 03h14. O
+DESCRIPTION:Máxima 30 °C\, mínima 20 °C. Chance de chuva 37%\, 4\,3 mm
+  previstos. Índice UV máximo 7.\n\nPrevisão feita em 14/11 às 12h01. O
   Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar bom (índice 38)
+SUMMARY:Qualidade do ar: Ar bom (índice 39)
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 DTSTAMP:20260101T000000Z
 UID:ar-20261118@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 02h00\, índice 38 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 9 µg/m³. Ar limpo\,
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 39 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 5 µg/m³. Ar limpo\,
   sem restrição.\n\nAs partículas finas entram fundo no pulmão e passam
   para o sangue\; queimadas e trânsito são as fontes principais no Brasil
  . Valor de modelo\, não de estação de medição: serve para ver a tend
@@ -1046,14 +1046,15 @@ DESCRIPTION:Pôr às 18h48\, a 112° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 31° / 22° · chuva 33% · garoa fraca
+SUMMARY:Previsão do tempo: 30° / 22° · chuva 33% · garoa fraca
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 DTSTAMP:20260101T000000Z
 UID:clima-20261119@agenda-do-mundo
-DESCRIPTION:Máxima 31 °C\, mínima 22 °C. Chance de chuva 33%\, 0\,7 mm
-  previstos. Índice UV máximo 3.\n\nPrevisão feita em 14/11 às 03h14. O
-  Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+DESCRIPTION:Máxima 30 °C\, mínima 22 °C. Chance de chuva 33%\, 0\,2 mm
+  previstos. Índice UV máximo 8 (muito alto: sombra entre 10h e 16h).\n\n
+ Previsão feita em 14/11 às 12h01. O Google relê este calendário a cada
+  12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1111,13 +1112,13 @@ DESCRIPTION:Pôr às 18h49\, a 113° (sudeste). Uns 25 minutos depois acab
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 32° / 23° · chuva 29% · garoa fraca
+SUMMARY:Previsão do tempo: 31° / 22° · chuva 29% · garoa fraca
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 DTSTAMP:20260101T000000Z
 UID:clima-20261120@agenda-do-mundo
-DESCRIPTION:Máxima 32 °C\, mínima 23 °C. Chance de chuva 29%\, 0\,4 mm
-  previstos. Índice UV máximo 4.\n\nPrevisão feita em 14/11 às 03h14. O
+DESCRIPTION:Máxima 31 °C\, mínima 22 °C. Chance de chuva 29%\, 1\,1 mm
+  previstos. Índice UV máximo 5.\n\nPrevisão feita em 14/11 às 12h01. O
   Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT

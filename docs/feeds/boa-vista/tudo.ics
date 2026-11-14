@@ -512,16 +512,31 @@ DESCRIPTION:PTAX de venda\, dia a dia:\n09/11: R$ 6\,1741\n10/11: R$ 6\,23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 36° / 24° · chuva 61% · pancadas fracas
+SUMMARY:Previsão do tempo: 37° / 28° · chuva 61% · garoa fraca
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 DTSTAMP:20260101T000000Z
 UID:clima-20261114@agenda-do-mundo
-DESCRIPTION:Máxima 36 °C\, mínima 24 °C. Chance de chuva 61%\, 4\,3 mm
+DESCRIPTION:Máxima 37 °C\, mínima 28 °C. Chance de chuva 61%\, 0\,5 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 02h14. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 11h01. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qualidade do ar: Ar moderado (índice 51)
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260101T000000Z
+UID:ar-20261114@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 16h00\, índice 51 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 8 µg/m³. Pessoas mu
+ ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
+ as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
+ nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
+ ção de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mod
+ elo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -602,16 +617,30 @@ DESCRIPTION:Pôr às 17h50\, a 108° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 34° / 24° · chuva 65% · pancadas
+SUMMARY:Previsão do tempo: 36° / 27° · chuva 65% · garoa forte
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DTSTAMP:20260101T000000Z
 UID:clima-20261115@agenda-do-mundo
-DESCRIPTION:Máxima 34 °C\, mínima 24 °C. Chance de chuva 65%\, 6\,8 mm
-  previstos. Índice UV máximo 8 (muito alto: sombra entre 10h e 16h). Cal
+DESCRIPTION:Máxima 36 °C\, mínima 27 °C. Chance de chuva 65%\, 1\,9 mm
+  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 02h14. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 11h01. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qualidade do ar: Ar bom (índice 48)
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20260101T000000Z
+UID:ar-20261115@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 48 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 7 µg/m³. Ar limpo\,
+  sem restrição.\n\nAs partículas finas entram fundo no pulmão e passam
+  para o sangue\; queimadas e trânsito são as fontes principais no Brasil
+ . Valor de modelo\, não de estação de medição: serve para ver a tend
+ ência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -679,16 +708,30 @@ DESCRIPTION:Pôr às 17h50\, a 108° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 34° / 26° · chuva 23% · garoa fraca
+SUMMARY:Previsão do tempo: 35° / 26° · chuva 23% · nublado
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DTSTAMP:20260101T000000Z
 UID:clima-20261116@agenda-do-mundo
-DESCRIPTION:Máxima 34 °C\, mínima 26 °C. Chance de chuva 23%\, 0\,9 mm
+DESCRIPTION:Máxima 35 °C\, mínima 26 °C. Chance de chuva 23%\, 0\,0 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 02h14. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 11h01. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qualidade do ar: Ar bom (índice 47)
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20260101T000000Z
+UID:ar-20261116@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 23h00\, índice 47 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 7 µg/m³. Ar limpo\,
+  sem restrição.\n\nAs partículas finas entram fundo no pulmão e passam
+  para o sangue\; queimadas e trânsito são as fontes principais no Brasil
+ . Valor de modelo\, não de estação de medição: serve para ver a tend
+ ência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -835,16 +878,30 @@ DESCRIPTION:O radiante nasce de madrugada a leste. A taxa costuma ser baix
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 35° / 26° · chuva 22% · nublado
+SUMMARY:Previsão do tempo: 36° / 26° · chuva 22% · garoa fraca
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 DTSTAMP:20260101T000000Z
 UID:clima-20261117@agenda-do-mundo
-DESCRIPTION:Máxima 35 °C\, mínima 26 °C. Chance de chuva 22%\, 0\,0 mm
+DESCRIPTION:Máxima 36 °C\, mínima 26 °C. Chance de chuva 22%\, 0\,1 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 02h14. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 11h01. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qualidade do ar: Ar bom (índice 50)
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260101T000000Z
+UID:ar-20261117@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 03h00\, índice 50 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 10 µg/m³. Ar limpo
+ \, sem restrição.\n\nAs partículas finas entram fundo no pulmão e pass
+ am para o sangue\; queimadas e trânsito são as fontes principais no Bras
+ il. Valor de modelo\, não de estação de medição: serve para ver a ten
+ dência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -916,16 +973,31 @@ DESCRIPTION:Pôr às 17h50\, a 109° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 35° / 26° · chuva 22% · nublado
+SUMMARY:Previsão do tempo: 36° / 26° · chuva 22% · parcialmente nubla
+ do
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 DTSTAMP:20260101T000000Z
 UID:clima-20261118@agenda-do-mundo
-DESCRIPTION:Máxima 35 °C\, mínima 26 °C. Chance de chuva 22%\, 0\,0 mm
+DESCRIPTION:Máxima 36 °C\, mínima 26 °C. Chance de chuva 22%\, 0\,0 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 02h14. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 11h01. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qualidade do ar: Ar bom (índice 36)
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20260101T000000Z
+UID:ar-20261118@agenda-do-mundo
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 36 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 7 µg/m³. Ar limpo\,
+  sem restrição.\n\nAs partículas finas entram fundo no pulmão e passam
+  para o sangue\; queimadas e trânsito são as fontes principais no Brasil
+ . Valor de modelo\, não de estação de medição: serve para ver a tend
+ ência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -983,16 +1055,16 @@ DESCRIPTION:Pôr às 17h50\, a 109° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 37° / 27° · chuva 22% · nublado
+SUMMARY:Previsão do tempo: 38° / 28° · chuva 22% · garoa fraca
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 DTSTAMP:20260101T000000Z
 UID:clima-20261119@agenda-do-mundo
-DESCRIPTION:Máxima 37 °C\, mínima 27 °C. Chance de chuva 22%\, 0\,0 mm
-  previstos. Índice UV máximo 8. Calor forte: beba água antes de sentir 
- sede\, porque a sede chega depois da desidratação começar.\n\nPrevisão
-  feita em 14/11 às 02h14. O Google relê este calendário a cada 12 a 24 
- horas.\n\nBase: Open-Meteo.
+DESCRIPTION:Máxima 38 °C\, mínima 28 °C. Chance de chuva 22%\, 0\,9 mm
+  previstos. Índice UV máximo 8 (muito alto: sombra entre 10h e 16h). Cal
+ or forte: beba água antes de sentir sede\, porque a sede chega depois da 
+ desidratação começar.\n\nPrevisão feita em 14/11 às 11h01. O Google r
+ elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1050,16 +1122,16 @@ DESCRIPTION:Pôr às 17h51\, a 109° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Previsão do tempo: 36° / 28° · chuva 36% · nublado
+SUMMARY:Previsão do tempo: 37° / 28° · chuva 36% · garoa fraca
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 DTSTAMP:20260101T000000Z
 UID:clima-20261120@agenda-do-mundo
-DESCRIPTION:Máxima 36 °C\, mínima 28 °C. Chance de chuva 36%\, 0\,0 mm
-  previstos. Índice UV máximo 10 (muito alto: sombra entre 10h e 16h). Ca
- lor forte: beba água antes de sentir sede\, porque a sede chega depois da
-  desidratação começar.\n\nPrevisão feita em 14/11 às 02h14. O Google 
- relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+DESCRIPTION:Máxima 37 °C\, mínima 28 °C. Chance de chuva 36%\, 1\,2 mm
+  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
+ or forte: beba água antes de sentir sede\, porque a sede chega depois da 
+ desidratação começar.\n\nPrevisão feita em 14/11 às 11h01. O Google r
+ elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

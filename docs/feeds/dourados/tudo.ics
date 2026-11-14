@@ -525,18 +525,18 @@ DESCRIPTION:Máxima 36 °C\, mínima 24 °C. Chance de chuva 76%\, 1\,1 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 68)
+SUMMARY:Qualidade do ar: Ar moderado (índice 72)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 DTSTAMP:20260101T000000Z
 UID:ar-20261114@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 18h00\, índice 68 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 10 µg/m³. Pessoas m
- uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
- las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
- ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
- ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
- delo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 09h00\, índice 72 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 7 µg/m³. Pessoas mu
+ ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
+ as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
+ nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
+ ção de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mod
+ elo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -628,18 +628,18 @@ DESCRIPTION:Máxima 32 °C\, mínima 23 °C. Chance de chuva 69%\, 6\,4 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 65)
+SUMMARY:Qualidade do ar: Ar moderado (índice 66)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DTSTAMP:20260101T000000Z
 UID:ar-20261115@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 65 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 8 µg/m³. Pessoas mu
- ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
- as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
- nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
- ção de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mod
- elo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 66 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 23 µg/m³. Pessoas m
+ uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
+ las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
+ ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
+ ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
+ delo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -718,17 +718,18 @@ DESCRIPTION:Máxima 29 °C\, mínima 22 °C. Chance de chuva 81%\, 6\,4 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar bom (índice 49)
+SUMMARY:Qualidade do ar: Ar moderado (índice 57)
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DTSTAMP:20260101T000000Z
 UID:ar-20261116@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 02h00\, índice 49 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 10 µg/m³. Ar limpo
- \, sem restrição.\n\nAs partículas finas entram fundo no pulmão e pass
- am para o sangue\; queimadas e trânsito são as fontes principais no Bras
- il. Valor de modelo\, não de estação de medição: serve para ver a ten
- dência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 57 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 18 µg/m³. Pessoas m
+ uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
+ las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
+ ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
+ ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
+ delo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -887,17 +888,18 @@ DESCRIPTION:Máxima 29 °C\, mínima 21 °C. Chance de chuva 78%\, 2\,9 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar bom (índice 48)
+SUMMARY:Qualidade do ar: Ar moderado (índice 51)
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 DTSTAMP:20260101T000000Z
 UID:ar-20261117@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 23h00\, índice 48 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 19 µg/m³. Ar limpo
- \, sem restrição.\n\nAs partículas finas entram fundo no pulmão e pass
- am para o sangue\; queimadas e trânsito são as fontes principais no Bras
- il. Valor de modelo\, não de estação de medição: serve para ver a ten
- dência.\n\nBase: Open-Meteo\, modelo CAMS do programa Copernicus.
+DESCRIPTION:Pior momento previsto por volta das 00h00\, índice 51 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 10 µg/m³. Pessoas m
+ uito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícu
+ las finas entram fundo no pulmão e passam para o sangue\; queimadas e tr
+ ânsito são as fontes principais no Brasil. Valor de modelo\, não de est
+ ação de medição: serve para ver a tendência.\n\nBase: Open-Meteo\, mo
+ delo CAMS do programa Copernicus.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -981,13 +983,13 @@ DESCRIPTION:Máxima 32 °C\, mínima 22 °C. Chance de chuva 75%\, 3\,9 mm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Qualidade do ar: Ar moderado (índice 53)
+SUMMARY:Qualidade do ar: Ar moderado (índice 56)
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 DTSTAMP:20260101T000000Z
 UID:ar-20261118@agenda-do-mundo
-DESCRIPTION:Pior momento previsto por volta das 07h00\, índice 53 na esca
- la americana (EPA)\, com partículas finas PM2\,5 em 8 µg/m³. Pessoas mu
+DESCRIPTION:Pior momento previsto por volta das 09h00\, índice 56 na esca
+ la americana (EPA)\, com partículas finas PM2\,5 em 5 µg/m³. Pessoas mu
  ito sensíveis podem sentir\; os demais\, sem restrição.\n\nAs partícul
  as finas entram fundo no pulmão e passam para o sangue\; queimadas e trâ
  nsito são as fontes principais no Brasil. Valor de modelo\, não de esta
