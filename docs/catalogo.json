@@ -1,6 +1,6 @@
 {
  "projeto": "Agenda do Mundo",
- "gerado_em": "2026-11-14T12:26-03:00",
+ "gerado_em": "2026-11-14T12:33-03:00",
  "regioes": [
   {
    "id": "sao-paulo",
@@ -8497,7 +8497,6 @@
   }
  },
  "avisos": [
-  "sao-paulo/aves: RuntimeError: sem EBIRD_KEY",
-  "brasil/investidor, calendário do IBGE: URLError: <urlopen error timed out>"
+  "sao-paulo/aves: RuntimeError: sem EBIRD_KEY"
  ]
 }

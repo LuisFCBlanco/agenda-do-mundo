@@ -234,18 +234,20 @@ DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Agenda do investidor: Focus: o que o mercado espera para 2027
+SUMMARY:Agenda do investidor: Focus: o que o mercado espera para 2026 e 20
+ 27
 DTSTART:20261109T113000Z
 DTEND:20261109T114500Z
 DTSTAMP:20260101T000000Z
 UID:inv-focus-20261106@agenda-do-mundo
 DESCRIPTION:Mediana das projeções de cerca de cem bancos e consultorias
- \, coletadas até 06/11:\nPIB: 1\,15%\nIPCA: 4\,90%\nSelic no fim do ano: 
- 12\,50% ao ano\nDólar no fim do ano: 5\,40 reais\n\nO Boletim Focus sai t
- oda segunda às 8h25. Ele não é previsão do Banco Central\, é o que o 
- mercado acha\; a distância entre ele e a meta de inflação ajuda a enten
- der as decisões do Copom.\n\nBase: Banco Central do Brasil\, Sistema de E
- xpectativas de Mercado.
+ \, coletadas até 06/11:\nDólar no fim de 2026: 5\,35 reais\nIPCA 2026: 5
+ \,22%\nPIB 2026: 1\,75%\nSelic no fim de 2026: 13\,75% ao ano\nDólar no f
+ im de 2027: 5\,40 reais\nIPCA 2027: 4\,90%\nPIB 2027: 1\,15%\nSelic no fim
+  de 2027: 12\,50% ao ano\n\nO Boletim Focus sai toda segunda às 8h25. Ele
+  não é previsão do Banco Central\, é o que o mercado acha\; a distânc
+ ia entre ele e a meta de inflação ajuda a entender as decisões do Copom
+ .\n\nBase: Banco Central do Brasil\, Sistema de Expectativas de Mercado.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -535,7 +537,7 @@ UID:clima-20261114@agenda-do-mundo
 DESCRIPTION:Máxima 36 °C\, mínima 25 °C. Chance de chuva 13%\, 0\,2 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 12h26. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 12h33. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -639,7 +641,7 @@ UID:clima-20261115@agenda-do-mundo
 DESCRIPTION:Máxima 34 °C\, mínima 23 °C. Chance de chuva 76%\, 6\,9 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 12h26. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 12h33. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -729,7 +731,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261116@agenda-do-mundo
 DESCRIPTION:Máxima 31 °C\, mínima 22 °C. Chance de chuva 88%\, 18\,5 m
  m previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n
- \nPrevisão feita em 14/11 às 12h26. O Google relê este calendário a ca
+ \nPrevisão feita em 14/11 às 12h33. O Google relê este calendário a ca
  da 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -897,7 +899,7 @@ DTEND;VALUE=DATE:20261118
 DTSTAMP:20260101T000000Z
 UID:clima-20261117@agenda-do-mundo
 DESCRIPTION:Máxima 31 °C\, mínima 22 °C. Chance de chuva 53%\, 6\,1 mm
-  previstos. Índice UV máximo 7.\n\nPrevisão feita em 14/11 às 12h26. O
+  previstos. Índice UV máximo 7.\n\nPrevisão feita em 14/11 às 12h33. O
   Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -992,7 +994,7 @@ UID:clima-20261118@agenda-do-mundo
 DESCRIPTION:Máxima 34 °C\, mínima 23 °C. Chance de chuva 27%\, 0\,2 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 12h26. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 12h33. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1074,7 +1076,7 @@ UID:clima-20261119@agenda-do-mundo
 DESCRIPTION:Máxima 35 °C\, mínima 24 °C. Chance de chuva 10%\, 0\,0 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 12h26. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 12h33. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1141,7 +1143,7 @@ UID:clima-20261120@agenda-do-mundo
 DESCRIPTION:Máxima 36 °C\, mínima 23 °C. Chance de chuva 5%\, 0\,0 mm 
  previstos. Índice UV máximo 8 (muito alto: sombra entre 10h e 16h). Calo
  r forte: beba água antes de sentir sede\, porque a sede chega depois da d
- esidratação começar.\n\nPrevisão feita em 14/11 às 12h26. O Google re
+ esidratação começar.\n\nPrevisão feita em 14/11 às 12h33. O Google re
  lê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT

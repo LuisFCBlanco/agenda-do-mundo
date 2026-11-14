@@ -16,7 +16,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261114@agenda-do-mundo
 DESCRIPTION:Máxima 28 °C\, mínima 19 °C. Chance de chuva 15%\, 0\,0 mm
   previstos. Índice UV máximo 8 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 12h26. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h33. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -28,7 +28,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261115@agenda-do-mundo
 DESCRIPTION:Máxima 27 °C\, mínima 19 °C. Chance de chuva 83%\, 16\,4 m
  m previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n
- \nPrevisão feita em 14/11 às 12h26. O Google relê este calendário a ca
+ \nPrevisão feita em 14/11 às 12h33. O Google relê este calendário a ca
  da 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -39,7 +39,7 @@ DTEND;VALUE=DATE:20261117
 DTSTAMP:20260101T000000Z
 UID:clima-20261116@agenda-do-mundo
 DESCRIPTION:Máxima 27 °C\, mínima 19 °C. Chance de chuva 24%\, 0\,0 mm
-  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 12h26. O
+  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 12h33. O
   Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -51,7 +51,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261117@agenda-do-mundo
 DESCRIPTION:Máxima 31 °C\, mínima 19 °C. Chance de chuva 65%\, 7\,0 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 12h26. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h33. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -62,7 +62,7 @@ DTEND;VALUE=DATE:20261119
 DTSTAMP:20260101T000000Z
 UID:clima-20261118@agenda-do-mundo
 DESCRIPTION:Máxima 30 °C\, mínima 21 °C. Chance de chuva 80%\, 4\,2 mm
-  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 12h26. O
+  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 12h33. O
   Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -74,7 +74,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261119@agenda-do-mundo
 DESCRIPTION:Máxima 30 °C\, mínima 21 °C. Chance de chuva 39%\, 0\,0 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 12h26. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h33. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -85,7 +85,7 @@ DTEND;VALUE=DATE:20261121
 DTSTAMP:20260101T000000Z
 UID:clima-20261120@agenda-do-mundo
 DESCRIPTION:Máxima 25 °C\, mínima 19 °C. Chance de chuva 63%\, 39\,5 m
- m previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 12h26. 
+ m previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 12h33. 
  O Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
