@@ -4,7 +4,7 @@ Roda todo dia no GitHub Actions. Áreas calculadas (Lua, céu, sol, feriados) n�
 precisam de internet; áreas com dados ao vivo (economia, clima, aves) buscam a
 fonte e, se ela falhar, mantêm os eventos que já estavam publicados.
 """
-import json, math, os, sys, unicodedata, urllib.request, urllib.parse
+import json, math, os, sys, unicodedata, urllib.error, urllib.request, urllib.parse
 from datetime import datetime, date, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -599,9 +599,19 @@ def area_saude(reg):
 
 # ---------------------------------------------------------------- dados ao vivo
 def busca_json(url, headers=None):
+    """Busca JSON com até 3 tentativas: fontes públicas às vezes demoram no aperto de mão TLS."""
+    import time
     req = urllib.request.Request(url, headers={"User-Agent": "agenda-do-mundo/1.0", **(headers or {})})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read().decode("utf-8"))
+    for tentativa in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=45) as r:
+                return json.loads(r.read().decode("utf-8"))
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as ex:
+            if isinstance(ex, urllib.error.HTTPError) and ex.code < 500 and ex.code != 429:
+                raise
+            if tentativa == 2:
+                raise
+            time.sleep(3 * (tentativa + 1))
 
 
 def sgs(serie, n):
