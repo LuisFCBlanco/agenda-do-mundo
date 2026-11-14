@@ -234,6 +234,21 @@ DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agenda do investidor: Focus: o que o mercado espera para 2027
+DTSTART:20261109T113000Z
+DTEND:20261109T114500Z
+DTSTAMP:20260101T000000Z
+UID:inv-focus-20261106@agenda-do-mundo
+DESCRIPTION:Mediana das projeções de cerca de cem bancos e consultorias
+ \, coletadas até 06/11:\nPIB: 1\,15%\nIPCA: 4\,90%\nSelic no fim do ano: 
+ 12\,50% ao ano\nDólar no fim do ano: 5\,40 reais\n\nO Boletim Focus sai t
+ oda segunda às 8h25. Ele não é previsão do Banco Central\, é o que o 
+ mercado acha\; a distância entre ele e a meta de inflação ajuda a enten
+ der as decisões do Copom.\n\nBase: Banco Central do Brasil\, Sistema de E
+ xpectativas de Mercado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nascer e pôr do sol: Pôr do sol
 DTSTART:20261109T212800Z
 DTEND:20261109T213800Z
@@ -512,6 +527,18 @@ DESCRIPTION:Pôr às 18h31\, a 110° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Previsão do tempo: 27° / 16° · chuva 18% · garoa fraca
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260101T000000Z
+UID:clima-20261114@agenda-do-mundo
+DESCRIPTION:Máxima 27 °C\, mínima 16 °C. Chance de chuva 18%\, 0\,1 mm
+  previstos. Índice UV máximo 10 (muito alto: sombra entre 10h e 16h).\n
+ \nPrevisão feita em 14/11 às 12h26. O Google relê este calendário a ca
+ da 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Qualidade do ar: Ar ruim para grupos sensíveis (índice 108)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
@@ -604,6 +631,18 @@ DESCRIPTION:Pôr às 18h31\, a 111° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Previsão do tempo: 28° / 17° · chuva 90% · trovoadas
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20260101T000000Z
+UID:clima-20261115@agenda-do-mundo
+DESCRIPTION:Máxima 28 °C\, mínima 17 °C. Chance de chuva 90%\, 11\,4 m
+ m previstos. Índice UV máximo 10 (muito alto: sombra entre 10h e 16h).\n
+ \nPrevisão feita em 14/11 às 12h26. O Google relê este calendário a ca
+ da 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Qualidade do ar: Ar ruim para grupos sensíveis (índice 143)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
@@ -680,6 +719,17 @@ DTSTAMP:20260101T000000Z
 UID:sol-poe-20261115@agenda-do-mundo
 DESCRIPTION:Pôr às 18h32\, a 111° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Previsão do tempo: 25° / 17° · chuva 92% · garoa
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20260101T000000Z
+UID:clima-20261116@agenda-do-mundo
+DESCRIPTION:Máxima 25 °C\, mínima 17 °C. Chance de chuva 92%\, 4\,2 mm
+  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 12h26. O
+  Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -841,6 +891,17 @@ DESCRIPTION:O radiante nasce de madrugada a leste. A taxa costuma ser baix
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Previsão do tempo: 27° / 16° · chuva 63% · nevoeiro
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260101T000000Z
+UID:clima-20261117@agenda-do-mundo
+DESCRIPTION:Máxima 27 °C\, mínima 16 °C. Chance de chuva 63%\, 0\,0 mm
+  previstos. Índice UV máximo 7.\n\nPrevisão feita em 14/11 às 12h26. O
+  Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Qualidade do ar: Ar ruim para grupos sensíveis (índice 136)
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
@@ -924,6 +985,18 @@ DESCRIPTION:Pôr às 18h33\, a 112° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Previsão do tempo: 29° / 17° · chuva 93% · garoa
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20260101T000000Z
+UID:clima-20261118@agenda-do-mundo
+DESCRIPTION:Máxima 29 °C\, mínima 17 °C. Chance de chuva 93%\, 4\,2 mm
+  previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
+ Previsão feita em 14/11 às 12h26. O Google relê este calendário a cada
+  12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Qualidade do ar: Ar moderado (índice 96)
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
@@ -993,6 +1066,18 @@ DESCRIPTION:Pôr às 18h34\, a 112° (leste). Uns 25 minutos depois acaba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Previsão do tempo: 29° / 19° · chuva 72% · trovoadas
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20260101T000000Z
+UID:clima-20261119@agenda-do-mundo
+DESCRIPTION:Máxima 29 °C\, mínima 19 °C. Chance de chuva 72%\, 7\,5 mm
+  previstos. Índice UV máximo 8 (muito alto: sombra entre 10h e 16h).\n\n
+ Previsão feita em 14/11 às 12h26. O Google relê este calendário a cada
+  12 a 24 horas.\n\nBase: Open-Meteo.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Calendário védico (panchang): Shukla Dashami · Purva Bhadrapada
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
@@ -1044,6 +1129,17 @@ DTSTAMP:20260101T000000Z
 UID:sol-poe-20261119@agenda-do-mundo
 DESCRIPTION:Pôr às 18h35\, a 112° (leste). Uns 25 minutos depois acaba 
  o crepúsculo civil e as primeiras estrelas aparecem.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Previsão do tempo: 31° / 20° · chuva 72% · pancadas fracas
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20260101T000000Z
+UID:clima-20261120@agenda-do-mundo
+DESCRIPTION:Máxima 31 °C\, mínima 20 °C. Chance de chuva 72%\, 10\,2 m
+ m previstos. Índice UV máximo 4.\n\nPrevisão feita em 14/11 às 12h26. 
+ O Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

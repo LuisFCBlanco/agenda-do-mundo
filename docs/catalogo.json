@@ -1,6 +1,6 @@
 {
  "projeto": "Agenda do Mundo",
- "gerado_em": "2026-11-14T12:13-03:00",
+ "gerado_em": "2026-11-14T12:26-03:00",
  "regioes": [
   {
    "id": "sao-paulo",
@@ -691,6 +691,11 @@
      }
     ]
    },
+   "investidor": {
+    "n": 1,
+    "atualizado": true,
+    "proximos": []
+   },
    "judaico": {
     "n": 9,
     "atualizado": true,
@@ -852,6 +857,24 @@
      {
       "titulo": "Solstício: começa o inverno",
       "inicio": "2027-06-21T11:10:00-03:00"
+     }
+    ]
+   },
+   "clima": {
+    "n": 7,
+    "atualizado": true,
+    "proximos": [
+     {
+      "titulo": "27° / 16° · chuva 18% · garoa fraca",
+      "inicio": "2026-11-14"
+     },
+     {
+      "titulo": "28° / 17° · chuva 90% · trovoadas",
+      "inicio": "2026-11-15"
+     },
+     {
+      "titulo": "25° / 17° · chuva 92% · garoa",
+      "inicio": "2026-11-16"
      }
     ]
    },
@@ -8474,8 +8497,7 @@
   }
  },
  "avisos": [
-  "brasil/investidor: URLError: <urlopen error timed out>",
-  "sao-paulo/clima: URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
-  "sao-paulo/aves: RuntimeError: sem EBIRD_KEY"
+  "sao-paulo/aves: RuntimeError: sem EBIRD_KEY",
+  "brasil/investidor, calendário do IBGE: URLError: <urlopen error timed out>"
  ]
 }

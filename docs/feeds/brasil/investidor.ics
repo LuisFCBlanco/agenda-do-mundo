@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agenda do Mundo//PT-BR
+CALSCALE:GREGORIAN
+X-WR-CALDESC:Boletim Focus, divulgações do IBGE (IPCA, PIB, desemprego) 
+ e reuniões de política monetária. Agenda do Mundo.
+X-WR-CALNAME:Agenda do investidor · Brasil
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+SUMMARY:Focus: o que o mercado espera para 2027
+DTSTART:20261109T113000Z
+DTEND:20261109T114500Z
+DTSTAMP:20260101T000000Z
+UID:inv-focus-20261106@agenda-do-mundo
+DESCRIPTION:Mediana das projeções de cerca de cem bancos e consultorias
+ \, coletadas até 06/11:\nPIB: 1\,15%\nIPCA: 4\,90%\nSelic no fim do ano: 
+ 12\,50% ao ano\nDólar no fim do ano: 5\,40 reais\n\nO Boletim Focus sai t
+ oda segunda às 8h25. Ele não é previsão do Banco Central\, é o que o 
+ mercado acha\; a distância entre ele e a meta de inflação ajuda a enten
+ der as decisões do Copom.\n\nBase: Banco Central do Brasil\, Sistema de E
+ xpectativas de Mercado.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

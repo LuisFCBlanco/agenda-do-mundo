@@ -234,6 +234,21 @@ DESCRIPTION:Para o Ayurveda\, três forças regem o corpo e também as hor
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agenda do investidor: Focus: o que o mercado espera para 2027
+DTSTART:20261109T113000Z
+DTEND:20261109T114500Z
+DTSTAMP:20260101T000000Z
+UID:inv-focus-20261106@agenda-do-mundo
+DESCRIPTION:Mediana das projeções de cerca de cem bancos e consultorias
+ \, coletadas até 06/11:\nPIB: 1\,15%\nIPCA: 4\,90%\nSelic no fim do ano: 
+ 12\,50% ao ano\nDólar no fim do ano: 5\,40 reais\n\nO Boletim Focus sai t
+ oda segunda às 8h25. Ele não é previsão do Banco Central\, é o que o 
+ mercado acha\; a distância entre ele e a meta de inflação ajuda a enten
+ der as decisões do Copom.\n\nBase: Banco Central do Brasil\, Sistema de E
+ xpectativas de Mercado.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nascer e pôr do sol: Pôr do sol
 DTSTART:20261109T212900Z
 DTEND:20261109T213900Z
@@ -519,7 +534,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261114@agenda-do-mundo
 DESCRIPTION:Máxima 28 °C\, mínima 18 °C. Chance de chuva 20%\, 0\,1 mm
   previstos. Índice UV máximo 10 (muito alto: sombra entre 10h e 16h).\n
- \nPrevisão feita em 14/11 às 12h13. O Google relê este calendário a ca
+ \nPrevisão feita em 14/11 às 12h26. O Google relê este calendário a ca
  da 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -623,7 +638,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261115@agenda-do-mundo
 DESCRIPTION:Máxima 29 °C\, mínima 18 °C. Chance de chuva 82%\, 8\,3 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 12h13. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h26. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -714,7 +729,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261116@agenda-do-mundo
 DESCRIPTION:Máxima 27 °C\, mínima 18 °C. Chance de chuva 80%\, 2\,6 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 12h13. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h26. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -884,7 +899,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261117@agenda-do-mundo
 DESCRIPTION:Máxima 28 °C\, mínima 18 °C. Chance de chuva 63%\, 2\,0 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 12h13. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h26. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -979,7 +994,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261118@agenda-do-mundo
 DESCRIPTION:Máxima 29 °C\, mínima 18 °C. Chance de chuva 82%\, 2\,7 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 12h13. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 12h26. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1059,7 +1074,7 @@ DTEND;VALUE=DATE:20261120
 DTSTAMP:20260101T000000Z
 UID:clima-20261119@agenda-do-mundo
 DESCRIPTION:Máxima 30 °C\, mínima 20 °C. Chance de chuva 74%\, 1\,2 mm
-  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 12h13. O
+  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 12h26. O
   Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1124,7 +1139,7 @@ DTEND;VALUE=DATE:20261121
 DTSTAMP:20260101T000000Z
 UID:clima-20261120@agenda-do-mundo
 DESCRIPTION:Máxima 31 °C\, mínima 21 °C. Chance de chuva 78%\, 4\,2 mm
-  previstos. Índice UV máximo 4.\n\nPrevisão feita em 14/11 às 12h13. O
+  previstos. Índice UV máximo 4.\n\nPrevisão feita em 14/11 às 12h26. O
   Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT

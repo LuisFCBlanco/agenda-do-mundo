@@ -15,7 +15,7 @@ DTEND;VALUE=DATE:20261115
 DTSTAMP:20260101T000000Z
 UID:clima-20261114@agenda-do-mundo
 DESCRIPTION:Máxima 33 °C\, mínima 24 °C. Chance de chuva 92%\, 8\,8 mm
-  previstos. Índice UV máximo 4.\n\nPrevisão feita em 14/11 às 11h13. O
+  previstos. Índice UV máximo 4.\n\nPrevisão feita em 14/11 às 11h26. O
   Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -26,7 +26,7 @@ DTEND;VALUE=DATE:20261116
 DTSTAMP:20260101T000000Z
 UID:clima-20261115@agenda-do-mundo
 DESCRIPTION:Máxima 33 °C\, mínima 25 °C. Chance de chuva 73%\, 2\,7 mm
-  previstos. Índice UV máximo 5.\n\nPrevisão feita em 14/11 às 11h13. O
+  previstos. Índice UV máximo 5.\n\nPrevisão feita em 14/11 às 11h26. O
   Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -38,7 +38,7 @@ DTSTAMP:20260101T000000Z
 UID:clima-20261116@agenda-do-mundo
 DESCRIPTION:Máxima 34 °C\, mínima 26 °C. Chance de chuva 86%\, 4\,2 mm
   previstos. Índice UV máximo 8 (muito alto: sombra entre 10h e 16h).\n\n
- Previsão feita em 14/11 às 11h13. O Google relê este calendário a cada
+ Previsão feita em 14/11 às 11h26. O Google relê este calendário a cada
   12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -51,7 +51,7 @@ UID:clima-20261117@agenda-do-mundo
 DESCRIPTION:Máxima 35 °C\, mínima 26 °C. Chance de chuva 73%\, 1\,4 mm
   previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Cal
  or forte: beba água antes de sentir sede\, porque a sede chega depois da 
- desidratação começar.\n\nPrevisão feita em 14/11 às 11h13. O Google r
+ desidratação começar.\n\nPrevisão feita em 14/11 às 11h26. O Google r
  elê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -64,7 +64,7 @@ UID:clima-20261118@agenda-do-mundo
 DESCRIPTION:Máxima 35 °C\, mínima 25 °C. Chance de chuva 84%\, 20\,1 m
  m previstos. Índice UV máximo 9 (muito alto: sombra entre 10h e 16h). Ca
  lor forte: beba água antes de sentir sede\, porque a sede chega depois da
-  desidratação começar.\n\nPrevisão feita em 14/11 às 11h13. O Google 
+  desidratação começar.\n\nPrevisão feita em 14/11 às 11h26. O Google 
  relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -75,7 +75,7 @@ DTEND;VALUE=DATE:20261120
 DTSTAMP:20260101T000000Z
 UID:clima-20261119@agenda-do-mundo
 DESCRIPTION:Máxima 33 °C\, mínima 25 °C. Chance de chuva 75%\, 9\,6 mm
-  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 11h13. O
+  previstos. Índice UV máximo 8.\n\nPrevisão feita em 14/11 às 11h26. O
   Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -86,7 +86,7 @@ DTEND;VALUE=DATE:20261121
 DTSTAMP:20260101T000000Z
 UID:clima-20261120@agenda-do-mundo
 DESCRIPTION:Máxima 32 °C\, mínima 25 °C. Chance de chuva 71%\, 6\,0 mm
-  previstos. Índice UV máximo 3.\n\nPrevisão feita em 14/11 às 11h13. O
+  previstos. Índice UV máximo 3.\n\nPrevisão feita em 14/11 às 11h26. O
   Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo.
 TRANSP:TRANSPARENT
 END:VEVENT
