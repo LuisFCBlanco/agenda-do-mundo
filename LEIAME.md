@@ -1,6 +1,6 @@
 # Agenda do Mundo
 
-Calendários assináveis com o que acontece no mundo ao redor de cada região: Lua, céu, sol e estações, feriados, economia, previsão do tempo e aves. A pessoa escolhe as áreas no site e assina cada uma no Google Agenda, iPhone ou Outlook. Ninguém faz login e nada é gravado na agenda de ninguém.
+Calendários assináveis com o que acontece no mundo ao redor de cada região: o céu, a natureza, a economia, as culturas, a saúde e a história, para 47 cidades. A pessoa escolhe as áreas no site e assina cada uma no Google Agenda, iPhone ou Outlook. Ninguém faz login e nada é gravado na agenda de ninguém.
 
 ## Como funciona
 
@@ -30,6 +30,12 @@ Aves: crie uma chave gratuita em ebird.org/api/keygen e salve em **Settings > Se
 - O link "Assinar no Google" usa um formato que o Google não documenta oficialmente, mas que é amplamente usado. "Copiar link" funciona sempre.
 - Em repositório público, o GitHub pode pausar tarefas agendadas depois de 60 dias sem atividade. Se chegar um e-mail avisando, basta reativar em Actions.
 
-## Fase 2: textos escritos pela IA
+## Textos escritos pelo Claude
 
-As áreas "Natureza da estação", "Campo e safra" e "Aconteceu neste dia" vêm de `textos/<região>.json`, escrito toda semana por uma tarefa agendada do Claude (prompt em `tarefa-semanal.md`). Enquanto o arquivo estiver vazio, essas áreas não aparecem no site. Cada evento leva o aviso de que é texto de IA e não dado medido.
+As áreas de natureza, safra, cultura regional, história, materiais, esporte, telas, energia e agro vêm de `textos/<escopo>/*.json` (`brasil` ou uma das cinco regiões), escritos por quatro tarefas agendadas do Claude que pesquisam na web. As regras estão em `tarefas/REGRAS.md`, o passo a passo em `tarefas/PROCEDIMENTO.md`, e `validar.py` confere cada arquivo antes do commit.
+
+## Escopos
+
+- **local** (cada cidade de `config.json`): Lua, céu, sol, estações, clima, qualidade do ar, aves do eBird, feriados, calendário védico, Ayurveda.
+- **regional** (Norte, Nordeste, Centro-Oeste, Sudeste, Sul): natureza, safra, cultura.
+- **nacional** (`brasil`): economia, investidor, agro, energia, culturas do mundo, saúde pública, história, materiais, datas, esporte, telas.
