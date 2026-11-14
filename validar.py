@@ -11,7 +11,7 @@ PROIBIDO_TITULO = ("janela de", "período de", "periodo de", "início de", "inic
 
 problemas = []
 for caminho in sys.argv[1:]:
-    escopo = caminho.split("/")[1]
+    escopo = caminho.replace("\\", "/").split("/")[-2]
     itens = json.load(open(caminho, encoding="utf-8"))
     if not isinstance(itens, list):
         problemas.append(f"{caminho}: precisa ser uma lista JSON")
@@ -21,6 +21,8 @@ for caminho in sys.argv[1:]:
         area = x.get("area")
         if area not in AREAS:
             problemas.append(f"{onde}: área desconhecida {area!r}")
+        elif AREAS[area] == "local":
+            problemas.append(f"{onde}: área {area} é calculada por cidade e não aceita texto")
         elif (AREAS[area] == "nacional") != (escopo == "brasil"):
             problemas.append(f"{onde}: área {area} ({AREAS[area]}) no escopo errado {escopo}")
         for campo in ("titulo", "data", "descricao", "fonte", "confianca"):

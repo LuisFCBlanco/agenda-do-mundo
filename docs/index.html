@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Agenda do Mundo</title>
-<meta name="description" content="O mundo acontecendo na sua agenda: céu, natureza, economia, culturas, saúde, história. Escolha sua cidade e as áreas.">
+<meta name="description" content="O mundo acontecendo na sua agenda: céu, natureza, ciência, economia, culturas, saúde, artes. Escolha sua cidade e as culturas que te interessam.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
 <style>
@@ -13,93 +13,156 @@
 @media (prefers-color-scheme:dark){:root{--bg:#0f1512;--surface:#171f1b;--fg:#e4ece7;--muted:#97a69d;--line:#2a352f;--accent:#62c2a3;--accent-ink:#0f1512;--accent-soft:#1c3a30;--warn:#efc15a;--warn-bg:#382b0c;color-scheme:dark}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:400 15px/1.5 var(--f-body)}
-.wrap{max-width:880px;margin:0 auto;padding:32px 16px 64px;display:flex;flex-direction:column;gap:28px}
+.wrap{max-width:820px;margin:0 auto;padding:32px 16px 72px;display:flex;flex-direction:column;gap:30px}
 h1{font:800 clamp(34px,7vw,52px)/1 var(--f-display);margin:0;letter-spacing:-.02em}
 h2{font:600 20px var(--f-display);margin:0 0 12px}
-h3.grupo{font:600 13px var(--f-mono);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:22px 0 10px}
+.n{font:500 13px var(--f-mono);color:var(--accent);margin-right:8px}
 .lede{color:var(--muted);max-width:64ch;margin:12px 0 0}
+p{margin:0}
 select{font:500 16px var(--f-body);padding:10px 12px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--fg);width:100%;max-width:420px}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,380px),1fr));gap:12px}
-.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:10px}
-.card.all{border-color:var(--accent);background:var(--accent-soft)}
-.card h4{margin:0;font:600 17px var(--f-body)}
-.card p{margin:0}
-.tag{font:500 11px var(--f-mono);color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:1px 8px;margin-left:6px;vertical-align:2px}
-.src{font:400 12px var(--f-mono);color:var(--muted)}
-.next{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px;font-size:13px}
-.next time{font-family:var(--f-mono);color:var(--muted);margin-right:6px}
-.acts{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto}
+.modos{display:flex;flex-direction:column;gap:8px}
+.modo{display:flex;gap:10px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;cursor:pointer}
+.modo:has(input:checked){border-color:var(--accent);background:var(--accent-soft)}
+.modo b{display:block}.modo span{color:var(--muted);font-size:13px}
+input[type=radio],input[type=checkbox]{accent-color:var(--accent);width:18px;height:18px;margin:2px 0 0;flex:none}
+.grupo{background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.grupo+.grupo{margin-top:12px}
+.grupo>header{display:flex;align-items:center;gap:10px;padding:12px 14px;border-bottom:1px solid var(--line)}
+.grupo>header h3{margin:0;font:600 16px var(--f-body);flex:1}
+.mini{font:500 12px var(--f-body);color:var(--accent);background:none;border:0;cursor:pointer;padding:4px}
+.area{display:flex;gap:10px;align-items:flex-start;padding:10px 14px;border-top:1px solid var(--line);cursor:pointer}
+.grupo>header+.area{border-top:0}
+.area.off{opacity:.55;cursor:default}
+.area .t{font-weight:600}
+.area .r{color:var(--muted);font-size:13px}
+.area .e{width:22px;text-align:center;flex:none}
+.tag{font:500 11px var(--f-mono);color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:1px 8px;margin-left:6px;white-space:nowrap}
+.saida{display:flex;flex-direction:column;gap:10px}
+.link{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center}
+.link b{flex:1 1 200px;min-width:0}
 .btn{font:600 14px var(--f-body);padding:9px 14px;border-radius:8px;border:1px solid var(--accent);background:var(--accent);color:var(--accent-ink);cursor:pointer;text-decoration:none}
 .btn.ghost{background:transparent;color:var(--accent)}
-.btn:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.btn[disabled]{opacity:.5;cursor:not-allowed}
+.btn:focus-visible,select:focus-visible,input:focus-visible,.mini:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .note{font-size:13px;padding:10px 12px;border-radius:8px;background:var(--warn-bg);color:var(--warn)}
-.how{color:var(--muted);font-size:14px;display:flex;flex-direction:column;gap:6px}.how p{margin:0}.how b{color:var(--fg)}
+.how{color:var(--muted);font-size:14px;display:flex;flex-direction:column;gap:8px}.how b{color:var(--fg)}
 footer{color:var(--muted);font-size:13px}
+a{color:var(--accent)}
 </style>
 </head>
 <body>
 <main class="wrap">
   <header>
     <h1>Agenda do Mundo</h1>
-    <p class="lede">O mundo acontecendo, direto na sua agenda: o céu da sua cidade, a natureza da sua região, a economia, as culturas e tradições, a saúde e a história. Cada área é um calendário que você assina uma vez e passa a se atualizar sozinho.</p>
+    <p class="lede">O mundo acontecendo, direto na sua agenda. Cada área é uma cultura, a de quem vive aquilo por profissão, por gosto ou por curiosidade: o que nela se repete todo ano e o que é novo nesta semana.</p>
   </header>
+
+  <section><h2><span class="n">1</span>Sua cidade</h2><select id="cidade" aria-label="Cidade"></select></section>
+
   <section>
-    <h2>Sua cidade</h2>
-    <select id="cidade" aria-label="Cidade"></select>
+    <h2><span class="n">2</span>Como você quer receber</h2>
+    <div class="modos" role="radiogroup">
+      <label class="modo"><input type="radio" name="modo" value="tudo"><div><b>Tudo num calendário só</b><span>Uma assinatura. Cada evento traz o emoji da área no título.</span></div></label>
+      <label class="modo"><input type="radio" name="modo" value="grupo"><div><b>Um calendário por grupo</b><span>Até sete assinaturas. Você dá uma cor a cada grupo e esconde o que não quiser.</span></div></label>
+      <label class="modo"><input type="radio" name="modo" value="areas"><div><b>Só as áreas que eu marcar</b><span>Você escolhe uma a uma na lista abaixo.</span></div></label>
+    </div>
   </section>
-  <section id="areas"><p>Carregando...</p></section>
+
+  <section><h2><span class="n">3</span><span id="t3">O que vem dentro</span></h2><div id="areas"><p>Carregando...</p></div></section>
+
+  <section><h2><span class="n">4</span>Assinar</h2><div class="saida" id="saida"></div></section>
+
   <section class="how">
-    <h2>Como funciona</h2>
-    <p><b>Google Agenda, no computador:</b> toque em "Assinar no Google" e confirme. A área vira uma agenda separada, que você esconde ou muda de cor quando quiser. No celular Android ela aparece sozinha depois.</p>
-    <p><b>iPhone, Outlook e outros:</b> toque em "Copiar link" e cole em "assinar calendário" ou "adicionar pela URL".</p>
-    <p><b>Atualização:</b> tudo é refeito todo dia; o Google relê cada agenda a cada 12 a 24 horas.</p>
-    <p><b>Para sair:</b> remova a agenda nas configurações e todos os eventos dela somem de uma vez.</p>
-    <p><b>Local, regional ou nacional:</b> céu, sol, clima e feriados são calculados para a sua cidade; natureza, safra e festas valem para a sua região do Brasil; economia, culturas do mundo e história são as mesmas para todos.</p>
+    <h2>Como se atualiza</h2>
+    <p><b>Toda semana</b> entram os textos novos: descobertas, lançamentos, a natureza e a safra da estação, os jogos e as festas.</p>
+    <p><b>Todo dia de manhã</b> tudo é refeito com os cálculos do céu e os números do dia: sol, Lua, clima, qualidade do ar, câmbio, terremotos, foguetes.</p>
+    <p><b>Na sua agenda</b> uma mudança pode levar até um dia para aparecer. Quem decide quando reler o link é o Google (ou a Apple, ou o Outlook), em geral a cada 12 a 24 horas.</p>
+    <p><b>Para sair</b> remova a agenda nas configurações do seu aplicativo: todos os eventos dela somem de uma vez. Um calendário assinado é só para leitura, então não dá para apagar um evento sozinho.</p>
+    <p><b>iPhone, Outlook e outros:</b> use "Copiar link" e cole em "assinar calendário" ou "adicionar pela URL".</p>
+    <p><b>Falta uma cultura?</b> <a href="https://github.com/LuisFCBlanco/agenda-do-mundo/issues/new?template=sugerir-cultura.yml" target="_blank" rel="noopener">Sugira aqui</a>. E quem entende de um assunto pode escrever a agenda dele: veja <a href="https://github.com/LuisFCBlanco/agenda-do-mundo/blob/main/CONTRIBUINDO.md" target="_blank" rel="noopener">como contribuir</a>.</p>
   </section>
   <footer id="rodape"></footer>
 </main>
 <script>
 (function(){
-  const $=id=>document.getElementById(id);
-  const base=new URL('.',location.href);
+  const $=id=>document.getElementById(id), base=new URL('.',location.href);
   const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-  const mem={get(){try{return localStorage.getItem('adm_cidade');}catch(e){return null;}},set(v){try{localStorage.setItem('adm_cidade',v);}catch(e){}}};
-  const ESC={local:'sua cidade',regional:'sua região',nacional:'todo o Brasil'};
-  let cat=null;
-  function links(caminho){const https=new URL('feeds/'+caminho,base).href;const webcal=https.replace(/^https?:/,'webcal:');return {https,google:'https://www.google.com/calendar/render?cid='+webcal};}
-  function quando(s){if(s.length===10){const [y,m,d]=s.split('-');return d+'/'+m;}const t=new Date(s);return String(t.getDate()).padStart(2,'0')+'/'+String(t.getMonth()+1).padStart(2,'0')+' '+t.getHours()+'h'+String(t.getMinutes()).padStart(2,'0');}
+  const mem={get(k,d){try{const v=localStorage.getItem('adm_'+k);return v==null?d:JSON.parse(v);}catch(e){return d;}},set(k,v){try{localStorage.setItem('adm_'+k,JSON.stringify(v));}catch(e){}}};
+  const TAG={local:'sua cidade',regional:'sua região',brasil:'Brasil',mundo:'mundo'};
+  let cat=null, cid=null, modo=mem.get('modo','tudo'), marcadas=new Set(mem.get('areas',[])), pessoal=mem.get('pessoal',null);
+
+  const sub=h=>({https:h,google:'https://www.google.com/calendar/render?cid='+h.replace(/^https?:/,'webcal:')});
+  const feed=c=>sub(new URL('feeds/'+c,base).href);
+  const reg=()=>cat.regioes.find(r=>r.id===cid);
+  function lugar(a){const r=reg();return a.escopo==='local'?cid:(a.escopo==='regional'?r.macro:'brasil');}
+  function existe(a){const l=lugar(a);return !!(l&&(cat.feeds[l]||{})[a.id]);}
+  function nosCombinados(a){return existe(a)&&(reg().pais==='BR'||a.escopo!=='nacional'||a.alcance==='mundo');}
+  function tag(a){return TAG[a.escopo==='nacional'?a.alcance:a.escopo];}
   function copiar(txt,btn){const ok=()=>{const o=btn.textContent;btn.textContent='Link copiado';setTimeout(()=>btn.textContent=o,1800);};try{navigator.clipboard.writeText(txt).then(ok,()=>prompt('Copie o link:',txt));}catch(e){prompt('Copie o link:',txt);}}
-  function card(t,resumo,fonte,tag,prox,caminho,destaque,aviso){
-    const L=links(caminho),el=document.createElement('article');el.className='card'+(destaque?' all':'');
-    el.innerHTML='<h4>'+esc(t)+(tag?'<span class="tag">'+esc(tag)+'</span>':'')+'</h4><p>'+esc(resumo)+'</p>'+(fonte?'<p class="src">Fonte: '+esc(fonte)+'</p>':'')+
-      (prox&&prox.length?'<ul class="next">'+prox.map(p=>'<li><time>'+quando(p.inicio)+'</time>'+esc(p.titulo)+'</li>').join('')+'</ul>':'')+
-      (aviso?'<p class="note">'+esc(aviso)+'</p>':'')+
-      '<div class="acts"><a class="btn" target="_blank" rel="noopener" href="'+esc(L.google)+'">Assinar no Google</a><button class="btn ghost" type="button">Copiar link</button></div>';
-    el.querySelector('button').addEventListener('click',e=>copiar(L.https,e.currentTarget));return el;
-  }
-  function render(cid){
-    const reg=cat.regioes.find(r=>r.id===cid), box=$('areas'); box.innerHTML='';
-    box.appendChild(card('Tudo de uma vez','Todas as áreas abaixo num calendário só, para '+reg.nome+'. Mais simples, mas não dá para esconder uma área sem esconder todas.','',null,null,cid+'/tudo.ics',true));
-    const emBreve=[];
+  function linha(titulo,L){const d=document.createElement('div');d.className='link';d.innerHTML='<b>'+esc(titulo)+'</b><a class="btn" target="_blank" rel="noopener" href="'+esc(L.google)+'">Assinar no Google</a><button class="btn ghost" type="button">Copiar link</button>';d.querySelector('button').addEventListener('click',e=>copiar(L.https,e.currentTarget));return d;}
+  function nota(t){const p=document.createElement('p');p.className='note';p.textContent=t;return p;}
+
+  function renderAreas(){
+    const box=$('areas');box.innerHTML='';const escolher=modo==='areas';
+    $('t3').textContent=escolher?'Marque as suas áreas':'O que vem dentro';
     cat.grupos.forEach(g=>{
-      const lista=cat.areas.filter(a=>a.grupo===g); if(!lista.length) return;
-      const h=document.createElement('h3');h.className='grupo';h.textContent=g;const grid=document.createElement('div');grid.className='grid';
+      const lista=cat.areas.filter(a=>a.grupo===g&&(a.escopo!=='regional'||reg().macro));if(!lista.length)return;
+      const sec=document.createElement('div');sec.className='grupo';
+      const h=document.createElement('header');h.innerHTML='<h3>'+esc(g)+'</h3>';
+      if(escolher){const b=document.createElement('button');b.type='button';b.className='mini';const ids=lista.filter(existe).map(a=>a.id);const todas=ids.length&&ids.every(i=>marcadas.has(i));b.textContent=todas?'Desmarcar grupo':'Marcar grupo';b.addEventListener('click',()=>{ids.forEach(i=>todas?marcadas.delete(i):marcadas.add(i));salvaMarcas();renderAreas();renderSaida();});h.appendChild(b);}
+      sec.appendChild(h);
       lista.forEach(a=>{
-        const lugar=a.escopo==='local'?cid:(a.escopo==='regional'?reg.macro:'brasil');
-        const f=(cat.feeds[lugar]||{})[a.id];
-        if(!f){emBreve.push(a.nome);return;}
-        grid.appendChild(card(a.nome,a.resumo,a.fonte,ESC[a.escopo],f.proximos,lugar+'/'+a.id+'.ics',false,f.atualizado?'':'A fonte não respondeu na última atualização; os dados são da vez anterior.'));
+        const ok=existe(a), dentro=escolher?true:nosCombinados(a);
+        const l=document.createElement(escolher&&ok?'label':'div');l.className='area'+(ok&&dentro?'':' off');
+        l.innerHTML=(escolher?'<input type="checkbox"'+(ok?'':' disabled')+(marcadas.has(a.id)&&ok?' checked':'')+'>':'')+'<span class="e">'+esc(a.emoji||'')+'</span><div><span class="t">'+esc(a.nome)+'</span><span class="tag">'+esc(ok?tag(a):'em breve')+'</span><div class="r">'+esc(a.resumo)+(ok&&!dentro?' Fala do Brasil, então fica fora dos calendários combinados desta cidade; marque em "Só as áreas que eu marcar" se quiser.':'')+'</div></div>';
+        const c=l.querySelector('input');if(c)c.addEventListener('change',()=>{c.checked?marcadas.add(a.id):marcadas.delete(a.id);salvaMarcas();renderSaida();});
+        sec.appendChild(l);
       });
-      if(grid.children.length){box.appendChild(h);box.appendChild(grid);}
+      box.appendChild(sec);
     });
-    $('rodape').textContent='Atualizado em '+new Date(cat.gerado_em).toLocaleString('pt-BR',{dateStyle:'short',timeStyle:'short'})+'.'+(emBreve.length?' Em breve: '+emBreve.join(', ')+'.':'');
   }
+  function salvaMarcas(){mem.set('areas',[...marcadas]);}
+
+  async function salvarPessoal(btn){
+    const corpo=JSON.stringify({cidade:cid,areas:[...marcadas]});btn.disabled=true;
+    try{
+      if(pessoal&&pessoal.id){const r=await fetch(cat.servico+'/c/'+pessoal.id,{method:'PUT',headers:{'Content-Type':'application/json','Authorization':pessoal.token},body:corpo});if(!r.ok)throw 0;}
+      else{const r=await fetch(cat.servico+'/novo',{method:'POST',headers:{'Content-Type':'application/json'},body:corpo});if(!r.ok)throw 0;pessoal=await r.json();mem.set('pessoal',pessoal);}
+      pessoal.salvo=corpo;mem.set('pessoal',pessoal);renderSaida();
+    }catch(e){btn.disabled=false;$('saida').appendChild(nota('Não foi possível salvar agora. Tente de novo em instantes.'));}
+  }
+
+  function renderSaida(){
+    const s=$('saida');s.innerHTML='';const r=reg();
+    if(modo==='tudo'){s.appendChild(linha('Agenda do Mundo · '+r.nome,feed(cid+'/tudo.ics')));return;}
+    if(modo==='grupo'){cat.grupos.forEach(g=>{if(cat.areas.some(a=>a.grupo===g&&nosCombinados(a)))s.appendChild(linha(g,feed(cid+'/grupo-'+cat.grupos_id[g]+'.ics')));});return;}
+    const sel=cat.areas.filter(a=>marcadas.has(a.id)&&existe(a));
+    if(!sel.length){s.appendChild(nota('Marque pelo menos uma área na lista acima.'));return;}
+    if(cat.servico){
+      const corpo=JSON.stringify({cidade:cid,areas:[...marcadas]}), mudou=!pessoal||pessoal.salvo!==corpo;
+      const b=document.createElement('button');b.type='button';b.className='btn';b.textContent=pessoal&&pessoal.id?(mudou?'Salvar mudanças no meu link':'Seu link está em dia'):'Gerar meu link';b.disabled=!mudou;b.addEventListener('click',()=>salvarPessoal(b));
+      const d=document.createElement('div');d.className='link';d.appendChild(b);s.appendChild(d);
+      if(pessoal&&pessoal.id){
+        s.appendChild(linha('Meu calendário ('+sel.length+' áreas)',sub(cat.servico+'/c/'+pessoal.id+'.ics')));
+        const p=document.createElement('p');p.className='how';p.textContent='O link é sempre o mesmo. Quando você muda as marcações e salva, a agenda passa a mostrar o novo conjunto sozinha, sem assinar de novo e sem duplicar nada. Prefere cores? Assine por grupo:';s.appendChild(p);
+        cat.grupos.forEach(g=>{if(sel.some(a=>a.grupo===g))s.appendChild(linha(g,sub(cat.servico+'/c/'+pessoal.id+'/'+cat.grupos_id[g]+'.ics')));});
+      }
+      return;
+    }
+    sel.forEach(a=>s.appendChild(linha((a.emoji?a.emoji+' ':'')+a.nome,feed(lugar(a)+'/'+a.id+'.ics'))));
+    if(sel.length>3)s.appendChild(nota('Aqui cada área é uma assinatura separada. Se forem muitas, "Um calendário por grupo" resolve com menos toques.'));
+  }
+
+  function tudo(){document.querySelectorAll('input[name=modo]').forEach(i=>i.checked=i.value===modo);renderAreas();renderSaida();}
   fetch('catalogo.json',{cache:'no-store'}).then(r=>r.json()).then(j=>{
-    cat=j; const sel=$('cidade'); const porUF={};
-    cat.regioes.forEach(r=>(porUF[r.uf]=porUF[r.uf]||[]).push(r));
-    Object.keys(porUF).sort().forEach(uf=>{const og=document.createElement('optgroup');og.label=uf;porUF[uf].sort((a,b)=>a.nome.localeCompare(b.nome)).forEach(r=>{const o=document.createElement('option');o.value=r.id;o.textContent=r.nome+' ('+uf+')';og.appendChild(o);});sel.appendChild(og);});
-    const salvo=mem.get(); sel.value=cat.regioes.some(r=>r.id===salvo)?salvo:'sao-paulo';
-    sel.addEventListener('change',()=>{mem.set(sel.value);render(sel.value);}); render(sel.value);
+    cat=j;const sel=$('cidade'),grupos={};
+    cat.regioes.forEach(r=>{const k=r.pais==='BR'?'Brasil · '+r.uf:r.pais_nome;(grupos[k]=grupos[k]||[]).push(r);});
+    Object.keys(grupos).sort((a,b)=>(a.startsWith('Brasil')?0:1)-(b.startsWith('Brasil')?0:1)||a.localeCompare(b)).forEach(k=>{const og=document.createElement('optgroup');og.label=k;grupos[k].sort((a,b)=>a.nome.localeCompare(b.nome)).forEach(r=>{const o=document.createElement('option');o.value=r.id;o.textContent=r.nome;og.appendChild(o);});sel.appendChild(og);});
+    const salvo=mem.get('cidade',null);cid=cat.regioes.some(r=>r.id===salvo)?salvo:'sao-paulo';sel.value=cid;
+    sel.addEventListener('change',()=>{cid=sel.value;mem.set('cidade',cid);tudo();});
+    document.querySelectorAll('input[name=modo]').forEach(i=>i.addEventListener('change',()=>{modo=i.value;mem.set('modo',modo);tudo();}));
+    tudo();
+    $('rodape').textContent='Atualizado em '+new Date(cat.gerado_em).toLocaleString('pt-BR',{dateStyle:'short',timeStyle:'short'})+'. '+cat.regioes.length+' cidades, '+cat.areas.length+' áreas.';
   }).catch(()=>{$('areas').innerHTML='<p class="note">Não foi possível carregar a lista de calendários. Recarregue a página.</p>';});
 })();
 </script>

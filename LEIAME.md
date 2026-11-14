@@ -4,21 +4,14 @@ Calendários assináveis com o que acontece no mundo ao redor de cada região: o
 
 ## Como funciona
 
-- `gerar.py` monta um `.ics` por região e área dentro de `docs/feeds/`, e o `docs/catalogo.json` que o site lê.
-- O GitHub Actions (`.github/workflows/diario.yml`) roda esse script todo dia às 5h17 e publica o resultado.
-- O GitHub Pages serve a pasta `docs/` como site.
-- Lua, céu, sol e feriados são calculados, sem internet. Economia, clima e aves buscam a fonte; se ela falhar, o calendário mantém os dados anteriores em vez de ficar vazio.
+- `gerar.py` monta um `.ics` por lugar e área, um por grupo e um com tudo, dentro de `docs/feeds/`, e o `docs/catalogo.json` que o site lê. Esses arquivos não ficam no repositório: são gerados e publicados direto no site.
+- O GitHub Actions (`.github/workflows/diario.yml`) roda todo dia às 5h17 e a cada mudança nos textos, e publica no GitHub Pages (fonte: GitHub Actions).
+- Áreas calculadas não precisam de internet. Áreas com dados ao vivo buscam a fonte; se ela falhar, o calendário mantém os dados da geração anterior, lidos do próprio site, e a falha vira uma issue com o rótulo `falha`.
+- Cada área tem um emoji, que entra no título dos eventos.
 
-## Colocar no ar (uma vez)
+## Link pessoal (opcional)
 
-1. Crie uma conta em github.com.
-2. Crie um repositório **público** chamado `agenda-do-mundo`, vazio.
-3. Envie estes arquivos para ele.
-4. Em **Settings > Pages**, escolha "Deploy from a branch", branch `main`, pasta `/docs`.
-5. Em **Actions**, abra "Gerar calendários" e toque em **Run workflow** para a primeira geração.
-6. O site fica em `https://SEU-USUARIO.github.io/agenda-do-mundo/`.
-
-Aves: crie uma chave gratuita em ebird.org/api/keygen e salve em **Settings > Secrets and variables > Actions** com o nome `EBIRD_KEY`. Sem a chave, a área de aves só não aparece.
+`servico/worker.js` é um serviço pequeno para o Cloudflare Workers (plano gratuito). Com ele, a pessoa marca as áreas no site e recebe um link só dela; quando muda as marcações, o mesmo link passa a entregar o novo conjunto, sem assinar de novo e sem duplicar. Para ligar: criar o Worker e um KV chamado `AGENDA` (`npx wrangler kv namespace create AGENDA`, colar o id em `servico/wrangler.toml`, `npx wrangler deploy`) e pôr o endereço em `servico_url` no `config.json`. Sem ele, o site oferece tudo num calendário, um por grupo, ou área por área.
 
 ## Mudar regiões e áreas
 

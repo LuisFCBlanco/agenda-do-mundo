@@ -1,0 +1,28 @@
+name: Sugerir uma cultura
+description: Uma área que você gostaria de ver na Agenda do Mundo
+title: "Sugestão: "
+labels: ["sugestão"]
+body:
+  - type: input
+    id: cultura
+    attributes:
+      label: Qual cultura?
+      description: Uma profissão, ciência, ofício, tradição ou passatempo.
+      placeholder: "Ex.: apicultura, xadrez, geologia, capoeira"
+    validations:
+      required: true
+  - type: textarea
+    id: inercia
+    attributes:
+      label: O que nela se repete todo ano?
+      description: Ciclos, datas fixas, estações, tradições.
+  - type: textarea
+    id: atualidade
+    attributes:
+      label: O que nela muda toda semana?
+      description: Descobertas, lançamentos, competições, eventos. Se souber, diga onde isso costuma ser publicado.
+  - type: input
+    id: lugar
+    attributes:
+      label: Vale para onde?
+      placeholder: "O mundo, o Brasil, uma região ou uma cidade"

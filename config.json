@@ -10,7 +10,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -23.5475,
-      "lon": -46.6361
+      "lon": -46.6361,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "rio-de-janeiro",
@@ -19,7 +21,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -22.9064,
-      "lon": -43.1822
+      "lon": -43.1822,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "belo-horizonte",
@@ -28,7 +32,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -19.9208,
-      "lon": -43.9378
+      "lon": -43.9378,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "vitoria",
@@ -37,7 +43,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -20.3194,
-      "lon": -40.3378
+      "lon": -40.3378,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "curitiba",
@@ -46,7 +54,9 @@
       "macro": "sul",
       "tz": "America/Sao_Paulo",
       "lat": -25.4278,
-      "lon": -49.2731
+      "lon": -49.2731,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "florianopolis",
@@ -55,7 +65,9 @@
       "macro": "sul",
       "tz": "America/Sao_Paulo",
       "lat": -27.5967,
-      "lon": -48.5492
+      "lon": -48.5492,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "porto-alegre",
@@ -64,7 +76,9 @@
       "macro": "sul",
       "tz": "America/Sao_Paulo",
       "lat": -30.0328,
-      "lon": -51.2302
+      "lon": -51.2302,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "salvador",
@@ -73,7 +87,9 @@
       "macro": "nordeste",
       "tz": "America/Bahia",
       "lat": -12.9756,
-      "lon": -38.491
+      "lon": -38.491,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "recife",
@@ -82,7 +98,9 @@
       "macro": "nordeste",
       "tz": "America/Recife",
       "lat": -8.0539,
-      "lon": -34.8811
+      "lon": -34.8811,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "fortaleza",
@@ -91,7 +109,9 @@
       "macro": "nordeste",
       "tz": "America/Fortaleza",
       "lat": -3.7172,
-      "lon": -38.5431
+      "lon": -38.5431,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "sao-luis",
@@ -100,7 +120,9 @@
       "macro": "nordeste",
       "tz": "America/Fortaleza",
       "lat": -2.5297,
-      "lon": -44.3028
+      "lon": -44.3028,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "teresina",
@@ -109,7 +131,9 @@
       "macro": "nordeste",
       "tz": "America/Fortaleza",
       "lat": -5.0892,
-      "lon": -42.8019
+      "lon": -42.8019,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "natal",
@@ -118,7 +142,9 @@
       "macro": "nordeste",
       "tz": "America/Fortaleza",
       "lat": -5.795,
-      "lon": -35.2094
+      "lon": -35.2094,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "joao-pessoa",
@@ -127,7 +153,9 @@
       "macro": "nordeste",
       "tz": "America/Fortaleza",
       "lat": -7.115,
-      "lon": -34.8631
+      "lon": -34.8631,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "maceio",
@@ -136,7 +164,9 @@
       "macro": "nordeste",
       "tz": "America/Maceio",
       "lat": -9.6658,
-      "lon": -35.7353
+      "lon": -35.7353,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "aracaju",
@@ -145,7 +175,9 @@
       "macro": "nordeste",
       "tz": "America/Maceio",
       "lat": -10.9111,
-      "lon": -37.0717
+      "lon": -37.0717,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "belem",
@@ -154,7 +186,9 @@
       "macro": "norte",
       "tz": "America/Belem",
       "lat": -1.4558,
-      "lon": -48.5044
+      "lon": -48.5044,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "manaus",
@@ -163,7 +197,9 @@
       "macro": "norte",
       "tz": "America/Manaus",
       "lat": -3.1019,
-      "lon": -60.025
+      "lon": -60.025,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "macapa",
@@ -172,7 +208,9 @@
       "macro": "norte",
       "tz": "America/Belem",
       "lat": 0.0389,
-      "lon": -51.0664
+      "lon": -51.0664,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "boa-vista",
@@ -181,7 +219,9 @@
       "macro": "norte",
       "tz": "America/Boa_Vista",
       "lat": 2.8197,
-      "lon": -60.6733
+      "lon": -60.6733,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "porto-velho",
@@ -190,7 +230,9 @@
       "macro": "norte",
       "tz": "America/Porto_Velho",
       "lat": -8.7619,
-      "lon": -63.9039
+      "lon": -63.9039,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "rio-branco",
@@ -199,7 +241,9 @@
       "macro": "norte",
       "tz": "America/Rio_Branco",
       "lat": -9.9747,
-      "lon": -67.81
+      "lon": -67.81,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "palmas",
@@ -208,7 +252,9 @@
       "macro": "norte",
       "tz": "America/Araguaina",
       "lat": -10.1675,
-      "lon": -48.3277
+      "lon": -48.3277,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "brasilia",
@@ -217,7 +263,9 @@
       "macro": "centro-oeste",
       "tz": "America/Sao_Paulo",
       "lat": -15.7797,
-      "lon": -47.9297
+      "lon": -47.9297,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "goiania",
@@ -226,7 +274,9 @@
       "macro": "centro-oeste",
       "tz": "America/Sao_Paulo",
       "lat": -16.6786,
-      "lon": -49.2539
+      "lon": -49.2539,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "cuiaba",
@@ -235,7 +285,9 @@
       "macro": "centro-oeste",
       "tz": "America/Cuiaba",
       "lat": -15.5961,
-      "lon": -56.0967
+      "lon": -56.0967,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "campo-grande",
@@ -244,7 +296,9 @@
       "macro": "centro-oeste",
       "tz": "America/Campo_Grande",
       "lat": -20.4428,
-      "lon": -54.6464
+      "lon": -54.6464,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "lorena",
@@ -253,7 +307,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -22.7308,
-      "lon": -45.1247
+      "lon": -45.1247,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "guaratingueta",
@@ -262,7 +318,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -22.8164,
-      "lon": -45.1925
+      "lon": -45.1925,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "taubate",
@@ -271,7 +329,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -23.0264,
-      "lon": -45.5553
+      "lon": -45.5553,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "sao-jose-dos-campos",
@@ -280,7 +340,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -23.1794,
-      "lon": -45.8869
+      "lon": -45.8869,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "franca",
@@ -289,7 +351,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -20.5386,
-      "lon": -47.4008
+      "lon": -47.4008,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "ribeirao-preto",
@@ -298,7 +362,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -21.1775,
-      "lon": -47.8103
+      "lon": -47.8103,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "campinas",
@@ -307,7 +373,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -22.9056,
-      "lon": -47.0608
+      "lon": -47.0608,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "santos",
@@ -316,7 +384,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -23.9608,
-      "lon": -46.3336
+      "lon": -46.3336,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "sorocaba",
@@ -325,7 +395,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -23.5017,
-      "lon": -47.4581
+      "lon": -47.4581,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "uberlandia",
@@ -334,7 +406,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -18.9186,
-      "lon": -48.2772
+      "lon": -48.2772,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "juiz-de-fora",
@@ -343,7 +417,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -21.7642,
-      "lon": -43.3503
+      "lon": -43.3503,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "montes-claros",
@@ -352,7 +428,9 @@
       "macro": "sudeste",
       "tz": "America/Sao_Paulo",
       "lat": -16.735,
-      "lon": -43.8617
+      "lon": -43.8617,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "londrina",
@@ -361,7 +439,9 @@
       "macro": "sul",
       "tz": "America/Sao_Paulo",
       "lat": -23.3103,
-      "lon": -51.1628
+      "lon": -51.1628,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "joinville",
@@ -370,7 +450,9 @@
       "macro": "sul",
       "tz": "America/Sao_Paulo",
       "lat": -26.3044,
-      "lon": -48.8456
+      "lon": -48.8456,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "caxias-do-sul",
@@ -379,7 +461,9 @@
       "macro": "sul",
       "tz": "America/Sao_Paulo",
       "lat": -29.1681,
-      "lon": -51.1794
+      "lon": -51.1794,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "feira-de-santana",
@@ -388,7 +472,9 @@
       "macro": "nordeste",
       "tz": "America/Bahia",
       "lat": -12.2667,
-      "lon": -38.9667
+      "lon": -38.9667,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "campina-grande",
@@ -397,7 +483,9 @@
       "macro": "nordeste",
       "tz": "America/Fortaleza",
       "lat": -7.2306,
-      "lon": -35.8811
+      "lon": -35.8811,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "petrolina",
@@ -406,7 +494,9 @@
       "macro": "nordeste",
       "tz": "America/Recife",
       "lat": -9.3986,
-      "lon": -40.5008
+      "lon": -40.5008,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "santarem",
@@ -415,7 +505,9 @@
       "macro": "norte",
       "tz": "America/Belem",
       "lat": -2.4431,
-      "lon": -54.7083
+      "lon": -54.7083,
+      "pais": "BR",
+      "pais_nome": "Brasil"
     },
     {
       "id": "dourados",
@@ -424,57 +516,675 @@
       "macro": "centro-oeste",
       "tz": "America/Campo_Grande",
       "lat": -22.2211,
-      "lon": -54.8056
+      "lon": -54.8056,
+      "pais": "BR",
+      "pais_nome": "Brasil"
+    },
+    {
+      "id": "buenos-aires-ar",
+      "nome": "Buenos Aires",
+      "uf": "",
+      "macro": null,
+      "pais": "AR",
+      "pais_nome": "Argentina",
+      "tz": "America/Argentina/Buenos_Aires",
+      "lat": -34.6131,
+      "lon": -58.3772
+    },
+    {
+      "id": "cordoba-ar",
+      "nome": "Córdoba",
+      "uf": "",
+      "macro": null,
+      "pais": "AR",
+      "pais_nome": "Argentina",
+      "tz": "America/Argentina/Cordoba",
+      "lat": -31.4065,
+      "lon": -64.1885
+    },
+    {
+      "id": "santiago-cl",
+      "nome": "Santiago",
+      "uf": "",
+      "macro": null,
+      "pais": "CL",
+      "pais_nome": "Chile",
+      "tz": "America/Santiago",
+      "lat": -33.4569,
+      "lon": -70.6483
+    },
+    {
+      "id": "montevideu-uy",
+      "nome": "Montevidéu",
+      "uf": "",
+      "macro": null,
+      "pais": "UY",
+      "pais_nome": "Uruguai",
+      "tz": "America/Montevideo",
+      "lat": -34.9033,
+      "lon": -56.1882
+    },
+    {
+      "id": "assuncao-py",
+      "nome": "Assunção",
+      "uf": "",
+      "macro": null,
+      "pais": "PY",
+      "pais_nome": "Paraguai",
+      "tz": "America/Asuncion",
+      "lat": -25.2865,
+      "lon": -57.647
+    },
+    {
+      "id": "lima-pe",
+      "nome": "Lima",
+      "uf": "",
+      "macro": null,
+      "pais": "PE",
+      "pais_nome": "Peru",
+      "tz": "America/Lima",
+      "lat": -12.0432,
+      "lon": -77.0282
+    },
+    {
+      "id": "bogota-co",
+      "nome": "Bogotá",
+      "uf": "",
+      "macro": null,
+      "pais": "CO",
+      "pais_nome": "Colômbia",
+      "tz": "America/Bogota",
+      "lat": 4.6097,
+      "lon": -74.0817
+    },
+    {
+      "id": "medellin-co",
+      "nome": "Medellín",
+      "uf": "",
+      "macro": null,
+      "pais": "CO",
+      "pais_nome": "Colômbia",
+      "tz": "America/Bogota",
+      "lat": 6.245,
+      "lon": -75.5715
+    },
+    {
+      "id": "caracas-ve",
+      "nome": "Caracas",
+      "uf": "",
+      "macro": null,
+      "pais": "VE",
+      "pais_nome": "Venezuela",
+      "tz": "America/Caracas",
+      "lat": 10.488,
+      "lon": -66.8792
+    },
+    {
+      "id": "quito-ec",
+      "nome": "Quito",
+      "uf": "",
+      "macro": null,
+      "pais": "EC",
+      "pais_nome": "Equador",
+      "tz": "America/Guayaquil",
+      "lat": -0.2298,
+      "lon": -78.525
+    },
+    {
+      "id": "la-paz-bo",
+      "nome": "La Paz",
+      "uf": "",
+      "macro": null,
+      "pais": "BO",
+      "pais_nome": "Bolívia",
+      "tz": "America/La_Paz",
+      "lat": -16.5,
+      "lon": -68.15
+    },
+    {
+      "id": "cidade-do-mexico-mx",
+      "nome": "Cidade do México",
+      "uf": "",
+      "macro": null,
+      "pais": "MX",
+      "pais_nome": "México",
+      "tz": "America/Mexico_City",
+      "lat": 19.4285,
+      "lon": -99.1277
+    },
+    {
+      "id": "havana-cu",
+      "nome": "Havana",
+      "uf": "",
+      "macro": null,
+      "pais": "CU",
+      "pais_nome": "Cuba",
+      "tz": "America/Havana",
+      "lat": 23.133,
+      "lon": -82.383
+    },
+    {
+      "id": "washington-us",
+      "nome": "Washington",
+      "uf": "",
+      "macro": null,
+      "pais": "US",
+      "pais_nome": "Estados Unidos",
+      "tz": "America/New_York",
+      "lat": 38.8951,
+      "lon": -77.0364
+    },
+    {
+      "id": "nova-york-us",
+      "nome": "Nova York",
+      "uf": "",
+      "macro": null,
+      "pais": "US",
+      "pais_nome": "Estados Unidos",
+      "tz": "America/New_York",
+      "lat": 40.7143,
+      "lon": -74.006
+    },
+    {
+      "id": "los-angeles-us",
+      "nome": "Los Angeles",
+      "uf": "",
+      "macro": null,
+      "pais": "US",
+      "pais_nome": "Estados Unidos",
+      "tz": "America/Los_Angeles",
+      "lat": 34.0522,
+      "lon": -118.2437
+    },
+    {
+      "id": "miami-us",
+      "nome": "Miami",
+      "uf": "",
+      "macro": null,
+      "pais": "US",
+      "pais_nome": "Estados Unidos",
+      "tz": "America/New_York",
+      "lat": 25.7743,
+      "lon": -80.1937
+    },
+    {
+      "id": "toronto-ca",
+      "nome": "Toronto",
+      "uf": "",
+      "macro": null,
+      "pais": "CA",
+      "pais_nome": "Canadá",
+      "tz": "America/Toronto",
+      "lat": 43.7064,
+      "lon": -79.3986
+    },
+    {
+      "id": "lisboa-pt",
+      "nome": "Lisboa",
+      "uf": "",
+      "macro": null,
+      "pais": "PT",
+      "pais_nome": "Portugal",
+      "tz": "Europe/Lisbon",
+      "lat": 38.7251,
+      "lon": -9.1498
+    },
+    {
+      "id": "porto-pt",
+      "nome": "Porto",
+      "uf": "",
+      "macro": null,
+      "pais": "PT",
+      "pais_nome": "Portugal",
+      "tz": "Europe/Lisbon",
+      "lat": 41.1485,
+      "lon": -8.611
+    },
+    {
+      "id": "madri-es",
+      "nome": "Madri",
+      "uf": "",
+      "macro": null,
+      "pais": "ES",
+      "pais_nome": "Espanha",
+      "tz": "Europe/Madrid",
+      "lat": 40.4165,
+      "lon": -3.7026
+    },
+    {
+      "id": "barcelona-es",
+      "nome": "Barcelona",
+      "uf": "",
+      "macro": null,
+      "pais": "ES",
+      "pais_nome": "Espanha",
+      "tz": "Europe/Madrid",
+      "lat": 41.3888,
+      "lon": 2.159
+    },
+    {
+      "id": "paris-fr",
+      "nome": "Paris",
+      "uf": "",
+      "macro": null,
+      "pais": "FR",
+      "pais_nome": "França",
+      "tz": "Europe/Paris",
+      "lat": 48.8534,
+      "lon": 2.3488
+    },
+    {
+      "id": "londres-gb",
+      "nome": "Londres",
+      "uf": "",
+      "macro": null,
+      "pais": "GB",
+      "pais_nome": "Reino Unido",
+      "tz": "Europe/London",
+      "lat": 51.5085,
+      "lon": -0.1257
+    },
+    {
+      "id": "berlim-de",
+      "nome": "Berlim",
+      "uf": "",
+      "macro": null,
+      "pais": "DE",
+      "pais_nome": "Alemanha",
+      "tz": "Europe/Berlin",
+      "lat": 52.5244,
+      "lon": 13.4105
+    },
+    {
+      "id": "roma-it",
+      "nome": "Roma",
+      "uf": "",
+      "macro": null,
+      "pais": "IT",
+      "pais_nome": "Itália",
+      "tz": "Europe/Rome",
+      "lat": 41.8919,
+      "lon": 12.5113
+    },
+    {
+      "id": "amsterda-nl",
+      "nome": "Amsterdã",
+      "uf": "",
+      "macro": null,
+      "pais": "NL",
+      "pais_nome": "Países Baixos",
+      "tz": "Europe/Amsterdam",
+      "lat": 52.374,
+      "lon": 4.8897
+    },
+    {
+      "id": "bruxelas-be",
+      "nome": "Bruxelas",
+      "uf": "",
+      "macro": null,
+      "pais": "BE",
+      "pais_nome": "Bélgica",
+      "tz": "Europe/Brussels",
+      "lat": 50.8505,
+      "lon": 4.3488
+    },
+    {
+      "id": "viena-at",
+      "nome": "Viena",
+      "uf": "",
+      "macro": null,
+      "pais": "AT",
+      "pais_nome": "Áustria",
+      "tz": "Europe/Vienna",
+      "lat": 48.2085,
+      "lon": 16.3721
+    },
+    {
+      "id": "varsovia-pl",
+      "nome": "Varsóvia",
+      "uf": "",
+      "macro": null,
+      "pais": "PL",
+      "pais_nome": "Polônia",
+      "tz": "Europe/Warsaw",
+      "lat": 52.2298,
+      "lon": 21.0118
+    },
+    {
+      "id": "atenas-gr",
+      "nome": "Atenas",
+      "uf": "",
+      "macro": null,
+      "pais": "GR",
+      "pais_nome": "Grécia",
+      "tz": "Europe/Athens",
+      "lat": 37.9838,
+      "lon": 23.7278
+    },
+    {
+      "id": "istambul-tr",
+      "nome": "Istambul",
+      "uf": "",
+      "macro": null,
+      "pais": "TR",
+      "pais_nome": "Turquia",
+      "tz": "Europe/Istanbul",
+      "lat": 41.0138,
+      "lon": 28.9497
+    },
+    {
+      "id": "moscou-ru",
+      "nome": "Moscou",
+      "uf": "",
+      "macro": null,
+      "pais": "RU",
+      "pais_nome": "Rússia",
+      "tz": "Europe/Moscow",
+      "lat": 55.752,
+      "lon": 37.6178
+    },
+    {
+      "id": "cairo-eg",
+      "nome": "Cairo",
+      "uf": "",
+      "macro": null,
+      "pais": "EG",
+      "pais_nome": "Egito",
+      "tz": "Africa/Cairo",
+      "lat": 30.0626,
+      "lon": 31.2497
+    },
+    {
+      "id": "lagos-ng",
+      "nome": "Lagos",
+      "uf": "",
+      "macro": null,
+      "pais": "NG",
+      "pais_nome": "Nigéria",
+      "tz": "Africa/Lagos",
+      "lat": 6.4541,
+      "lon": 3.3947
+    },
+    {
+      "id": "nairobi-ke",
+      "nome": "Nairóbi",
+      "uf": "",
+      "macro": null,
+      "pais": "KE",
+      "pais_nome": "Quênia",
+      "tz": "Africa/Nairobi",
+      "lat": -1.2833,
+      "lon": 36.8167
+    },
+    {
+      "id": "joanesburgo-za",
+      "nome": "Joanesburgo",
+      "uf": "",
+      "macro": null,
+      "pais": "ZA",
+      "pais_nome": "África do Sul",
+      "tz": "Africa/Johannesburg",
+      "lat": -26.2023,
+      "lon": 28.0436
+    },
+    {
+      "id": "luanda-ao",
+      "nome": "Luanda",
+      "uf": "",
+      "macro": null,
+      "pais": "AO",
+      "pais_nome": "Angola",
+      "tz": "Africa/Luanda",
+      "lat": -8.8368,
+      "lon": 13.2343
+    },
+    {
+      "id": "maputo-mz",
+      "nome": "Maputo",
+      "uf": "",
+      "macro": null,
+      "pais": "MZ",
+      "pais_nome": "Moçambique",
+      "tz": "Africa/Maputo",
+      "lat": -25.9655,
+      "lon": 32.5832
+    },
+    {
+      "id": "jerusalem-il",
+      "nome": "Jerusalém",
+      "uf": "",
+      "macro": null,
+      "pais": "IL",
+      "pais_nome": "Israel",
+      "tz": "Asia/Jerusalem",
+      "lat": 31.769,
+      "lon": 35.2163
+    },
+    {
+      "id": "dubai-ae",
+      "nome": "Dubai",
+      "uf": "",
+      "macro": null,
+      "pais": "AE",
+      "pais_nome": "Emirados Árabes",
+      "tz": "Asia/Dubai",
+      "lat": 25.0772,
+      "lon": 55.3093
+    },
+    {
+      "id": "riad-sa",
+      "nome": "Riad",
+      "uf": "",
+      "macro": null,
+      "pais": "SA",
+      "pais_nome": "Arábia Saudita",
+      "tz": "Asia/Riyadh",
+      "lat": 24.6877,
+      "lon": 46.7219
+    },
+    {
+      "id": "teera-ir",
+      "nome": "Teerã",
+      "uf": "",
+      "macro": null,
+      "pais": "IR",
+      "pais_nome": "Irã",
+      "tz": "Asia/Tehran",
+      "lat": 35.6944,
+      "lon": 51.4215
+    },
+    {
+      "id": "nova-delhi-in",
+      "nome": "Nova Délhi",
+      "uf": "",
+      "macro": null,
+      "pais": "IN",
+      "pais_nome": "Índia",
+      "tz": "Asia/Kolkata",
+      "lat": 28.6214,
+      "lon": 77.2148
+    },
+    {
+      "id": "mumbai-in",
+      "nome": "Mumbai",
+      "uf": "",
+      "macro": null,
+      "pais": "IN",
+      "pais_nome": "Índia",
+      "tz": "Asia/Kolkata",
+      "lat": 19.0728,
+      "lon": 72.8826
+    },
+    {
+      "id": "pequim-cn",
+      "nome": "Pequim",
+      "uf": "",
+      "macro": null,
+      "pais": "CN",
+      "pais_nome": "China",
+      "tz": "Asia/Shanghai",
+      "lat": 39.9075,
+      "lon": 116.3972
+    },
+    {
+      "id": "xangai-cn",
+      "nome": "Xangai",
+      "uf": "",
+      "macro": null,
+      "pais": "CN",
+      "pais_nome": "China",
+      "tz": "Asia/Shanghai",
+      "lat": 31.2222,
+      "lon": 121.4581
+    },
+    {
+      "id": "toquio-jp",
+      "nome": "Tóquio",
+      "uf": "",
+      "macro": null,
+      "pais": "JP",
+      "pais_nome": "Japão",
+      "tz": "Asia/Tokyo",
+      "lat": 35.6895,
+      "lon": 139.6917
+    },
+    {
+      "id": "seul-kr",
+      "nome": "Seul",
+      "uf": "",
+      "macro": null,
+      "pais": "KR",
+      "pais_nome": "Coreia do Sul",
+      "tz": "Asia/Seoul",
+      "lat": 37.566,
+      "lon": 126.9784
+    },
+    {
+      "id": "bangkok-th",
+      "nome": "Bangkok",
+      "uf": "",
+      "macro": null,
+      "pais": "TH",
+      "pais_nome": "Tailândia",
+      "tz": "Asia/Bangkok",
+      "lat": 13.754,
+      "lon": 100.5014
+    },
+    {
+      "id": "jacarta-id",
+      "nome": "Jacarta",
+      "uf": "",
+      "macro": null,
+      "pais": "ID",
+      "pais_nome": "Indonésia",
+      "tz": "Asia/Jakarta",
+      "lat": -6.2146,
+      "lon": 106.8451
+    },
+    {
+      "id": "singapura-sg",
+      "nome": "Singapura",
+      "uf": "",
+      "macro": null,
+      "pais": "SG",
+      "pais_nome": "Singapura",
+      "tz": "Asia/Singapore",
+      "lat": 1.2897,
+      "lon": 103.8501
+    },
+    {
+      "id": "sydney-au",
+      "nome": "Sydney",
+      "uf": "",
+      "macro": null,
+      "pais": "AU",
+      "pais_nome": "Austrália",
+      "tz": "Australia/Sydney",
+      "lat": -33.8678,
+      "lon": 151.2073
+    },
+    {
+      "id": "auckland-nz",
+      "nome": "Auckland",
+      "uf": "",
+      "macro": null,
+      "pais": "NZ",
+      "pais_nome": "Nova Zelândia",
+      "tz": "Pacific/Auckland",
+      "lat": -36.8485,
+      "lon": 174.7635
     }
   ],
   "areas": [
     {
       "id": "lua",
       "nome": "Lua",
-      "grupo": "Céu e tempo",
+      "grupo": "Céu, espaço e tempo",
       "escopo": "local",
       "fonte": "cálculo astronômico (PyEphem)",
-      "resumo": "As quatro fases, com a hora boa de olhar na sua cidade."
+      "resumo": "As quatro fases, com a hora boa de olhar na sua cidade.",
+      "emoji": "🌙",
+      "alcance": "local"
     },
     {
       "id": "ceu",
       "nome": "Céu da noite",
-      "grupo": "Céu e tempo",
+      "grupo": "Céu, espaço e tempo",
       "escopo": "local",
       "fonte": "cálculo astronômico (PyEphem)",
-      "resumo": "Planetas ao anoitecer e antes do amanhecer, Lua perto de planetas, chuvas de meteoros."
+      "resumo": "Planetas ao anoitecer e antes do amanhecer, Lua perto de planetas, chuvas de meteoros.",
+      "emoji": "✨",
+      "alcance": "local"
     },
     {
       "id": "sol",
       "nome": "Nascer e pôr do sol",
-      "grupo": "Céu e tempo",
+      "grupo": "Céu, espaço e tempo",
       "escopo": "local",
       "fonte": "cálculo astronômico (PyEphem)",
-      "resumo": "Todo dia, com a duração do dia e quanto ela mudou desde ontem."
+      "resumo": "Todo dia, com a duração do dia e quanto ela mudou desde ontem.",
+      "emoji": "🌅",
+      "alcance": "local"
     },
     {
       "id": "estacoes",
       "nome": "Estações do ano",
-      "grupo": "Céu e tempo",
+      "grupo": "Céu, espaço e tempo",
       "escopo": "local",
       "fonte": "cálculo astronômico (PyEphem)",
-      "resumo": "Só os solstícios e equinócios, com o momento exato e o porquê."
+      "resumo": "Só os solstícios e equinócios, com o momento exato e o porquê.",
+      "emoji": "🌗",
+      "alcance": "local"
     },
     {
       "id": "clima",
       "nome": "Previsão do tempo",
-      "grupo": "Céu e tempo",
+      "grupo": "Céu, espaço e tempo",
       "escopo": "local",
       "fonte": "Open-Meteo",
-      "resumo": "Máxima, mínima, chance de chuva e índice UV dos próximos 7 dias."
+      "resumo": "Máxima, mínima, chance de chuva e índice UV dos próximos 7 dias.",
+      "emoji": "🌦️",
+      "alcance": "local"
     },
     {
       "id": "ar",
       "nome": "Qualidade do ar",
-      "grupo": "Céu e tempo",
+      "grupo": "Céu, espaço e tempo",
       "escopo": "local",
       "fonte": "Open-Meteo (modelo CAMS)",
-      "resumo": "Índice de qualidade do ar previsto para os próximos dias, com o que fazer em cada faixa."
+      "resumo": "Índice de qualidade do ar previsto para os próximos dias, com o que fazer em cada faixa.",
+      "emoji": "💨",
+      "alcance": "local"
+    },
+    {
+      "id": "lancamentos",
+      "nome": "Lançamentos espaciais",
+      "grupo": "Céu, espaço e tempo",
+      "escopo": "nacional",
+      "emoji": "🚀",
+      "fonte": "The Space Devs, Launch Library 2",
+      "resumo": "Foguetes com data marcada no mundo inteiro: quem lança, de onde e para quê.",
+      "alcance": "mundo"
     },
     {
       "id": "avifauna",
@@ -482,7 +1192,9 @@
       "grupo": "Natureza",
       "escopo": "regional",
       "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
-      "resumo": "Uma ave por dia: o que ela está fazendo agora na sua região, com o canto."
+      "resumo": "Uma ave por dia: o que ela está fazendo agora na sua região, com o canto.",
+      "emoji": "🐦",
+      "alcance": "brasil"
     },
     {
       "id": "aves",
@@ -490,7 +1202,9 @@
       "grupo": "Natureza",
       "escopo": "local",
       "fonte": "eBird (Cornell Lab)",
-      "resumo": "Espécies vistas por observadores num raio de 25 km na última semana."
+      "resumo": "Espécies vistas por observadores num raio de 25 km na última semana.",
+      "emoji": "🔭",
+      "alcance": "local"
     },
     {
       "id": "botanica",
@@ -498,7 +1212,9 @@
       "grupo": "Natureza",
       "escopo": "regional",
       "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
-      "resumo": "Uma planta por dia florindo ou frutificando agora na sua região, e quem a poliniza."
+      "resumo": "Uma planta por dia florindo ou frutificando agora na sua região, e quem a poliniza.",
+      "emoji": "🌸",
+      "alcance": "brasil"
     },
     {
       "id": "entomologia",
@@ -506,7 +1222,69 @@
       "grupo": "Natureza",
       "escopo": "regional",
       "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
-      "resumo": "Um inseto por dia ativo agora, com o papel dele no ecossistema."
+      "resumo": "Um inseto por dia ativo agora, com o papel dele no ecossistema.",
+      "emoji": "🦋",
+      "alcance": "brasil"
+    },
+    {
+      "id": "terremotos",
+      "nome": "Terremotos",
+      "grupo": "Natureza",
+      "escopo": "nacional",
+      "emoji": "🌋",
+      "fonte": "USGS, Serviço Geológico dos Estados Unidos",
+      "resumo": "Terremotos fortes no mundo (magnitude 6 ou mais) e qualquer tremor relevante na América do Sul.",
+      "alcance": "mundo"
+    },
+    {
+      "id": "materiais",
+      "nome": "Materiais e siderurgia",
+      "grupo": "Ciência e tecnologia",
+      "escopo": "nacional",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Aço, cerâmica, polímeros e as descobertas de engenharia de materiais na semana.",
+      "emoji": "⚙️",
+      "alcance": "mundo"
+    },
+    {
+      "id": "biologia",
+      "nome": "Biologia",
+      "grupo": "Ciência e tecnologia",
+      "escopo": "nacional",
+      "emoji": "🧬",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Descobertas, espécies novas, genética, microbiologia e ecologia, e as datas que a biologia celebra.",
+      "alcance": "mundo"
+    },
+    {
+      "id": "geociencias",
+      "nome": "Geociências",
+      "grupo": "Ciência e tecnologia",
+      "escopo": "nacional",
+      "emoji": "🪨",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Vulcões em atividade, descobertas geológicas, minerais, fósseis e clima do passado.",
+      "alcance": "mundo"
+    },
+    {
+      "id": "ciencia",
+      "nome": "Física, química e matemática",
+      "grupo": "Ciência e tecnologia",
+      "escopo": "nacional",
+      "emoji": "⚛️",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Descobertas e prêmios da semana, e as datas que cada ciência guarda.",
+      "alcance": "mundo"
+    },
+    {
+      "id": "tecnologia",
+      "nome": "Tecnologia",
+      "grupo": "Ciência e tecnologia",
+      "escopo": "nacional",
+      "emoji": "💻",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Lançamentos, marcos da computação e da inteligência artificial, e os eventos do setor.",
+      "alcance": "mundo"
     },
     {
       "id": "economia",
@@ -514,7 +1292,9 @@
       "grupo": "Economia e trabalho",
       "escopo": "nacional",
       "fonte": "Banco Central do Brasil (SGS) e pesquisa na web",
-      "resumo": "Selic, dólar, euro e IPCA direto do Banco Central, e o motivo das variações."
+      "resumo": "Selic, dólar, euro e IPCA direto do Banco Central, e o motivo das variações.",
+      "emoji": "📈",
+      "alcance": "brasil"
     },
     {
       "id": "investidor",
@@ -522,7 +1302,9 @@
       "grupo": "Economia e trabalho",
       "escopo": "nacional",
       "fonte": "Banco Central (Focus), IBGE e pesquisa na web",
-      "resumo": "Boletim Focus, divulgações do IBGE (IPCA, PIB, desemprego) e reuniões de política monetária."
+      "resumo": "Boletim Focus, divulgações do IBGE (IPCA, PIB, desemprego) e reuniões de política monetária.",
+      "emoji": "💼",
+      "alcance": "brasil"
     },
     {
       "id": "agro",
@@ -530,7 +1312,9 @@
       "grupo": "Economia e trabalho",
       "escopo": "nacional",
       "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
-      "resumo": "Café, boi, cana, soja, milho, leite, hortaliças, frete, fertilizante e indústria, quando o fato chega ao bolso."
+      "resumo": "Café, boi, cana, soja, milho, leite, hortaliças, frete, fertilizante e indústria, quando o fato chega ao bolso.",
+      "emoji": "🌾",
+      "alcance": "brasil"
     },
     {
       "id": "campo",
@@ -538,7 +1322,9 @@
       "grupo": "Economia e trabalho",
       "escopo": "regional",
       "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
-      "resumo": "Plantio, colheita e o que está na época na feira da sua região."
+      "resumo": "Plantio, colheita e o que está na época na feira da sua região.",
+      "emoji": "🧺",
+      "alcance": "brasil"
     },
     {
       "id": "energia",
@@ -546,7 +1332,9 @@
       "grupo": "Economia e trabalho",
       "escopo": "nacional",
       "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
-      "resumo": "Reservatórios, bandeira tarifária e carga do sistema elétrico, com dado oficial."
+      "resumo": "Reservatórios, bandeira tarifária e carga do sistema elétrico, com dado oficial.",
+      "emoji": "💧",
+      "alcance": "brasil"
     },
     {
       "id": "feriados",
@@ -554,7 +1342,9 @@
       "grupo": "Culturas e tradições",
       "escopo": "local",
       "fonte": "python-holidays",
-      "resumo": "Feriados nacionais e do seu estado."
+      "resumo": "Feriados nacionais e do seu estado.",
+      "emoji": "📅",
+      "alcance": "local"
     },
     {
       "id": "cultura",
@@ -562,7 +1352,9 @@
       "grupo": "Culturas e tradições",
       "escopo": "regional",
       "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
-      "resumo": "Festas tradicionais, religiosas e populares da sua região."
+      "resumo": "Festas tradicionais, religiosas e populares da sua região.",
+      "emoji": "🎭",
+      "alcance": "brasil"
     },
     {
       "id": "judaico",
@@ -570,7 +1362,9 @@
       "grupo": "Culturas e tradições",
       "escopo": "nacional",
       "fonte": "calendário hebraico (convertdate)",
-      "resumo": "Festas judaicas com a data exata, que começam ao pôr do sol da véspera."
+      "resumo": "Festas judaicas com a data exata, que começam ao pôr do sol da véspera.",
+      "emoji": "🕎",
+      "alcance": "mundo"
     },
     {
       "id": "islamico",
@@ -578,7 +1372,9 @@
       "grupo": "Culturas e tradições",
       "escopo": "nacional",
       "fonte": "calendário hijri tabular (convertdate)",
-      "resumo": "Ramadã, Eid e outras datas, estimadas pelo calendário lunar."
+      "resumo": "Ramadã, Eid e outras datas, estimadas pelo calendário lunar.",
+      "emoji": "☪️",
+      "alcance": "mundo"
     },
     {
       "id": "chines",
@@ -586,7 +1382,9 @@
       "grupo": "Culturas e tradições",
       "escopo": "nacional",
       "fonte": "cálculo astronômico e python-holidays",
-      "resumo": "As 24 estações solares chinesas e as grandes festas do calendário lunissolar."
+      "resumo": "As 24 estações solares chinesas e as grandes festas do calendário lunissolar.",
+      "emoji": "🏮",
+      "alcance": "mundo"
     },
     {
       "id": "hindu",
@@ -594,7 +1392,9 @@
       "grupo": "Culturas e tradições",
       "escopo": "nacional",
       "fonte": "python-holidays (calendário oficial da Índia)",
-      "resumo": "Diwali, Holi e as festas do calendário hindu."
+      "resumo": "Diwali, Holi e as festas do calendário hindu.",
+      "emoji": "🪔",
+      "alcance": "mundo"
     },
     {
       "id": "vedico",
@@ -602,7 +1402,19 @@
       "grupo": "Culturas e tradições",
       "escopo": "local",
       "fonte": "cálculo astronômico (PyEphem)",
-      "resumo": "Tithi e nakshatra de cada dia, Ekadashi e as passagens do Sol pelos signos siderais."
+      "resumo": "Tithi e nakshatra de cada dia, Ekadashi e as passagens do Sol pelos signos siderais.",
+      "emoji": "🕉️",
+      "alcance": "local"
+    },
+    {
+      "id": "liturgia",
+      "nome": "Calendário cristão",
+      "grupo": "Culturas e tradições",
+      "escopo": "nacional",
+      "emoji": "✝️",
+      "fonte": "cômputo da Páscoa (dateutil)",
+      "resumo": "Advento, Quaresma, Semana Santa, Pentecostes e as grandes festas, católicas e ortodoxas.",
+      "alcance": "mundo"
     },
     {
       "id": "ayurveda",
@@ -610,7 +1422,9 @@
       "grupo": "Corpo e saúde",
       "escopo": "local",
       "fonte": "cálculo astronômico (PyEphem) e textos da tradição",
-      "resumo": "Brahma muhurta todo dia, os ciclos dos doshas e as estações do Ayurveda, com o que a ciência diz."
+      "resumo": "Brahma muhurta todo dia, os ciclos dos doshas e as estações do Ayurveda, com o que a ciência diz.",
+      "emoji": "🧘",
+      "alcance": "local"
     },
     {
       "id": "saude",
@@ -618,47 +1432,79 @@
       "grupo": "Corpo e saúde",
       "escopo": "nacional",
       "fonte": "Ministério da Saúde e OMS",
-      "resumo": "Campanhas do mês e dias mundiais de saúde."
+      "resumo": "Campanhas do mês e dias mundiais de saúde.",
+      "emoji": "🩺",
+      "alcance": "brasil"
     },
     {
       "id": "historia",
       "nome": "Aconteceu neste dia",
-      "grupo": "História, ciência e lazer",
+      "grupo": "Artes, lazer e história",
       "escopo": "nacional",
       "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
-      "resumo": "Um fato por dia de ciência, técnica, astronomia, línguas e cultura."
-    },
-    {
-      "id": "materiais",
-      "nome": "Materiais e siderurgia",
-      "grupo": "História, ciência e lazer",
-      "escopo": "nacional",
-      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
-      "resumo": "Aço, cerâmica, polímeros e as descobertas de engenharia de materiais na semana."
+      "resumo": "Um fato por dia de ciência, técnica, astronomia, línguas e cultura.",
+      "emoji": "📜",
+      "alcance": "mundo"
     },
     {
       "id": "dias",
       "nome": "Datas e dias internacionais",
-      "grupo": "História, ciência e lazer",
+      "grupo": "Artes, lazer e história",
       "escopo": "nacional",
       "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
-      "resumo": "Dias da ONU e datas comemorativas, com o porquê de cada um."
+      "resumo": "Dias da ONU e datas comemorativas, com o porquê de cada um.",
+      "emoji": "🗓️",
+      "alcance": "mundo"
     },
     {
       "id": "esporte",
       "nome": "Esporte",
-      "grupo": "História, ciência e lazer",
+      "grupo": "Artes, lazer e história",
       "escopo": "nacional",
       "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
-      "resumo": "Jogos e competições com data confirmada."
+      "resumo": "Jogos e competições com data confirmada.",
+      "emoji": "⚽",
+      "alcance": "brasil"
     },
     {
       "id": "telas",
       "nome": "Cinema e streaming",
-      "grupo": "História, ciência e lazer",
+      "grupo": "Artes, lazer e história",
       "escopo": "nacional",
       "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
-      "resumo": "Estreias no cinema e nas plataformas, com data confirmada."
+      "resumo": "Estreias no cinema e nas plataformas, com data confirmada.",
+      "emoji": "🎬",
+      "alcance": "brasil"
+    },
+    {
+      "id": "musica",
+      "nome": "Música",
+      "grupo": "Artes, lazer e história",
+      "escopo": "nacional",
+      "emoji": "🎵",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Lançamentos, festivais e turnês com data, e os aniversários que a música guarda.",
+      "alcance": "mundo"
+    },
+    {
+      "id": "letras",
+      "nome": "Literatura e artes",
+      "grupo": "Artes, lazer e história",
+      "escopo": "nacional",
+      "emoji": "📚",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "Lançamentos de livros, exposições, prêmios literários e teatro, com data.",
+      "alcance": "mundo"
+    },
+    {
+      "id": "gastronomia",
+      "nome": "Gastronomia",
+      "grupo": "Artes, lazer e história",
+      "escopo": "nacional",
+      "emoji": "🍲",
+      "fonte": "texto do Claude com pesquisa na web, fonte em cada evento",
+      "resumo": "O que está na época na cozinha, festivais de comida e a história dos pratos.",
+      "alcance": "brasil"
     }
   ],
   "macros": {
@@ -669,11 +1515,13 @@
     "sul": "Sul"
   },
   "grupos": [
-    "Céu e tempo",
+    "Céu, espaço e tempo",
     "Natureza",
+    "Ciência e tecnologia",
     "Economia e trabalho",
     "Culturas e tradições",
     "Corpo e saúde",
-    "História, ciência e lazer"
-  ]
+    "Artes, lazer e história"
+  ],
+  "servico_url": ""
 }

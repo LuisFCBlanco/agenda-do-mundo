@@ -1,0 +1,8 @@
+name = "agenda-do-mundo"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+# Depois de criar o KV (npx wrangler kv namespace create AGENDA), cole o id aqui.
+[[kv_namespaces]]
+binding = "AGENDA"
+id = "COLE_AQUI_O_ID_DO_KV"

@@ -159,10 +159,10 @@ PLANETAS = [("Mercúrio", ephem.Mercury), ("Vênus", ephem.Venus), ("Marte", eph
             ("Júpiter", ephem.Jupiter), ("Saturno", ephem.Saturn)]
 
 CHUVAS = [
-    (4, 22, "Líridas", "Radiante baixo no norte: daqui do Sudeste aparecem poucos meteoros. Melhor depois das 3h."),
-    (5, 6, "Eta Aquáridas", "Uma das melhores chuvas para o hemisfério sul. Olhe para o leste nas duas horas antes do amanhecer. São grãos deixados pelo cometa Halley."),
+    (4, 22, "Líridas", "Melhor no hemisfério norte; no hemisfério sul o radiante fica baixo no norte e aparecem poucos meteoros. Melhor depois das 3h."),
+    (5, 6, "Eta Aquáridas", "Uma das melhores chuvas do hemisfério sul. Olhe para o leste nas duas horas antes do amanhecer. São grãos deixados pelo cometa Halley."),
     (7, 30, "Delta Aquáridas do Sul", "Favorecida no hemisfério sul. Melhor depois da meia-noite, com o radiante alto."),
-    (8, 12, "Perseidas", "Famosa no hemisfério norte; daqui o radiante fica muito baixo e se vê pouco."),
+    (8, 12, "Perseidas", "A grande chuva do verão do hemisfério norte; no hemisfério sul o radiante fica muito baixo e se vê pouco."),
     (10, 21, "Oriônidas", "Outra chuva de grãos do cometa Halley. Melhor depois da meia-noite, olhando para o leste."),
     (11, 17, "Leônidas", "O radiante nasce de madrugada a leste. A taxa costuma ser baixa, mas os meteoros são rápidos."),
     (12, 14, "Geminídeas", "A chuva mais forte do ano. O radiante nasce no nordeste por volta das 22h; o melhor é depois da meia-noite. Vem do asteroide Faetonte, não de um cometa."),
@@ -270,32 +270,40 @@ def area_sol(reg):
 
 def area_estacoes(reg):
     out = []
-    marcos = [(ephem.next_vernal_equinox, "Equinócio: começa o outono",
-               "Dia e noite com quase a mesma duração. Daqui em diante os dias encurtam até o solstício de junho."),
-              (ephem.next_summer_solstice, "Solstício: começa o inverno",
-               "Noite mais longa do ano no hemisfério sul. O Sol do meio-dia fica no ponto mais baixo do ano."),
-              (ephem.next_autumnal_equinox, "Equinócio: começa a primavera",
-               "Dia e noite com quase a mesma duração. Daqui em diante os dias crescem até o solstício de dezembro."),
-              (ephem.next_winter_solstice, "Solstício: começa o verão",
-               "Dia mais longo do ano no hemisfério sul. O Sol do meio-dia passa quase a pino no Trópico de Capricórnio, que corta o estado de São Paulo.")]
+    sul = reg.get("lat", -1) < 0
+    nomes = (["outono", "inverno", "primavera", "verão"] if sul else ["primavera", "verão", "outono", "inverno"])
+    marcos = [(ephem.next_vernal_equinox, "Equinócio: começa o outono" if sul else "Equinócio: começa a primavera",
+               "Dia e noite com quase a mesma duração. Daqui em diante os dias " + ("encurtam" if sul else "crescem") + " até o solstício de junho."),
+              (ephem.next_summer_solstice, f"Solstício: começa o {nomes[1]}",
+               ("Noite mais longa" if sul else "Dia mais longo") + " do ano nesta cidade. O Sol do meio-dia fica no ponto " + ("mais baixo" if sul else "mais alto") + " do ano."),
+              (ephem.next_autumnal_equinox, "Equinócio: começa a primavera" if sul else "Equinócio: começa o outono",
+               "Dia e noite com quase a mesma duração. Daqui em diante os dias " + ("crescem" if sul else "encurtam") + " até o solstício de dezembro."),
+              (ephem.next_winter_solstice, f"Solstício: começa o {nomes[3]}",
+               ("Dia mais longo" if sul else "Noite mais longa") + " do ano nesta cidade. O Sol do meio-dia fica no ponto " + ("mais alto" if sul else "mais baixo") + " do ano; no Trópico de Capricórnio ele passa a pino.")]
     for fn, titulo, texto in marcos:
         t = fn(ephem.Date(datetime.combine(INI, datetime.min.time())))
         q = local(t)
         if q.date() <= FIM_ANO:
             out.append(ev(f"sol-marco-{q:%Y%m%d}", titulo, q, q + timedelta(minutes=30),
-                          f"{texto}\nMomento exato: {q.strftime('%d/%m/%Y')} às {hm(q)}.\n\nA causa é a inclinação de 23,4° do eixo da Terra, não a distância ao Sol: a Terra fica mais perto do Sol em janeiro, no nosso verão, e o hemisfério norte está no inverno nessa mesma época.\n\nBase: PyEphem."))
+                          f"{texto}\nMomento exato: {q.strftime('%d/%m/%Y')} às {hm(q)}.\n\nA causa é a inclinação de 23,4° do eixo da Terra, não a distância ao Sol: a Terra fica mais perto do Sol em janeiro, quando é verão no hemisfério sul e inverno no norte.\n\nBase: PyEphem."))
     return out
 
 
 # ---------------------------------------------------------------- Feriados
 def area_feriados(reg):
     anos = list(range(INI.year, FIM_ANO.year + 1))
-    est = holidays.Brazil(subdiv=reg["uf"], years=anos, language="pt_BR")
-    nac = holidays.Brazil(years=anos)
+    pais = reg.get("pais", "BR")
+    cls = holidays.country_holidays(pais).__class__
+    langs = getattr(cls, "supported_languages", ())
+    lang = next((l for l in ("pt_BR", "pt_PT", "en_US") if l in langs), None)
+    kw = {"language": lang} if lang else {}
+    sub = reg.get("uf") if pais == "BR" and reg.get("uf") else None
+    est = holidays.country_holidays(pais, subdiv=sub, years=anos, **kw)
+    nac = holidays.country_holidays(pais, years=anos)
     out = []
     for d, nome in sorted(est.items()):
         if INI <= d <= FIM_ANO:
-            tipo = "Feriado nacional" if d in nac else f"Feriado estadual ({reg['uf']})"
+            tipo = f"Feriado nacional ({reg.get('pais_nome', pais)})" if d in nac else f"Feriado estadual ({sub})"
             out.append(ev(f"feriado-{d:%Y%m%d}", nome, d, descricao=f"{tipo}. Feriados municipais ainda não entram nesta agenda.\n\nBase: biblioteca holidays (python-holidays).", dia_todo=True))
     return out
 
@@ -598,18 +606,29 @@ def area_saude(reg):
 
 
 # ---------------------------------------------------------------- dados ao vivo
+FALHAS_HOST = {}  # disjuntor: host que falhou 3 vezes seguidas não é mais tentado nesta execução
+
+
 def busca_json(url, headers=None):
-    """Busca JSON com até 3 tentativas: fontes públicas às vezes demoram no aperto de mão TLS."""
+    """Busca JSON com até 3 tentativas. Um host que falha 3 buscas seguidas é abandonado até a próxima execução,
+    para uma fonte fora do ar não segurar a geração de todas as cidades."""
     import time
+    host = urllib.parse.urlsplit(url).netloc
+    if os.environ.get("SEM_REDE") or FALHAS_HOST.get(host, 0) >= 3:
+        raise ConnectionError(f"{host} fora do ar nesta execução")
     req = urllib.request.Request(url, headers={"User-Agent": "agenda-do-mundo/1.0", **(headers or {})})
     for tentativa in range(3):
         try:
-            with urllib.request.urlopen(req, timeout=45) as r:
-                return json.loads(r.read().decode("utf-8"))
+            with urllib.request.urlopen(req, timeout=30) as r:
+                dados = json.loads(r.read().decode("utf-8"))
+            FALHAS_HOST[host] = 0
+            return dados
         except (urllib.error.URLError, TimeoutError, ConnectionError) as ex:
-            if isinstance(ex, urllib.error.HTTPError) and ex.code < 500 and ex.code != 429:
+            definitivo = isinstance(ex, urllib.error.HTTPError) and ex.code < 500 and ex.code != 429
+            if definitivo:
                 raise
             if tentativa == 2:
+                FALHAS_HOST[host] = FALHAS_HOST.get(host, 0) + 1
                 raise
             time.sleep(3 * (tentativa + 1))
 
@@ -809,6 +828,80 @@ def area_aves(reg):
     return out
 
 
+# ---------------------------------------------------------------- calendário cristão
+def area_liturgia(reg):
+    from dateutil import easter as cp
+    out = []
+    def add(d, titulo, texto, chave):
+        if INI <= d <= FIM_ANO:
+            out.append(ev(f"lit-{chave}-{d:%Y}", titulo, d, dia_todo=True, descricao=texto + "\n\nBase: cômputo da Páscoa (dateutil), regra do Concílio de Niceia."))
+    for ano in range(INI.year, FIM_ANO.year + 2):
+        p = cp.easter(ano)
+        po = cp.easter(ano, cp.EASTER_ORTHODOX)
+        regra = "A Páscoa cai no primeiro domingo depois da primeira Lua cheia a partir do equinócio de março, por isso muda de data todo ano e arrasta junto Carnaval, Quaresma, Pentecostes e Corpus Christi."
+        add(p - timedelta(days=47), "Terça de Carnaval", "Último dia antes da Quaresma; o nome vem de carne vale, o adeus à carne. " + regra, "carnaval")
+        add(p - timedelta(days=46), "Quarta-feira de Cinzas", "Começa a Quaresma, 40 dias de preparação para a Páscoa, com jejum e penitência. " + regra, "cinzas")
+        add(p - timedelta(days=7), "Domingo de Ramos", "Abre a Semana Santa, lembrando a entrada de Jesus em Jerusalém.", "ramos")
+        add(p - timedelta(days=2), "Sexta-feira Santa", "Lembra a crucificação; dia de jejum e silêncio nas igrejas.", "sexta")
+        add(p, "Páscoa", "A ressurreição, a festa mais importante do calendário cristão. " + regra, "pascoa")
+        add(p + timedelta(days=49), "Pentecostes", "50 dias depois da Páscoa: a descida do Espírito Santo sobre os apóstolos.", "pentecostes")
+        add(p + timedelta(days=60), "Corpus Christi", "Celebra a eucaristia; em muitas cidades as ruas ganham tapetes de serragem colorida para a procissão.", "corpus")
+        if po != p:
+            add(po, "Páscoa ortodoxa", "As igrejas ortodoxas calculam a Páscoa pelo calendário juliano, por isso ela costuma cair depois da Páscoa ocidental.", "pascoa-ort")
+        natal = date(ano, 12, 25)
+        adv = natal - timedelta(days=natal.isoweekday() % 7 + 21)
+        add(adv, "Começa o Advento", "Quatro domingos de preparação para o Natal, que abrem o ano litúrgico. A coroa do Advento ganha uma vela acesa a cada domingo.", "advento")
+        add(adv - timedelta(days=7), "Cristo Rei", "Último domingo do ano litúrgico católico.", "cristo-rei")
+        add(natal, "Natal", "O nascimento de Jesus. A data de 25 de dezembro se firmou em Roma no século 4, perto do solstício de inverno do hemisfério norte.", "natal")
+        add(date(ano, 1, 6), "Dia de Reis (Epifania)", "A visita dos Reis Magos; no Brasil encerra o ciclo das folias de Reis.", "reis")
+        add(date(ano, 11, 1), "Dia de Todos os Santos", "Celebra todos os santos, conhecidos ou não.", "santos")
+        add(date(ano, 11, 2), "Finados", "Dia de lembrar os mortos, com visitas aos cemitérios.", "finados")
+    return out
+
+
+# ---------------------------------------------------------------- terremotos e lançamentos
+def area_terremotos(reg):
+    j = busca_json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson")
+    out = []
+    for f in j["features"]:
+        p, (lon, lat, prof) = f["properties"], f["geometry"]["coordinates"]
+        mag = p.get("mag") or 0
+        america_sul = -60 < lat < 15 and -85 < lon < -30
+        if mag < 6 and not (america_sul and mag >= 4.5):
+            continue
+        t = datetime.fromtimestamp(p["time"] / 1000, tz=timezone.utc).astimezone(ZoneInfo(FUSO_BR))
+        intensidade = "muito forte" if mag >= 7 else ("forte" if mag >= 6 else "moderado")
+        out.append(ev(f"sismo-{f['id']}", f"Terremoto de magnitude {br(mag, 1)}: {p.get('place', '')}", t, t + timedelta(minutes=15), descricao=
+                      f"Tremor {intensidade} de magnitude {br(mag, 1)} a {br(prof, 0)} km de profundidade, em {p.get('place', '')}"
+                      f"{'; o USGS emitiu alerta de tsunami' if p.get('tsunami') else ''}.\n\n"
+                      "A escala de magnitude é logarítmica: cada ponto a mais libera cerca de 32 vezes mais energia. A maioria dos grandes terremotos acontece nas bordas das placas tectônicas, "
+                      "como o Círculo de Fogo do Pacífico; o Brasil fica no meio da placa Sul-Americana, por isso os tremores aqui são raros e fracos.\n"
+                      f"{p.get('url', '')}\n\nBase: USGS, Serviço Geológico dos Estados Unidos."))
+    return out
+
+
+def area_lancamentos(reg):
+    j = busca_json("https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=40&mode=normal")
+    out = []
+    for x in j.get("results", []):
+        try:
+            t = datetime.fromisoformat(x["net"].replace("Z", "+00:00")).astimezone(ZoneInfo(FUSO_BR))
+        except (KeyError, ValueError):
+            continue
+        if not (INI <= t.date() <= FIM):
+            continue
+        st = (x.get("status") or {}).get("name", "")
+        lsp = (x.get("launch_service_provider") or {}).get("name", "")
+        pad = x.get("pad") or {}
+        missao = x.get("mission") or {}
+        foguete = ((x.get("rocket") or {}).get("configuration") or {}).get("full_name", "")
+        out.append(ev(f"lanc-{x.get('id', x.get('name'))}", f"Lançamento: {x.get('name', '')}", t, t + timedelta(minutes=30), descricao=
+                      f"{lsp} lança o {foguete} de {pad.get('name', '')}, {(pad.get('location') or {}).get('name', '')}. Situação: {st}.\n\n"
+                      f"{missao.get('description') or ''}\n\n"
+                      "Data e hora podem mudar até o último minuto por clima ou problema técnico; a agenda se atualiza todo dia.\n\nBase: The Space Devs, Launch Library 2."))
+    return out
+
+
 # ---------------------------------------------------------------- textos escritos pelo Claude (tarefas semanais)
 SELO = {"sazonal": "", "agenda": "", "confirmar": "Data provável: confira antes de contar com ela."}
 
@@ -849,8 +942,9 @@ def textos(escopo, aid):
 CALC = {"lua": area_lua, "ceu": area_ceu, "sol": area_sol, "estacoes": area_estacoes, "feriados": area_feriados,
         "judaico": area_judaico, "islamico": area_islamico, "chines": area_chines, "hindu": area_hindu,
         "vedico": area_vedico, "ayurveda": area_ayurveda, "saude": area_saude,
-        "economia": area_economia, "investidor": area_investidor, "clima": area_clima, "ar": area_ar, "aves": area_aves}
-AO_VIVO = {"economia", "investidor", "clima", "ar", "aves"}  # acumulam histórico e mantêm o anterior se a fonte cair
+        "economia": area_economia, "investidor": area_investidor, "clima": area_clima, "ar": area_ar, "aves": area_aves,
+        "liturgia": area_liturgia, "terremotos": area_terremotos, "lancamentos": area_lancamentos}
+AO_VIVO = {"economia", "investidor", "clima", "ar", "aves", "terremotos", "lancamentos"}  # acumulam histórico e mantêm o anterior se a fonte cair
 
 
 # ---------------------------------------------------------------- saída
@@ -890,6 +984,27 @@ def chave_ordem(e):
     return s if "T" in s else s + "T00:00"
 
 
+SITE = os.environ.get("SITE_URL", "https://luisfcblanco.github.io/agenda-do-mundo")
+
+
+def acumula(aid):
+    return aid in AO_VIVO or aid not in CALC
+
+
+def anterior(lugar_id, aid):
+    """Eventos publicados na última geração, lidos do próprio site (só áreas que acumulam histórico)."""
+    if not acumula(aid) or os.environ.get("SEM_ANTERIOR") or os.environ.get("SEM_REDE"):
+        return []
+    try:
+        return busca_json(f"{SITE}/feeds/{lugar_id}/{aid}.json")
+    except Exception:
+        return []
+
+
+def com_emoji(eventos, emoji):
+    return [dict(e, titulo=f"{emoji} {e['titulo']}") for e in eventos]
+
+
 def gerar_area(area, lugar, escopo_textos, catalogo):
     """Calcula uma área para um lugar, junta os textos do Claude e grava .json e .ics. Devolve os eventos."""
     global TZ
@@ -898,7 +1013,7 @@ def gerar_area(area, lugar, escopo_textos, catalogo):
     pasta = SAIDA / lugar["id"]
     pasta.mkdir(parents=True, exist_ok=True)
     arq_json = pasta / f"{aid}.json"
-    antigos = json.loads(arq_json.read_text(encoding="utf-8")) if arq_json.exists() else []
+    antigos = json.loads(arq_json.read_text(encoding="utf-8")) if arq_json.exists() else anterior(lugar["id"], aid)
     ok, novos = True, []
     if aid in CALC:
         try:
@@ -908,7 +1023,7 @@ def gerar_area(area, lugar, escopo_textos, catalogo):
             log(f"[{lugar['id']}/{aid}] não atualizou: {type(ex).__name__}: {ex}")
             catalogo["avisos"].append(f"{lugar['id']}/{aid}: {type(ex).__name__}: {ex}")
     extra = textos(escopo_textos, aid) if escopo_textos else []
-    if aid in AO_VIVO or (aid not in CALC):
+    if acumula(aid):
         limite = (HOJE - timedelta(days=30)).isoformat()
         junto = {e["uid"]: e for e in antigos if e["inicio"][:10] >= limite}
         junto.update({e["uid"]: e for e in novos + extra})
@@ -918,8 +1033,9 @@ def gerar_area(area, lugar, escopo_textos, catalogo):
     eventos.sort(key=chave_ordem)
     if not eventos:
         return []
-    arq_json.write_text(json.dumps(eventos, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    (pasta / f"{aid}.ics").write_bytes(para_ics(eventos, f"{area['nome']} · {lugar['nome']}", f"{area['resumo']} Agenda do Mundo."))
+    if acumula(aid):  # só quem acumula histórico precisa do .json publicado
+        arq_json.write_text(json.dumps(eventos, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    (pasta / f"{aid}.ics").write_bytes(para_ics(com_emoji(eventos, area.get("emoji", "")), f"{area['emoji']} {area['nome']} · {lugar['nome']}", f"{area['resumo']} Agenda do Mundo."))
     prox = [e for e in eventos if e["inicio"][:10] >= HOJE.isoformat()]
     catalogo["feeds"].setdefault(lugar["id"], {})[aid] = {"n": len(eventos), "atualizado": ok,
                                                           "proximos": [{"titulo": e["titulo"], "inicio": e["inicio"]} for e in prox[:3]]}
@@ -929,8 +1045,8 @@ def gerar_area(area, lugar, escopo_textos, catalogo):
 def main():
     catalogo = {"projeto": CFG["projeto"], "gerado_em": AGORA.astimezone(ZoneInfo(FUSO_BR)).isoformat(timespec="minutes"),
                 "regioes": CFG["regioes"], "macros": CFG["macros"], "grupos": CFG["grupos"],
-                "areas": [{k: a[k] for k in ("id", "nome", "grupo", "escopo", "resumo", "fonte")} for a in CFG["areas"]],
-                "feeds": {}, "avisos": []}
+                "areas": [{k: a[k] for k in ("id", "nome", "grupo", "escopo", "resumo", "fonte", "emoji", "alcance")} for a in CFG["areas"]],
+                "servico": CFG.get("servico_url", ""), "feeds": {}, "avisos": []}
     brasil = {"id": "brasil", "nome": "Brasil", "tz": FUSO_BR, "lat": -15.7797, "lon": -47.9297, "uf": "DF"}
     por_lugar = {}
     for area in [a for a in CFG["areas"] if a["escopo"] == "nacional"]:
@@ -939,16 +1055,29 @@ def main():
         lugar = {"id": mid, "nome": mnome, "tz": FUSO_BR}
         for area in [a for a in CFG["areas"] if a["escopo"] == "regional"]:
             por_lugar.setdefault(mid, {})[area["id"]] = gerar_area(area, lugar, mid, catalogo)
+    gslug = {g: unicodedata.normalize("NFKD", g).encode("ascii", "ignore").decode().lower().replace(",", "").replace(" ", "-") for g in CFG["grupos"]}
+    catalogo["grupos_id"] = gslug
     for reg in CFG["regioes"]:
-        tudo = []
+        tudo, grupos = [], {}
         for area in CFG["areas"]:
             if area["escopo"] == "local":
                 evs = gerar_area(area, reg, None, catalogo)
+            elif area["escopo"] == "regional":
+                evs = por_lugar.get(reg.get("macro") or "", {}).get(area["id"], [])
+            elif reg.get("pais", "BR") == "BR" or area.get("alcance") == "mundo":
+                evs = por_lugar.get("brasil", {}).get(area["id"], [])
             else:
-                evs = por_lugar.get("brasil" if area["escopo"] == "nacional" else reg["macro"], {}).get(area["id"], [])
-            tudo += [dict(e, titulo=f"{area['nome']}: {e['titulo']}") for e in evs]
+                evs = []
+            evs = com_emoji(evs, area["emoji"])
+            tudo += evs
+            grupos.setdefault(area["grupo"], []).extend(evs)
         tudo.sort(key=chave_ordem)
-        (SAIDA / reg["id"] / "tudo.ics").write_bytes(para_ics(tudo, f"Agenda do Mundo · {reg['nome']}", "Todas as áreas da Agenda do Mundo."))
+        pasta = SAIDA / reg["id"]
+        pasta.mkdir(parents=True, exist_ok=True)
+        (pasta / "tudo.ics").write_bytes(para_ics(tudo, f"Agenda do Mundo · {reg['nome']}", "Todas as áreas da Agenda do Mundo."))
+        for g, evs in grupos.items():
+            evs.sort(key=chave_ordem)
+            (pasta / f"grupo-{gslug[g]}.ics").write_bytes(para_ics(evs, f"{g} · {reg['nome']}", f"Agenda do Mundo: {g}."))
         log(f"[{reg['id']}] {len(tudo)} eventos no total")
     # avisos repetidos por cidade viram um só por área e tipo de erro
     vistos, avisos = set(), []
