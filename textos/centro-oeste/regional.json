@@ -1,1 +1,52 @@
-[]
+[
+ {
+  "area": "campo",
+  "titulo": "Mato Grosso termina de plantar a soja",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas chapadas do Médio-Norte de Mato Grosso a soja já cobre o chão de verde, e as plantadeiras que ainda rodam estão nas últimas áreas, sobretudo nos solos arenosos, que a Conab descreve como quase concluídos no boletim de 9 de novembro. O estado andou rápido nesta safra 2026/27: em 23 de outubro o Imea já contava 75,81% da área semeada, com 96,6% no Médio-Norte e o Sudeste mato-grossense, que costuma plantar mais tarde, adiantado. A pressa tem motivo: quanto antes a soja vai para a terra, antes é colhida em janeiro e fevereiro, e maior a chance de o milho de segunda safra ser plantado dentro da janela ideal de chuva.",
+  "confianca": "sazonal",
+  "fonte": "Imea, painel de indicadores de 23/10/2026, em Revista Cultivar; Conab, Progresso de Safra, boletim de 09/11/2026"
+ },
+ {
+  "area": "campo",
+  "titulo": "Goiás planta arroz, milho e feijão com a chuva",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "A chuva de novembro pôs Goiás inteiro para plantar. Segundo a Conab, o arroz começou pelas áreas irrigadas do Vale do Araguaia e se intensificou no Centro e no Leste do estado, com o Sudoeste quase terminado; o milho de verão se concentra no Centro e no Leste; e o feijão de primeira safra é favorecido pela umidade, principalmente no Leste. A soja goiana também avança com bom desenvolvimento. É a fase em que o cerrado troca a paisagem cinzenta da seca pelo verde das lavouras, e em que a regularidade da chuva das próximas semanas decide o tamanho da safra.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Progresso de Safra e Monitoramento das Condições das Lavouras, boletim de 09/11/2026"
+ },
+ {
+  "area": "campo",
+  "titulo": "Pequi enche as bancas e as panelas de Goiás",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas feiras e beiras de estrada de Goiás o pequi é vendido em sacos e baldes, e o cheiro forte do arroz com pequi toma as cozinhas. O pequizeiro, árvore nativa do cerrado, floresce no fim da seca e dá frutos com as primeiras chuvas da primavera e do começo do verão; quase todo o pequi vendido é coletado de árvores nativas, não de pomares, por isso a oferta muda bastante de um ano para outro conforme a florada. A Ceasa Goiás é a maior central de comercialização do fruto: em 2025, até o fim de outubro, registrou 2.266 toneladas de pequi vendidas, num valor acima de R$ 4 milhões.",
+  "confianca": "sazonal",
+  "fonte": "Ceasa Goiás, Festa do Pequi celebra tradição e liderança da Ceasa/GO (governo de Goiás, 28/10/2025)"
+ },
+ {
+  "area": "campo",
+  "titulo": "Melancia de Uruana sai do pico; batata cai em Brasília",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "A safra de melancia de Uruana, no Vale de São Patrício, em Goiás, passou do pico em meados de outubro e agora manda a oferta que restou para as Ceasas, ao lado da fruta que já chega do sul da Bahia. Na Ceasa do Distrito Federal a melancia ainda subiu 16% em outubro, na contramão da maioria das centrais, enquanto a batata caiu 21% na mesma comparação, com mais oferta no Sudeste. Para novembro a Conab espera melancia de qualidade vindo de Goiás, Bahia e São Paulo, sem alta forte de preço.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Prohort, Resumo Executivo Semanal nº 41 (04/11/2026), dados de 27 Ceasas"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Roda dos Saberes Ancestrais fecha o mês negro em Campo Grande",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 120,
+  "descricao": "No Dia da Consciência Negra, o Instituto Projeto Livres, em Campo Grande, fecha sua programação de novembro com uma roda de conversa sobre a memória de Raimunda Luzia de Brito e do Coletivo de Mulheres Negras de Mato Grosso do Sul, com Ana José Alves e Cleuza Pedrosa Odorico. O instituto mantém o projeto Som do Afoxé, com a banda BatuqueCanta, que toca percussão em instrumentos feitos de material reciclado, e a exposição Africanidades, com 21 obras feitas com materiais reaproveitados, em cartaz no saguão do Tribunal de Justiça de MS durante o mês.",
+  "confianca": "agenda",
+  "fonte": "Correio do Estado, Instituição aborda a valorização da cultura africana e afro-brasileira em uma mostra de resistência (09/11/2026)"
+ }
+]
