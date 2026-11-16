@@ -168,5 +168,45 @@
   "descricao": "Em 23 de novembro de 1924, o New York Times publicou uma nota curta: o astrônomo Edwin Hubble, no observatório do monte Wilson, na Califórnia, tinha confirmado que as nebulosas espirais são sistemas de estrelas como o nosso. Até ali se discutia se aquelas manchas no céu eram nuvens dentro da Via Láctea. Hubble achou em Andrômeda estrelas que pulsam, as cefeidas. Henrietta Leavitt tinha mostrado anos antes que, nesse tipo de estrela, o tempo de cada pulso entrega o brilho verdadeiro. Comparando com o brilho que chega aqui, sai a distância, e ela era grande demais para caber na nossa galáxia. O resultado formal foi lido numa reunião de astrônomos em 1º de janeiro de 1925.",
   "confianca": "agenda",
   "fonte": "The New York Times, 23/11/1924, Finds spiral nebulae are stellar systems; Hubble, E., 1925, Cepheids in spiral nebulae, Publications of the American Astronomical Society 5"
+ },
+ {
+  "area": "tecnologia",
+  "titulo": "Xiaomi apresenta em Paris a linha 18 Pro",
+  "data": "2026-11-17",
+  "hora": "10:00",
+  "duracao_min": 60,
+  "descricao": "Às 14h de Paris (10h em Brasília), a Xiaomi faz o lançamento global dos celulares 18 Pro e 18 Pro Max, já vendidos na China. A data foi confirmada pela própria empresa. É o momento em que se ficam conhecendo preço e países de venda fora do mercado chinês. Um detalhe a observar: os registros de certificação das versões globais indicam baterias menores que as dos modelos chineses, diferença que costuma vir de regras de transporte e de homologação de cada região.",
+  "confianca": "agenda",
+  "fonte": "Xiaomi, anúncio oficial da data; The Tech Outlook, 10/11/2026; Beebom Gadgets, agenda de lançamentos de 16 a 22/11/2026"
+ },
+ {
+  "area": "tecnologia",
+  "titulo": "Semana dos supercomputadores em Chicago",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "De 15 a 20 de novembro, mais de 14 mil pessoas que constroem e usam as maiores máquinas de cálculo do planeta se reúnem no McCormick Place, em Chicago, para a SC26. É na SC de novembro que sai, todo ano, a segunda edição da lista TOP500, o ranking dos computadores mais rápidos do mundo, medido por um teste padrão de resolução de sistemas de equações. Na lista de junho, divulgada em Hamburgo, a liderança passou para o chinês LineShine, de Shenzhen, com 2,198 exaflops (mais de 2 quintilhões de operações por segundo), mais de 20% à frente do americano El Capitan. Previsão de tempo, projeto de remédio e treino de modelos de inteligência artificial rodam em máquinas desse porte.",
+  "confianca": "agenda",
+  "fonte": "TOP500, 67ª lista, 23/06/2026 (top500.org); SC26, ACM/IEEE Supercomputing Conference, Chicago, 15 a 20/11/2026"
+ },
+ {
+  "area": "tecnologia",
+  "titulo": "Windows 1.0 chega às lojas, 1985",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em 20 de novembro de 1985 a Microsoft começou a vender um programa que rodava por cima do MS-DOS e trocava a tela preta de comandos por janelas, menus e um ponteiro de mouse. Custava 99 dólares e pedia 256 kilobytes de memória. As janelas ainda não podiam ficar umas sobre as outras, só lado a lado, e vinham junto uma calculadora, um bloco de notas, o Paint e o jogo Reversi. Vendeu pouco. A ideia de apontar e clicar em vez de decorar comandos, nascida nos laboratórios da Xerox e popularizada pelo Macintosh no ano anterior, só tomaria conta dos PCs com a versão 3.0, em 1990.",
+  "confianca": "agenda",
+  "fonte": "Microsoft, comunicado de lançamento do Windows 1.0, 20/11/1985; Computer History Museum, Timeline of Computer History, 1985"
+ },
+ {
+  "area": "tecnologia",
+  "titulo": "Primeira ligação permanente da rede que virou a internet",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em 21 de novembro de 1969 ficou no ar, de vez, a linha entre um computador da Universidade da Califórnia em Los Angeles e outro do Instituto de Pesquisa de Stanford. Era o primeiro enlace fixo da ARPANET, três semanas depois da primeira mensagem de teste. No começo de dezembro a rede tinha quatro pontos, com Santa Barbara e Utah. A novidade estava no jeito de mandar a informação: em vez de reservar um fio inteiro para cada conversa, como no telefone, a mensagem era picada em pacotes que viajavam cada um pelo caminho livre e se remontavam na chegada. A internet de hoje funciona pelo mesmo princípio.",
+  "confianca": "agenda",
+  "fonte": "Computer History Museum, Internet History 1962 to 1992; UCLA, registro do IMP de Leonard Kleinrock, 1969"
  }
 ]
