@@ -1,1 +1,242 @@
-[]
+[
+ {
+  "area": "avifauna",
+  "titulo": "Quero-quero defende os filhotes no Pampa",
+  "data": "2026-11-17",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "Quem atravessa um campo, uma praça ou até um gramado de estádio no Rio Grande do Sul nesta época leva um rasante e um grito estridente, \"quero-quero\". É o quero-quero (Vanellus chilensis) defendendo o ninho, uma simples depressão no chão, ou os filhotes pintadinhos que já correm pelo capim poucas horas depois de sair do ovo. A reprodução no Sul vai do fim do inverno ao começo do verão. Ele tem um esporão vermelho na dobra da asa e vigia também à noite, o que lhe deu fama de sentinela dos pampas.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Quero-quero (Vanellus chilensis), https://www.wikiaves.com.br/wiki/quero-quero; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Vanellus-chilensis; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Corticeira-do-banhado acende de vermelho",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Na beira do Guaíba, nos banhados da Depressão Central e nas várzeas do litoral gaúcho e catarinense, as corticeiras-do-banhado (Erythrina crista-galli) ficam cobertas de flores vermelho-vivo em forma de crista de galo, sobre um tronco torto de casca grossa e cortiçosa. Ela floresce da primavera ao verão. A flor vermelha, sem perfume e cheia de néctar, é feita para aves: beija-flores e passarinhos como cambacicas e sanhaços vêm beber e saem com pólen na cabeça. É a flor nacional da Argentina e uma árvore típica das áreas alagáveis do Pampa.",
+  "confianca": "sazonal",
+  "fonte": "Lorenzi, H. (1992) Árvores Brasileiras, vol. 1, Instituto Plantarum; Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Erythrina crista-galli"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Saúva solta as içás no Sul",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Depois de uma tarde de chuva forte seguida de calor, os formigueiros de saúva no norte do Paraná, no oeste catarinense e no Rio Grande do Sul soltam as içás, as fêmeas aladas, e os bitus, os machos, e o céu sobre a lavoura fica pontilhado de formiga voando, com bem-te-vis e gaviões caçando no meio. A revoada da primavera depende de solo encharcado: a rainha fecundada perde as asas e cava sozinha a primeira câmara do formigueiro. Poucas sobrevivem, mas uma colônia bem-sucedida chega a milhões de operárias e revolve toneladas de terra.",
+  "confianca": "sazonal",
+  "fonte": "Della Lucia, T.M.C. (org.) (2011) Formigas cortadeiras: da bioecologia ao manejo, Editora UFV"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Papagaio-charão no oco do capão",
+  "data": "2026-11-18",
+  "hora": "06:00",
+  "duracao_min": 30,
+  "descricao": "Nos capões de mato cercados de campo do centro e do nordeste do Rio Grande do Sul, os papagaios-charão (Amazona pretrei), verdes com a testa e os ombros vermelhos, deixaram os grandes bandos do inverno e andam aos pares. Na primavera cada casal ocupa um oco de árvore; a fêmea põe de dois a quatro ovos e choca de 22 a 24 dias, enquanto o macho a alimenta. Entre abril e julho eles migram para a Serra Catarinense atrás do pinhão, e por isso o charão é tratado como o único papagaio migratório do Brasil. Está classificado como vulnerável, ameaçado pela retirada de filhotes do ninho para o tráfico.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Papagaio-charão (Amazona pretrei), https://www.wikiaves.com.br/wiki/papagaio-charao; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Amazona-pretrei; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Cerejeira-do-rio-grande no ponto",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos pomares do interior gaúcho e catarinense e nas matas de araucária, a cerejeira-do-rio-grande (Eugenia involucrata) está com frutinhos alongados, lisos, de vermelho escuro a quase preto, presos por um cabo comprido como cereja de verdade. Floresce no começo da primavera e frutifica a partir de outubro, em poucas semanas. A polpa doce e azedinha some depressa porque sabiás, jacus e bugios disputam com a gente, e são eles que espalham a semente pela mata.",
+  "confianca": "sazonal",
+  "fonte": "Lorenzi, H. (1992) Árvores Brasileiras, vol. 1, Instituto Plantarum; Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Eugenia involucrata"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Guaraipo trabalha na mata de araucária",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas matas de araucária do Planalto catarinense e da Serra Gaúcha, um ninho de abelha sem ferrão escondido num tronco oco tem a entrada de barro em forma de pequeno funil, com uma só abelha de guarda, preta e peluda. É o guaraipo (Melipona bicolor schencki), uma das abelhas nativas mais adaptadas ao frio. Com a primavera, a colônia acelera a postura e a coleta de pólen e néctar nas floradas da mata, e é polinizadora de muitas árvores nativas. Uma peculiaridade da espécie é ter mais de uma rainha poedeira ao mesmo tempo na mesma colônia.",
+  "confianca": "sazonal",
+  "fonte": "Witter, S.; Nunes-Silva, P. (2014) Manual de boas práticas para o manejo e conservação de abelhas nativas (meliponíneos), Fundação Zoobotânica do Rio Grande do Sul"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Gavião-tesoura plana sobre a mata",
+  "data": "2026-11-19",
+  "hora": "09:00",
+  "duracao_min": 30,
+  "descricao": "Sobre as matas do litoral catarinense, do vale do Itajaí e da Serra Gaúcha, um gavião branco por baixo e preto por cima, com a cauda partida em duas pontas longas, plana em círculos e pega insetos e lagartixas no ar sem bater asa. É o gavião-tesoura (Elanoides forficatus), que chega ao Sul em agosto e setembro para se reproduzir e vai embora no fim do verão. Come em voo e bebe raspando a água, e o casal faz o ninho no alto das árvores mais altas, numa forquilha batida pelo vento.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Gavião-tesoura (Elanoides forficatus), https://www.wikiaves.com.br/wiki/gaviao-tesoura; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Elanoides-forficatus; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Erva-mate em flor no planalto",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos ervais nativos e plantados do Paraná, do planalto catarinense e do norte gaúcho, a erva-mate (Ilex paraguariensis) está coberta de florzinhas brancas miúdas, quase escondidas entre as folhas, e o erval inteiro zumbe de abelha. A floração vai da primavera ao começo do verão. A planta é dioica: há pés masculinos e femininos, e só os femininos dão os frutinhos vermelhos e depois pretos, que amadurecem no verão e são comidos e espalhados por aves como sabiás e gralhas.",
+  "confianca": "sazonal",
+  "fonte": "Carvalho, P.E.R. (2003) Espécies Arbóreas Brasileiras, vol. 1, Erva-mate, Embrapa Florestas; Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Ilex paraguariensis"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Mandaçaia multiplica as colônias",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos meliponários do Paraná, de Santa Catarina e do Rio Grande do Sul, as caixas de mandaçaia (Melipona quadrifasciata quadrifasciata), abelha grande, de listras amarelas no abdômen, estão pesadas de cria. É a estação em que os criadores dividem colônias, porque a florada farta e o calor fazem a população crescer. A entrada do ninho é um furinho no barro raiado, por onde passa uma abelha de cada vez. Ela poliniza por vibração, como as mamangavas, e é importante para plantas nativas e para o tomate.",
+  "confianca": "sazonal",
+  "fonte": "Witter, S.; Nunes-Silva, P. (2014) Manual de boas práticas para o manejo e conservação de abelhas nativas (meliponíneos), Fundação Zoobotânica do Rio Grande do Sul"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Suiriri grita na antena",
+  "data": "2026-11-20",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "No alto de antenas, fios e galhos secos de Curitiba, Florianópolis e Porto Alegre, um passarinho de barriga amarela e cabeça cinza solta um trinado chiado e agudo logo cedo e sai em voo curto atrás de um inseto. É o suiriri (Tyrannus melancholicus), que se reproduz no Sul na primavera e no verão e se desloca para o norte no outono. Parece com o bem-te-vi, mas não tem a faixa branca na cabeça. Defende o ninho com coragem, perseguindo gaviões muito maiores.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Suiriri (Tyrannus melancholicus), https://www.wikiaves.com.br/wiki/suiriri; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Tyrannus-melancholicus; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Petúnia branca perfuma o campo à noite",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos campos arenosos e beiras de estrada do Pampa gaúcho, florzinhas brancas de tubo comprido, a petúnia-branca (Petunia axillaris), soltam um perfume forte quando escurece. É a ancestral selvagem das petúnias de jardineira e floresce da primavera ao verão. A flor branca, de tubo longo e cheiro noturno, é ajustada a mariposas esfingídeas, que pairam e alcançam o néctar com a língua comprida; a parente de flor roxa, Petunia integrifolia, é polinizada por abelhas. As duas viraram modelo de estudo de como uma mudança genética troca o polinizador.",
+  "confianca": "sazonal",
+  "fonte": "Hoballah, M.E.; Gübitz, T.; Stuurman, J. et al. (2007) Single gene-mediated shift in pollinator attraction in Petunia, The Plant Cell 19(3); Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Petunia axillaris"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Borboleta-do-maracujá ronda as cercas",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas cercas cobertas de maracujá-do-mato de quintais e beiras de mata do Rio Grande do Sul e de Santa Catarina, uma borboleta de asas pretas compridas, com faixa vermelha e amarela, voa devagar, sem medo. É a Heliconius erato phyllis. Os adultos andam muito ativos nos meses quentes; a fêmea põe ovos só nos brotos de maracujás nativos (Passiflora), e as lagartas acumulam substâncias da planta que deixam a borboleta tóxica para aves. Diferente de quase todas as borboletas, ela come pólen além de néctar, o que lhe permite viver meses.",
+  "confianca": "sazonal",
+  "fonte": "Rodrigues, D.; Moreira, G.R.P. (2002) Geographical variation in larval host-plant use by Heliconius erato (Lepidoptera: Nymphalidae) and consequences for adult life history, Brazilian Journal of Biology 62(2), UFRGS"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Pica-pau-do-campo canta no cupinzeiro",
+  "data": "2026-11-21",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "Nos campos de Vacaria, de Lages e do Pampa, um pica-pau de cara amarela e peito pintado anda pelo chão comendo formigas e cupins ou grita em grupo de cima de um mourão, um \"quiu-quiu-quiu\" alto que se ouve longe. É o pica-pau-do-campo (Colaptes campestris), um pica-pau que vive em área aberta. A primavera é a época de reprodução, e o ninho pode ser cavado num tronco, num poste de madeira ou dentro de um cupinzeiro, onde a temperatura é estável.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Pica-pau-do-campo (Colaptes campestris), https://www.wikiaves.com.br/wiki/pica-pau-do-campo; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Colaptes-campestris; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Guabiroba amarela cai no chão",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos campos com capões e nas matas de araucária do Paraná, de Santa Catarina e do Rio Grande do Sul, a guabirobeira (Campomanesia xanthocarpa) está com frutinhos amarelos e macios, de cheiro forte, que caem e fermentam no chão. A frutificação é concentrada no fim da primavera. Parente da goiaba, ela é alimento de sabiás, jacus, gralhas-azuis, macacos e até do gado, e as sementes saem intactas nas fezes, longe da árvore mãe. A flor branca, que abriu semanas antes, é polinizada por abelhas.",
+  "confianca": "sazonal",
+  "fonte": "Lorenzi, H. (1992) Árvores Brasileiras, vol. 1, Instituto Plantarum; Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Campomanesia xanthocarpa"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Mamangava zumbe no frio da serra",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Na Serra Gaúcha, nos Campos de Cima da Serra e no planalto catarinense, uma abelha grande, peluda e preta, que voa até em manhã fria e garoenta, passa de flor em flor nos campos e jardins. É uma mamangava do gênero Bombus; Bombus pauloensis é uma das quatro espécies nativas registradas no Rio Grande do Sul. Ela consegue trabalhar abaixo de 10 °C porque esquenta o corpo vibrando os músculos do voo, e usa a mesma vibração para arrancar o pólen das flores, a polinização por vibração. Visita flores nativas e também pomares, como os de maçã de Vacaria.",
+  "confianca": "sazonal",
+  "fonte": "Santos, R.S.S. dos (2016) A utilização de bumble bees na polinização de macieiras, Informativo Agapomi 266, Embrapa Uva e Vinho, Vacaria"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Veste-amarela faz ninho no banhado",
+  "data": "2026-11-22",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "Nos banhados e campos úmidos do Rio Grande do Sul, um passarinho preto com a cabeça, os ombros e o uropígio amarelo-vivo canta empoleirado num talo de gravatá. É o veste-amarela (Xanthopsar flavus), ave ameaçada que só vive no Pampa do sul do Brasil e de países vizinhos. De outubro a dezembro a fêmea constrói o ninho na vegetação do banhado, e os vizinhos, como o chupim-do-brejo, ajudam a espantar predadores. Está como vulnerável pela drenagem de banhados para lavoura e pela captura para gaiola.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Veste-amarela (Xanthopsar flavus), https://www.wikiaves.com.br/wiki/veste-amarela; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Xanthopsar-flavus; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Butiá em flor nos butiazais",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos butiazais de Santa Vitória do Palmar, Tapes e da restinga gaúcha, as palmeiras de folhas cinza-azuladas e arqueadas, o butiá (Butia odorata), soltam cachos de flores amareladas e arroxeadas, cheios de abelhas e besouros. A floração é de primavera e começo do verão, e os coquinhos amarelos e alaranjados que vêm dela amadurecem do fim do ano ao outono, alimentando aves, graxains e o gado. Os butiazais são paisagem rara: dependem de manejo que deixe as plantas jovens crescer entre o pasto.",
+  "confianca": "sazonal",
+  "fonte": "Rivas, M.; Barbieri, R.L. (2014) Boas práticas de manejo para o extrativismo sustentável do butiá, Embrapa Clima Temperado; Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Butia odorata"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Mosca-das-frutas acorda com o pêssego",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos pomares de pêssego da região de Pelotas e da Serra Gaúcha, que começam a colheita nesta época, e nos pés de guabiroba e araçá das matas, uma mosquinha de asas manchadas pousa nos frutos que amolecem. É a mosca-das-frutas sul-americana (Anastrepha fraterculus), nativa. A fêmea fura a casca e põe ovos dentro, e as larvas comem a polpa, o que faz dela a principal praga do pessegueiro no Sul. No mato, os hospedeiros originais são frutos de mirtáceas nativas, e as larvas aceleram a queda e a decomposição dos frutos.",
+  "confianca": "sazonal",
+  "fonte": "Nava, D.E.; Botton, M. (2010) Bioecologia e controle de Anastrepha fraterculus e Ceratitis capitata em pessegueiro, Embrapa Clima Temperado"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Maçarico-de-perna-amarela nas lagoas",
+  "data": "2026-11-23",
+  "hora": "07:00",
+  "duracao_min": 30,
+  "descricao": "Nas margens rasas da Lagoa do Peixe, da Lagoa dos Patos e nos arrozais alagados do litoral gaúcho, bandos de aves pernaltas de pernas amarelo-vivo caminham bicando a lama. É o maçarico-de-perna-amarela (Tringa flavipes), que se reproduz na tundra e nas florestas boreais do Canadá e do Alasca e passa o verão do sul aqui, entre setembro e abril. Chega depois de milhares de quilômetros de voo e precisa engordar com pequenos invertebrados da lama. O chamado é um assobio de duas ou três notas, dado quando o bando levanta voo.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Maçarico-de-perna-amarela (Tringa flavipes), https://www.wikiaves.com.br/wiki/macarico-de-perna-amarela; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Tringa-flavipes; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Uvaia amarela e azedinha",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos quintais de Curitiba e do litoral do Paraná e de Santa Catarina, a uvaieira (Eugenia pyriformis) está com frutos amarelo-alaranjados, aveludados, que caem maduros e soltam um cheiro forte e ácido. A frutificação se estende da primavera ao começo do verão. Como outras mirtáceas, tem flor branca com tufo de estames, polinizada por abelhas, e fruto feito para ave e mamífero, que espalham a semente.",
+  "confianca": "sazonal",
+  "fonte": "Lorenzi, H. (1992) Árvores Brasileiras, vol. 1, Instituto Plantarum; Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Eugenia pyriformis"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Vaga-lumes no capim do Paraná",
+  "data": "2026-11-23",
+  "hora": "20:30",
+  "duracao_min": 30,
+  "descricao": "Nas chácaras do entorno de Curitiba, de Londrina e do litoral catarinense, uns quarenta minutos depois do pôr do sol, luzes verde-amareladas começam a piscar baixo, sobre o capim úmido. São vaga-lumes (família Lampyridae), mais ativos na estação quente e chuvosa. As piscadas são conversa: cada espécie tem seu ritmo, e a fêmea responde do chão ao macho que voa. A luz é química e fria, e as larvas, que também brilham, comem lesmas e caramujos. Onde a iluminação artificial é forte, eles desaparecem.",
+  "confianca": "sazonal",
+  "fonte": "Viviani, V.R. (2001) Fireflies (Coleoptera: Lampyridae) from southeastern Brazil: habitats, life history, and bioluminescence, Annals of the Entomological Society of America 94(1)"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Andorinha-de-bando chega do Norte",
+  "data": "2026-11-24",
+  "hora": "07:00",
+  "duracao_min": 30,
+  "descricao": "Nos fios de luz e campos do litoral e da Campanha gaúcha, andorinhas de dorso azul-escuro, garganta ferrugem e cauda com duas pontas finas se juntam em fileiras. É a andorinha-de-bando (Hirundo rustica), que se reproduz na América do Norte e chega ao Sul entre setembro e outubro para passar o verão, indo embora em abril. Aqui ela não faz ninho: só come e troca as penas, caçando moscas e mosquitos em voo baixo sobre pastos e banhados.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Andorinha-de-bando (Hirundo rustica), https://www.wikiaves.com.br/wiki/andorinha-de-bando; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Hirundo-rustica; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Chal-chal vermelhinho para os passarinhos",
+  "data": "2026-11-24",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas matas ciliares e capões do Rio Grande do Sul e nas bordas de mata do Paraná e de Santa Catarina, o chal-chal (Allophylus edulis) está carregado de cachinhos de frutinhas vermelhas e brilhantes, do tamanho de uma ervilha. A frutificação vai da primavera ao começo do verão. É uma das frutas preferidas de sabiás, sanhaços, saíras e jacus, que engolem e espalham as sementes, e por isso a árvore aparece sozinha em cercas e beiras de estrada, plantada pelas aves.",
+  "confianca": "sazonal",
+  "fonte": "Lorenzi, H. (1992) Árvores Brasileiras, vol. 1, Instituto Plantarum; Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Allophylus edulis"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Taturana Lonomia volta aos troncos",
+  "data": "2026-11-24",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Agrupadas lado a lado num tronco de cedro, ipê, pessegueiro ou abacateiro, lagartas verde-amarronzadas e cheias de espinhos ramificados ficam quase invisíveis contra a casca: é a taturana Lonomia obliqua, que causa acidentes graves no Paraná, em Santa Catarina e no Rio Grande do Sul. As mariposas saem dos casulos a partir de novembro e põem ovos, e as lagartas aparecem de novembro a maio. Durante o dia ficam paradas no tronco, à altura da mão, e comem as folhas à noite. O veneno dos espinhos altera a coagulação do sangue: em caso de contato, procure atendimento médico logo, levando algumas lagartas recolhidas com luva ou pinça para identificação.",
+  "confianca": "sazonal",
+  "fonte": "Lorini, I. (Embrapa Trigo); Secchi, V.A. (Emater RS); Duarte, A.C. (UPF), folheto Lagarta (taturana) Lonomia obliqua, Embrapa Trigo, https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/842735/1/FD0122.pdf"
+ }
+]
