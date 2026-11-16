@@ -1,1 +1,242 @@
-[]
+[
+ {
+  "area": "avifauna",
+  "titulo": "Araponga martela na Serra do Mar",
+  "data": "2026-11-17",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "Quem sobe a Serra do Mar entre São Paulo e o Rio ouve, de longe, uma pancada metálica que parece ferreiro batendo bigorna no meio da mata. É o macho da araponga (Procnias nudicollis), branco, com a garganta nua esverdeada, pousado num galho seco no alto das árvores da Mata Atlântica. Na primavera e no começo do verão ele canta o dia inteiro para atrair fêmeas: é época de reprodução, e o ninho, uma plataforma rala de gravetos, fica por conta dela. A espécie é ameaçada pela captura para gaiola justamente por causa desse canto.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Araponga (Procnias nudicollis), https://www.wikiaves.com.br/wiki/araponga; Sick, H. (1997) Ornitologia Brasileira, Nova Fronteira; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Procnias-nudicollis; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Manacá-da-serra muda de cor na encosta",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Na Serra do Mar e nas cidades do litoral paulista e fluminense, as copas do manacá-da-serra (Pleroma mutabile, antes Tibouchina mutabilis) ficam salpicadas de branco, rosa e roxo ao mesmo tempo. Não são três árvores: a flor abre branca e escurece com os dias. A florada vai de novembro a fevereiro. Como nas outras melastomatáceas, o pólen fica preso dentro de anteras com um furo na ponta, e só sai quando uma abelha grande (mamangava, abelhas Centris) agarra a flor e vibra o corpo, a polinização por vibração. A troca de cor indica às abelhas quais flores ainda têm recompensa.",
+  "confianca": "sazonal",
+  "fonte": "Prefeitura de Poá, ficha de arborização 014 Manacá da Serra (floração de novembro a fevereiro); Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Pleroma mutabile; Renner, S.S. (1989) A survey of reproductive biology in Neotropical Melastomataceae, Annals of the Missouri Botanical Garden 76"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Revoada do içá depois da chuva",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Depois de uma chuva forte seguida de sol, os formigueiros de saúva no Vale do Paraíba, no interior paulista e em Minas soltam centenas de içás, as rainhas aladas e gordas, junto com os bitus, os machos. No Vale, em Silveiras e cidades vizinhas, há quem ainda cate içá para torrar com farinha. A revoada acontece entre outubro e dezembro porque o solo úmido e macio é o que a rainha fecundada precisa para cavar a primeira câmara e fundar sozinha um formigueiro novo; a maioria é comida por aves, lagartos e gente antes de conseguir.",
+  "confianca": "sazonal",
+  "fonte": "Della Lucia, T.M.C. (org.) (2011) Formigas cortadeiras: da bioecologia ao manejo, Editora UFV; Gazeta SP, reportagem sobre o içá em Silveiras, https://www.gazetasp.com.br/gazeta-mais/cidade-do-interior-de-sp-preserva-receita-tipica-que-usa-formigas-como/"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Tesourinha voltou ao Cerrado mineiro",
+  "data": "2026-11-18",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "Nos pastos e beiras de estrada do Triângulo Mineiro e do interior paulista, um passarinho cinza com cabeça preta e uma cauda em forquilha duas vezes maior que o corpo dá voltas no ar caçando inseto e volta sempre ao mesmo fio. É a tesourinha (Tyrannus savana), que chegou em agosto e setembro do norte da América do Sul para se reproduzir aqui na estação das chuvas, quando os insetos voadores explodem. O chamado é um estalido seco, repetido, e ao amanhecer os casais fazem um trinado agudo. Em fevereiro e março ela vai embora de novo.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Tesourinha (Tyrannus savana), https://www.wikiaves.com.br/wiki/tesourinha; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Tyrannus-savana; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Pitanga madura no quintal",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "As pitangueiras de quintal e de restinga, do litoral do Espírito Santo ao de São Paulo, estão com frutos passando do laranja ao vermelho e ao quase preto, e o chão embaixo fica cheio de caroço que os sabiás largaram. A pitanga (Eugenia uniflora) floresce no fim do inverno e amadurece de outubro a janeiro. A flor branca, cheia de estames, é visitada por abelhas nativas e pela abelha europeia, que levam o pólen; o fruto é feito para ave, e o sabiá-laranjeira é um dos principais dispersores da semente.",
+  "confianca": "sazonal",
+  "fonte": "Lorenzi, H. (1992) Árvores Brasileiras, vol. 1, Instituto Plantarum; Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Eugenia uniflora"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Cigarra-do-cafeeiro canta nos cafezais",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "No sul de Minas, na Alta Mogiana e nos bairros arborizados do interior paulista, o fim da tarde ganha um zumbido alto que sobe e desce. É a cigarra Quesada gigas, uma das maiores do Brasil. A ninfa passa anos no subsolo sugando seiva de raízes, inclusive de cafeeiros, e sai da terra quando chegam as chuvas de primavera, deixando a casca seca presa nos troncos. Os machos emergem primeiro e cantam em coro para chamar as fêmeas, que só ficam prontas para pôr ovos cerca de três semanas depois de os machos aparecerem, segundo medição feita em São Paulo.",
+  "confianca": "sazonal",
+  "fonte": "Andrade, S.C.; Martinelli, N.M.; Rossi, G.D.; Andrade, D.J. (2017) Giant cicada emergence, protandry and chorus centers formation as revealed by studies using a sound trap, Journal of Insect Behavior 30(3), Unesp Jaboticabal"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Sabiá-laranjeira abre o dia",
+  "data": "2026-11-19",
+  "hora": "05:00",
+  "duracao_min": 30,
+  "descricao": "Ainda escuro, antes das cinco e meia, a primeira voz em muitas cidades do Sudeste é a frase melodiosa e repetida do sabiá-laranjeira (Turdus rufiventris), de barriga cor de ferrugem. A primavera é o auge da reprodução: o macho canta do alto de uma antena ou árvore para marcar território, e a cidade iluminada faz alguns começarem ainda mais cedo. O ninho, uma tigela de barro e raízes, costuma ter dois ou três ovos azul-esverdeados. É a ave símbolo do Brasil e de São Paulo.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Sabiá-laranjeira (Turdus rufiventris), https://www.wikiaves.com.br/wiki/sabia-laranjeira; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Turdus-rufiventris; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Pau-ferro amarelo nas avenidas",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas calçadas e praças de São Paulo, Campinas e Belo Horizonte, árvores de tronco liso e manchado como pele de onça ficam cobertas de cachos amarelos. É o pau-ferro (Libidibia ferrea), da Mata Atlântica e da Caatinga, que floresce do fim da primavera até o verão, com a chegada da umidade. As flores amarelas com uma pétala marcada de vermelho são pista de pouso para abelhas de porte médio e grande, que buscam néctar e pólen; a vagem dura e escura amadurece meses depois, já na seca.",
+  "confianca": "sazonal",
+  "fonte": "Lorenzi, H. (1992) Árvores Brasileiras, vol. 1, Instituto Plantarum; Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Libidibia ferrea"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Aleluias em volta da lâmpada",
+  "data": "2026-11-19",
+  "hora": "18:30",
+  "duracao_min": 30,
+  "descricao": "Numa noite abafada depois da chuva, a luz da varanda fica tomada por bichinhos de asa comprida que caem no chão e largam as asas: são as aleluias, os cupins alados. Nas cidades do Sudeste a revoada costuma ser ao anoitecer, na primavera e no começo do verão, quando a umidade alta protege o corpo mole dos alados do ressecamento. Machos e fêmeas saem juntos de várias colônias ao mesmo tempo, se encontram, perdem as asas e o casal procura madeira ou solo para fundar um ninho. Apagar a luz externa nessas noites reduz a chegada deles à casa.",
+  "confianca": "sazonal",
+  "fonte": "Fontes, L.R.; Berti Filho, E. (eds.) (1998) Cupins: o desafio do conhecimento, FEALQ"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Peitica assobia fino na mata ciliar",
+  "data": "2026-11-20",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "Um assobio agudo e meio triste, \"psiii\", vindo do alto das árvores em parques e matas ciliares de Minas, São Paulo e Rio, é a peitica (Empidonomus varius), um bem-te-vi pequeno e todo rajado. Ela passa o inverno na Amazônia e chega em setembro para se reproduzir no Sudeste. Come insetos apanhados no voo e, nesta época, muitas frutinhas também. O ninho é uma tigelinha rasa numa forquilha alta, às vezes num ninho velho de outra ave.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Peitica (Empidonomus varius), https://www.wikiaves.com.br/wiki/peitica; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Empidonomus-varius; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Pequi florido e o primeiro fruto",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos cerrados do norte de Minas e do Triângulo, os pequizeiros (Caryocar brasiliense) estão com os últimos cachos de flores amarelas de estames longos, e em Minas os primeiros frutos já engordam no galho. Em Minas a florada vai de setembro a novembro. As flores abrem no começo da noite, poucas por cacho de cada vez, e soltam néctar abundante: os polinizadores principais são morcegos. Quando o fruto cai, quem leva a semente são o gambá-de-orelha-branca e a gralha-do-cerrado.",
+  "confianca": "sazonal",
+  "fonte": "Carvalho, P.E.R. (2008) Espécies Arbóreas Brasileiras, vol. 3, Pequizeiro, Embrapa Florestas"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Vaga-lumes nas noites úmidas",
+  "data": "2026-11-20",
+  "hora": "19:15",
+  "duracao_min": 30,
+  "descricao": "Em sítios, parques e beiras de mata do interior paulista e de Minas, logo depois do pôr do sol, pontinhos de luz verde-amarelada piscam baixo sobre o capim. São vaga-lumes, besouros da família Lampyridae, cuja temporada de maior atividade é a estação quente e chuvosa. Cada espécie tem um código de piscadas que machos e fêmeas usam para se encontrar; a luz sai de uma reação química (luciferina com a enzima luciferase) quase sem calor. As larvas, que também brilham, comem caramujos e lesmas. Luz artificial forte atrapalha o encontro e é uma das causas do sumiço deles perto das cidades.",
+  "confianca": "sazonal",
+  "fonte": "Viviani, V.R. (2001) Fireflies (Coleoptera: Lampyridae) from southeastern Brazil: habitats, life history, and bioluminescence, Annals of the Entomological Society of America 94(1)"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Juruviara canta o dia inteiro",
+  "data": "2026-11-21",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "Nas árvores de rua, nos parques e na mata, uma frase curta de três ou quatro notas se repete sem parar, inclusive no calor do meio-dia, quando quase todo mundo se cala. É a juruviara (Vireo chivi), pequena, verde-oliva, com uma sobrancelha clara. As populações que se reproduzem no Sudeste chegam na primavera, vindas do norte, e vão embora no fim do verão. Ela vasculha folha por folha atrás de lagartas, o que, nesta época de folhas novas, é comida farta para os filhotes.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Juruviara (Vireo chivi), https://www.wikiaves.com.br/wiki/juruviara; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Vireo-chivi; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Araticum florido no Cerrado",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos cerrados de Minas e do interior paulista, os araticuns (Annona crassiflora) estão com flores grossas, de pétalas carnosas cor de creme, penduradas nos galhos tortos. A flor fica fechada como um pequeno abrigo e é polinizada à noite por besouros do gênero Cyclocephala, que entram nela para comer tecido e pólen, se acasalar e passar o dia escondidos; ao sair, levam pólen para a próxima. O fruto grande, a marolo dos mineiros, amadurece só no auge das chuvas, a partir do fim do verão.",
+  "confianca": "sazonal",
+  "fonte": "Saravy, F.P.; Marques, M.I.; Schuchmann, K.L. (2021) Coleopteran pollinators of Annonaceae in the Brazilian Cerrado: a review, Diversity 13, 438"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Jataí na boca do tubo de cera",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Num buraco de muro, num mourão ou num poste oco, quase em qualquer cidade do Sudeste, aparece um tubinho de cera amarelada com abelhas minúsculas paradas na entrada. É a jataí (Tetragonisca angustula), abelha sem ferrão. As que ficam pairando diante da entrada são guardas especializadas, e nesta época de muita florada a colônia cresce e pode dividir: um grupo de operárias prepara um ninho novo e leva para lá uma rainha virgem. Visitando flores de quintal e de mata, ela poliniza muitas plantas nativas e cultivadas.",
+  "confianca": "sazonal",
+  "fonte": "Nogueira-Neto, P. (1997) Vida e criação de abelhas indígenas sem ferrão, Editora Nogueirapis"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Sabiá-una desce para a mata baixa",
+  "data": "2026-11-22",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "Nas matas de encosta da Mantiqueira e da Serra do Mar, e até em parques de São Paulo e Belo Horizonte, aparece nesta época um sabiá diferente: o macho é preto com o dorso cinza e bico e pés bem amarelos. É o sabiá-una (Turdus flavipes). Ele faz deslocamentos sazonais entre altitudes e regiões e, na primavera e no verão, se reproduz nas matas do Sudeste, onde canta uma frase variada, cheia de imitações. Gosta de frutinhos e cai fácil em figueiras e palmitos carregados.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Sabiá-una (Turdus flavipes), https://www.wikiaves.com.br/wiki/sabia-una; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Turdus-flavipes; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Pau-terra abre à noite para mariposas",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos cerrados de Minas e do interior paulista, árvores baixas de casca grossa e folhas largas exibem flores amarelas grandes, com uma só pétala desenvolvida e um esporão comprido. É o pau-terra (Qualea grandiflora), que floresce no começo da estação das chuvas. A flor abre ao entardecer e guarda o néctar no fundo do esporão, ao alcance apenas da língua longa de mariposas esfingídeas, que pairam diante dela como beija-flores noturnos; são os seus polinizadores.",
+  "confianca": "sazonal",
+  "fonte": "Oliveira, P.E.; Gibbs, P.E. (2000) Reproductive biology of woody plants in a cerrado community of Central Brazil, Flora 195"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Estaladeira bate as asas no tronco",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Andando num parque arborizado do Sudeste, às vezes se ouve um estalo seco, como de unha batendo, e uma borboleta cinza manchada sai de um tronco onde estava de cabeça para baixo, invisível. É a estaladeira, borboleta do gênero Hamadryas. O estalo é feito pelos machos em voo, na disputa por território. Os adultos são mais vistos nos meses quentes; comem seiva fermentada e fruta caída, não flores, e as lagartas se alimentam de trepadeiras do gênero Dalechampia.",
+  "confianca": "sazonal",
+  "fonte": "Yack, J.E.; Otero, L.D.; Dawson, J.W.; Surlykke, A.; Fullard, J.H. (2000) Sound production and hearing in the blue cracker butterfly Hamadryas feronia from Venezuela, Journal of Experimental Biology 203"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "João-de-barro reforma o forno",
+  "data": "2026-11-23",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "Com o chão molhado das primeiras chuvas, o joão-de-barro (Furnarius rufus) carrega bolinhas de lama no bico e levanta o seu forno em postes, cercas e galhos de pastos do Cerrado mineiro e do interior paulista. O casal trabalha junto e canta em dueto, um trinado alto e acelerado em que macho e fêmea entram fora de compasso. A estação de reprodução vai da primavera ao começo do verão, quando há barro e insetos. Fornos velhos viram casa de andorinhas, tuins e outras aves.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, João-de-barro (Furnarius rufus), https://www.wikiaves.com.br/wiki/joao-de-barro; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Furnarius-rufus; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Grumixama roxa na Mata Atlântica",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em pomares caseiros e nas matas de restinga e encosta entre o Espírito Santo e São Paulo, a grumixameira (Eugenia brasiliensis) fica carregada de frutinhos redondos que passam do vermelho ao roxo quase preto, com o cálice ainda preso na ponta, parente da pitanga e da jabuticaba. A frutificação acontece no fim da primavera e começo do verão. As aves comem os frutos inteiros e espalham as sementes, e por isso a espécie é usada em recuperação de mata.",
+  "confianca": "sazonal",
+  "fonte": "Lorenzi, H. (1992) Árvores Brasileiras, vol. 1, Instituto Plantarum; Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Eugenia brasiliensis"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Mamangava abre o maracujá",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "No começo da tarde, quando a flor do maracujá abre nos pomares do interior paulista e mineiro e nos quintais, uma abelha preta enorme pousa nela e sai coberta de pólen amarelo nas costas. É a mamangava-de-toco (Xylocopa), principal polinizadora do maracujazeiro: a flor é grande demais para a abelha europeia encostar no estigma. Ela faz ninho cavando galerias em madeira seca, e por isso deixar troncos mortos perto do pomar aumenta a produção de frutos.",
+  "confianca": "sazonal",
+  "fonte": "Freitas, B.M.; Oliveira Filho, J.H. (2003) Ninhos racionais para mamangava (Xylocopa frontalis) na polinização do maracujá-amarelo, Ciência Rural 33(6)"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Saí-andorinha cava ninho no barranco",
+  "data": "2026-11-24",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "Em barrancos de estrada e cortes de terra na Mata Atlântica do Rio, de São Paulo e do Espírito Santo, um passarinho azul-turquesa entra e sai de um buraco na terra. É o macho da saí-andorinha (Tersina viridis); a fêmea é verde. Na primavera e no verão eles se reproduzem no Sudeste e cavam um túnel no barranco para o ninho; fora dessa época, se deslocam para outras regiões. Comem frutinhos e insetos que apanham no ar, como andorinhas, daí o nome.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, Saí-andorinha (Tersina viridis), https://www.wikiaves.com.br/wiki/sai-andorinha; gravações da espécie no xeno-canto, https://xeno-canto.org/species/Tersina-viridis; licença Creative Commons indicada em cada gravação, em geral BY-NC-SA: só para ouvir"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Jerivá em flor zumbindo de abelha",
+  "data": "2026-11-24",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Os jerivás (Syagrus romanzoffiana) de praças, pastos e matas do Sudeste estão soltando os grandes cachos de flores creme, e quem passa embaixo ouve o zumbido: abelhas sem ferrão, abelha europeia e besouros disputam o pólen. A palmeira floresce principalmente na primavera e no verão, e os coquinhos alaranjados que vêm depois alimentam de papagaios a cutias, gambás e até lobo-guará. É uma das plantas que mais sustentam fauna na Mata Atlântica.",
+  "confianca": "sazonal",
+  "fonte": "Lorenzi, H.; Noblick, L.R.; Kahn, F.; Ferreira, E. (2010) Flora Brasileira: Arecaceae (Palmeiras), Instituto Plantarum; Flora e Funga do Brasil, Jardim Botânico do Rio de Janeiro, Syagrus romanzoffiana"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Irapuá ronda as flores de quintal",
+  "data": "2026-11-24",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Abelhas pretas, pequenas, que se enroscam no cabelo e não ferroam, cobrem as flores de jerivá, de abóbora e de maracujá nos quintais do Sudeste. É a irapuá (Trigona spinipes), que faz ninho de barro e resina pendurado em árvore, do tamanho de uma bola. Ela visita muitas espécies de plantas e ajuda a polinizar várias, mas também rói botões e flores para tirar fibra e resina, o que a torna mal vista em pomares de maracujá. Na primavera, com a fartura de flores, as colônias estão no auge.",
+  "confianca": "sazonal",
+  "fonte": "Nogueira-Neto, P. (1997) Vida e criação de abelhas indígenas sem ferrão, Editora Nogueirapis"
+ }
+]
