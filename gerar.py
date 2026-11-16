@@ -300,9 +300,10 @@ def area_sol(reg):
         o = observador(reg, "-0:34")
         o.date = meio_dia_utc(d) - timedelta(hours=12)
         try:
-            nasce = o.next_rising(sol); sol.compute(o); az_n = sol.az
-            o.date = nasce
-            poe = o.next_setting(sol); sol.compute(o); az_p = sol.az
+            nasce = o.next_rising(sol)
+            o.date = nasce; sol.compute(o); az_n = sol.az
+            poe = o.next_setting(sol)
+            o.date = poe; sol.compute(o); az_p = sol.az
         except (ephem.AlwaysUpError, ephem.NeverUpError):
             continue
         n, p = local(nasce), local(poe)
@@ -576,7 +577,7 @@ def area_vedico(reg):
             q = local(n)
             out.append(ev(f"ved-dia-{d:%Y%m%d}", f"{nome_tithi(tt)} · {nk}", d, dia_todo=True, descricao=
                           f"No nascer do sol ({hm(q)}) o dia lunar é {nome_tithi(tt)} e a Lua está no nakshatra {nk}.\n\n"
-                          f"{nk} é a mansão lunar marcada por {ESTRELA.get(nk, 'estrelas dessa faixa do céu')}: procure a Lua perto dali esta noite.\n\n{nota(NOTAS_PANCHANG, d)}\n\n"
+                          f"Onde fica a mansão lunar {nk}: {ESTRELA.get(nk, 'estrelas dessa faixa do céu')}. É perto dali que a Lua está.\n\n{nota(NOTAS_PANCHANG, d)}\n\n"
                           "Base: posições do Sol e da Lua calculadas com PyEphem; zodíaco sideral com ayanamsa de Lahiri aproximado."))
             for alvo, lado in ((11, "Shukla"), (26, "Krishna")):
                 if tt == alvo and ant != alvo or (ant is not None and ant < alvo < tt and tt - ant < 3):
