@@ -101,6 +101,59 @@ def crepusculo(reg, d, tarde=True):
         return None
 
 
+# Cada evento diário traz uma nota diferente, em rodízio, para a descrição não se repetir igual todo dia.
+def nota(pool, d):
+    return pool[d.toordinal() % len(pool)]
+
+
+NOTAS_NASCER = [
+    "O ponto do horizonte onde o Sol nasce anda para o sul até o solstício de dezembro e volta para o norte até o de junho.",
+    "O Sol parece achatado e vermelho no horizonte porque a luz atravessa muito mais ar: o azul se espalha pelo caminho e sobra o vermelho.",
+    "Quando você vê o Sol tocar o horizonte, ele já está geometricamente abaixo dele: a atmosfera curva a luz cerca de meio grau, o tamanho do próprio disco.",
+    "A duração do dia muda mais depressa perto dos equinócios e quase para perto dos solstícios; solstício quer dizer 'Sol parado'.",
+    "O dia mais longo do ano não tem o nascer mais cedo nem o pôr mais tarde: a órbita elíptica e o eixo inclinado desencontram essas datas em algumas semanas.",
+    "O meio-dia do relógio quase nunca é o meio-dia do Sol: a diferença, chamada equação do tempo, chega a 16 minutos ao longo do ano.",
+    "A luz que chega agora saiu do Sol há 8 minutos e 20 segundos.",
+    "Quanto mais longe do equador, mais a duração do dia varia ao longo do ano; sobre o equador, ela fica sempre perto de 12 horas.",
+]
+NOTAS_POR = [
+    "Uns 25 minutos depois acaba o crepúsculo civil e as primeiras estrelas aparecem.",
+    "Olhe para o leste logo depois do pôr: a faixa azul-escura que sobe no horizonte é a sombra da Terra projetada na atmosfera, e o rosa acima dela se chama Cinturão de Vênus.",
+    "Perto dos trópicos o crepúsculo é curto porque o Sol desce quase a prumo; em latitudes altas ele desce inclinado e o lusco-fusco dura muito mais.",
+    "São três crepúsculos: o civil até o Sol estar 6° abaixo do horizonte, o náutico até 12° e o astronômico até 18°, quando o céu fica escuro de verdade.",
+    "O céu fica vermelho no poente pelo mesmo motivo que é azul de dia: o ar espalha mais a luz azul, e ao entardecer ela já ficou pelo caminho.",
+    "Poeira, fumaça e umidade no ar deixam o pôr do sol mais alaranjado; depois de chuva forte, que lava o ar, ele costuma ser mais pálido.",
+    "A primeira 'estrela' a aparecer depois do pôr do sol muitas vezes é um planeta: eles brilham firme, sem piscar.",
+]
+NOTAS_PANCHANG = [
+    "No panchang, o almanaque védico, o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar, 15 crescentes (Shukla) e 15 minguantes (Krishna).",
+    "O dia védico começa no nascer do sol, não à meia-noite, e é regido pelo tithi que está valendo naquele instante.",
+    "Um tithi não dura sempre o mesmo: como a Lua acelera e freia na órbita elíptica, ele vai de umas 19 a umas 26 horas. Por isso às vezes um tithi é 'pulado' e outras vezes vale por dois dias.",
+    "Panchang quer dizer 'cinco membros': tithi, dia da semana (vara), nakshatra, yoga e karana. Os cinco saem das posições do Sol e da Lua.",
+    "As 27 mansões lunares existem porque a Lua leva 27,3 dias para dar a volta no céu em relação às estrelas: ela dorme numa mansão por noite.",
+    "O mês lunar hindu tem duas metades: Shukla paksha, da Lua nova à cheia, e Krishna paksha, da cheia à nova.",
+    "As festas hindus são marcadas por tithi, não por data fixa: Diwali é a Lua nova de Kartika, Holi é a Lua cheia de Phalguna.",
+    "O zodíaco védico é sideral, preso às estrelas; o ocidental é tropical, preso aos equinócios. A precessão do eixo da Terra já separou os dois em cerca de 24°.",
+]
+ESTRELA = {"Ashvini": "as estrelas Sheratan e Mesarthim, na cabeça de Áries", "Bharani": "três estrelas fracas de Áries", "Krittika": "as Plêiades, em Touro",
+           "Rohini": "Aldebarã, o olho vermelho de Touro", "Mrigashira": "a cabeça de Órion", "Ardra": "Betelgeuse, o ombro de Órion", "Punarvasu": "Castor e Pólux, em Gêmeos",
+           "Pushya": "o centro de Câncer, perto do aglomerado do Presépio", "Ashlesha": "a cabeça da Hidra", "Magha": "Régulo, o coração de Leão",
+           "Purva Phalguni": "Zosma e Chertan, nas ancas de Leão", "Uttara Phalguni": "Denébola, a cauda de Leão", "Hasta": "a constelação do Corvo", "Chitra": "Espiga, em Virgem",
+           "Swati": "Arcturo, no Boieiro", "Vishakha": "as estrelas de Libra", "Anuradha": "a testa do Escorpião", "Jyeshtha": "Antares, o coração do Escorpião",
+           "Mula": "o ferrão do Escorpião, na direção do centro da Via Láctea", "Purva Ashadha": "o arco de Sagitário", "Uttara Ashadha": "as estrelas do leste de Sagitário",
+           "Shravana": "Altair, na Águia", "Dhanishta": "a constelação do Delfim", "Shatabhisha": "Sadachbia, em Aquário", "Purva Bhadrapada": "Markab e Scheat, no quadrado de Pégaso",
+           "Uttara Bhadrapada": "Algenib e Alpheratz, no quadrado de Pégaso", "Revati": "as estrelas fracas de Peixes"}
+NOTAS_BRAHMA = [
+    "Na tradição do Ayurveda e do yoga é a hora mais indicada para meditação, estudo e pranayama: o ar é calmo e a mente ainda não se encheu do dia. O nome quer dizer 'a hora de Brahma'.\n\nPelo lado da ciência, horários regulares de acordar ajudam a manter o relógio circadiano estável; a hora específica não foi testada.",
+    "Um muhurta é a trigésima parte do dia, 48 minutos; o Brahma muhurta é o penúltimo antes do nascer do sol. O Ashtanga Hridaya recomenda acordar nele para preservar a saúde.\n\nO que a fisiologia mede nessa faixa: o cortisol começa a subir antes de acordar e atinge o pico cerca de meia hora depois, preparando o corpo para o dia.",
+    "Para o Ayurveda, o fim da madrugada é regido por Vata, o princípio do movimento, e por isso seria a hora em que a mente está leve e desperta com mais facilidade.\n\nA temperatura do corpo chega ao mínimo cerca de duas horas antes do horário habitual de acordar e já está subindo nesta faixa.",
+    "Os textos de yoga indicam esta hora para a prática porque o estômago está vazio e o entorno em silêncio.\n\nEstudos de meditação medem efeitos sobre atenção e estresse, mas comparando quem pratica com quem não pratica, não uma hora do dia com outra.",
+    "A tradição pede que, ao acordar nesta hora, se evite voltar a dormir: o sono depois do amanhecer aumentaria Kapha, a qualidade do peso e da lentidão.\n\nA medicina do sono descreve algo parecido com outro nome: acordar no meio de um ciclo de sono profundo deixa a pessoa lenta por até meia hora, a inércia do sono.",
+    "Quem acorda nesta faixa vê o céu ainda escuro e o começo do crepúsculo astronômico.\n\nA luz forte da manhã, logo depois, é o sinal mais potente para acertar o relógio do corpo: ela adianta o ciclo e facilita dormir mais cedo à noite.",
+    "A hora varia ao longo do ano porque acompanha o Sol, não o relógio: no verão ela chega mais cedo, no inverno mais tarde.\n\nAcordar tão cedo só faz sentido dormindo cedo: adultos precisam de 7 a 9 horas de sono, e encurtar o sono para madrugar anula o benefício.",
+]
+
+
 # ---------------------------------------------------------------- Lua
 FASES = [
     ("Lua nova", ephem.next_new_moon,
@@ -261,9 +314,9 @@ def area_sol(reg):
         dif = "" if duracao_ant is None else f" ({'+' if dur >= duracao_ant else '−'}{abs(dur - duracao_ant):.1f} min em relação a ontem)".replace(".", ",")
         out.append(ev(f"sol-nasce-{d:%Y%m%d}", f"Sol nasce · dia de {h}h{m:02d}", n, n + timedelta(minutes=10),
                       f"Nascer às {hm(n)}, a {math.degrees(az_n):.0f}° ({rumo(az_n)}). Dia de {h}h{m:02d}{dif}.\n"
-                      f"O ponto do horizonte onde o Sol nasce anda para o sul até o solstício de dezembro e volta para o norte até o de junho.\n\nBase: PyEphem, com refração atmosférica padrão."))
+                      f"{nota(NOTAS_NASCER, d)}\n\nBase: PyEphem, com refração atmosférica padrão."))
         out.append(ev(f"sol-poe-{d:%Y%m%d}", "Pôr do sol", p, p + timedelta(minutes=10),
-                      f"Pôr às {hm(p)}, a {math.degrees(az_p):.0f}° ({rumo(az_p)}). Uns 25 minutos depois acaba o crepúsculo civil e as primeiras estrelas aparecem."))
+                      f"Pôr às {hm(p)}, a {math.degrees(az_p):.0f}° ({rumo(az_p)}). {nota(NOTAS_POR, d)}"))
         duracao_ant = dur
     return out
 
@@ -523,9 +576,7 @@ def area_vedico(reg):
             q = local(n)
             out.append(ev(f"ved-dia-{d:%Y%m%d}", f"{nome_tithi(tt)} · {nk}", d, dia_todo=True, descricao=
                           f"No nascer do sol ({hm(q)}) o dia lunar é {nome_tithi(tt)} e a Lua está no nakshatra {nk}.\n\n"
-                          "No panchang, o almanaque védico, o tithi é cada 12° que a Lua se afasta do Sol: são 30 por mês lunar, 15 crescentes (Shukla) e 15 minguantes (Krishna). "
-                          "O nakshatra é uma das 27 mansões lunares, faixas de 13°20' do céu sideral por onde a Lua passa em cerca de um dia cada. "
-                          "O dia védico é regido pelo tithi que está valendo no nascer do sol.\n\n"
+                          f"{nk} é a mansão lunar marcada por {ESTRELA.get(nk, 'estrelas dessa faixa do céu')}: procure a Lua perto dali esta noite.\n\n{nota(NOTAS_PANCHANG, d)}\n\n"
                           "Base: posições do Sol e da Lua calculadas com PyEphem; zodíaco sideral com ayanamsa de Lahiri aproximado."))
             for alvo, lado in ((11, "Shukla"), (26, "Krishna")):
                 if tt == alvo and ant != alvo or (ant is not None and ant < alvo < tt and tt - ant < 3):
@@ -558,10 +609,7 @@ def area_ayurveda(reg):
         ini = n - timedelta(minutes=96)
         out.append(ev(f"ayu-brahma-{d:%Y%m%d}", "Brahma muhurta", ini, ini + timedelta(minutes=48), descricao=
                       f"Das {hm(ini)} às {hm(ini + timedelta(minutes=48))}, os 48 minutos que começam 96 minutos antes do nascer do sol ({hm(n)}).\n\n"
-                      "Na tradição do Ayurveda e do yoga é a hora mais indicada para meditação, estudo e pranayama: o ar é calmo e a mente ainda não se encheu do dia. "
-                      "O nome quer dizer 'a hora de Brahma'.\n\n"
-                      "Pelo lado da ciência, o que se sabe é que horários regulares de acordar e a exposição à luz da manhã ajudam a manter o relógio circadiano estável; "
-                      "a hora específica não foi testada.\n\nBase: nascer do sol calculado com PyEphem; horário tradicional do Ashtanga Hridaya."))
+                      f"{nota(NOTAS_BRAHMA, d)}\n\nBase: nascer do sol calculado com PyEphem; horário tradicional do Ashtanga Hridaya."))
         if d.weekday() == 0:
             t6 = datetime(d.year, d.month, d.day, 6, tzinfo=TZ)
             out.append(ev(f"ayu-doshas-{d:%Y%m%d}", "Os doshas ao longo do dia", t6, t6 + timedelta(minutes=15), descricao=
@@ -766,7 +814,7 @@ def area_clima(reg):
         calor = " Calor forte: beba água antes de sentir sede, porque a sede chega depois da desidratação começar." if tmax >= 34 else ""
         out.append(ev(f"clima-{d:%Y%m%d}", f"{tmax:.0f}° / {tmin:.0f}° · chuva {pp or 0}% · {cond}", d, dia_todo=True, descricao=
                       f"Máxima {tmax:.0f} °C, mínima {tmin:.0f} °C. Chance de chuva {pp or 0}%, {br(mm or 0,1)} mm previstos.{uvtxt}{calor}\n\n"
-                      f"Previsão feita em {feito:%d/%m às %Hh%M}. O Google relê este calendário a cada 12 a 24 horas.\n\nBase: Open-Meteo."))
+                      f"Previsão feita em {feito:%d/%m às %Hh%M}.\n\nBase: Open-Meteo."))
     return out
 
 
@@ -1162,10 +1210,12 @@ def main():
             else:
                 evs = []
             evs = com_emoji(evs, area["emoji"])
+            if area["id"] in SO_DAQUI:
+                evs = [dict(e, titulo=f"{reg['nome']}: {e['titulo']}") for e in evs]
             tudo += evs
             grupos.setdefault(area["grupo"], []).extend(evs)
             if area["id"] in SO_DAQUI:
-                daqui += [dict(e, titulo=f"{reg['nome']}: {e['titulo']}", uid=f"{reg['id']}-{e['uid']}") for e in evs]
+                daqui += [dict(e, uid=f"{reg['id']}-{e['uid']}") for e in evs]
         tudo.sort(key=chave_ordem)
         pasta = SAIDA / reg["id"]
         pasta.mkdir(parents=True, exist_ok=True)
