@@ -1074,6 +1074,9 @@ def chave_ordem(e):
     return s if "T" in s else s + "T00:00"
 
 
+# Áreas cujo conteúdo muda de verdade de uma cidade para outra. Quem acompanha duas cidades assina tudo de uma
+# e só estas da outra, para não ver em dobro o que é igual nas duas (Lua, culturas, economia, natureza da região).
+SO_DAQUI = {"sol", "clima", "ar", "aves"}
 SITE = os.environ.get("SITE_URL", "https://luisfcblanco.github.io/agenda-do-mundo")
 
 
@@ -1148,7 +1151,7 @@ def main():
     gslug = {g: unicodedata.normalize("NFKD", g).encode("ascii", "ignore").decode().lower().replace(",", "").replace(" ", "-") for g in CFG["grupos"]}
     catalogo["grupos_id"] = gslug
     for reg in CFG["regioes"]:
-        tudo, grupos = [], {}
+        tudo, grupos, daqui = [], {}, []
         for area in CFG["areas"]:
             if area["escopo"] == "local":
                 evs = gerar_area(area, reg, None, catalogo)
@@ -1161,10 +1164,14 @@ def main():
             evs = com_emoji(evs, area["emoji"])
             tudo += evs
             grupos.setdefault(area["grupo"], []).extend(evs)
+            if area["id"] in SO_DAQUI:
+                daqui += [dict(e, titulo=f"{reg['nome']}: {e['titulo']}", uid=f"{reg['id']}-{e['uid']}") for e in evs]
         tudo.sort(key=chave_ordem)
         pasta = SAIDA / reg["id"]
         pasta.mkdir(parents=True, exist_ok=True)
         (pasta / "tudo.ics").write_bytes(para_ics(tudo, f"Agenda do Mundo · {reg['nome']}", "Todas as áreas da Agenda do Mundo."))
+        daqui.sort(key=chave_ordem)
+        (pasta / "so-daqui.ics").write_bytes(para_ics(daqui, f"{reg['nome']}: sol, tempo e ar", "Só o que muda de cidade para cidade. Agenda do Mundo."))
         for g, evs in grupos.items():
             evs.sort(key=chave_ordem)
             (pasta / f"grupo-{gslug[g]}.ics").write_bytes(para_ics(evs, f"{g} · {reg['nome']}", f"Agenda do Mundo: {g}."))

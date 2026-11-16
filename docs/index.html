@@ -65,6 +65,7 @@ a{color:var(--accent)}
       <label class="modo"><input type="radio" name="modo" value="tudo"><div><b>Tudo num calendário só</b><span>Uma assinatura. Cada evento traz o emoji da área no título.</span></div></label>
       <label class="modo"><input type="radio" name="modo" value="grupo"><div><b>Um calendário por grupo</b><span>Até sete assinaturas. Você dá uma cor a cada grupo e esconde o que não quiser.</span></div></label>
       <label class="modo"><input type="radio" name="modo" value="areas"><div><b>Só as áreas que eu marcar</b><span>Você escolhe uma a uma na lista abaixo.</span></div></label>
+      <label class="modo"><input type="radio" name="modo" value="daqui"><div><b>É a minha segunda cidade</b><span>Para quem já assina outra cidade: só o que muda de lugar para lugar (sol, previsão do tempo, qualidade do ar, aves por perto), com o nome da cidade no título. Assim nada aparece em dobro.</span></div></label>
     </div>
   </section>
 
@@ -96,7 +97,8 @@ a{color:var(--accent)}
   const reg=()=>cat.regioes.find(r=>r.id===cid);
   function lugar(a){const r=reg();return a.escopo==='local'?cid:(a.escopo==='regional'?r.macro:'brasil');}
   function existe(a){const l=lugar(a);return !!(l&&(cat.feeds[l]||{})[a.id]);}
-  function nosCombinados(a){return existe(a)&&(reg().pais==='BR'||a.escopo!=='nacional'||a.alcance==='mundo');}
+  const DAQUI=['sol','clima','ar','aves'];
+  function nosCombinados(a){if(modo==='daqui')return existe(a)&&DAQUI.includes(a.id);return existe(a)&&(reg().pais==='BR'||a.escopo!=='nacional'||a.alcance==='mundo');}
   function tag(a){return TAG[a.escopo==='nacional'?a.alcance:a.escopo];}
   function copiar(txt,btn){const ok=()=>{const o=btn.textContent;btn.textContent='Link copiado';setTimeout(()=>btn.textContent=o,1800);};try{navigator.clipboard.writeText(txt).then(ok,()=>prompt('Copie o link:',txt));}catch(e){prompt('Copie o link:',txt);}}
   function linha(titulo,L){const d=document.createElement('div');d.className='link';d.innerHTML='<b>'+esc(titulo)+'</b><a class="btn" target="_blank" rel="noopener" href="'+esc(L.google)+'">Assinar no Google</a><button class="btn ghost" type="button">Copiar link</button>';d.querySelector('button').addEventListener('click',e=>copiar(L.https,e.currentTarget));return d;}
@@ -135,6 +137,7 @@ a{color:var(--accent)}
   function renderSaida(){
     const s=$('saida');s.innerHTML='';const r=reg();
     if(modo==='tudo'){s.appendChild(linha('Agenda do Mundo · '+r.nome,feed(cid+'/tudo.ics')));return;}
+    if(modo==='daqui'){s.appendChild(linha(r.nome+': sol, tempo e ar',feed(cid+'/so-daqui.ics')));s.appendChild(nota('Na sua cidade principal, assine "Tudo", "por grupo" ou as áreas marcadas. Aqui vem só o que é diferente nesta cidade.'));return;}
     if(modo==='grupo'){cat.grupos.forEach(g=>{if(cat.areas.some(a=>a.grupo===g&&nosCombinados(a)))s.appendChild(linha(g,feed(cid+'/grupo-'+cat.grupos_id[g]+'.ics')));});return;}
     const sel=cat.areas.filter(a=>marcadas.has(a.id)&&existe(a));
     if(!sel.length){s.appendChild(nota('Marque pelo menos uma área na lista acima.'));return;}
