@@ -1,1 +1,242 @@
-[]
+[
+ {
+  "area": "avifauna",
+  "titulo": "Maçaricos do Ártico nas Reentrâncias Maranhenses",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Na maré baixa, nos lamaçais e praias das Reentrâncias Maranhenses, milhares de passarinhos cinzentos correm em bando pela beira d'água, enfiando o bico curto na lama em ritmo de máquina de costura. São maçaricos-rasteirinhos (Calidris pusilla), que se reproduzem na tundra do Ártico canadense e chegam ao litoral norte do Brasil para passar os meses do inverno boreal. Pesam pouco mais de 25 gramas e fazem a viagem em poucas etapas longas, por isso precisam engordar rápido comendo pequenos vermes, moluscos e crustáceos da lama. O litoral entre o Maranhão e o Amapá é uma das principais áreas de invernada da espécie no continente, e a população dela vem diminuindo.",
+  "confianca": "sazonal",
+  "fonte": "Morrison, R. I. G.; Ross, R. K. (1989), Atlas of Nearctic Shorebirds on the Coast of South America, Canadian Wildlife Service; WikiAves, página da espécie Calidris pusilla (https://www.wikiaves.com.br/wiki/macarico-rasteirinho). Gravações no xeno-canto: https://xeno-canto.org/species/Calidris-pusilla (cada gravação traz sua licença Creative Commons; as marcadas NC ou ND são só para ouvir)"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "A asa-branca deixa o sertão seco",
+  "data": "2026-11-18",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "No sertão de Pernambuco e da Paraíba, com a Caatinga cinzenta e sem folhas, fica difícil ouvir o arrulho grave da asa-branca (Patagioenas picazuro), a pomba grande de mancha branca na asa que só aparece quando ela voa. Na seca, as sementes e frutos que ela come escasseiam, e muitas se deslocam para áreas mais úmidas, voltando quando as chuvas trazem alimento. Esse vaivém é exatamente o que a música Asa Branca, de Luiz Gonzaga e Humberto Teixeira (1947), transformou em símbolo do sertanejo que parte e espera voltar. Quem mora perto de açudes e matas ciliares ainda a escuta nas primeiras horas, quando os bandos vão beber.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, página da espécie Patagioenas picazuro (https://www.wikiaves.com.br/wiki/asa-branca). Gravações no xeno-canto: https://xeno-canto.org/species/Patagioenas-picazuro (cada gravação traz sua licença Creative Commons; as marcadas NC ou ND são só para ouvir)"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Galo-de-campina canta na Caatinga",
+  "data": "2026-11-19",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "Nos terreiros e nas cercas do interior do Ceará e do Rio Grande do Norte, um passarinho de cabeça vermelha viva e corpo cinza e branco solta um canto curto e alegre, repetido do alto de uma estaca. É o galo-de-campina (Paroaria dominicana), ave que só existe no Brasil e é típica da Caatinga. Ele come sementes no chão e consegue atravessar a estação seca bebendo pouco, tirando parte da água do próprio alimento. Por causa do canto e da cor, é um dos pássaros mais capturados para gaiola no Nordeste, o que é crime ambiental; solto, é visto com facilidade aos pares perto das casas.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, página da espécie Paroaria dominicana (https://www.wikiaves.com.br/wiki/galo-de-campina). Gravações no xeno-canto: https://xeno-canto.org/species/Paroaria-dominicana (cada gravação traz sua licença Creative Commons; as marcadas NC ou ND são só para ouvir)"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Araras-azuis-de-lear deixam os paredões do Raso da Catarina",
+  "data": "2026-11-20",
+  "hora": "05:30",
+  "duracao_min": 30,
+  "descricao": "No Raso da Catarina, no nordeste da Bahia, os paredões de arenito ficam barulhentos ao amanhecer: araras de um azul cobalto, com uma pele amarela na base do bico, saem em bandos das fendas da rocha onde dormem e fazem ninho. É a arara-azul-de-lear (Anodorhynchus leari), que só existe nessa parte da Caatinga baiana. Elas voam dezenas de quilômetros por dia para comer o coco do licuri, palmeira que dá cachos o ano todo e sustenta a espécie na seca. Durante décadas a ave foi conhecida só por exemplares de cativeiro, até que a população selvagem foi encontrada em 1978; hoje ela é protegida por um plano de ação do ICMBio.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, página da espécie Anodorhynchus leari (https://www.wikiaves.com.br/wiki/arara-azul-de-lear); ICMBio, Plano de Ação Nacional para a Conservação das Araras-azuis. Gravações no xeno-canto: https://xeno-canto.org/species/Anodorhynchus-leari (cada gravação traz sua licença Creative Commons; as marcadas NC ou ND são só para ouvir)"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Soldadinho-do-araripe nas nascentes da chapada",
+  "data": "2026-11-21",
+  "hora": "06:00",
+  "duracao_min": 30,
+  "descricao": "Na encosta úmida da Chapada do Araripe, no sul do Ceará, perto das nascentes que descem para o Crato e Barbalha, um passarinho branco com o topo da cabeça vermelho e cauda e asas pretas pula entre os galhos sobre a água. É o soldadinho-do-araripe (Antilophia bokermanni), descrito pela ciência só em 1998 e que vive apenas numa faixa estreita de mata ao longo dessas fontes. A fêmea, verde, constrói um ninho em forma de cestinha pendurado em galhos baixos sobre os riachos. Como depende da água que brota da chapada, a ave virou símbolo da proteção das nascentes da região.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, página da espécie Antilophia bokermanni (https://www.wikiaves.com.br/wiki/soldadinho-do-araripe); Aquasis, Plano de Ação Nacional do soldadinho-do-araripe (ICMBio). Gravações no xeno-canto: https://xeno-canto.org/species/Antilophia-bokermanni (cada gravação traz sua licença Creative Commons; as marcadas NC ou ND são só para ouvir)"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "O sofrê canta nos ninhos dos outros",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Num pé de umbuzeiro ou de jurema no interior da Bahia e de Pernambuco, um pássaro laranja vivo, de cabeça e asas pretas, solta frases melodiosas e longas. É o sofrê, ou corrupião (Icterus jamacaii), uma das vozes mais bonitas da Caatinga. Ele tem um hábito curioso: em vez de construir, costuma ocupar ninhos fechados de gravetos feitos por outras aves, como o casaca-de-couro, às vezes expulsando os donos. O macho canta durante boa parte do dia, e a cor viva aparece de longe no cinza da mata seca.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, página da espécie Icterus jamacaii (https://www.wikiaves.com.br/wiki/corrupiao). Gravações no xeno-canto: https://xeno-canto.org/species/Icterus-jamacaii (cada gravação traz sua licença Creative Commons; as marcadas NC ou ND são só para ouvir)"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Bandos de jandaia nos babaçuais",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos babaçuais do Maranhão e do Piauí, bandos de periquitos amarelo-alaranjados com asas verdes passam gritando em voo rápido e pousam juntos nas palmeiras e nas árvores frutíferas. É a jandaia-verdadeira (Aratinga jandaya), que só existe no Nordeste brasileiro. Ela se alimenta de frutos e sementes e circula entre a mata, o Cerrado e as roças conforme o que está maduro, por isso aparece em cajueiros e mangueiras nesta época. O nome jandaia vem do tupi e está no romance Iracema, de José de Alencar, onde a ave acompanha a heroína.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, página da espécie Aratinga jandaya (https://www.wikiaves.com.br/wiki/jandaia-verdadeira). Gravações no xeno-canto: https://xeno-canto.org/species/Aratinga-jandaya (cada gravação traz sua licença Creative Commons; as marcadas NC ou ND são só para ouvir)"
+ },
+ {
+  "area": "avifauna",
+  "titulo": "Batuíras-de-bando nas coroas de areia de Pernambuco",
+  "data": "2026-11-24",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas coroas de areia que a maré baixa descobre no litoral norte de Pernambuco, como a Coroa do Avião, em Igarassu, pequenas aves de dorso pardo e um colar preto no peito correm, param de repente e bicam a areia. É a batuíra-de-bando (Charadrius semipalmatus), que cria os filhotes no Ártico da América do Norte e passa estes meses no litoral brasileiro. O jeito de caçar, correndo e parando, é diferente do dos maçaricos: ela enxerga a presa, um verme ou crustáceo, antes de bicar. Os bandos se concentram na maré baixa e se juntam nos pontos mais altos da coroa quando a água sobe.",
+  "confianca": "sazonal",
+  "fonte": "WikiAves, página da espécie Charadrius semipalmatus (https://www.wikiaves.com.br/wiki/batuira-de-bando). Gravações no xeno-canto: https://xeno-canto.org/species/Charadrius-semipalmatus (cada gravação traz sua licença Creative Commons; as marcadas NC ou ND são só para ouvir)"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Safra de caju no Ceará, maior que a do ano passado",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas estradas do interior do Ceará, barracas vendem caju vermelho e amarelo em caixas, e o cheiro doce da fruta madura toma os cajueirais. A safra vai de setembro a dezembro: o cajueiro (Anacardium occidentale) floresce na estação seca, quando quase não chove, e as abelhas que polinizam suas flores pequenas, sobretudo abelhas nativas do gênero Centris, trabalham sem a chuva atrapalhar. O que se come é o pedúnculo inchado; a fruta verdadeira é a castanha. Pela estimativa do IBGE de setembro, o Ceará deve colher 90,7 mil toneladas de castanha em 2026, alta de 20,5% sobre 2025, ainda abaixo das 102 mil toneladas de 2024.",
+  "confianca": "sazonal",
+  "fonte": "IBGE, Levantamento Sistemático da Produção Agrícola, estimativa de setembro de 2026, citado em Diário do Nordeste (23/10/2026); Freitas, B. M.; Paxton, R. J. (1998), A comparison of two pollinators: the introduced honey bee Apis mellifera and an indigenous bee Centris tarsata on cashew, Journal of Applied Ecology"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Umbuzeiro com fruto verde à espera da chuva",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Na Caatinga do sertão baiano e pernambucano, o umbuzeiro (Spondias tuberosa) já perdeu as flores brancas e perfumadas e tem os galhos carregados de frutinhos verdes, enquanto as primeiras folhas novas aparecem. A árvore perde as folhas entre julho e agosto, floresce de agosto a outubro em plena seca e usa a água e os nutrientes guardados nas batatas das raízes, as xilopódias, para dar flor e fruto sem chuva. As primeiras chuvas costumam chegar em novembro, com os frutos já formados. Do fruto pegar até amadurecer são cerca de 125 dias, e a maior parte dos umbus fica maduro em janeiro e fevereiro.",
+  "confianca": "sazonal",
+  "fonte": "Cavalcanti, N. B.; Lima, J. L. S.; Resende, G. M.; Brito, L. T. L. (2000), Ciclo reprodutivo do imbuzeiro (Spondias tuberosa) no semi-árido do Nordeste brasileiro, Revista Ceres 47"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Começa a safra de verão da mangaba em Sergipe",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos tabuleiros e restingas do litoral de Sergipe, as catadoras de mangaba recolhem do chão as frutinhas amarelas pintadas de vermelho que caem maduras da mangabeira (Hancornia speciosa). Em Sergipe a frutificação vai de novembro a julho, com uma safra de verão de novembro a abril e outra de inverno, de maio a julho. A flor branca, em tubo longo e perfumado, só é bem polinizada por insetos de língua comprida, como abelhas do gênero Centris e mariposas, e por isso a mangaba depende das restingas preservadas ao redor. A fruta não amadurece no pé: precisa cair ou ser colhida de vez e descansar um dia.",
+  "confianca": "sazonal",
+  "fonte": "Souza, J. L.; Lédo, A. S.; Silva Junior, J. F.; Silva, A. V. C. (2024), Polinização manual entre acessos de mangabeira, Boletim de Pesquisa e Desenvolvimento 188, Embrapa Tabuleiros Costeiros; Darrault, R. O.; Schlindwein, C. (2005), Biotropica"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Flor de mandacaru abre na noite",
+  "data": "2026-11-20",
+  "hora": "21:00",
+  "duracao_min": 30,
+  "descricao": "Na Caatinga, ao anoitecer, um botão comprido na lateral de um mandacaru (Cereus jamacaru) se abre numa flor branca enorme, perfumada, que vai murchar antes do meio da manhã seguinte. Essa flor noturna é visitada por mariposas-esfinge, de língua longa, que buscam o néctar no fundo do tubo e levam o pólen de um cacto para outro. Os frutos, vermelhos por fora e de polpa branca com sementes pretas, são comidos por aves e outros animais que espalham as sementes. No sertão, o mandacaru florido é lido como sinal de chuva, mas ele floresce em vários momentos do ano.",
+  "confianca": "sazonal",
+  "fonte": "Taylor, N. P.; Zappi, D. C. (2004), Cacti of Eastern Brazil, Royal Botanic Gardens, Kew; Flora e Funga do Brasil, Cereus jamacaru DC., Jardim Botânico do Rio de Janeiro"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Licuri, o coco que segura a Caatinga baiana na seca",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "No norte da Bahia, enquanto a Caatinga está cinzenta, as palmeiras de licuri (Syagrus coronata) seguem verdes, com cachos de cocos alaranjados pendendo das folhas. O licuri frutifica ao longo de todo o ano, o que faz dele uma das poucas fontes de alimento garantidas no auge da seca. Os cocos alimentam a arara-azul-de-lear, que depende quase só dele, além de cutias, mocós e o gado. As famílias do sertão quebram o coco para comer a amêndoa, fazer óleo, cocada e artesanato com a palha. A flor é polinizada principalmente por abelhas.",
+  "confianca": "sazonal",
+  "fonte": "Flora e Funga do Brasil, Syagrus coronata (Mart.) Becc., Jardim Botânico do Rio de Janeiro; ICMBio, Plano de Ação Nacional para a Conservação das Araras-azuis"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Frutos rosados da coroa-de-frade",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos lajedos da Caatinga, cactos redondos e baixos, os coroas-de-frade (Melocactus), exibem no topo um gorro de pelos avermelhados de onde brotam frutinhos rosados e brilhantes. Esse gorro, chamado cefálio, só aparece quando a planta fica adulta e é onde nascem as flores e os frutos. Os frutos são comidos por lagartos, que engolem as sementes inteiras e as deixam em outros pontos da rocha, um tipo de dispersão raro chamado saurocoria. Algumas espécies de coroa-de-frade estão ameaçadas por coleta para ornamentação.",
+  "confianca": "sazonal",
+  "fonte": "Figueira, J. E. C.; Vasconcellos-Neto, J.; Garcia, M. A.; Souza, A. L. T. (1994), Saurocory in Melocactus violaceus (Cactaceae), Biotropica; Taylor, N. P.; Zappi, D. C. (2004), Cacti of Eastern Brazil, Royal Botanic Gardens, Kew"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Mulungu vermelho na mata sem folhas",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Na beira dos riachos secos da Caatinga, uma árvore sem nenhuma folha está coberta de flores vermelho-alaranjadas: é o mulungu (Erythrina velutina). Florescer sem folhas, no auge da seca, deixa as flores à vista de longe para quem as poliniza: beija-flores e outras aves que bebem o néctar abundante e carregam o pólen na cabeça. As sementes, vermelhas com um ponto preto, são usadas em artesanato. A casca é conhecida na medicina popular do sertão, e a madeira leve já foi usada para fazer jangadas e tamancos.",
+  "confianca": "sazonal",
+  "fonte": "Flora e Funga do Brasil, Erythrina velutina Willd., Jardim Botânico do Rio de Janeiro; Lorenzi, H. (2002), Árvores Brasileiras vol. 1, Instituto Plantarum"
+ },
+ {
+  "area": "botanica",
+  "titulo": "Pequizeiros do Araripe em flor",
+  "data": "2026-11-24",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Na chapada do Araripe, entre Ceará, Pernambuco e Piauí, os pequizeiros (Caryocar coriaceum) terminam a florada que vai do fim da seca ao começo das chuvas, com flores grandes, de estames longos amarelados, que abrem à noite. Morcegos que bebem néctar, e também mariposas, visitam essas flores e fazem a polinização. Os frutos que se formam agora amadurecem no começo do ano, quando famílias de cidades como Barbalha e Jardim sobem a chapada para a apanha do pequi, que movimenta a economia local nos meses de safra.",
+  "confianca": "sazonal",
+  "fonte": "Flora e Funga do Brasil, Caryocar coriaceum Wittm., Jardim Botânico do Rio de Janeiro"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "A abelha que faz o caju",
+  "data": "2026-11-17",
+  "hora": "08:00",
+  "duracao_min": 30,
+  "descricao": "Nos cajueirais do Ceará e do Piauí, abelhas peludas de tamanho médio, de voo rápido e zumbido grave, visitam as flores pequenas e rosadas do cajueiro de manhã cedo. São abelhas do gênero Centris, como Centris tarsata, que nidificam em buracos no solo ou em madeira. Num estudo em pomares do Ceará, a Centris tarsata se mostrou polinizadora mais eficiente do caju do que a abelha-europeia, porque toca as partes da flor do jeito certo. Ninhos-armadilha, blocos de madeira furados pendurados no pomar, são usados para atrair essas abelhas e aumentar a produção.",
+  "confianca": "sazonal",
+  "fonte": "Freitas, B. M.; Paxton, R. J. (1998), A comparison of two pollinators: the introduced honey bee Apis mellifera and an indigenous bee Centris tarsata on cashew Anacardium occidentale in its native range of NE Brazil, Journal of Applied Ecology 35"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Jandaíra atravessa a seca na Caatinga",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos quintais do sertão do Rio Grande do Norte e do Ceará, caixas de madeira guardam colônias de jandaíra (Melipona subnitida), abelha sem ferrão da Caatinga. Nesta época quase não há flor, e o movimento na entrada do ninho é pequeno: a colônia reduz o ritmo e vive do mel e do pólen estocados nos potes de cera. Os criadores dão um xarope complementar, de 15 a 20 mililitros por colônia, às que estão fracas, para que cheguem fortes à florada que vem com as chuvas, e devem parar pelo menos 15 dias antes das flores aparecerem. A jandaíra é uma das principais polinizadoras das plantas nativas da Caatinga.",
+  "confianca": "sazonal",
+  "fonte": "Pereira, F. M.; Meirelles, R. N.; Sobreira, R. S., Alimentação complementar, em Drumond, P. M. et al. (eds.) (2024), Meliponicultura: o produtor pergunta, a Embrapa responde, Embrapa"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Moscas-das-frutas nas mangas do São Francisco",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos pomares de Petrolina e Juazeiro, no Vale do São Francisco, armadilhas de plástico com isca penduradas nas mangueiras são checadas toda semana, em plena colheita da manga para exportação. Elas contam moscas-das-frutas, como a mosca-do-mediterrâneo (Ceratitis capitata) e espécies de Anastrepha, cujas fêmeas furam a casca da fruta para pôr os ovos; as larvas comem a polpa e a fruta cai. Com o calor e a fruta madura no pé, a população cresce, e a contagem semanal define se o pomar pode exportar para países que exigem controle da praga. No ambiente natural, essas moscas também se criam em frutos silvestres.",
+  "confianca": "sazonal",
+  "fonte": "Malavasi, A.; Zucchi, R. A. (eds.) (2000), Moscas-das-frutas de importância econômica no Brasil: conhecimento básico e aplicado, Holos Editora"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Revoada de saúva no Cerrado do Piauí",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "No Cerrado do sul do Piauí, onde as chuvas começam em outubro e novembro, os formigueiros de saúva (Atta) se abrem depois das primeiras chuvas fortes e soltam nuvens de formigas aladas, as içás e os bitus. Cada rainha fecundada cai, perde as asas e cava sozinha um buraco, levando na boca um pedaço do fungo que a colônia cultiva para começar uma nova roça subterrânea. A chuva amolece a terra e sincroniza a saída de vários ninhos ao mesmo tempo, o que aumenta o encontro de machos e fêmeas de colônias diferentes. Para os agricultores que plantam soja nesta época, é o momento em que nascem os formigueiros novos.",
+  "confianca": "sazonal",
+  "fonte": "Della Lucia, T. M. C. (org.) (2011), Formigas-cortadeiras: da bioecologia ao manejo, Editora UFV"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Trilhas noturnas de cupim nos galhos da Caatinga",
+  "data": "2026-11-21",
+  "hora": "21:00",
+  "duracao_min": 30,
+  "descricao": "Nas árvores da Caatinga paraibana, bolas escuras de terra e saliva grudadas nos galhos são ninhos de cupim, e à noite colunas de operários saem em fila pelos troncos e pelo chão, a céu aberto, guardados por soldados de cabeça em forma de seringa. É o Constrictotermes cyphergaster, cupim que raspa líquens e matéria morta da casca das árvores. Os soldados borrifam uma cola pegajosa nos inimigos. O ritmo de forrageamento muda com as estações, e o hábito noturno protege os operários do calor e da desidratação no dia seco. Esses ninhos também servem de abrigo para outros insetos e lagartos.",
+  "confianca": "sazonal",
+  "fonte": "Moura, F. M. S.; Vasconcellos, A.; Araújo, V. F. P.; Bandeira, A. G. (2006), Seasonality in foraging behaviour of Constrictotermes cyphergaster (Termitidae, Nasutitermitinae) in the Caatinga of northeastern Brazil, Insectes Sociaux 53"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Mandaçaia, a abelha dos ocos da Caatinga",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "No Vale do São Francisco, na Bahia, um tubo de barro raiado na casca de uma árvore velha marca a entrada de um ninho de mandaçaia (Melipona mandacaia), abelha sem ferrão do semiárido. Ela faz ninho em ocos de troncos de árvores da Caatinga, como o umbuzeiro, e por isso o corte dessas árvores ameaça as colônias silvestres. Na seca a colônia reduz a atividade e vive dos estoques; quando o umbuzeiro e outras árvores florescem, as operárias voltam a buscar néctar e pólen e polinizam essas plantas. Criada em caixas, produz um mel apreciado na região.",
+  "confianca": "sazonal",
+  "fonte": "Silveira, F. A.; Melo, G. A. R.; Almeida, E. A. B. (2002), Abelhas brasileiras: sistemática e identificação, Belo Horizonte"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Lagarta-do-cartucho nas lavouras novas do oeste baiano",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "No oeste da Bahia, onde o plantio de soja e milho avança com as chuvas de novembro, agrônomos andam pelas lavouras recém-nascidas procurando folhas raspadas e furos no cartucho das plantinhas. É a marca da lagarta-do-cartucho (Spodoptera frugiperda), lagarta de uma mariposa noturna que põe centenas de ovos nas folhas. Na lavoura jovem os danos são maiores, porque a planta tem pouca folha para perder. No ambiente, a mariposa adulta é alimento de morcegos e as lagartas são atacadas por vespas parasitoides, inimigos naturais usados no controle biológico.",
+  "confianca": "sazonal",
+  "fonte": "Cruz, I. (1995), A lagarta-do-cartucho na cultura do milho, Circular Técnica 21, Embrapa Milho e Sorgo"
+ },
+ {
+  "area": "entomologia",
+  "titulo": "Mamangavas na flor do maracujá",
+  "data": "2026-11-24",
+  "hora": "13:00",
+  "duracao_min": 30,
+  "descricao": "Nos maracujazais do sul e do sudoeste da Bahia, as flores roxas e brancas abrem por volta do meio-dia e logo recebem abelhas pretas enormes, de voo pesado e zumbido grave. São as mamangavas (Xylocopa), as únicas abelhas comuns grandes o bastante para encostar o dorso nas anteras e no estigma do maracujá-amarelo, que não se poliniza sozinho. Elas fazem ninho cavando túneis em madeira seca, e por isso troncos mortos deixados perto da roça aumentam a produção. Onde faltam mamangavas, o produtor tem que polinizar à mão, flor por flor.",
+  "confianca": "sazonal",
+  "fonte": "Freitas, B. M.; Oliveira-Filho, J. H. (2003), Ninhos racionais para mamangava (Xylocopa frontalis) na polinização do maracujá-amarelo (Passiflora edulis), Ciência Rural 33"
+ }
+]
