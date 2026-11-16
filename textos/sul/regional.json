@@ -1,1 +1,72 @@
-[]
+[
+ {
+  "area": "campo",
+  "titulo": "Colheitadeiras no trigo gaúcho, com grão desigual",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "As colheitadeiras tomaram as lavouras de trigo do Rio Grande do Sul, onde a colheita avançou bastante nas últimas semanas. O grão, porém, sai desigual: chuva, geada e muitos dias nublados durante o enchimento prejudicaram o rendimento e a qualidade, segundo a Conab. No Paraná a colheita está quase encerrada, com qualidade e produtividade baixas; em Santa Catarina chegava a 82,6% no Oeste e no Extremo Oeste, com perdas por chuva forte e granizo. No país, 78,4% do trigo estava colhido em 9 de novembro. Trigo que toma chuva já maduro pode germinar na espiga, e esse grão perde valor para a moagem.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Progresso de Safra e Monitoramento das Condições das Lavouras, boletim de 09/11/2026"
+ },
+ {
+  "area": "campo",
+  "titulo": "Arroz irrigado com 77% da área semeada no Rio Grande do Sul",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas várzeas da Fronteira Oeste, da Campanha e do Litoral gaúcho, as quadras de arroz já estão alagadas e verdes. O Rio Grande do Sul, maior produtor do país, tinha semeado cerca de 77% da área prevista no começo de novembro, com boas condições gerais, segundo a Conab. Santa Catarina está perto do fim da semeadura, com algum replantio, e no Paraná houve dano por enchente. O calendário importa porque o arroz semeado até novembro floresce no calor e na luz de janeiro, quando a planta forma mais grãos; semeadura tardia empurra o florescimento para dias mais curtos e frios.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Progresso de Safra e Monitoramento das Condições das Lavouras, boletim de 09/11/2026"
+ },
+ {
+  "area": "campo",
+  "titulo": "Cebola catarinense assume o abastecimento, com safra menor",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "A cebola que chega às feiras do país até o fim do ano passa a vir de Santa Catarina, principalmente do Alto Vale do Itajaí, em torno de Ituporanga. Este ano, porém, a safra catarinense deve ser menor: a Epagri estima a colheita de 2026/27 cerca de 21% abaixo da anterior. O preço vinha subindo: em outubro a cebola ficou 16% mais cara na Ceasa de Curitiba, 17% na Ceagesp e 18% na Ceasa do Rio, embora tenha recuado na maioria das centrais nos últimos dias do mês.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Prohort, Resumo Executivo Semanal nº 41 (04/11/2026), com estimativa da Epagri/SC"
+ },
+ {
+  "area": "campo",
+  "titulo": "Soja gaúcha acelera entre granizo e erosão",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Depois do trigo, a soja: no Rio Grande do Sul o plantio acelerou, mas a Conab registra erosão em lavouras recém-semeadas e perda de plântulas por granizo, o que obriga a replantar. Em Santa Catarina a semeadura é limitada pelo solo molhado e pela colheita atrasada do trigo, que ainda ocupa as áreas; no Paraná o plantio avança bem, também com pontos de encharcamento e erosão. Em terra recém-revolvida e sem palha, a chuva forte de primavera leva solo e semente morro abaixo.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Progresso de Safra e Monitoramento das Condições das Lavouras, boletim de 09/11/2026"
+ },
+ {
+  "area": "campo",
+  "titulo": "Batata do Paraná abastece o país até o fim do ano",
+  "data": "2026-11-24",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "A batata que vai para a mesa do brasileiro em dezembro sai principalmente do Sul, com o Paraná à frente, conforme a colheita da safra das águas avança no estado. A Conab, porém, aponta previsão de produção paranaense abaixo da safra 2025/26. Em outubro o preço da batata caiu 12% na Ceasa de Curitiba e mais de 20% na Ceagesp, com melhor oferta no Sudeste.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Prohort, Resumo Executivo Semanal nº 41 (04/11/2026), dados de 27 Ceasas"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Porto Alegre, onde nasceu o 20 de Novembro, faz sua Semana da Consciência Negra",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 600,
+  "descricao": "O Largo Zumbi dos Palmares, na Cidade Baixa, é o palco tradicional da Semana Municipal da Consciência Negra de Porto Alegre, que termina no dia 20 com desfile de moda afro, samba, hip hop e shows até a noite. A cidade tem um laço especial com a data: foi em Porto Alegre, em 1971, que o Grupo Palmares, do poeta Oliveira Silveira, propôs lembrar a morte de Zumbi em 20 de novembro no lugar do 13 de maio, ideia que o movimento negro levou ao país inteiro. Em 2025 a semana chegou à 35ª edição; a programação de 2026 ainda pode mudar.",
+  "confianca": "confirmar",
+  "fonte": "Prefeitura de Porto Alegre (SMIDH), 35ª Semana Municipal da Consciência Negra (13/11/2025)"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Natal Luz em cartaz em Gramado",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 180,
+  "descricao": "Gramado, na Serra Gaúcha, está iluminada para o Natal Luz, que neste ano tem 41ª edição e 88 dias de programação, de 22 de outubro de 2026 a 17 de janeiro de 2027. O Grande Desfile de Natal, com carros alegóricos e personagens, é apresentado no pavilhão coberto da Expogramado, e o Nativitaten, espetáculo tradicional, passou para o Serra Park, com palco novo. As novidades são O Brilho do Natal e o Natal Luz in Concert, com a Orquestra Sinfônica de Gramado, no Palácio dos Festivais. Os dias de cada espetáculo seguem o calendário oficial do evento.",
+  "confianca": "agenda",
+  "fonte": "Pontos pra Voar, Natal Luz de Gramado: novas atrações em edição de 88 dias (08/10/2026)"
+ }
+]
