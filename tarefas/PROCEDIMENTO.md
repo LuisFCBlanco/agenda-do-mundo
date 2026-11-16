@@ -1,6 +1,6 @@
 # Procedimento das tarefas semanais
 
-Cada tarefa agendada recebe no prompt qual arquivo de tarefa seguir (`nacional.md`, `natureza.md`, `regional.md` ou `culturas.md`) e, quando for o caso, quais regiões.
+Cada tarefa agendada recebe no prompt qual arquivo de tarefa seguir (`nacional.md`, `natureza.md`, `regional.md`, `culturas.md` ou `atualidade.md`) e, quando for o caso, quais regiões.
 
 1. Anexe o repositório com a ferramenta add_repo (owner `LuisFCBlanco`, repo `agenda-do-mundo`, access `push`) e clone como ela indicar.
 2. Leia `tarefas/REGRAS.md` e o arquivo da sua tarefa.

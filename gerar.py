@@ -609,7 +609,7 @@ def area_saude(reg):
 FALHAS_HOST = {}  # disjuntor: host que falhou 3 vezes seguidas não é mais tentado nesta execução
 
 
-def busca_json(url, headers=None):
+def busca_json(url, headers=None, texto=False):
     """Busca JSON com até 3 tentativas. Um host que falha 3 buscas seguidas é abandonado até a próxima execução,
     para uma fonte fora do ar não segurar a geração de todas as cidades."""
     import time
@@ -620,7 +620,8 @@ def busca_json(url, headers=None):
     for tentativa in range(3):
         try:
             with urllib.request.urlopen(req, timeout=30) as r:
-                dados = json.loads(r.read().decode("utf-8"))
+                dados = r.read().decode("utf-8", "replace")
+                dados = dados if texto else json.loads(dados)
             FALHAS_HOST[host] = 0
             return dados
         except (urllib.error.URLError, TimeoutError, ConnectionError) as ex:
@@ -902,6 +903,94 @@ def area_lancamentos(reg):
     return out
 
 
+# ---------------------------------------------------------------- Wikipédia, NASA e ONS (dados, sem IA)
+def area_nestedia(reg):
+    out = []
+    for i in range(0, 8):
+        d = HOJE + timedelta(days=i)
+        j = busca_json(f"https://api.wikimedia.org/feed/v1/wikipedia/pt/onthisday/selected/{d:%m}/{d:%d}")
+        itens = [x for x in j.get("selected", []) if x.get("text") and x.get("year")][:4]
+        if not itens:
+            continue
+        linhas = []
+        for x in itens:
+            pg = (x.get("pages") or [{}])[0]
+            link = ((pg.get("content_urls") or {}).get("desktop") or {}).get("page", "")
+            linhas.append(f"{x['year']}: {x['text']}" + (f"\n{link}" if link else ""))
+        out.append(ev(f"nestedia-{d:%Y%m%d}", f"Neste dia: {itens[0]['year']}, {itens[0]['text'][:80]}", d, dia_todo=True, descricao=
+                      "\n\n".join(linhas) + "\n\nSeleção de efemérides da Wikipédia em português para esta data. Texto de colaboradores voluntários; os links levam aos artigos, que citam as fontes.\n\nBase: Wikipédia, licença CC BY-SA 4.0."))
+    return out
+
+
+EONET = {"volcanoes": "Vulcão", "severeStorms": "Tempestade", "floods": "Enchente", "drought": "Seca", "landslides": "Deslizamento",
+         "tempExtremes": "Temperatura extrema", "dustHaze": "Poeira e névoa", "wildfires": "Incêndio florestal", "seaLakeIce": "Gelo no mar"}
+EONET_TXT = {"volcanoes": "Vulcões entram em erupção quando o magma, mais leve que a rocha em volta, sobe e o gás dissolvido nele se expande perto da superfície.",
+             "severeStorms": "Ciclones tropicais tiram energia da água do mar acima de 26 °C: o vapor sobe, condensa e libera calor, que alimenta o giro.",
+             "wildfires": "Fogo em vegetação depende de três coisas juntas: material seco, calor e vento. Na estação seca, as três se encontram.",
+             "floods": "Enchentes acontecem quando chove mais do que o solo absorve e o rio escoa; solo já encharcado ou impermeabilizado piora.",
+             "seaLakeIce": "Icebergs se soltam das plataformas de gelo e derivam com as correntes; os maiores são seguidos por satélite durante anos."}
+
+
+def area_naturais(reg):
+    j = busca_json("https://eonet.gsfc.nasa.gov/api/v3/events?status=open&days=10&limit=300")
+    out = []
+    for x in j.get("events", []):
+        cat = ((x.get("categories") or [{}])[0]).get("id", "")
+        geo = (x.get("geometry") or [])
+        if cat not in EONET or cat == "earthquakes" or not geo:
+            continue
+        g = geo[-1]
+        c = g.get("coordinates") or []
+        while c and isinstance(c[0], list):
+            c = c[0]
+        if len(c) < 2:
+            continue
+        lon, lat = c[0], c[1]
+        if cat == "wildfires" and not (-60 < lat < 15 and -85 < lon < -30):
+            continue  # incêndios são centenas por semana: só os da América do Sul
+        try:
+            d = datetime.fromisoformat(g["date"].replace("Z", "+00:00")).astimezone(ZoneInfo(FUSO_BR)).date()
+        except (KeyError, ValueError):
+            continue
+        fonte = "; ".join(sorted({f.get("id", "") for f in x.get("sources", [])})) or "NASA"
+        link = ((x.get("sources") or [{}])[0]).get("url", "")
+        out.append(ev(f"eonet-{x['id']}", f"{EONET[cat]}: {x.get('title', '')}", d, dia_todo=True, descricao=
+                      f"Evento em andamento acompanhado por satélite, perto de {abs(lat):.1f}° {'S' if lat < 0 else 'N'}, {abs(lon):.1f}° {'O' if lon < 0 else 'L'}. Última atualização em {d:%d/%m}.\n\n"
+                      f"{EONET_TXT.get(cat, '')}\n{link}\n\nBase: NASA EONET (Earth Observatory Natural Event Tracker); fontes originais: {fonte}."))
+    return out[:60]
+
+
+def area_reservatorios(reg):
+    import csv, io
+    linhas = []
+    for ano in (HOJE.year - 1, HOJE.year) if HOJE.timetuple().tm_yday < 10 else (HOJE.year,):
+        t = busca_json(f"https://ons-aws-prod-opendata.s3.amazonaws.com/dataset/ear_subsistema_di/EAR_DIARIO_SUBSISTEMA_{ano}.csv", texto=True)
+        linhas += list(csv.DictReader(io.StringIO(t), delimiter=";"))
+    serie = {}
+    for l in linhas:
+        try:
+            serie.setdefault(l["ear_data"][:10], {})[l["nom_subsistema"].strip().title()] = float(str(l["ear_verif_subsistema_percentual"]).replace(",", "."))
+        except (KeyError, ValueError):
+            continue
+    if not serie:
+        raise RuntimeError("ONS: arquivo sem linhas no formato esperado")
+    dias_ = sorted(serie)
+    ult = dias_[-1]
+    ant = dias_[-8] if len(dias_) > 7 else dias_[0]
+    d = date.fromisoformat(ult)
+    ordem = sorted(serie[ult], key=lambda k: (0 if k.lower().startswith("sudeste") else 1, k))
+    partes = []
+    for k in ordem:
+        dif = serie[ult][k] - serie.get(ant, {}).get(k, serie[ult][k])
+        partes.append(f"{k}: {br(serie[ult][k], 1)}% ({'+' if dif >= 0 else '−'}{br(abs(dif), 1)} pontos em 7 dias)")
+    principal = ordem[0]
+    return [ev(f"ons-ear-{ult}", f"Reservatórios: {principal} em {br(serie[ult][principal], 1)}%", d, dia_todo=True, descricao=
+               f"Energia armazenada nos reservatórios das hidrelétricas em {d:%d/%m}, por subsistema:\n" + "\n".join(partes) +
+               "\n\nO número é a energia que a água guardada ainda pode gerar, em porcentagem do máximo. O Sudeste/Centro-Oeste concentra a maior parte da capacidade do país; "
+               "quando ele cai, o sistema liga mais térmicas, que custam mais, e é isso que acende as bandeiras tarifárias na conta de luz.\n\n"
+               "Base: ONS, Dados Abertos, energia armazenada diária por subsistema.")]
+
+
 # ---------------------------------------------------------------- textos escritos pelo Claude (tarefas semanais)
 SELO = {"sazonal": "", "agenda": "", "confirmar": "Data provável: confira antes de contar com ela."}
 
@@ -943,8 +1032,9 @@ CALC = {"lua": area_lua, "ceu": area_ceu, "sol": area_sol, "estacoes": area_esta
         "judaico": area_judaico, "islamico": area_islamico, "chines": area_chines, "hindu": area_hindu,
         "vedico": area_vedico, "ayurveda": area_ayurveda, "saude": area_saude,
         "economia": area_economia, "investidor": area_investidor, "clima": area_clima, "ar": area_ar, "aves": area_aves,
-        "liturgia": area_liturgia, "terremotos": area_terremotos, "lancamentos": area_lancamentos}
-AO_VIVO = {"economia", "investidor", "clima", "ar", "aves", "terremotos", "lancamentos"}  # acumulam histórico e mantêm o anterior se a fonte cair
+        "liturgia": area_liturgia, "terremotos": area_terremotos, "lancamentos": area_lancamentos,
+        "nestedia": area_nestedia, "naturais": area_naturais, "reservatorios": area_reservatorios}
+AO_VIVO = {"economia", "investidor", "clima", "ar", "aves", "terremotos", "lancamentos", "nestedia", "naturais", "reservatorios"}  # acumulam histórico e mantêm o anterior se a fonte cair
 
 
 # ---------------------------------------------------------------- saída

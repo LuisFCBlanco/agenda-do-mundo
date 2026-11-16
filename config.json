@@ -1237,6 +1237,16 @@
       "alcance": "mundo"
     },
     {
+      "id": "naturais",
+      "nome": "Eventos naturais em andamento",
+      "grupo": "Natureza",
+      "escopo": "nacional",
+      "alcance": "mundo",
+      "emoji": "🌪️",
+      "fonte": "NASA EONET",
+      "resumo": "Vulcões, ciclones, enchentes e secas acompanhados por satélite no mundo, e os incêndios da América do Sul."
+    },
+    {
       "id": "materiais",
       "nome": "Materiais e siderurgia",
       "grupo": "Ciência e tecnologia",
@@ -1335,6 +1345,16 @@
       "resumo": "Reservatórios, bandeira tarifária e carga do sistema elétrico, com dado oficial.",
       "emoji": "💧",
       "alcance": "brasil"
+    },
+    {
+      "id": "reservatorios",
+      "nome": "Reservatórios",
+      "grupo": "Economia e trabalho",
+      "escopo": "nacional",
+      "alcance": "brasil",
+      "emoji": "🚰",
+      "fonte": "ONS, Dados Abertos",
+      "resumo": "O nível dos reservatórios das hidrelétricas, todo dia, por subsistema, e quanto mudou na semana."
     },
     {
       "id": "feriados",
@@ -1445,6 +1465,16 @@
       "resumo": "Um fato por dia de ciência, técnica, astronomia, línguas e cultura.",
       "emoji": "📜",
       "alcance": "mundo"
+    },
+    {
+      "id": "nestedia",
+      "nome": "Neste dia, pela Wikipédia",
+      "grupo": "Artes, lazer e história",
+      "escopo": "nacional",
+      "alcance": "mundo",
+      "emoji": "📖",
+      "fonte": "Wikipédia em português",
+      "resumo": "As efemérides de cada dia, com link para os artigos."
     },
     {
       "id": "dias",
