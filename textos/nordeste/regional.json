@@ -1,1 +1,82 @@
-[]
+[
+ {
+  "area": "campo",
+  "titulo": "Cajueiros carregados no litoral do Ceará e do Piauí",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Debaixo dos cajueiros do litoral cearense o chão fica coberto de caju vermelho e amarelo, e as famílias saem cedo para catar a castanha antes do sol forte. O segundo semestre é a safra do caju no Nordeste: o cajueiro floresce na estiagem, depois da chamada chuva do caju, entre agosto e setembro, e o fruto amadurece justamente nos meses mais secos, quando quase nada mais produz no sertão e no litoral. O que se colhe é a castanha, o fruto de verdade; o caju, pedúnculo carnoso, vira suco, doce e cajuína, e boa parte ainda se perde no chão. O Ceará responde por cerca de seis de cada dez castanhas de caju produzidas no Brasil, pelos dados do IBGE.",
+  "confianca": "sazonal",
+  "fonte": "O Povo, Na safra do caju (25/09/2026); IBGE, Produção Agrícola Municipal, em Diário do Nordeste, coluna de Allisson Martins"
+ },
+ {
+  "area": "campo",
+  "titulo": "Manga do Vale do São Francisco no auge da exportação",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nos packing houses de Petrolina e Juazeiro, esteiras de manga palmer e tommy correm dia e noite para encher contêineres refrigerados. Quase metade da manga que o Brasil exporta no ano sai entre setembro e novembro, segundo o Comex Stat: é a época em que os concorrentes do hemisfério norte estão fora do mercado, e o Vale, com sol o ano todo e água do rio, consegue programar a florada por irrigação para colher exatamente nessa janela. Para a temporada de 2026 a Valexport anunciou 46 mil toneladas para os Estados Unidos, cerca de 20% acima da base de 38 mil. A região colheu 1,29 milhão de toneladas em 2025, em 46,4 mil hectares, pelos dados do IBGE trabalhados pela Embrapa.",
+  "confianca": "sazonal",
+  "fonte": "Valexport (Caio Coelho) e Embrapa Semiárido (João Ricardo de Lima, Observatório de Mercado de Manga, com dados do IBGE e Comex Stat), em Movimento Econômico (28/10/2026)"
+ },
+ {
+  "area": "campo",
+  "titulo": "Soja avança na Bahia e no Maranhão; no Piauí, falta umidade",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "No oeste da Bahia e no sul do Maranhão as plantadeiras seguem rodando; no cerrado do Piauí, a semeadura está quase parada à espera de chuva. O boletim da Conab de 9 de novembro mostra o Matopiba em ritmos diferentes: na Bahia o plantio avança, mas com falhas de germinação em alguns talhões; no Maranhão anda pelo Sul, pelos Gerais de Balsas e pela Chapada das Mangabeiras, de forma irregular; no Piauí, a falta de umidade no solo segura as máquinas. Semente plantada em terra seca não germina por igual, e o produtor prefere esperar a correr o risco de replantar.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Progresso de Safra e Monitoramento das Condições das Lavouras, boletim de 09/11/2026"
+ },
+ {
+  "area": "campo",
+  "titulo": "Melancia barata e mamão caro nas Ceasas do Nordeste",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas Ceasas de Salvador e São Luís a melancia está entre as frutas mais em conta da banca: em outubro o preço caiu 23% em Salvador e 31% em São Luís em relação a setembro, com a colheita avançando no sul da Bahia. O mamão formosa vai na direção contrária, porque a oferta do sul da Bahia e do norte do Espírito Santo está restrita, e o preço subiu na maioria das centrais do país. A Conab espera melancia de boa qualidade da Bahia em novembro, sem disparada de preço mesmo com a procura de fim de ano, e alívio no mamão nas próximas semanas, conforme as colheitas crescerem.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Prohort, Resumo Executivo Semanal nº 41 (04/11/2026), dados de 27 Ceasas"
+ },
+ {
+  "area": "campo",
+  "titulo": "Milho e feijão vão para a terra na Bahia com a chuva",
+  "data": "2026-11-24",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Com a chuva de novembro, os produtores baianos começaram a plantar o milho de verão em todas as regiões do estado, e o feijão de primeira safra se beneficia da umidade, segundo a Conab. No Maranhão o plantio do milho começa neste mês, enquanto o arroz irrigado vai bem e já tem colheita em alguns pontos. O milho e o feijão das águas dependem da chuva que cai entre novembro e março; plantar no começo da estação dá à lavoura o maior número de semanas úmidas até o florescimento, a fase em que a falta de água mais derruba a produção.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Progresso de Safra e Monitoramento das Condições das Lavouras, boletim de 09/11/2026"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Subida da Serra da Barriga no Dia de Zumbi",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 480,
+  "descricao": "Em União dos Palmares, Alagoas, gente de todo o país sobe a Serra da Barriga, onde ficava a capital do Quilombo dos Palmares, o maior refúgio de pessoas escravizadas das Américas, que resistiu por quase um século. Zumbi, seu último líder, foi morto em 20 de novembro de 1695, e a data, lembrada pelo movimento negro desde os anos 1970, é feriado nacional desde a Lei 14.759, de 2023. No Parque Memorial Quilombo dos Palmares, no alto da serra, a Fundação Cultural Palmares programou atividades culturais e institucionais para o dia.",
+  "confianca": "agenda",
+  "fonte": "Fundação Cultural Palmares, programação do Novembro Negro, em Agência Gov (03/11/2026)"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Natal celebra Nossa Senhora da Apresentação, sua padroeira",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 240,
+  "descricao": "Em Natal o dia 21 de novembro é feriado municipal e termina com procissão pelas ruas do centro, encerrando nove noites de novena na Catedral Metropolitana. A devoção nasce de uma história contada há mais de 270 anos: em 21 de novembro de 1753, pescadores encontraram nas pedras do Rio Potengi um caixote com uma imagem de Nossa Senhora, que passou a ser venerada como a Apresentação, festa católica do mesmo dia. Por isso há também procissão fluvial no Potengi, de madrugada. Em 2025 a procissão de encerramento saiu às 16h; o horário de 2026 deve seguir a programação da arquidiocese.",
+  "confianca": "agenda",
+  "fonte": "Agora RN, programação da Festa da Padroeira de Natal (11/11/2025); calendário litúrgico (Apresentação de Nossa Senhora, 21 de novembro)"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Literatura e cinema negro em Maceió",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 240,
+  "descricao": "Um dia depois da subida da Serra da Barriga, a programação do Novembro Negro desce para Maceió com encontros de literatura negra, com escritoras e escritores, e uma mostra de cinema negro, organizados pela Fundação Cultural Palmares. É o fecho alagoano de uma semana que inclui ainda, de 18 a 21 de novembro, o 1º Encontro Nacional de Educação Antirracista no Sistema Prisional.",
+  "confianca": "agenda",
+  "fonte": "Fundação Cultural Palmares, programação do Novembro Negro, em Agência Gov (03/11/2026)"
+ }
+]
