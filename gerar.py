@@ -336,7 +336,7 @@ def area_sol(reg):
         else:
             frases.append(f"Dia de {h}h{m:02d}")
         sub = x["dec"]
-        if abs(sub - lat) < 0.35:
+        if ont and (sub - lat) * (ont["dec"] - lat) <= 0:  # a declinação do Sol cruzou a latitude da cidade desde ontem
             frases.append(f"Ao meio-dia solar ({hm(tr)}) o Sol passa a pino sobre {reg['nome']}: um poste não faz sombra nenhuma. Isso só acontece entre os trópicos, duas vezes por ano")
         else:
             sombra = 100 / math.tan(math.radians(x["alt"]))
