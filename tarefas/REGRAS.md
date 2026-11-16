@@ -15,6 +15,17 @@ Cada arquivo é uma lista JSON. Cada item:
 - `confianca`: `sazonal` para o que é típico da época e da região; `agenda` para data fixa e certa (efeméride com ano, feriado, jogo confirmado na tabela oficial); `confirmar` para data provável que ainda pode mudar.
 - Antes do commit, rode `python3 validar.py <arquivo>` e corrija até sair `ok`.
 
+## Em que dia o evento entra
+
+- **O que tem data marcada no futuro** (jogo, estreia, divulgação, lançamento, festa, efeméride) entra no dia em que acontece.
+- **O que já aconteceu** (cotação fechada, descoberta publicada, decisão tomada, venda de empresa) entra no dia em que aconteceu, mesmo que seja antes de hoje, desde que nos últimos 7 dias. Nunca ponha um fato passado num dia futuro: quem abre a agenda na quinta não pode ler como novidade um número da semana retrasada.
+- Fato com mais de 7 dias só entra se for o dado mais recente que existe (boletim mensal, por exemplo), e o título diz de quando é.
+- **Natureza e safra** (confiança `sazonal`) continuam espalhadas pelos 8 dias à frente.
+
+## Cobertura
+
+Cada área tem uma quantidade pedida no arquivo da tarefa. Se entregar menos, o resumo final diz qual área ficou abaixo e por quê (não achou fonte, bateu o teto). Área vazia sem explicação é erro.
+
 ## Como escrever
 
 1. **A cena abre o evento.** A primeira frase descreve o que uma pessoa vê, ouve ou encontra naquele dia naquela região, em linguagem de rua: a lâmpada cheia de bicho de asa, o canto antes de o sol nascer, o preço do tomate na banca. Tem que ser verdade para aquele dia e lugar. Se não existe cena observável, abra pelo fato.
