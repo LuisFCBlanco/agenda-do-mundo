@@ -208,5 +208,55 @@
   "descricao": "Em 21 de novembro de 1969 ficou no ar, de vez, a linha entre um computador da Universidade da Califórnia em Los Angeles e outro do Instituto de Pesquisa de Stanford. Era o primeiro enlace fixo da ARPANET, três semanas depois da primeira mensagem de teste. No começo de dezembro a rede tinha quatro pontos, com Santa Barbara e Utah. A novidade estava no jeito de mandar a informação: em vez de reservar um fio inteiro para cada conversa, como no telefone, a mensagem era picada em pacotes que viajavam cada um pelo caminho livre e se remontavam na chegada. A internet de hoje funciona pelo mesmo princípio.",
   "confianca": "agenda",
   "fonte": "Computer History Museum, Internet History 1962 to 1992; UCLA, registro do IMP de Leonard Kleinrock, 1969"
+ },
+ {
+  "area": "musica",
+  "titulo": "Villa-Lobos, 67 anos sem ele",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Heitor Villa-Lobos morreu no Rio de Janeiro em 17 de novembro de 1959, aos 72 anos. Deixou cerca de mil obras e um jeito de juntar o que parecia separado: aprendeu violão com os chorões das ruas do Rio, viajou pelo interior do Brasil ouvindo cantigas, e levou tudo para a orquestra. Nas nove Bachianas Brasileiras, pôs melodia brasileira sobre a arquitetura de Bach. O Trenzinho do Caipira, final da segunda, imita com cordas e percussão uma locomotiva pegando velocidade. Os Choros, a série para violão e os quartetos de cordas seguem no repertório de orquestras e violonistas do mundo todo. O museu que guarda seu acervo fica em Botafogo, no Rio.",
+  "confianca": "agenda",
+  "fonte": "Museu Villa-Lobos (Ibram, Rio de Janeiro), cronologia e catálogo de obras"
+ },
+ {
+  "area": "musica",
+  "titulo": "Tambores na véspera da Consciência Negra, no Rio",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "O Teatro Nelson Rodrigues, no centro do Rio de Janeiro, recebe nesta quinta o Festival Repique do Tambor, com a bateria da Estação Primeira de Mangueira, o bloco afro Ilê Aiyê, de Salvador, Bixiga 70, Majur, Virgínia Rodrigues, Afrojazz e Agnes Nunes. No dia seguinte, 20 de novembro, o Brasil lembra a morte de Zumbi dos Palmares, em 1695, feriado nacional desde 2024. O Ilê Aiyê, fundado em 1974 no bairro da Liberdade, foi o primeiro bloco afro do carnaval baiano, e abriu caminho para os que vieram depois.",
+  "confianca": "confirmar",
+  "fonte": "Mapa dos Festivais, 54 festivais para ir em novembro de 2026; Lei 14.759/2023 (feriado de 20 de novembro)"
+ },
+ {
+  "area": "musica",
+  "titulo": "Eddie Vedder e Roger Daltrey no Ibirapuera",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 240,
+  "descricao": "De sexta a domingo, o Parque Ibirapuera, em São Paulo, vira palco do Best of Blues and Rock. Na sexta e no domingo fecha a noite Eddie Vedder, a voz do Pearl Jam, com Glen Hansard e Samuel Rosa na mesma escalação. No sábado é a vez de Roger Daltrey, do The Who, ao lado de Chris Isaak e de Christone Kingfish Ingram, guitarrista do Mississippi nascido em 1999 e criado em Clarksdale, a cidade onde o blues do delta tomou forma. A organização ainda atualiza horários e pode acrescentar nomes.",
+  "confianca": "confirmar",
+  "fonte": "Mapa dos Festivais, página do Best of Blues and Rock 2026, consultada em 16/11/2026"
+ },
+ {
+  "area": "musica",
+  "titulo": "Discos da sexta: Oxygène faz 50 anos",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Sexta é o dia em que o mundo inteiro recebe disco novo ao mesmo tempo, costume fixado pela indústria em 2015. Nesta, sai a edição de 50 anos de Oxygène, do francês Jean-Michel Jarre, gravado em 1976 num estúdio caseiro em Paris com sintetizadores analógicos e que mostrou que música eletrônica instrumental podia vender milhões. Também chegam Live in Mexico City, do Rammstein, Lucro Sucio; Unfinished Business, do The Mars Volta, Crown in the Grave, do Trivium, OTIS, do rapper Conway the Machine, e as edições de 25 anos de Reveal, do R.E.M., e de The Look of Love, de Diana Krall.",
+  "confianca": "confirmar",
+  "fonte": "Consequence, 2026 Albums: New and Upcoming Music Releases, calendário de 20/11/2026; IFPI, 2015, adoção da sexta como dia global de lançamentos"
+ },
+ {
+  "area": "musica",
+  "titulo": "Santa Cecília, o dia de quem toca",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Missa com coral e orquestra, banda na praça, roda de choro: 22 de novembro é o dia de Santa Cecília no calendário católico, e por causa dela é o Dia do Músico no Brasil e em boa parte do mundo. Cecília foi uma mártir romana dos primeiros séculos. A tradição conta que, durante a festa do próprio casamento, enquanto os instrumentos tocavam, ela cantava a Deus em silêncio, no coração. Daí veio o patronato, firmado no fim da Idade Média, quando ela passou a ser pintada com um pequeno órgão nas mãos. Purcell, Händel e Britten (que nasceu justamente num 22 de novembro, em 1913) escreveram obras para a data.",
+  "confianca": "agenda",
+  "fonte": "Martirológio Romano, 22 de novembro; Britten, B., 1942, Hymn to St Cecilia, op. 27"
  }
 ]
