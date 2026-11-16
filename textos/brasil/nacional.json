@@ -1,1 +1,422 @@
-[]
+[
+ {
+  "area": "historia",
+  "titulo": "Canal de Suez é inaugurado (1869)",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em 17 de novembro de 1869, uma fila de navios liderada pelo iate imperial francês L'Aigle entrou no canal que liga o Mediterrâneo ao Mar Vermelho. Foram dez anos de escavação no deserto egípcio, sem eclusas, porque os dois mares estão praticamente no mesmo nível. A viagem da Europa à Índia deixou de contornar a África e encolheu milhares de quilômetros, mudando o comércio mundial e a geopolítica do Oriente Médio.",
+  "confianca": "agenda",
+  "fonte": "Suez Canal Authority, história do canal; Encyclopaedia Britannica, verbete Suez Canal"
+ },
+ {
+  "area": "historia",
+  "titulo": "O dia dos dois meios-dias: nascem os fusos horários (1883)",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em 18 de novembro de 1883, muitos relógios de cidades americanas marcaram meio-dia duas vezes. As ferrovias dos Estados Unidos e do Canadá abandonaram as dezenas de horas locais, cada cidade com o seu sol, e adotaram quatro fusos padronizados. O problema era prático: com trens cada vez mais rápidos, uma tabela de horários com hora local de cada estação virava um quebra-cabeça e causava acidentes. Um ano depois, a Conferência Internacional do Meridiano escolheu Greenwich como referência mundial.",
+  "confianca": "agenda",
+  "fonte": "Library of Congress, Today in History, 18 de novembro; Smithsonian National Museum of American History"
+ },
+ {
+  "area": "historia",
+  "titulo": "Apollo 12 pousa no Oceano das Tempestades (1969)",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Quatro meses depois da Apollo 11, Pete Conrad e Alan Bean desceram o módulo Intrepid na Lua em 19 de novembro de 1969, a poucas centenas de metros da sonda Surveyor 3, que estava lá desde 1967. O pouso de precisão provou que a NASA sabia escolher o ponto exato de descida. Os astronautas trouxeram peças da Surveyor de volta à Terra para estudar o que dois anos e meio de vácuo, radiação e variações de temperatura fazem com os materiais.",
+  "confianca": "agenda",
+  "fonte": "NASA, Apollo 12 Mission Overview"
+ },
+ {
+  "area": "historia",
+  "titulo": "Zarya, a primeira peça da Estação Espacial Internacional (1998)",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Quem vê hoje a Estação Espacial Internacional cruzar o céu como um ponto brilhante está olhando para algo que começou em 20 de novembro de 1998, quando um foguete Proton levou o módulo russo Zarya de Baikonur à órbita. Sozinho, ele fornecia energia e propulsão; duas semanas depois, o ônibus espacial Endeavour acoplou o módulo americano Unity. Desde novembro de 2000, a estação nunca ficou sem tripulação.",
+  "confianca": "agenda",
+  "fonte": "NASA, International Space Station Assembly, Zarya Control Module"
+ },
+ {
+  "area": "historia",
+  "titulo": "Primeiro voo tripulado em balão de ar quente (1783)",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em 21 de novembro de 1783, Pilâtre de Rozier e o marquês d'Arlandes subiram dos jardins do Château de la Muette, em Paris, num balão de papel e tecido construído pelos irmãos Montgolfier. Voaram cerca de 25 minutos e pousaram a uns 9 km dali, alimentando o fogo com palha durante o trajeto. O princípio é o mesmo de qualquer balão de hoje: o ar aquecido fica menos denso que o ar em volta e empurra o envelope para cima.",
+  "confianca": "agenda",
+  "fonte": "Smithsonian National Air and Space Museum, The Montgolfier Brothers; Encyclopaedia Britannica, verbete Montgolfier"
+ },
+ {
+  "area": "historia",
+  "titulo": "Concorde começa a voar para Nova York (1977)",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em 22 de novembro de 1977, a British Airways e a Air France inauguraram a rota supersônica entre a Europa e o aeroporto JFK, em Nova York, depois de meses de disputa judicial por causa do barulho. O Concorde cruzava o Atlântico a duas vezes a velocidade do som em cerca de três horas e meia, voando tão alto que os passageiros viam a curvatura da Terra. O custo do combustível e o estrondo sônico limitaram o avião a poucas rotas, e ele foi aposentado em 2003.",
+  "confianca": "agenda",
+  "fonte": "British Airways Heritage Collection, Concorde; Encyclopaedia Britannica, verbete Concorde"
+ },
+ {
+  "area": "historia",
+  "titulo": "A primeira máquina de música a moeda (1889)",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em 23 de novembro de 1889, no Palais Royale Saloon, em San Francisco, Louis Glass instalou um fonógrafo de cilindro Edison dentro de um armário de carvalho com quatro tubos de escuta. Uma moeda de níquel tocava uma gravação. Era o avô da jukebox: a música gravada passava a ser vendida por faixa, num bar, muito antes do rádio e do streaming.",
+  "confianca": "agenda",
+  "fonte": "Library of Congress, Inventing Entertainment: The Early Motion Pictures and Sound Recordings of the Edison Companies; Encyclopaedia Britannica, verbete jukebox"
+ },
+ {
+  "area": "historia",
+  "titulo": "Darwin publica A Origem das Espécies (1859)",
+  "data": "2026-11-24",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em 24 de novembro de 1859, o editor John Murray pôs à venda em Londres a primeira edição de On the Origin of Species, de Charles Darwin, com 1.250 exemplares. O livro apresentava a seleção natural: indivíduos com variações mais vantajosas deixam mais descendentes, e ao longo de muitas gerações as espécies se transformam. Darwin juntou vinte anos de observações, parte delas feitas no Brasil durante a viagem do Beagle, em 1832.",
+  "confianca": "agenda",
+  "fonte": "Darwin Correspondence Project, Universidade de Cambridge; Natural History Museum, Londres"
+ },
+ {
+  "area": "materiais",
+  "titulo": "CSN vende sua fábrica de cimento a grupo chinês",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "O saco de cimento da obra da esquina pode passar a sair de fábricas com dono chinês. A CSN oficializou em 9 de novembro a venda de 99,99% da CSN Cimentos à Huaxin Building Materials por R$ 12,74 bilhões, superando a proposta do consórcio entre Votorantim Cimentos e Cementir. A empresa vendida é a segunda maior do país, com cerca de 21% do mercado, sete fábricas, seis moagens e 17 milhões de toneladas de capacidade por ano. A CSN diz que quer reduzir a dívida, de R$ 42,1 bilhões no segundo trimestre, e se concentrar em aço, mineração e energia. O negócio ainda depende do Cade, da Aneel e de reguladores chineses.",
+  "confianca": "agenda",
+  "fonte": "Terra Brasil Notícias, 9 de novembro de 2026, com base no fato relevante da CSN"
+ },
+ {
+  "area": "materiais",
+  "titulo": "Votorantim amplia fábrica de cimento em Xambioá (TO)",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "No norte do Tocantins, a fábrica que abastece obras do próprio estado, do Pará e do Maranhão vai ganhar uma nova linha de moagem. A Votorantim Cimentos anunciou R$ 260 milhões para levar a unidade de Xambioá a 1,5 milhão de toneladas por ano, 500 mil a mais, com produção extra prevista para julho de 2028. A moagem é a etapa em que o clínquer sai do forno e é moído com gesso e adições até virar o pó cinza do saco; ampliar só essa etapa é o jeito mais rápido de aumentar a oferta regional. A empresa também moderniza o forno de clínquer.",
+  "confianca": "agenda",
+  "fonte": "Mercado Hoje (Estado de Minas), 3 de novembro de 2026"
+ },
+ {
+  "area": "materiais",
+  "titulo": "Patente do arame farpado de Glidden (1874)",
+  "data": "2026-11-24",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "A cerca de arame farpado que divide pastos no Brasil inteiro tem certidão de nascimento: em 24 de novembro de 1874, o escritório de patentes dos Estados Unidos concedeu a Joseph Glidden, fazendeiro de Illinois, a patente nº 157.124. A ideia era enrolar farpas curtas em volta de um fio de aço e travá-las torcendo um segundo fio junto. O arame barato, que dependia do aço produzido em massa pelo processo Bessemer, cercou as pradarias americanas em poucas décadas e mudou a pecuária.",
+  "confianca": "agenda",
+  "fonte": "US Patent 157,124, J. F. Glidden, 24 de novembro de 1874; Smithsonian National Museum of American History"
+ },
+ {
+  "area": "dias",
+  "titulo": "Dia Mundial da Prematuridade",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Prédios e monumentos iluminados de roxo marcam o dia de lembrar os bebês que nascem antes de 37 semanas de gestação. Segundo a Organização Mundial da Saúde, cerca de 1 em cada 10 bebês no mundo nasce prematuro, e as complicações do parto prematuro são a principal causa de morte de crianças pequenas. A data serve para divulgar o que salva vidas com pouca tecnologia, como o método canguru, o contato pele a pele com a mãe.",
+  "confianca": "agenda",
+  "fonte": "Organização Mundial da Saúde, World Prematurity Day e nota descritiva Preterm birth"
+ },
+ {
+  "area": "dias",
+  "titulo": "Semana Mundial de Conscientização sobre Resistência aos Antimicrobianos",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "De 18 a 24 de novembro, a OMS lembra que bactérias, fungos e outros micróbios estão aprendendo a sobreviver aos remédios. Cada vez que um antibiótico é usado sem necessidade, ou o tratamento é interrompido no meio, os micróbios mais resistentes sobrevivem e se multiplicam. Infecções comuns, como as urinárias, já ficam mais difíceis de tratar em várias partes do mundo.",
+  "confianca": "agenda",
+  "fonte": "Organização Mundial da Saúde, World AMR Awareness Week"
+ },
+ {
+  "area": "dias",
+  "titulo": "Dia da Bandeira",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas escolas, é dia de hastear a bandeira e cantar o hino a ela. A data lembra o Decreto nº 4, de 19 de novembro de 1889, que adotou a bandeira republicana quatro dias depois da Proclamação. O céu azul mostra as estrelas como estavam sobre o Rio de Janeiro na manhã de 15 de novembro de 1889, e o lema Ordem e Progresso vem do positivismo de Auguste Comte.",
+  "confianca": "agenda",
+  "fonte": "Decreto nº 4, de 19 de novembro de 1889; Lei nº 5.700/1971"
+ },
+ {
+  "area": "dias",
+  "titulo": "Dia Mundial do Banheiro",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "A ONU dedica um dia ao banheiro porque bilhões de pessoas ainda não têm um que funcione de forma segura. Sem esgoto tratado, fezes contaminam água e solo e espalham diarreia, cólera e verminoses, que matam sobretudo crianças. A data foi criada pela Assembleia Geral em 2013 e acompanha a meta de saneamento para todos até 2030.",
+  "confianca": "agenda",
+  "fonte": "Nações Unidas, resolução A/RES/67/291; ONU Água, World Toilet Day"
+ },
+ {
+  "area": "dias",
+  "titulo": "Dia Mundial da Filosofia",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Na terceira quinta-feira de novembro, a UNESCO convida a perguntar por quê. A data, criada em 2005, defende o ensino de filosofia como treino para pensar por conta própria, discutir ideias diferentes e conviver com elas. Em 2026, cai em 19 de novembro.",
+  "confianca": "agenda",
+  "fonte": "UNESCO, World Philosophy Day, resolução 33 C/37 (2005)"
+ },
+ {
+  "area": "dias",
+  "titulo": "Dia Nacional de Zumbi e da Consciência Negra",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Feriado nacional: comércio com horário especial, rodas de samba e capoeira, marchas e atos nas capitais. A data lembra 20 de novembro de 1695, quando Zumbi, líder do Quilombo dos Palmares, na Serra da Barriga (AL), foi morto. Palmares resistiu por quase um século à escravidão colonial. Desde a Lei 14.759, de 2023, o dia é feriado em todo o país, e o mercado financeiro doméstico funciona em ritmo reduzido.",
+  "confianca": "agenda",
+  "fonte": "Lei nº 14.759, de 21 de dezembro de 2023; Lei nº 12.519/2011; Fundação Cultural Palmares"
+ },
+ {
+  "area": "dias",
+  "titulo": "Dia Mundial da Criança",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em 20 de novembro, a ONU lembra duas datas: a Declaração dos Direitos da Criança, de 1959, e a Convenção sobre os Direitos da Criança, de 1989, o tratado de direitos humanos mais ratificado da história. O Brasil levou a Convenção para o Estatuto da Criança e do Adolescente, de 1990.",
+  "confianca": "agenda",
+  "fonte": "UNICEF e Nações Unidas, World Children's Day"
+ },
+ {
+  "area": "dias",
+  "titulo": "Dia da Industrialização da África",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Criado pela Assembleia Geral da ONU em 1989, o dia chama atenção para um continente que exporta minério, petróleo, cacau e café em estado bruto e importa os produtos prontos. Industrializar significa ficar com a parte da cadeia que gera mais emprego e renda.",
+  "confianca": "agenda",
+  "fonte": "Nações Unidas, resolução A/RES/44/237; UNIDO, Africa Industrialization Day"
+ },
+ {
+  "area": "dias",
+  "titulo": "Dia Mundial da Televisão",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "A ONU escolheu 21 de novembro porque nesse dia, em 1996, aconteceu o primeiro Fórum Mundial de Televisão. A data reconhece a TV como formadora de opinião pública e lembra o papel dela na circulação de informação, mesmo na era do streaming e das redes sociais.",
+  "confianca": "agenda",
+  "fonte": "Nações Unidas, resolução A/RES/51/205"
+ },
+ {
+  "area": "esporte",
+  "titulo": "Singapura x Brasil, último amistoso da seleção em 2026",
+  "data": "2026-11-17",
+  "hora": "07:00",
+  "duracao_min": 120,
+  "descricao": "Café da manhã com futebol: a seleção de Ancelotti fecha o ano no Estádio Nacional de Singapura, três dias depois de enfrentar o Japão no mesmo lugar. Os dois jogos fazem parte da Mizuho Blue Challenge, série de amistosos da data Fifa de novembro, e servem para testar estreantes antes da temporada de 2027.",
+  "confianca": "agenda",
+  "fonte": "CBF, programação da seleção na data Fifa de novembro; imirante.com, 9 de novembro de 2026"
+ },
+ {
+  "area": "esporte",
+  "titulo": "Brasileirão, 35ª rodada: Cruzeiro x Palmeiras e Flamengo x Athletico",
+  "data": "2026-11-18",
+  "hora": "20:30",
+  "duracao_min": 120,
+  "descricao": "Quarta à noite com a reta final do Brasileirão: às 20h30 começam ao mesmo tempo Cruzeiro x Palmeiras e Flamengo x Athletico-PR, os dois candidatos ao título jogando em paralelo. Na mesma noite tem Coritiba x Santos às 19h30, Remo x Chapecoense às 20h e, às 21h30, Corinthians x Botafogo e Grêmio x Bahia.",
+  "confianca": "agenda",
+  "fonte": "CBF, tabela detalhada das rodadas 35 e 36 do Brasileirão 2026"
+ },
+ {
+  "area": "esporte",
+  "titulo": "Brasileirão, 35ª rodada: São Paulo x Fluminense",
+  "data": "2026-11-19",
+  "hora": "21:30",
+  "duracao_min": 120,
+  "descricao": "A rodada termina na quinta com São Paulo x Fluminense às 21h30. Antes, às 19h30, jogam Vasco x Internacional e Vitória x Bragantino. Com três rodadas por fazer depois desta, cada ponto pesa na briga por vaga na Libertadores e contra o rebaixamento.",
+  "confianca": "agenda",
+  "fonte": "CBF, tabela detalhada das rodadas 35 e 36 do Brasileirão 2026"
+ },
+ {
+  "area": "esporte",
+  "titulo": "Palmeiras x Flamengo, o jogo que pode decidir o Brasileirão",
+  "data": "2026-11-21",
+  "hora": "16:30",
+  "duracao_min": 120,
+  "descricao": "No Nubank Parque, sábado à tarde, os dois times que disputavam a liderança do Brasileirão no fim de outubro se enfrentam pela 36ª rodada. A rodada segue no sábado com Bahia x Coritiba às 17h30 e Chapecoense x Cruzeiro às 21h, e se espalha até segunda, 23, com Internacional x Vitória, Botafogo x São Paulo e Santos x Grêmio.",
+  "confianca": "agenda",
+  "fonte": "CBF, tabela detalhada da 36ª rodada do Brasileirão 2026"
+ },
+ {
+  "area": "esporte",
+  "titulo": "Fórmula 1: classificação do GP de Las Vegas",
+  "data": "2026-11-21",
+  "hora": "01:00",
+  "duracao_min": 60,
+  "descricao": "Madrugada de sexta para sábado: os carros aceleram pela Strip, a avenida dos cassinos, em uma das poucas corridas noturnas do calendário. Las Vegas é a 21ª de 23 etapas da temporada, a antepenúltima antes do Catar e de Abu Dhabi.",
+  "confianca": "agenda",
+  "fonte": "FIA e Formula 1, calendário 2026; BNews São Paulo"
+ },
+ {
+  "area": "esporte",
+  "titulo": "Fórmula 1: GP de Las Vegas",
+  "data": "2026-11-22",
+  "hora": "01:00",
+  "duracao_min": 120,
+  "descricao": "Corrida na madrugada de sábado para domingo pelo horário de Brasília, com o asfalto frio do deserto em novembro desafiando os pneus. Depois de Las Vegas restam só Catar, em 29 de novembro, e Abu Dhabi, no início de dezembro.",
+  "confianca": "agenda",
+  "fonte": "FIA e Formula 1, calendário 2026; BNews São Paulo"
+ },
+ {
+  "area": "telas",
+  "titulo": "Jogos Vorazes: Amanhecer na Colheita estreia nos cinemas",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "A fila mais longa do cinema nesta quinta deve ser a de Panem. O filme volta 24 anos antes da saga de Katniss e conta a juventude de Haymitch Abernathy, o mentor bêbado dos primeiros filmes, nos 50º Jogos Vorazes, o segundo Massacre Quaternário, em que o número de tributos dobrou. É baseado no livro de Suzanne Collins de 2025, com direção de Francis Lawrence, o mesmo dos episódios anteriores.",
+  "confianca": "agenda",
+  "fonte": "Ingresso.com, lista de estreias de novembro de 2026"
+ },
+ {
+  "area": "telas",
+  "titulo": "Verão da Lata: a lenda de 1987 vira comédia policial",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Quem viveu o verão de 1987 no litoral do Rio e de São Paulo lembra das latas de maconha boiando na praia. Elas vieram do navio Solana Star, que jogou entre 13 mil e 15 mil latas ao mar antes de chegar à Baía de Guanabara, fugindo das autoridades. O filme de Santiago Dellape mistura o caso real com personagens inventados: Samantha Schmütz e Babu Santana fazem dois policiais federais atrás da carga.",
+  "confianca": "agenda",
+  "fonte": "O Liberal, setembro de 2026; Ingresso.com, estreias de novembro de 2026"
+ },
+ {
+  "area": "telas",
+  "titulo": "Querido Mundo, de Miguel Falabella, chega aos cinemas",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em preto e branco, Malu Galli e Eduardo Moscovis ficam presos entre os escombros de um prédio desabado na véspera de Ano-Novo, no Rio. Ela vive um casamento abusivo; ele acabou de se divorciar e está sem rumo. Falabella dirige com Hsu Chien a adaptação da peça que escreveu com Maria Carmem Barbosa nos anos 1990, inspirada numa notícia de jornal. O filme passou por Gramado e Tiradentes.",
+  "confianca": "agenda",
+  "fonte": "Tribuna de Minas, 28 de janeiro de 2026; Ingresso.com, estreias de novembro de 2026"
+ },
+ {
+  "area": "telas",
+  "titulo": "Malês volta às salas na semana da Consciência Negra",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Às vésperas do 20 de novembro, o filme de Antônio Pitanga sobre a Revolta dos Malês volta aos cinemas. A história acompanha dois jovens muçulmanos escravizados em Salvador que entram no levante de janeiro de 1835, a maior revolta urbana de escravizados do Brasil, organizada por africanos que liam e escreviam em árabe.",
+  "confianca": "agenda",
+  "fonte": "Ingresso.com, estreias de novembro de 2026"
+ },
+ {
+  "area": "telas",
+  "titulo": "O Projeto: documentário sobre privilégio branco no Brasil",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Também nesta quinta, o documentário O Projeto acompanha dois ativistas para discutir como o privilégio branco funciona no Brasil e fora dele. A estreia cai na semana do feriado da Consciência Negra.",
+  "confianca": "agenda",
+  "fonte": "Ingresso.com, estreias de novembro de 2026"
+ },
+ {
+  "area": "energia",
+  "titulo": "Conta de luz de novembro sem cobrança extra",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "A conta que chega neste mês vem com bandeira verde, sem acréscimo, depois de meses de bandeira amarela, que somava R$ 1,885 a cada 100 kWh. A Aneel decidiu em 30 de outubro por causa da volta das chuvas no Sul e no Sudeste, que estabilizaram os reservatórios das hidrelétricas e tornaram menos necessário ligar térmicas caras. A CCEE já via bandeira verde nos cinco cenários que simulou. Ficam no radar um possível El Niño forte até dezembro e a nova metodologia de Itaipu a partir de janeiro.",
+  "confianca": "agenda",
+  "fonte": "Aneel, decisão de 30 de outubro de 2026, conforme Times Brasil"
+ },
+ {
+  "area": "energia",
+  "titulo": "Cantareira passa da metade, mas segue em faixa de atenção",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Depois de um ano de reservatório baixo, o Cantareira chegou a 51,2% do volume útil na manhã de 31 de outubro, puxado pelas chuvas de setembro e outubro; no fim de setembro estava em 41,10%. Mesmo assim, a ANA e a SP Águas mantiveram o sistema na faixa 2, de atenção (entre 40% e 60%), durante todo novembro. Com isso a Sabesp pode retirar no máximo 31 mil litros por segundo, contra 33 mil em condição normal.",
+  "confianca": "agenda",
+  "fonte": "ANA e SP Águas, comunicado sobre a operação de novembro (Resolução Conjunta nº 925/2017), via Agência Brasil, 31 de outubro de 2026"
+ },
+ {
+  "area": "agro",
+  "titulo": "Boi gordo em recorde, e o açougue sente",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "O preço da carne no açougue acompanha uma arroba que nunca esteve tão cara. O indicador do boi gordo Cepea/Esalq fechou 10 de novembro em R$ 393,30 em São Paulo. Em outubro, o Cepea já apontava recorde acima da inflação, com alta de 17,75% em doze meses: há menos boi pronto para o abate do que os frigoríficos querem comprar, e o pecuarista consegue cobrar mais pela arroba.",
+  "confianca": "agenda",
+  "fonte": "Cepea/Esalq, indicador do boi gordo, 10 de novembro de 2026, via Brasil 61; Cepea, balanço de outubro de 2026, via Compre Rural"
+ },
+ {
+  "area": "agro",
+  "titulo": "Café arábica se mantém acima de R$ 1.600 a saca",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "O pacote de café no mercado segue caro porque a matéria-prima não cede: a saca de 60 kg do arábica fechou 10 de novembro a R$ 1.611,30 na cidade de São Paulo, alta de 0,81% no mês, segundo o indicador Cepea/Esalq. É o período em que os cafezais florescem com as chuvas da primavera, e o mercado acompanha a florada para estimar a safra de 2027.",
+  "confianca": "agenda",
+  "fonte": "Cepea/Esalq, indicador do café arábica, 10 de novembro de 2026, via Brasil 61"
+ },
+ {
+  "area": "agro",
+  "titulo": "IBGE divulga abate, leite e ovos do terceiro trimestre",
+  "data": "2026-11-19",
+  "hora": "09:00",
+  "duracao_min": 30,
+  "descricao": "Quanto boi, porco e frango o Brasil abateu entre julho e setembro, quanto leite as indústrias compraram e quantos ovos as granjas produziram: tudo sai nesta quinta, às 9h, nas pesquisas trimestrais do IBGE. É o dado que mostra se a carne mais cara vem de menos animais no abate, e se o ovo e o leite estão com oferta folgada ou apertada.",
+  "confianca": "agenda",
+  "fonte": "IBGE, Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha; agenda Safras & Mercado de 16 a 20 de novembro de 2026"
+ },
+ {
+  "area": "economia",
+  "titulo": "Dólar sobe com emprego americano forte e aposta em alta de juros nos EUA",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "O dólar fechou 6 de novembro a R$ 5,5087, o maior valor desde o fim de 2025, com alta de 1,18% na semana. O gatilho foi o payroll, o relatório de empregos dos Estados Unidos, que veio acima do esperado. Para Luca Girardi, da Nomad, o dado reforçou a expectativa de nova alta de juros pelo Fed em dezembro; juros maiores lá atraem dinheiro para títulos americanos e tiram das moedas emergentes. A cautela com a política fiscal no Brasil limitou qualquer alívio para o real.",
+  "confianca": "agenda",
+  "fonte": "Money Times, 6 de novembro de 2026"
+ },
+ {
+  "area": "investidor",
+  "titulo": "Vendas no varejo dos EUA em outubro",
+  "data": "2026-11-17",
+  "hora": "10:30",
+  "duracao_min": 30,
+  "descricao": "Às 10h30, o governo americano divulga quanto o consumidor gastou nas lojas em outubro. Com o mercado apostando em alta de juros pelo Fed em dezembro, um varejo forte reforça essa aposta e tende a fortalecer o dólar.",
+  "confianca": "agenda",
+  "fonte": "US Census Bureau, calendário de indicadores; agenda econômica Boletim Nacional, 15 de novembro de 2026"
+ },
+ {
+  "area": "investidor",
+  "titulo": "Nvidia divulga resultado do terceiro trimestre fiscal",
+  "data": "2026-11-17",
+  "hora": "19:00",
+  "duracao_min": 60,
+  "descricao": "A empresa que virou termômetro da corrida da inteligência artificial apresenta os números do terceiro trimestre do ano fiscal de 2027, com teleconferência às 17h de Nova York, 19h em Brasília. As vendas de chips para data centers indicam se as grandes empresas de tecnologia continuam investindo pesado em IA, e o resultado costuma mexer com bolsas no mundo todo.",
+  "confianca": "agenda",
+  "fonte": "NVIDIA Investor Relations, comunicado NVIDIA Sets Conference Call for Third Quarter Financial Results"
+ },
+ {
+  "area": "investidor",
+  "titulo": "Ata do Fed",
+  "data": "2026-11-18",
+  "hora": "16:00",
+  "duracao_min": 30,
+  "descricao": "Às 16h sai a ata da última reunião do comitê de política monetária do Fed, o banco central americano. O mercado vai procurar no texto sinais de quantos dirigentes defendem subir os juros em dezembro, tema que puxou o dólar para cima no começo do mês.",
+  "confianca": "agenda",
+  "fonte": "Federal Reserve, calendário do FOMC; agenda econômica Boletim Nacional, 15 de novembro de 2026"
+ },
+ {
+  "area": "investidor",
+  "titulo": "Reunião do Conselho Monetário Nacional",
+  "data": "2026-11-19",
+  "hora": "09:00",
+  "duracao_min": 30,
+  "descricao": "O CMN, formado pelo ministro da Fazenda, pela ministra do Planejamento e pelo presidente do Banco Central, se reúne às 9h. É o conselho que fixa a meta de inflação e as regras do crédito e do sistema financeiro.",
+  "confianca": "agenda",
+  "fonte": "Banco Central do Brasil; agenda econômica Boletim Nacional, 15 de novembro de 2026"
+ },
+ {
+  "area": "investidor",
+  "titulo": "Boletim Focus da semana",
+  "data": "2026-11-23",
+  "hora": "08:25",
+  "duracao_min": 30,
+  "descricao": "Toda segunda, às 8h25, o Banco Central publica o Focus com as projeções de cerca de cem instituições financeiras para inflação, Selic, dólar e PIB. É a primeira leitura da semana sobre como o mercado vê a inflação de 2026 e 2027.",
+  "confianca": "agenda",
+  "fonte": "Banco Central do Brasil, Relatório Focus"
+ }
+]
