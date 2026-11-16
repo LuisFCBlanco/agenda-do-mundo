@@ -118,5 +118,55 @@
   "descricao": "A lua cheia desta terça nasce perto do pôr do sol parecendo um pouco maior e mais clara que o normal. A órbita da Lua é uma elipse, e desta vez a fase cheia cai perto do ponto mais próximo da Terra: 360.768 quilômetros de distância. É a segunda das três superluas de 2026 (a de janeiro já passou, e a de 24 de dezembro chega mais perto ainda, a 356.740 quilômetros). No litoral, o efeito que importa é outro. Em lua cheia, Sol e Lua puxam a água do mar alinhados, e com a Lua mais perto o puxão cresce: a preamar sobe mais e a baixa-mar recua mais nos dias em volta. Quem pesca, navega ou mora em rua que alaga com maré alta deve olhar a tábua de marés do porto mais próximo.",
   "confianca": "agenda",
   "fonte": "Star Walk, Supermoon 2026, tabela de distâncias das luas cheias; BBC Sky at Night Magazine, Supermoons 2026"
+ },
+ {
+  "area": "ciencia",
+  "titulo": "CERN flagra o decaimento de uma partícula que quase nunca acontece",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Depois de 40 anos de busca, o experimento LHCb, no grande acelerador do CERN, na fronteira entre a Suíça e a França, encontrou sinal de um méson B que se desfaz em um múon e um antimúon. Acontece mais ou menos uma vez a cada 10 bilhões de decaimentos dessa partícula. O resultado, apresentado em 9 de novembro, tem significância de 3,0 sigmas com os dados de 2024 e 2025 e de 3,2 sigmas somando os de 2011 a 2018: passa da linha que os físicos chamam de evidência, mas ainda não dos 5 sigmas exigidos para dizer descoberta. Processos tão raros interessam porque qualquer partícula desconhecida que participasse deles mudaria a frequência. Por enquanto, a medida bate com o que o Modelo Padrão prevê.",
+  "confianca": "agenda",
+  "fonte": "CERN, colaboração LHCb, comunicado e seminário de 09/11/2026 (home.cern)"
+ },
+ {
+  "area": "ciencia",
+  "titulo": "Uma molécula que reorganiza o vidro por dentro",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Vidro é um sólido com os átomos fora de ordem, congelados como estavam no líquido. Químicos de Dortmund, na Alemanha, trabalham com um tipo recente, feito de redes de metal e moléculas orgânicas, que costuma estragar antes de fundir. A saída que publicaram em novembro foi misturar 1,10-fenantrolina: a molécula age como fundente, baixando a temperatura em que o material derrete, e ao mesmo tempo se prende aos átomos de cobalto, desalojando parte das ligações antigas. Cada cobalto passa a ter mais vizinhos, e isso fica gravado no vidro quando ele esfria. Mudando a dose de fenantrolina, muda-se a estrutura, e com ela as propriedades. A confirmação veio por espectroscopia de absorção de raios X.",
+  "confianca": "agenda",
+  "fonte": "Weiß, J.-B., Henke, S. e colaboradores, 2026, Flux-mediated ligand exchange restructures metal-organic framework glasses, Nature Materials, doi 10.1038/s41563-026-02712-5; TU Dortmund, 05/11/2026"
+ },
+ {
+  "area": "ciencia",
+  "titulo": "E = mc² sai impresso, 121 anos atrás",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Três páginas. Foi o que Albert Einstein, então funcionário do escritório de patentes de Berna, precisou para o artigo que a revista alemã Annalen der Physik publicou em 21 de novembro de 1905, com uma pergunta no título: a inércia de um corpo depende da energia que ele contém? A resposta era sim. Um corpo que emite luz perde massa, na proporção da energia dividida pelo quadrado da velocidade da luz. Como esse número é enorme, pouquíssima massa equivale a muita energia: é a conta por trás do brilho do Sol, que converte massa em luz o tempo todo, e das usinas nucleares. A forma famosa da equação, com a energia isolada do lado esquerdo, só apareceu depois.",
+  "confianca": "agenda",
+  "fonte": "Einstein, A., 1905, Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?, Annalen der Physik 18, p. 639 a 641"
+ },
+ {
+  "area": "ciencia",
+  "titulo": "Dia de Fibonacci: 1, 1, 2, 3",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Conte as espirais de uma pinha ou do miolo de um girassol, num sentido e no outro: quase sempre dão dois números vizinhos da sequência em que cada termo é a soma dos dois anteriores (1, 1, 2, 3, 5, 8, 13, 21...). Escrito à moda americana, mês antes do dia, 23 de novembro vira 11/23, e por isso matemáticos e professores festejam hoje. A sequência entrou na Europa em 1202, no Liber Abaci de Leonardo de Pisa, o Fibonacci, num problema sobre casais de coelhos, embora matemáticos indianos já a conhecessem séculos antes, estudando métrica de poesia. A planta não sabe fazer conta: cada folha ou semente nova nasce no maior espaço livre deixado pelas anteriores, e essa regra simples de empacotamento gera os números.",
+  "confianca": "agenda",
+  "fonte": "Fibonacci (Leonardo de Pisa), 1202, Liber Abaci, cap. 12; Singh, P., 1985, The so-called Fibonacci numbers in ancient and medieval India, Historia Mathematica 12"
+ },
+ {
+  "area": "ciencia",
+  "titulo": "O jornal conta que o universo é maior que a Via Láctea, 1924",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em 23 de novembro de 1924, o New York Times publicou uma nota curta: o astrônomo Edwin Hubble, no observatório do monte Wilson, na Califórnia, tinha confirmado que as nebulosas espirais são sistemas de estrelas como o nosso. Até ali se discutia se aquelas manchas no céu eram nuvens dentro da Via Láctea. Hubble achou em Andrômeda estrelas que pulsam, as cefeidas. Henrietta Leavitt tinha mostrado anos antes que, nesse tipo de estrela, o tempo de cada pulso entrega o brilho verdadeiro. Comparando com o brilho que chega aqui, sai a distância, e ela era grande demais para caber na nossa galáxia. O resultado formal foi lido numa reunião de astrônomos em 1º de janeiro de 1925.",
+  "confianca": "agenda",
+  "fonte": "The New York Times, 23/11/1924, Finds spiral nebulae are stellar systems; Hubble, E., 1925, Cepheids in spiral nebulae, Publications of the American Astronomical Society 5"
  }
 ]
