@@ -298,5 +298,35 @@
   "descricao": "Em 24 de novembro de 1861 nasceu em Desterro, a atual Florianópolis, João da Cruz e Sousa, filho de pais negros escravizados e depois alforriados. Criado e educado na casa do antigo senhor, aprendeu francês, latim e grego, e fez jornalismo abolicionista ainda em Santa Catarina. Em 1893 publicou no Rio de Janeiro dois livros, Missal e Broquéis, que abriram o simbolismo no Brasil: poesia feita de som, de sugestão e de uma insistência na cor branca que os críticos discutem até hoje. Morreu de tuberculose em 1898, aos 36 anos. O palácio que foi sede do governo catarinense, em Florianópolis, leva o seu nome e guarda seus restos mortais.",
   "confianca": "agenda",
   "fonte": "Academia Brasileira de Letras, biografia do patrono Cruz e Sousa; Fundação Catarinense de Cultura, Palácio Cruz e Sousa"
+ },
+ {
+  "area": "gastronomia",
+  "titulo": "Beaujolais Nouveau: o vinho que tem dia para abrir",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Na terceira quinta-feira de novembro, bares de Lyon a Tóquio abrem na mesma data as primeiras garrafas do ano: o Beaujolais Nouveau, tinto leve da uva gamay colhida há uns dois meses no leste da França. Dá para beber tão cedo porque os cachos fermentam inteiros num tanque fechado, cheio de gás carbônico. A fermentação começa dentro de cada bago, tira cor e fruta sem puxar o tanino da casca, e o vinho sai com cheiro de banana e frutas vermelhas, para tomar fresco e logo. A festa completa 75 anos em 2026. Em 2025 foram vendidos cerca de 104 mil hectolitros, perto de 13,8 milhões de garrafas, uns 21% do volume comercializado pela região, segundo a Inter Beaujolais.",
+  "confianca": "agenda",
+  "fonte": "Inter Beaujolais, dados de comercialização de 2025, citados por Lyon Capitale, Beaujolais nouveaux: le millésime 2026 sera lancé le 19 novembre"
+ },
+ {
+  "area": "gastronomia",
+  "titulo": "Peixada de tilápia no sertão dos Inhamuns",
+  "data": "2026-11-20",
+  "hora": "16:00",
+  "duracao_min": 60,
+  "descricao": "Às 16h desta sexta, no Parque de Exposições de Tauá, no sertão do Ceará, dois cozinheiros preparam diante do público a peixada de tilápia à moda da cidade. No sábado, às 18h, é a vez da buchada de tilápia, releitura de um prato que no sertão se faz com bucho de bode. A cozinha faz parte do FestBerro, feira de caprinos e ovinos que vai até 22 de novembro, com oficina de queijo artesanal, concurso de queijeiros e doce feito de queijo coalho de leite de cabra. A tilápia entra no cardápio de uma terra de bode porque os açudes do semiárido viraram criatório de peixe em tanque-rede.",
+  "confianca": "agenda",
+  "fonte": "Gastronominho, FestBerro 2026 terá festival gastronômico com peixada e buchada de tilápia em Tauá, novembro de 2026; Prefeitura de Tauá e Sebrae Ceará, programação"
+ },
+ {
+  "area": "gastronomia",
+  "titulo": "Cana-de-açúcar na mesa da serra da Meruoca",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Garapa moída na hora, rapadura, melado, cachaça de alambique: o Festival Gastronômico da Serra da Meruoca, na região de Sobral, no Ceará, escolheu a cana-de-açúcar como tema deste ano e vai de 19 a 21 de novembro. A serra é uma ilha úmida e fresca no meio do sertão, por isso guarda engenhos pequenos que seguem moendo. Rapadura é só caldo de cana fervido até o ponto e posto para endurecer na forma, sem refino, e assim conserva os minerais que o açúcar branco perde. À noite há shows de Waldonys, The Fevers e Sandamí.",
+  "confianca": "confirmar",
+  "fonte": "Sobral em Revista, Festival Gastronômico da Serra da Meruoca anuncia atrações musicais, 12/11/2026"
  }
 ]
