@@ -1,1 +1,82 @@
-[]
+[
+ {
+  "area": "campo",
+  "titulo": "Lata de açaí encarece na Feira da 25 com o fim da safra das ilhas",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Na Feira da 25, em Belém, quem bate açaí já repassa o aviso: a lata do fruto, que custava de R$ 50 a 60, passou a sair entre R$ 60 e 75, e há batedor falando em R$ 80 ou mais. É o sinal de que os cachos das ilhas em volta da capital estão acabando. A safra paraense se concentra no segundo semestre, com o auge entre outubro e novembro; quando as ilhas próximas esgotam, o fruto passa a vir do Marajó e de mais longe, com mais frete e menos oferta, e com as chuvas de dezembro começa a entressafra. Por enquanto o copo ainda não acompanhou a lata: em setembro o litro do açaí médio custava R$ 26,45 em Belém, 3,92% abaixo de setembro de 2025, enquanto o grosso, a R$ 42,50, estava 9,76% mais caro que um ano antes, acima da inflação do período.",
+  "confianca": "sazonal",
+  "fonte": "Dieese/PA, pesquisa de preços do açaí em Belém, setembro de 2026, e feirantes da Feira da 25, em O Liberal (16/10/2026); época do pico da safra: AMA Açaí, em O Liberal (11/06/2026)"
+ },
+ {
+  "area": "campo",
+  "titulo": "Soja vai para a terra no oeste do Tocantins enquanto o resto do estado espera chuva",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "No oeste e no centro-norte do Tocantins as plantadeiras estão no campo; no restante do estado, a soja ainda espera chuva firme. A Conab registrou no boletim de 9 de novembro esse avanço desigual, com o Brasil a 66,8% da área de soja semeada. A conta do produtor é de calendário: a semente só germina bem com o solo úmido em profundidade, e cada semana de atraso empurra a colheita para mais perto do fim das chuvas, o que aperta o espaço para uma segunda safra de milho depois da soja. No cerrado tocantinense as chuvas de primavera chegam de forma irregular, e por isso a semeadura anda em manchas, região por região.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Progresso de Safra e Monitoramento das Condições das Lavouras, boletim de 09/11/2026"
+ },
+ {
+  "area": "campo",
+  "titulo": "Arroz irrigado começa a ser semeado nas várzeas do Tocantins",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Com a volta da chuva, os produtores das várzeas do Tocantins começaram a semear o arroz irrigado, segundo a Conab. As planícies da bacia do Araguaia, no sudoeste do estado, são a área de arroz irrigado mais importante do Norte: a lavoura fica em tabuleiros alagados, e a lâmina de água controla ervas daninhas e protege a planta do calor. O plantio espera as chuvas porque é delas que vem a água dos rios e canais que enchem os tabuleiros. No resto do país a semeadura de arroz chegava a 63,1% da área na mesma semana.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Progresso de Safra e Monitoramento das Condições das Lavouras, boletim de 09/11/2026"
+ },
+ {
+  "area": "campo",
+  "titulo": "Araçá-boi e camu-camu chegam às feiras de Belém com as primeiras chuvas",
+  "data": "2026-11-23",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Nas bancas de fruta regional de Belém começam a aparecer o araçá-boi, amarelo e muito ácido, bom para suco e sorvete, e o camu-camu, a frutinha vermelho-escura dos igapós, campeã em vitamina C. O muruci e a sapotilha já estão na praça desde o começo da primavera. Muitas frutas amazônicas amadurecem com a estação chuvosa: o camu-camu cresce na beira de rios e lagos e frutifica quando a água sobe, e seus frutos caídos são levados pela correnteza e comidos por peixes, que espalham as sementes. Pelo calendário da professora Antônia Bronze, da Ufra, o araçá-boi fica até abril, o camu-camu até maio, e a castanha-do-pará chega em dezembro.",
+  "confianca": "sazonal",
+  "fonte": "Antônia Bronze, Universidade Federal Rural da Amazônia (Ufra), calendário de frutas regionais, em Diário do Pará (05/01/2024)"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Caminhada Macapá Negra percorre o centro da cidade",
+  "data": "2026-11-20",
+  "hora": "09:30",
+  "duracao_min": 150,
+  "descricao": "No feriado de Zumbi, um grupo sai do Mercado Central de Macapá a pé para recontar a história negra da cidade pelas ruas do centro. É um roteiro de afroturismo: passa por lugares onde a presença africana marcou o Amapá, da Fortaleza de São José, erguida no século XVIII com trabalho de africanos escravizados e indígenas, às referências do marabaixo, a dança de roda e tambor que as comunidades negras amapaenses mantêm vivas. A caminhada vai das 9h30 ao meio-dia, com ingresso pelo Sympla.",
+  "confianca": "confirmar",
+  "fonte": "Mercadizar, Agenda cultural de novembro de 2026 (Norte)"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Festival Folclórico das Araras na Vila Amazônia, em Parintins",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 180,
+  "descricao": "Do outro lado do rio, em frente à cidade de Parintins, a comunidade da Vila Amazônia faz o seu Festival Folclórico das Araras, com apresentações de cultura e arte dos moradores. Longe do bumbódromo e da festa de junho, é o folclore no tamanho de comunidade: grupos locais, toadas e danças que repetem, em escala de vila, a tradição de festivais que dá fama à região. A Vila Amazônia guarda também outra história: foi ali que imigrantes japoneses chegaram nos anos 1930 para plantar juta.",
+  "confianca": "confirmar",
+  "fonte": "Mercadizar, Agenda cultural de novembro de 2026 (Norte)"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Amajazzon leva jazz amazônico ao Theatro da Paz",
+  "data": "2026-11-21",
+  "hora": "17:00",
+  "duracao_min": 240,
+  "descricao": "O Theatro da Paz, a casa de ópera que Belém ergueu em 1878 com o dinheiro da borracha, recebe neste sábado e domingo a quarta edição do Amajazzon, o Festival Internacional de Jazz da Amazônia, com programação a partir das 17h. O festival junta músicos de fora com a cena de Belém, cidade que tem tradição de instrumentistas e de mistura de gêneros, da guitarrada ao carimbó.",
+  "confianca": "confirmar",
+  "fonte": "Mercadizar, Agenda cultural de novembro de 2026 (Norte)"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Festival de Fanfarra no aniversário de Vilhena",
+  "data": "2026-11-21",
+  "hora": null,
+  "duracao_min": 180,
+  "descricao": "As fanfarras escolares tomam Vilhena, no sul de Rondônia, no segundo dia da festa pelos 49 anos da cidade, criada em 23 de novembro de 1977. A programação, gratuita, começa no dia 20 com o acendimento das luzes de Natal e a feira Agroartes, segue com o festival de fanfarras no sábado e termina no dia 23 com festa para as famílias na Praça Genival Nunes. A fanfarra é tradição forte das escolas do interior do Norte: as bandas ensaiam o ano inteiro para os desfiles e concursos.",
+  "confianca": "confirmar",
+  "fonte": "Mercadizar, Agenda cultural de novembro de 2026 (Norte)"
+ }
+]
