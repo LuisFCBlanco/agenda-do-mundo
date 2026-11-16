@@ -1,1 +1,92 @@
-[]
+[
+ {
+  "area": "campo",
+  "titulo": "Batata mais barata na Ceagesp, mas com a casca sofrendo com a chuva",
+  "data": "2026-11-17",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Na Ceagesp, em São Paulo, a batata ficou 21% mais barata em outubro do que em setembro, e na Ceasa de Campinas a queda foi de 16%, pelos dados da Conab. A oferta melhorou no Sudeste, mas a chuva constante tem atrapalhado a qualidade: tubérculo colhido de terra encharcada vem sujo, com manchas e apodrece mais rápido na banca. Daqui até o fim do ano o abastecimento passa a vir principalmente do Sul, e o Paraná prevê uma safra menor que a de 2025/26.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Prohort, Resumo Executivo Semanal nº 41 (04/11/2026), dados de 27 Ceasas"
+ },
+ {
+  "area": "campo",
+  "titulo": "Cafezais do Sul de Minas formam o chumbinho da safra de 2027",
+  "data": "2026-11-18",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Quem passa pelos cafezais do Sul de Minas agora não vê mais a florada branca de setembro e outubro: nos galhos ficaram os chumbinhos, os frutinhos verdes e duros que vão virar o café colhido no meio de 2027. É a fase do pegamento, em que a flor fecundada precisa de chuva bem distribuída para se firmar. Uma sequência de dias quentes e secos depois da florada derruba frutos, e o Centro do Comércio de Café de Minas Gerais alertou para veranicos e calor nesta primavera. A quantidade de chumbinho segurado nos galhos agora é a primeira pista concreta do tamanho da próxima safra.",
+  "confianca": "sazonal",
+  "fonte": "Diário do Comércio, Café sem Filtro: Safra 2027 começa agora (12/09/2026), com Embrapa Café, CCCMG e Inmet"
+ },
+ {
+  "area": "campo",
+  "titulo": "Chuva atrasa a soja em São Paulo; Minas acelera o milho",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Em São Paulo a soja está atrasada: a Conab relata chuva constante e solo encharcado, onde as máquinas atolam e a semente apodrece. O milho de verão paulista vai sendo plantado aos poucos e deve se intensificar na segunda quinzena de novembro. Em Minas Gerais o quadro é outro: a soja avança, o plantio de milho acelera e o feijão das águas anda no Sul de Minas e no Noroeste do estado. No Brasil, 66,8% da área de soja estava semeada em 9 de novembro.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Progresso de Safra e Monitoramento das Condições das Lavouras, boletim de 09/11/2026"
+ },
+ {
+  "area": "campo",
+  "titulo": "Mamão formosa sobe 31% na Ceagesp",
+  "data": "2026-11-22",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "O mamão formosa ficou bem mais caro nas feiras do Sudeste: em outubro subiu 31% na Ceagesp e 30% na Ceasa do Rio de Janeiro em relação a setembro. A causa está na roça: a oferta do norte do Espírito Santo e do sul da Bahia, que abastecem o país, está restrita, e o preço subiu mesmo com procura mais fraca e alguns lotes de qualidade inferior. A Conab espera queda nas próximas semanas, conforme as colheitas aumentarem e o mamão papaya, mais barato, disputar o espaço na banca.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Prohort, Resumo Executivo Semanal nº 41 (04/11/2026), dados de 27 Ceasas"
+ },
+ {
+  "area": "campo",
+  "titulo": "Cenoura de São Gotardo segue barata e preocupa o produtor",
+  "data": "2026-11-24",
+  "hora": null,
+  "duracao_min": 30,
+  "descricao": "Na banca, a cenoura está entre as hortaliças mais em conta do momento; na roça, em Patos de Minas e São Gotardo, no Alto Paranaíba mineiro, o preço baixo preocupa. A região é a principal produtora do país e manteve boa oferta, o que derrubou as cotações de julho a outubro, depois da alta forte de março e abril. Com a umidade do solo da estação chuvosa, a qualidade da raiz também passa a variar, segundo a Conab.",
+  "confianca": "sazonal",
+  "fonte": "Conab, Prohort, Resumo Executivo Semanal nº 41 (04/11/2026)"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Festival Repique do Tambor reúne Mangueira e Ilê Aiyê no Rio",
+  "data": "2026-11-19",
+  "hora": null,
+  "duracao_min": 240,
+  "descricao": "O Teatro Nelson Rodrigues, no Centro do Rio, recebe o Festival Repique do Tambor, que junta a bateria da Estação Primeira de Mangueira, o bloco afro baiano Ilê Aiyê, a orquestra paulistana Bixiga 70 e a cantora Virgínia Rodrigues. É um encontro de tambores de tradições negras diferentes: o samba carioca, o ijexá dos blocos afro de Salvador e o afrobeat, na véspera do feriado de Zumbi.",
+  "confianca": "confirmar",
+  "fonte": "Mapa dos Festivais, 54 festivais para ir em novembro de 2026"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Festival da Consciência Negra ocupa o centro de São Paulo",
+  "data": "2026-11-20",
+  "hora": null,
+  "duracao_min": 600,
+  "descricao": "Palcos montados na Avenida São João, no Viaduto do Chá, na Praça do Patriarca e na Avenida Ipiranga transformam o centro histórico de São Paulo em festa no feriado de Zumbi. O Festival da Consciência Negra da Secretaria Municipal de Cultura vai de 14 a 21 de novembro, com os shows gratuitos concentrados na sexta, dia 20, e no sábado, 21: Seu Jorge, Os Prettos, Almir Guineto, Dudu Nobre, Carlos Dafé, Amaro Freitas, Funmilayo Afrobeat Orquestra e Samba de Dandara. É o centro que guarda boa parte da história negra paulistana, do Largo do Paiçandu, onde fica a igreja de Nossa Senhora do Rosário dos Homens Pretos, ao Bixiga.",
+  "confianca": "agenda",
+  "fonte": "Catraca Livre, Festival da Consciência Negra traz shows gratuitos ao Centro de SP (10/11/2026), programação da Secretaria Municipal de Cultura e Economia Criativa"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Cortejo de Ciata sai pela Pequena África",
+  "data": "2026-11-20",
+  "hora": "11:00",
+  "duracao_min": 120,
+  "descricao": "Na zona portuária do Rio, a Casa da Tia Ciata sai em cortejo às 11h do Centro de Artes Calouste Gulbenkian, na Rua Benedito Hipólito, abrindo o feriado de Zumbi na região conhecida como Pequena África. Tia Ciata, a baiana Hilária Batista de Almeida, foi quituteira e mãe de santo, e em sua casa na Praça Onze se reuniam os músicos que criaram o samba carioca no começo do século XX. O cortejo integra a programação do Novembro Negro das organizações culturais da Pequena África.",
+  "confianca": "agenda",
+  "fonte": "Diário do Rio, Pequena África terá oficinas, cortejos, samba e cinema durante o Novembro Negro (31/10/2026)"
+ },
+ {
+  "area": "cultura",
+  "titulo": "Oficina do Afoxé Filhos de Gandhi na Praça da Harmonia",
+  "data": "2026-11-21",
+  "hora": "16:00",
+  "duracao_min": 120,
+  "descricao": "Na Praça da Harmonia, na Gamboa, o Afoxé Filhos de Gandhi do Rio dá oficina aberta de percussão e dança afro às 16h. O afoxé é o cortejo de rua nascido nos terreiros de candomblé, tocado no ritmo ijexá, com agogôs, atabaques e xequerês; os Filhos de Gandhi cariocas desfilam desde 1951 com suas roupas brancas e azuis. A oficina faz parte da Estação Valongo, na programação do Novembro Negro da Pequena África.",
+  "confianca": "agenda",
+  "fonte": "Diário do Rio, Pequena África terá oficinas, cortejos, samba e cinema durante o Novembro Negro (31/10/2026)"
+ }
+]
